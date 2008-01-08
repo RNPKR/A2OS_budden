@@ -4486,6 +4486,7 @@ source/WMMenus.Mod -text
 source/WMMessages.Mod -text
 source/WMMixer.Mod -text
 source/WMModuleState.Mod -text
+source/WMNavigate.Mod -text
 source/WMOGGPlayer.Mod -text
 source/WMOSD.Mod -text
 source/WMOTFonts.Mod -text
