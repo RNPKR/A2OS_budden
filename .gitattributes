@@ -3759,6 +3759,7 @@ source/Hex.Mod -text
 source/Hex.Tool -text
 source/Histogram.Mod -text
 source/Histogram.Panel -text
+source/HostClipboard.Mod -text
 source/HyperDocTools.Mod -text
 source/HyperDocs.Mod -text
 source/HyperDocs.Panel -text
