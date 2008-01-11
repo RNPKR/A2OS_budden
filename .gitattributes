@@ -2818,7 +2818,6 @@ WinAos/Src/Win32.Traps.Mod -text svneol=unset#text/plain
 WinAos/Src/Win32.User32.Mod -text svneol=unset#text/plain
 WinAos/Src/Win32.V24.Mod -text svneol=unset#text/plain
 WinAos/Src/Win32.Viewers.Mod -text svneol=unset#text/plain
-WinAos/Src/Win32.WMEditors.Mod -text svneol=unset#text/plain
 WinAos/Src/Win32.WMObjectTracker.Mod -text svneol=unset#text/plain
 WinAos/Src/Win32.WMPerfMonPluginCpu.Mod -text svneol=unset#text/plain
 WinAos/Src/Win32.WMPerfMonPluginMemory.Mod -text svneol=unset#text/plain
