@@ -2802,7 +2802,6 @@ WinAos/Src/Win32.Pictures.Mod -text svneol=unset#text/plain
 WinAos/Src/Win32.PlugInDocs.Mod -text svneol=unset#text/plain
 WinAos/Src/Win32.Printer.Mod -text svneol=unset#text/plain
 WinAos/Src/Win32.PrinterInfo.Mod -text svneol=unset#text/plain
-WinAos/Src/Win32.Reals.Mod -text svneol=unset#text/plain
 WinAos/Src/Win32.Registry.Mod -text svneol=unset#text/plain
 WinAos/Src/Win32.RegistryTools.Mod -text svneol=unset#text/plain
 WinAos/Src/Win32.Rembrandt.Mod -text svneol=unset#text/plain
