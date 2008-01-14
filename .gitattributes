@@ -2742,9 +2742,6 @@ WinAos/ObjI/vyTypes.Obw -text
 WinAos/ObjI/vyXPValues.Obw -text
 WinAos/ObjI/vyXYPlane.Obw -text
 WinAos/ObjI/vyxPlots.Obw -text
-WinAos/Src/Aos.Types.Mod -text svneol=unset#text/plain
-WinAos/Src/PlugInDocs.Mod -text svneol=unset#text/plain
-WinAos/Src/PrinterInfo.Mod -text svneol=unset#text/plain
 WinAos/Src/Win32.ADVAPI32.Mod -text svneol=unset#text/plain
 WinAos/Src/Win32.Aos.Clipboard.Mod -text svneol=unset#text/plain
 WinAos/Src/Win32.Aos.FileDir.Mod -text svneol=unset#text/plain
@@ -2802,7 +2799,9 @@ WinAos/Src/Win32.Objects.Mod -text svneol=unset#text/plain
 WinAos/Src/Win32.PELinker.Mod -text svneol=unset#text/plain
 WinAos/Src/Win32.PSPrinter.Mod -text svneol=unset#text/plain
 WinAos/Src/Win32.Pictures.Mod -text svneol=unset#text/plain
+WinAos/Src/Win32.PlugInDocs.Mod -text svneol=unset#text/plain
 WinAos/Src/Win32.Printer.Mod -text svneol=unset#text/plain
+WinAos/Src/Win32.PrinterInfo.Mod -text svneol=unset#text/plain
 WinAos/Src/Win32.Reals.Mod -text svneol=unset#text/plain
 WinAos/Src/Win32.Registry.Mod -text svneol=unset#text/plain
 WinAos/Src/Win32.RegistryTools.Mod -text svneol=unset#text/plain
@@ -3101,6 +3100,7 @@ source/Aos.OFSTools.Mod -text
 source/Aos.Oberon.Mod -text
 source/Aos.Par -text
 source/Aos.System.Mod -text
+source/Aos.Types.Mod -text svneol=unset#text/plain
 source/Aos.V24.Mod -text
 source/Aos.Viewers.Mod -text
 source/Aos1394LowUtil.Mod -text
