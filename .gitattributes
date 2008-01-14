@@ -2743,8 +2743,6 @@ WinAos/ObjI/vyXPValues.Obw -text
 WinAos/ObjI/vyXYPlane.Obw -text
 WinAos/ObjI/vyxPlots.Obw -text
 WinAos/Src/Aos.Types.Mod -text svneol=unset#text/plain
-WinAos/Src/OFormatter.Mod -text svneol=unset#text/plain
-WinAos/Src/OFormatterIO.Mod -text svneol=unset#text/plain
 WinAos/Src/PlugInDocs.Mod -text svneol=unset#text/plain
 WinAos/Src/PrinterInfo.Mod -text svneol=unset#text/plain
 WinAos/Src/Win32.ADVAPI32.Mod -text svneol=unset#text/plain
@@ -4011,6 +4009,8 @@ source/OBEMBR.BIN -text
 source/OBEMBR4.ASM -text
 source/OBL.Bin -text
 source/OFS.Tool -text
+source/OFormatter.Mod -text svneol=unset#text/plain
+source/OFormatterIO.Mod -text svneol=unset#text/plain
 source/OGGRadios.Text -text
 source/OGGUtilities.Mod -text
 source/OGGVorbisPlayer.Mod -text
