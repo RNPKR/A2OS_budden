@@ -2869,8 +2869,6 @@ WinAos/Src/Win32.V24.Mod -text svneol=unset#text/plain
 WinAos/Src/Win32.Viewers.Mod -text svneol=unset#text/plain
 WinAos/Src/Win32.WMPerfMonPluginCpu.Mod -text svneol=unset#text/plain
 WinAos/Src/Win32.WMPerfMonPluginMemory.Mod -text svneol=unset#text/plain
-WinAos/Src/Win32.WMPerfMonPlugins.Mod -text svneol=unset#text/plain
-WinAos/Src/Win32.WMPerfMonTabSystem.Mod -text svneol=unset#text/plain
 WinAos/Src/Win32.WMTCPTracker.Mod -text svneol=unset#text/plain
 WinAos/Src/Win32.WSock32.Mod -text svneol=unset#text/plain
 WinAos/Src/Win32.WinApplications.Mod -text
