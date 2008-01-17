@@ -4635,6 +4635,7 @@ source/WebForum.Mod -text
 source/WebHTTP.Mod -text
 source/WebHTTPClient.Mod -text
 source/WebHTTPServer.Mod -text
+source/WebHTTPServerStatistics.Mod -text
 source/WebHTTPServerTools.Mod -text
 source/WebHTTPTools.Mod -text
 source/WebSSMPPlugin.Mod -text
