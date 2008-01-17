@@ -3951,6 +3951,7 @@ source/ListModels.Mod -text
 source/ListRiders.Mod -text
 source/Lists.Mod -text
 source/LoadGadgets.Text -text
+source/Locks.Mod -text
 source/LogWindow.Mod -text
 source/Looks.Mod -text
 source/MD5.Mod -text
@@ -4527,7 +4528,6 @@ source/WMInstaller.Mod -text
 source/WMInstaller.tar -text svneol=unset#unset
 source/WMJoysticks.Mod -text
 source/WMKeyCode.Mod -text
-source/WMLocks.Mod -text
 source/WMLog.Mod -text
 source/WMMacros.Mod -text
 source/WMMenus.Mod -text
