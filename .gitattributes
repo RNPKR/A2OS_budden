@@ -3466,6 +3466,7 @@ source/BeepTest.Mod -text
 source/Biblio.Text -text
 source/BimboMail.Mod -text
 source/Bimso.Mod -text
+source/Bin2Hex.Mod -text svneol=unset#unset
 source/BinHex.Mod -text
 source/BinToCode.Mod -text
 source/Black.Pal -text
