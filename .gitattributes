@@ -1,31 +1,4 @@
 * text=auto !eol
-ARM/QBIC/compiler/MM.QBIC.ARMAosLinker.Mod -text
-ARM/QBIC/compiler/MM.QBIC.ARMAosLinker0.Mod -text
-ARM/QBIC/compiler/QBIC.ARMBlob.Mod -text
-ARM/QBIC/specific/MM.QBIC.AosLoader.Mod -text
-ARM/QBIC/specific/MM.QBIC.AosProcessors.Mod -text
-ARM/QBIC/specific/MM.QBIC.GPStart.Mod -text
-ARM/QBIC/specific/QBIC.AosActive.Mod -text
-ARM/QBIC/specific/QBIC.AosBoot.Mod -text
-ARM/QBIC/specific/QBIC.AosClock.Mod -text
-ARM/QBIC/specific/QBIC.AosDisplayLinear.Mod -text
-ARM/QBIC/specific/QBIC.AosHeap.Mod -text
-ARM/QBIC/specific/QBIC.AosInterrupts.Mod -text
-ARM/QBIC/specific/QBIC.AosJPEGDecoder.Mod -text
-ARM/QBIC/specific/QBIC.AosMemory.Mod -text
-ARM/QBIC/specific/QBIC.AosOut.Mod -text
-ARM/QBIC/specific/QBIC.AosROMVolumes.Mod -text
-ARM/QBIC/specific/QBIC.AosTar.Mod -text
-ARM/QBIC/specific/QBIC.AosV24.Mod -text
-ARM/QBIC/specific/QBIC.LEDs.Mod -text
-ARM/QBIC/specific/QBIC.PXA26x.Mod -text
-ARM/QBIC/specific/QBIC.QBIC.Mod -text
-ARM/QBIC/specific/QBIC.Raster.Mod -text
-ARM/QBIC/specific/QBIC.Relocator.Mod -text
-ARM/QBIC/specific/QBIC.ShellTools.Mod -text svneol=unset#unset
-ARM/QBIC/specific/QBIC.WMDiagramComponents.Mod -text
-ARM/QBIC/specific/QBIC.WMRasterScale.Mod -text
-ARM/QBIC/specific/QBIC.WindowManager.Mod -text
 WinAos/Aos.EXE -text
 WinAos/Aos.Text -text svneol=unset#text/plain
 WinAos/Aos/AddressBook.Text -text svneol=unset#text/plain
