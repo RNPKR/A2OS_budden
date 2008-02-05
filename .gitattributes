@@ -3405,6 +3405,7 @@ source/Array2dCplx.Mod -text
 source/Array2dInt.Mod -text
 source/Array2dRat.Mod -text
 source/Array2dRe.Mod -text
+source/ArrayBase.Mod -text
 source/ArrayXdCplx.Mod -text
 source/ArrayXdInt.Mod -text
 source/ArrayXdRat.Mod -text
@@ -4146,6 +4147,7 @@ source/PCAARM.Mod -text
 source/PCARMCP.Mod -text
 source/PCARMDecoder.Mod -text
 source/PCARMRegisters.Mod -text
+source/PCArrays.Mod -text
 source/PCB.Mod -text
 source/PCBT.Mod -text
 source/PCC.Mod -text
