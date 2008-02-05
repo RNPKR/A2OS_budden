@@ -3464,6 +3464,7 @@ source/BootManager.Asm -text
 source/BootManager.Bin -text
 source/BootManager.Text -text svneol=unset#unset
 source/BootManagerMBR.Bin -text
+source/BootManagerNull.Bin -text
 source/Bows.Pict -text
 source/Bricks.Pict -text
 source/Browser.Mod -text
