@@ -198,164 +198,6 @@ WinAos/Aos/public.aosposterthumbpdf.gif -text svneol=unset#image/gif
 WinAos/Aos/relfiles.bat svneol=native#text/plain
 WinAos/Aos/stub.exe -text
 WinAos/AosDebug.exe -text
-WinAos/Doc.vy.ants/AntsInFields.Ico -text
-WinAos/Doc.vy.ants/Aztec.Panel -text
-WinAos/Doc.vy.ants/ants.Desk -text
-WinAos/Doc.vy.ants/ants.Panel -text
-WinAos/Doc.vy.ants/ants.Text -text svneol=unset#text/plain
-WinAos/Doc.vy.ants/antsAutobinomial.Help -text
-WinAos/Doc.vy.ants/antsAutobinomial.Panel -text
-WinAos/Doc.vy.ants/antsAutonormal.Help -text
-WinAos/Doc.vy.ants/antsAutonormal.Panel -text
-WinAos/Doc.vy.ants/antsBook.Panel -text
-WinAos/Doc.vy.ants/antsBook.Text -text svneol=unset#text/plain
-WinAos/Doc.vy.ants/antsCFTPIsing.Help -text
-WinAos/Doc.vy.ants/antsCFTPIsing.Panel -text
-WinAos/Doc.vy.ants/antsChannelNoise.Help -text
-WinAos/Doc.vy.ants/antsChannelNoise.Panel -text
-WinAos/Doc.vy.ants/antsColors.Panel -text
-WinAos/Doc.vy.ants/antsCometTest.Panel -text
-WinAos/Doc.vy.ants/antsCommandText.Text -text svneol=unset#text/plain
-WinAos/Doc.vy.ants/antsCopyright.Text -text svneol=unset#text/plain
-WinAos/Doc.vy.ants/antsDefaultPanel.Panel -text
-WinAos/Doc.vy.ants/antsDiscrete2dGibbs.Help -text
-WinAos/Doc.vy.ants/antsDiscrete2dGibbs.Panel -text
-WinAos/Doc.vy.ants/antsDiscreteExt2dCool.Help -text
-WinAos/Doc.vy.ants/antsDiscreteExt2dCool.Panel -text
-WinAos/Doc.vy.ants/antsDiscreteExt2dGeneric.Help -text
-WinAos/Doc.vy.ants/antsDiscreteExt2dGeneric.Panel -text
-WinAos/Doc.vy.ants/antsDiscreteExt2dGibbs.Help -text
-WinAos/Doc.vy.ants/antsDiscreteExt2dGibbs.Panel -text
-WinAos/Doc.vy.ants/antsDocumentation.Panel -text
-WinAos/Doc.vy.ants/antsDocumentation.Text -text svneol=unset#text/plain
-WinAos/Doc.vy.ants/antsFileList.Text -text svneol=unset#text/plain
-WinAos/Doc.vy.ants/antsFiles.Panel -text
-WinAos/Doc.vy.ants/antsFilters.Help -text
-WinAos/Doc.vy.ants/antsFilters.Panel -text
-WinAos/Doc.vy.ants/antsFilters1d.Help -text
-WinAos/Doc.vy.ants/antsFilters1d.Panel -text
-WinAos/Doc.vy.ants/antsFirstRestoration.Help -text
-WinAos/Doc.vy.ants/antsFirstRestoration.Panel -text
-WinAos/Doc.vy.ants/antsFreeModel.Help -text
-WinAos/Doc.vy.ants/antsFreeModel.Panel -text
-WinAos/Doc.vy.ants/antsGaussianRW.Help -text
-WinAos/Doc.vy.ants/antsGaussianRW.Panel -text
-WinAos/Doc.vy.ants/antsGenericModelMod.Text -text svneol=unset#text/plain
-WinAos/Doc.vy.ants/antsGirlsEye.Panel -text
-WinAos/Doc.vy.ants/antsHierarchicPotts.Panel -text
-WinAos/Doc.vy.ants/antsHierarchicPottsDir.Panel -text
-WinAos/Doc.vy.ants/antsHybridObjects.Mod -text svneol=unset#text/plain
-WinAos/Doc.vy.ants/antsIsing2dCooling.Help -text
-WinAos/Doc.vy.ants/antsIsing2dCooling.Panel -text
-WinAos/Doc.vy.ants/antsIsing2dGibbs.Help -text
-WinAos/Doc.vy.ants/antsIsing2dGibbs.Panel -text
-WinAos/Doc.vy.ants/antsIsing3dCooling.Help -text
-WinAos/Doc.vy.ants/antsIsing3dCooling.Panel -text
-WinAos/Doc.vy.ants/antsIsing3dGibbs.Help -text
-WinAos/Doc.vy.ants/antsIsing3dGibbs.Panel -text
-WinAos/Doc.vy.ants/antsLCGBoxMuller.Help -text
-WinAos/Doc.vy.ants/antsLCGBoxMuller.Panel -text
-WinAos/Doc.vy.ants/antsLCGPolarMethod.Help -text
-WinAos/Doc.vy.ants/antsLCGPolarMethod.Panel -text
-WinAos/Doc.vy.ants/antsLCGRandom.Help -text
-WinAos/Doc.vy.ants/antsLCGRandom.Panel -text
-WinAos/Doc.vy.ants/antsLog.Panel -text
-WinAos/Doc.vy.ants/antsLog2.Panel -text
-WinAos/Doc.vy.ants/antsMCGen.Help -text
-WinAos/Doc.vy.ants/antsMCGen.Panel -text
-WinAos/Doc.vy.ants/antsMMSEIsing.Help -text
-WinAos/Doc.vy.ants/antsMMSEIsing.Panel -text
-WinAos/Doc.vy.ants/antsMakeCompress.Text -text svneol=unset#text/plain
-WinAos/Doc.vy.ants/antsMakefile.a1.02.Text -text svneol=unset#text/plain
-WinAos/Doc.vy.ants/antsMakefile.a1.03.Text -text svneol=unset#text/plain
-WinAos/Doc.vy.ants/antsMakefile.a1.04.Text -text svneol=unset#text/plain
-WinAos/Doc.vy.ants/antsMakefileTemplate.Text -text svneol=unset#text/plain
-WinAos/Doc.vy.ants/antsMaxInt1d.Help -text
-WinAos/Doc.vy.ants/antsMaxInt1d.Panel -text
-WinAos/Doc.vy.ants/antsMetropolisVisits.Help -text
-WinAos/Doc.vy.ants/antsMetropolisVisits.Panel -text
-WinAos/Doc.vy.ants/antsModelBuilder.Mod -text svneol=unset#text/plain
-WinAos/Doc.vy.ants/antsModelPrototype.Types -text
-WinAos/Doc.vy.ants/antsModelSelection1d.Help -text
-WinAos/Doc.vy.ants/antsModelSelection1d.Panel -text
-WinAos/Doc.vy.ants/antsNoisedIsingCool3d.Help -text
-WinAos/Doc.vy.ants/antsNoisedIsingCool3d.Panel -text
-WinAos/Doc.vy.ants/antsNoisedIsingCool4d.Help -text
-WinAos/Doc.vy.ants/antsNoisedIsingCool4d.Panel -text
-WinAos/Doc.vy.ants/antsNoisedIsingCooling.Help -text
-WinAos/Doc.vy.ants/antsNoisedIsingCooling.Panel -text
-WinAos/Doc.vy.ants/antsObjectView.Gadgets -text
-WinAos/Doc.vy.ants/antsOnTheFlyMod.Text -text svneol=unset#text/plain
-WinAos/Doc.vy.ants/antsOrganizers.Panel -text
-WinAos/Doc.vy.ants/antsPMLEPhiModel.Help -text
-WinAos/Doc.vy.ants/antsPMLEPhiModel.Panel -text
-WinAos/Doc.vy.ants/antsPairModel.Help -text
-WinAos/Doc.vy.ants/antsPairModel.Panel -text
-WinAos/Doc.vy.ants/antsPictLoader.Help -text
-WinAos/Doc.vy.ants/antsPictLoader.Panel -text
-WinAos/Doc.vy.ants/antsPictures.Panel -text
-WinAos/Doc.vy.ants/antsPixelEdgeM.Help -text
-WinAos/Doc.vy.ants/antsPixelEdgeM.Panel -text
-WinAos/Doc.vy.ants/antsPixelStatistics.Panel -text
-WinAos/Doc.vy.ants/antsPortability.Mod -text svneol=unset#text/plain
-WinAos/Doc.vy.ants/antsPortability.Text -text svneol=unset#text/plain
-WinAos/Doc.vy.ants/antsPosteriorGibbsS.Help -text
-WinAos/Doc.vy.ants/antsPosteriorGibbsS.Panel -text
-WinAos/Doc.vy.ants/antsPosteriorSampling.Help -text
-WinAos/Doc.vy.ants/antsPosteriorSampling.Panel -text
-WinAos/Doc.vy.ants/antsPotts1dAll.Help -text
-WinAos/Doc.vy.ants/antsPotts1dAll.Panel -text
-WinAos/Doc.vy.ants/antsPotts2dCooling.Help -text
-WinAos/Doc.vy.ants/antsPotts2dCooling.Panel -text
-WinAos/Doc.vy.ants/antsPotts2dGibbs.Help -text
-WinAos/Doc.vy.ants/antsPotts2dGibbs.Panel -text
-WinAos/Doc.vy.ants/antsProgRandomWalk.Help -text
-WinAos/Doc.vy.ants/antsProgRandomWalk.Panel -text
-WinAos/Doc.vy.ants/antsProgress.Panel -text
-WinAos/Doc.vy.ants/antsRandomWalkMod.Text -text svneol=unset#text/plain
-WinAos/Doc.vy.ants/antsReadMe.Text -text svneol=unset#text/plain
-WinAos/Doc.vy.ants/antsReflectedRW.Help -text
-WinAos/Doc.vy.ants/antsReflectedRW.Panel -text
-WinAos/Doc.vy.ants/antsSafetyInfo.Panel -text
-WinAos/Doc.vy.ants/antsSafetyInfo.Text -text svneol=unset#text/plain
-WinAos/Doc.vy.ants/antsScriptObjects.Panel -text
-WinAos/Doc.vy.ants/antsSecurity.Mod -text svneol=unset#text/plain
-WinAos/Doc.vy.ants/antsSimpleCFTP.Help -text
-WinAos/Doc.vy.ants/antsSimpleCFTP.Panel -text
-WinAos/Doc.vy.ants/antsStandardElems.Panel -text
-WinAos/Doc.vy.ants/antsStartup.GIF -text
-WinAos/Doc.vy.ants/antsStartupAlpha.GIF -text
-WinAos/Doc.vy.ants/antsText.Panel -text
-WinAos/Doc.vy.ants/antsText.Text -text svneol=unset#text/plain
-WinAos/Doc.vy.ants/antsTextureExamples.Panel -text
-WinAos/Doc.vy.ants/antsTools.Panel -text
-WinAos/Doc.vy.ants/antsTracking.Mod -text svneol=unset#text/plain
-WinAos/Doc.vy.ants/antsTrapper.Mod -text svneol=unset#text/plain
-WinAos/Doc.vy.ants/antsTravelingSalesman.Help -text
-WinAos/Doc.vy.ants/antsTravelingSalesman.Panel -text
-WinAos/Doc.vy.ants/antsViewScannings.Text -text svneol=unset#text/plain
-WinAos/Doc.vy.ants/copying.txt -text svneol=unset#text/plain
-WinAos/Doc.vy.ants/sheep3D.Panel -text
-WinAos/Doc.vy.ants/vyCopyright.Text -text svneol=unset#text/plain
-WinAos/Doc.vy.ants/vyDoc.ABC -text
-WinAos/Doc.vy.ants/vyDoc.Graphics -text
-WinAos/Doc.vy.ants/vyDoc.Introduction -text
-WinAos/Doc.vy.ants/vyDoc.Map -text
-WinAos/Doc.vy.ants/vyDoc.Messages -text
-WinAos/Doc.vy.ants/vyDoc.Objects -text
-WinAos/Doc.vy.ants/vyDoc.Operators -text
-WinAos/Doc.vy.ants/vyDoc.Portability -text
-WinAos/Doc.vy.ants/vyDoc.Random -text
-WinAos/Doc.vy.ants/vyDoc.TextModel -text
-WinAos/Doc.vy.ants/vyDoc.xEmpty -text
-WinAos/Doc.vy.ants/vyDoc.xMakefile -text
-WinAos/Doc.vy.ants/vyDoc.xStyles -text
-WinAos/Doc.vy.ants/vyDoc.xToDo -text
-WinAos/Doc.vy.ants/vyExample.Log -text
-WinAos/Doc.vy.ants/vyGraphic.Tool -text
-WinAos/Doc.vy.ants/vyGraphics.Panel -text
-WinAos/Doc.vy.ants/vyGraphics.tiny.Panel -text
-WinAos/Doc.vy.ants/vyPortability.Mod -text svneol=unset#text/plain
 WinAos/ObjE/ADVAPI32.Obw -text
 WinAos/ObjE/AFM.Obw -text
 WinAos/ObjE/ASCIITab.Obw -text
@@ -2769,334 +2611,405 @@ WinAos/ObjI/vyTypes.Obw -text
 WinAos/ObjI/vyXPValues.Obw -text
 WinAos/ObjI/vyXYPlane.Obw -text
 WinAos/ObjI/vyxPlots.Obw -text
-WinAos/Src/Win32.ADVAPI32.Mod -text svneol=unset#text/plain
-WinAos/Src/Win32.Aos.Clipboard.Mod -text svneol=unset#text/plain
-WinAos/Src/Win32.Aos.FileDir.Mod -text svneol=unset#text/plain
-WinAos/Src/Win32.Aos.Files.Mod -text svneol=unset#text/plain
-WinAos/Src/Win32.Aos.Link -text
-WinAos/Src/Win32.Aos.NetSystem.Mod -text svneol=unset#text/plain
-WinAos/Src/Win32.Aos.Tool -text
-WinAos/Src/Win32.Aos2.Tool -text
-WinAos/Src/Win32.AosBeep.Mod -text svneol=unset#text/plain
-WinAos/Src/Win32.AosClipboard.Mod -text svneol=unset#text/plain
-WinAos/Src/Win32.AosClock.Mod -text svneol=unset#text/plain
-WinAos/Src/Win32.AosConfiguration.Mod -text svneol=unset#text/plain
-WinAos/Src/Win32.AosConsole.Mod -text svneol=unset#text/plain
-WinAos/Src/Win32.AosDNS.Mod -text svneol=unset#text/plain
-WinAos/Src/Win32.AosDisplayWM.Mod -text svneol=unset#text/plain
-WinAos/Src/Win32.AosIP.Mod -text svneol=unset#text/plain
-WinAos/Src/Win32.AosIP.old.Mod -text svneol=unset#text/plain
-WinAos/Src/Win32.AosNet.Mod -text svneol=unset#text/plain
-WinAos/Src/Win32.AosPerformance.Mod -text svneol=unset#text/plain
-WinAos/Src/Win32.AosTCP.Mod -text svneol=unset#text/plain
-WinAos/Src/Win32.AosUDP.Mod -text svneol=unset#text/plain
-WinAos/Src/Win32.AosV24.Mod -text svneol=unset#text/plain
-WinAos/Src/Win32.AosWinDisks.Mod -text svneol=unset#text/plain
-WinAos/Src/Win32.AosWinFS.Mod -text svneol=unset#text/plain
-WinAos/Src/Win32.Bitmaps.Mod -text svneol=unset#text/plain
-WinAos/Src/Win32.BootLinker.Mod -text svneol=unset#text/plain
-WinAos/Src/Win32.COMDLG32.Mod -text svneol=unset#text/plain
-WinAos/Src/Win32.Clipboard.Mod -text svneol=unset#text/plain
-WinAos/Src/Win32.ColorGadgets.Mod -text svneol=unset#text/plain
-WinAos/Src/Win32.Colors.Mod -text svneol=unset#text/plain
-WinAos/Src/Win32.Configuration.Mod -text svneol=unset#text/plain
-WinAos/Src/Win32.Desktops.Mod -text svneol=unset#text/plain
-WinAos/Src/Win32.Directories.Mod -text svneol=unset#text/plain
-WinAos/Src/Win32.Display.Mod -text svneol=unset#text/plain
-WinAos/Src/Win32.Display3.Mod -text svneol=unset#text/plain
-WinAos/Src/Win32.Displays.Mod -text svneol=unset#text/plain
-WinAos/Src/Win32.Effects.Mod -text svneol=unset#text/plain
-WinAos/Src/Win32.Exceptions.Mod -text svneol=unset#text/plain
-WinAos/Src/Win32.Finder.Mod -text svneol=unset#text/plain
-WinAos/Src/Win32.FontRes.Mod -text svneol=unset#text/plain
-WinAos/Src/Win32.Fonts.Mod -text svneol=unset#text/plain
-WinAos/Src/Win32.GDI32.Mod -text svneol=unset#text/plain
-WinAos/Src/Win32.Gadgets.Mod -text svneol=unset#text/plain
-WinAos/Src/Win32.Heaps.Mod -text svneol=unset#text/plain
-WinAos/Src/Win32.ImageGadgets.Mod -text svneol=unset#text/plain
-WinAos/Src/Win32.Input.Mod -text svneol=unset#text/plain
-WinAos/Src/Win32.Kernel.Mod -text svneol=unset#text/plain
-WinAos/Src/Win32.Kernel32.Mod -text svneol=unset#text/plain
-WinAos/Src/Win32.Machine.Mod -text svneol=unset#text/plain
-WinAos/Src/Win32.Miscellaneous.Mod -text svneol=unset#text/plain
-WinAos/Src/Win32.ODBC.Mod -text svneol=unset#text/plain
-WinAos/Src/Win32.Oberon.Mod -text svneol=unset#text/plain
-WinAos/Src/Win32.OberonKernel.Mod -text svneol=unset#text/plain
-WinAos/Src/Win32.Objects.Mod -text svneol=unset#text/plain
-WinAos/Src/Win32.PELinker.Mod -text svneol=unset#text/plain
-WinAos/Src/Win32.PSPrinter.Mod -text svneol=unset#text/plain
-WinAos/Src/Win32.Pictures.Mod -text svneol=unset#text/plain
-WinAos/Src/Win32.PlugInDocs.Mod -text svneol=unset#text/plain
-WinAos/Src/Win32.Printer.Mod -text svneol=unset#text/plain
-WinAos/Src/Win32.PrinterInfo.Mod -text svneol=unset#text/plain
-WinAos/Src/Win32.Registry.Mod -text svneol=unset#text/plain
-WinAos/Src/Win32.RegistryTools.Mod -text svneol=unset#text/plain
-WinAos/Src/Win32.Rembrandt.Mod -text svneol=unset#text/plain
-WinAos/Src/Win32.SQL.Mod -text svneol=unset#text/plain
-WinAos/Src/Win32.Shell32.Mod -text svneol=unset#text/plain
-WinAos/Src/Win32.System.Mod -text svneol=unset#text/plain
-WinAos/Src/Win32.Threads.Mod -text svneol=unset#text/plain
-WinAos/Src/Win32.Traps.Mod -text svneol=unset#text/plain
-WinAos/Src/Win32.User32.Mod -text svneol=unset#text/plain
-WinAos/Src/Win32.V24.Mod -text svneol=unset#text/plain
-WinAos/Src/Win32.Viewers.Mod -text svneol=unset#text/plain
-WinAos/Src/Win32.WMPerfMonPluginCpu.Mod -text svneol=unset#text/plain
-WinAos/Src/Win32.WMPerfMonPluginMemory.Mod -text svneol=unset#text/plain
-WinAos/Src/Win32.WMTCPTracker.Mod -text svneol=unset#text/plain
-WinAos/Src/Win32.WSock32.Mod -text svneol=unset#text/plain
-WinAos/Src/Win32.WinApplications.Mod -text
-WinAos/Src/Win32.WinConsole.Mod -text svneol=unset#text/plain
-WinAos/Src/Win32.WinFonts.Mod -text svneol=unset#text/plain
-WinAos/Src/Win32.WinImages.Mod -text svneol=unset#text/plain
-WinAos/Src/Win32.WinMenus.Mod -text svneol=unset#text/plain
-WinAos/Src/Win32.WinPrinter.Mod -text svneol=unset#text/plain
-WinAos/Src/Win32.Windows.Mod -text svneol=unset#text/plain
-WinAos/Src/Win32.antsPortability.Mod -text svneol=unset#text/plain
-WinAos/Src/Win32.antsTracking.Mod -text svneol=unset#text/plain
-WinAos/Src/Win32.vyPortability.Mod -text svneol=unset#text/plain
-WinAos/Src/Win32AosDisplay.Mod -text svneol=unset#text/plain
-WinAos/Src/Win32RelFS.Mod -text svneol=unset#text/plain
-WinAos/Src/vyants/Aos.antsHybridObjects.Mod -text svneol=unset#text/plain
-WinAos/Src/vyants/Aos.antsPortability.Mod -text svneol=unset#text/plain
-WinAos/Src/vyants/Aos.antsSecurity.Mod -text svneol=unset#text/plain
-WinAos/Src/vyants/Aos.vyPortability.Mod -text svneol=unset#text/plain
-WinAos/Src/vyants/BellmanMinimisation.Mod -text
-WinAos/Src/vyants/Lin.antsHybridObjects.Mod -text svneol=unset#text/plain
-WinAos/Src/vyants/Lin.antsPortability.Mod -text svneol=unset#text/plain
-WinAos/Src/vyants/Lin.vyPortability.Mod -text svneol=unset#text/plain
-WinAos/Src/vyants/ants.Mod -text svneol=unset#text/plain
-WinAos/Src/vyants/ants.fofAutomatic.Mod -text svneol=unset#text/plain
-WinAos/Src/vyants/ants1dArrayObjects.Mod -text svneol=unset#text/plain
-WinAos/Src/vyants/ants1dArrayVectors.Mod -text svneol=unset#text/plain
-WinAos/Src/vyants/ants1dCup.Mod -text svneol=unset#text/plain
-WinAos/Src/vyants/ants3D.Mod -text svneol=unset#text/plain
-WinAos/Src/vyants/ants3dArrayObjects.Mod -text svneol=unset#text/plain
-WinAos/Src/vyants/ants3dArrayViews.Mod -text svneol=unset#text/plain
-WinAos/Src/vyants/ants3dBinaryIsingS2.Mod -text svneol=unset#text/plain
-WinAos/Src/vyants/ants4dArrayObjects.Mod -text svneol=unset#text/plain
-WinAos/Src/vyants/ants4dBinaryIsingS2.Mod -text svneol=unset#text/plain
-WinAos/Src/vyants/antsArrayConversions.Mod -text svneol=unset#text/plain
-WinAos/Src/vyants/antsArrayImages.Mod -text svneol=unset#text/plain
-WinAos/Src/vyants/antsArrayImages16.Mod -text svneol=unset#text/plain
-WinAos/Src/vyants/antsArrayObjects.Mod -text svneol=unset#text/plain
-WinAos/Src/vyants/antsArrayPictures.Mod -text svneol=unset#text/plain
-WinAos/Src/vyants/antsArrayPictures16.Mod -text svneol=unset#text/plain
-WinAos/Src/vyants/antsArrayStatistics.Mod -text svneol=unset#text/plain
-WinAos/Src/vyants/antsArrayViews.Mod -text svneol=unset#text/plain
-WinAos/Src/vyants/antsArrays.Mod -text svneol=unset#text/plain
-WinAos/Src/vyants/antsAutoNormalS.Mod -text svneol=unset#text/plain
-WinAos/Src/vyants/antsAutobinomialS.Mod -text svneol=unset#text/plain
-WinAos/Src/vyants/antsAztec.Mod -text svneol=unset#text/plain
-WinAos/Src/vyants/antsBasicGadgets.Mod -text svneol=unset#text/plain
-WinAos/Src/vyants/antsBellman.Mod -text svneol=unset#text/plain
-WinAos/Src/vyants/antsBinaryEmpiricD.Mod -text svneol=unset#text/plain
-WinAos/Src/vyants/antsBinaryEmpiricD2.Mod -text svneol=unset#text/plain
-WinAos/Src/vyants/antsBinaryIsingS.Mod -text svneol=unset#text/plain
-WinAos/Src/vyants/antsBinaryIsingS2.Mod -text svneol=unset#text/plain
-WinAos/Src/vyants/antsBinaryNINNED.Mod -text svneol=unset#text/plain
-WinAos/Src/vyants/antsCaches.Mod -text svneol=unset#text/plain
-WinAos/Src/vyants/antsColors.Mod -text svneol=unset#text/plain
-WinAos/Src/vyants/antsComet.Mod -text svneol=unset#text/plain
-WinAos/Src/vyants/antsCommandInvoker.Mod -text svneol=unset#text/plain
-WinAos/Src/vyants/antsCommands.Mod -text svneol=unset#text/plain
-WinAos/Src/vyants/antsConstRandom.Mod -text svneol=unset#text/plain
-WinAos/Src/vyants/antsContainers.Mod -text svneol=unset#text/plain
-WinAos/Src/vyants/antsDependency.Mod -text svneol=unset#text/plain
-WinAos/Src/vyants/antsDirSet.Mod -text svneol=unset#text/plain
-WinAos/Src/vyants/antsDiscreteEmpiricD.Mod -text svneol=unset#text/plain
-WinAos/Src/vyants/antsDiscreteIsingS.Mod -text svneol=unset#text/plain
-WinAos/Src/vyants/antsEdges.Mod -text svneol=unset#text/plain
-WinAos/Src/vyants/antsEffects.Mod -text svneol=unset#text/plain
-WinAos/Src/vyants/antsEmpiricD.Mod -text svneol=unset#text/plain
-WinAos/Src/vyants/antsEstimate.Mod -text svneol=unset#text/plain
-WinAos/Src/vyants/antsEstimate2.Mod -text svneol=unset#text/plain
-WinAos/Src/vyants/antsExpressions.Mod -text svneol=unset#text/plain
-WinAos/Src/vyants/antsExpressionsDefaults.Mod -text svneol=unset#text/plain
-WinAos/Src/vyants/antsExpressionsObjects.Mod -text svneol=unset#text/plain
-WinAos/Src/vyants/antsFctEdit.Mod -text svneol=unset#text/plain
-WinAos/Src/vyants/antsFctVector.Mod -text svneol=unset#text/plain
-WinAos/Src/vyants/antsFiles.Mod -text svneol=unset#text/plain
-WinAos/Src/vyants/antsFilters.Mod -text svneol=unset#text/plain
-WinAos/Src/vyants/antsFunctions.Mod -text svneol=unset#text/plain
-WinAos/Src/vyants/antsGauss1dModel.Mod -text svneol=unset#text/plain
-WinAos/Src/vyants/antsGlobals.Mod -text svneol=unset#text/plain
-WinAos/Src/vyants/antsGraph.Mod -text svneol=unset#text/plain
-WinAos/Src/vyants/antsHierarchicPotts2d.Mod -text svneol=unset#text/plain
-WinAos/Src/vyants/antsHistogramEdit.Mod -text svneol=unset#text/plain
-WinAos/Src/vyants/antsImageViews.Mod -text svneol=unset#text/plain
-WinAos/Src/vyants/antsInteractivePar.Mod -text svneol=unset#text/plain
-WinAos/Src/vyants/antsIsingE.Mod -text svneol=unset#text/plain
-WinAos/Src/vyants/antsKernel.Mod -text svneol=unset#text/plain
-WinAos/Src/vyants/antsKernelViewer.Mod -text svneol=unset#text/plain
-WinAos/Src/vyants/antsLayerOps.Mod -text svneol=unset#text/plain
-WinAos/Src/vyants/antsLife.Mod -text svneol=unset#text/plain
-WinAos/Src/vyants/antsLinkView.Mod -text svneol=unset#text/plain
-WinAos/Src/vyants/antsMC.Mod -text svneol=unset#text/plain
-WinAos/Src/vyants/antsMCView.Mod -text svneol=unset#text/plain
-WinAos/Src/vyants/antsMDimDiscreteGS.Mod -text svneol=unset#text/plain
-WinAos/Src/vyants/antsMDimDiscreteIsingS.Mod -text svneol=unset#text/plain
-WinAos/Src/vyants/antsMDimDiscreteS.Mod -text svneol=unset#text/plain
-WinAos/Src/vyants/antsMDimEstimator.Mod -text svneol=unset#text/plain
-WinAos/Src/vyants/antsMDimMDiscreteIsingS.Mod -text svneol=unset#text/plain
-WinAos/Src/vyants/antsMasks.Mod -text svneol=unset#text/plain
-WinAos/Src/vyants/antsMatrixPar.Mod -text svneol=unset#text/plain
-WinAos/Src/vyants/antsMatrixParView.Mod -text svneol=unset#text/plain
-WinAos/Src/vyants/antsMeanArray.Mod -text svneol=unset#text/plain
-WinAos/Src/vyants/antsMessages.Mod -text svneol=unset#text/plain
-WinAos/Src/vyants/antsMinimizeF.Mod -text svneol=unset#text/plain
-WinAos/Src/vyants/antsModels.Mod -text svneol=unset#text/plain
-WinAos/Src/vyants/antsNDistrView.Mod -text svneol=unset#text/plain
-WinAos/Src/vyants/antsNNSampler.Mod -text svneol=unset#text/plain
-WinAos/Src/vyants/antsNeighbourhoods.Mod -text svneol=unset#text/plain
-WinAos/Src/vyants/antsObjectView.Mod -text svneol=unset#text/plain
-WinAos/Src/vyants/antsObjects.Mod -text svneol=unset#text/plain
-WinAos/Src/vyants/antsOnTheFly.Mod -text svneol=unset#text/plain
-WinAos/Src/vyants/antsOrganizers.Mod -text svneol=unset#text/plain
-WinAos/Src/vyants/antsPEIsingDS.Mod -text svneol=unset#text/plain
-WinAos/Src/vyants/antsPEV.Mod -text svneol=unset#text/plain
-WinAos/Src/vyants/antsPEVIsingDS.Mod -text svneol=unset#text/plain
-WinAos/Src/vyants/antsPerfectS.Mod -text svneol=unset#text/plain
-WinAos/Src/vyants/antsPictCoordinate.Mod -text svneol=unset#text/plain
-WinAos/Src/vyants/antsPictureViews.Mod -text svneol=unset#text/plain
-WinAos/Src/vyants/antsPlots.Mod -text svneol=unset#text/plain
-WinAos/Src/vyants/antsPointPlot.Mod -text svneol=unset#text/plain
-WinAos/Src/vyants/antsPointPlot2.Mod -text svneol=unset#text/plain
-WinAos/Src/vyants/antsPorts.Mod -text svneol=unset#text/plain
-WinAos/Src/vyants/antsPotts1DSurvey.Mod -text svneol=unset#text/plain
-WinAos/Src/vyants/antsPottsMonotone.Mod -text svneol=unset#text/plain
-WinAos/Src/vyants/antsPottsSimAdministration.Mod -text svneol=unset#text/plain
-WinAos/Src/vyants/antsPottsSimDataStructure.Mod -text svneol=unset#text/plain
-WinAos/Src/vyants/antsPottsSimulation.Mod -text svneol=unset#text/plain
-WinAos/Src/vyants/antsProgRandomWalk.Mod -text svneol=unset#text/plain
-WinAos/Src/vyants/antsRandom.Mod -text svneol=unset#text/plain
-WinAos/Src/vyants/antsRandomWalk.Mod -text svneol=unset#text/plain
-WinAos/Src/vyants/antsReadWrite.Mod -text svneol=unset#text/plain
-WinAos/Src/vyants/antsRegions.Mod -text svneol=unset#text/plain
-WinAos/Src/vyants/antsS3.ScrollbarsR.Mod -text svneol=unset#text/plain
-WinAos/Src/vyants/antsScale.Mod -text svneol=unset#text/plain
-WinAos/Src/vyants/antsScriptObjects.Mod -text svneol=unset#text/plain
-WinAos/Src/vyants/antsStatistics.Mod -text svneol=unset#text/plain
-WinAos/Src/vyants/antsTautString.Mod -text svneol=unset#text/plain
-WinAos/Src/vyants/antsTautStringTree.Mod -text svneol=unset#text/plain
-WinAos/Src/vyants/antsTexts.Mod -text svneol=unset#text/plain
-WinAos/Src/vyants/antsTextures.Mod -text svneol=unset#text/plain
-WinAos/Src/vyants/antsToolbox.Mod -text svneol=unset#text/plain
-WinAos/Src/vyants/antsTravelingS.Mod -text svneol=unset#text/plain
-WinAos/Src/vyants/antsValuePlot.Mod -text svneol=unset#text/plain
-WinAos/Src/vyants/antsVecOpt.Mod -text svneol=unset#text/plain
-WinAos/Src/vyants/antsVectors.Mod -text svneol=unset#text/plain
-WinAos/Src/vyants/antsViews.Mod -text svneol=unset#text/plain
-WinAos/Src/vyants/vy.Voyager.Mod -text svneol=unset#text/plain
-WinAos/Src/vyants/vy.dbgSortTest.Mod -text svneol=unset#text/plain
-WinAos/Src/vyants/vy.dbgTestVec.Mod -text svneol=unset#text/plain
-WinAos/Src/vyants/vy.jbrtStdNormal.Mod -text svneol=unset#text/plain
-WinAos/Src/vyants/vyAxis.Mod -text svneol=unset#text/plain
-WinAos/Src/vyants/vyBase.Mod -text svneol=unset#text/plain
-WinAos/Src/vyants/vyBit.Mod -text svneol=unset#text/plain
-WinAos/Src/vyants/vyBitmaps.Mod -text svneol=unset#text/plain
-WinAos/Src/vyants/vyBoolean.Mod -text svneol=unset#text/plain
-WinAos/Src/vyants/vyBooleanVec.Mod -text svneol=unset#text/plain
-WinAos/Src/vyants/vyBoxWhisker.Mod -text svneol=unset#text/plain
-WinAos/Src/vyants/vyCaption.Mod -text svneol=unset#text/plain
-WinAos/Src/vyants/vyCharts.Mod -text svneol=unset#text/plain
-WinAos/Src/vyants/vyChiSquare.Mod -text svneol=unset#text/plain
-WinAos/Src/vyants/vyColorPalettes.Mod -text svneol=unset#text/plain
-WinAos/Src/vyants/vyCommandMenus.Mod -text svneol=unset#text/plain
-WinAos/Src/vyants/vyComplex.Mod -text svneol=unset#text/plain
-WinAos/Src/vyants/vyConsume.Mod -text svneol=unset#text/plain
-WinAos/Src/vyants/vyDemo.Mod -text svneol=unset#text/plain
-WinAos/Src/vyants/vyDialogElems.Mod -text svneol=unset#text/plain
-WinAos/Src/vyants/vyDisplay2d.Mod -text svneol=unset#text/plain
-WinAos/Src/vyants/vyDistribution.Mod -text svneol=unset#text/plain
-WinAos/Src/vyants/vyEvents.Mod -text svneol=unset#text/plain
-WinAos/Src/vyants/vyFctEdit.Mod -text svneol=unset#text/plain
-WinAos/Src/vyants/vyFctRandom.Mod -text svneol=unset#text/plain
-WinAos/Src/vyants/vyFiles.Mod -text svneol=unset#text/plain
-WinAos/Src/vyants/vyGraph.Mod -text svneol=unset#text/plain
-WinAos/Src/vyants/vyGraphBase.Mod -text svneol=unset#text/plain
-WinAos/Src/vyants/vyGraphBase0.Mod -text svneol=unset#text/plain
-WinAos/Src/vyants/vyGraphicCtl.Mod -text svneol=unset#text/plain
-WinAos/Src/vyants/vyGrid.Mod -text svneol=unset#text/plain
-WinAos/Src/vyants/vyHighlight.Mod -text svneol=unset#text/plain
-WinAos/Src/vyants/vyHistogram.Mod -text svneol=unset#text/plain
-WinAos/Src/vyants/vyHost.Mod -text svneol=unset#text/plain
-WinAos/Src/vyants/vyHostFonts.Mod -text svneol=unset#text/plain
-WinAos/Src/vyants/vyHostPrint.Mod -text svneol=unset#text/plain
-WinAos/Src/vyants/vyHostStrings.Mod -text svneol=unset#text/plain
-WinAos/Src/vyants/vyHostTexts.Mod -text svneol=unset#text/plain
-WinAos/Src/vyants/vyIcons.Mod -text svneol=unset#text/plain
-WinAos/Src/vyants/vyIn.Mod -text svneol=unset#text/plain
-WinAos/Src/vyants/vyIntVec.Mod -text svneol=unset#text/plain
-WinAos/Src/vyants/vyInteger.Mod -text svneol=unset#text/plain
-WinAos/Src/vyants/vyKolSmirL.Mod -text svneol=unset#text/plain
-WinAos/Src/vyants/vyLCpx.Mod -text svneol=unset#text/plain
-WinAos/Src/vyants/vyLabel.Mod -text svneol=unset#text/plain
-WinAos/Src/vyants/vyLayers3d.Mod -text svneol=unset#text/plain
-WinAos/Src/vyants/vyLine.Mod -text svneol=unset#text/plain
-WinAos/Src/vyants/vyLinePlot.Mod -text svneol=unset#text/plain
-WinAos/Src/vyants/vyLinks.Mod -text svneol=unset#text/plain
-WinAos/Src/vyants/vyLongComplex.Mod -text svneol=unset#text/plain
-WinAos/Src/vyants/vyLongint.Mod -text svneol=unset#text/plain
-WinAos/Src/vyants/vyLongintVec.Mod -text svneol=unset#text/plain
-WinAos/Src/vyants/vyLongreal.Mod -text svneol=unset#text/plain
-WinAos/Src/vyants/vyLongrealVec.Mod -text svneol=unset#text/plain
-WinAos/Src/vyants/vyMatrixTypes.Mod -text svneol=unset#text/plain
-WinAos/Src/vyants/vyMaxMass.Mod -text svneol=unset#text/plain
-WinAos/Src/vyants/vyMouseData.Mod -text svneol=unset#text/plain
-WinAos/Src/vyants/vyName.Mod -text svneol=unset#text/plain
-WinAos/Src/vyants/vyOut.Mod -text svneol=unset#text/plain
-WinAos/Src/vyants/vyPComplex.Mod -text svneol=unset#text/plain
-WinAos/Src/vyants/vyPHIGS3D.Mod -text svneol=unset#text/plain
-WinAos/Src/vyants/vyPLongComplex.Mod -text svneol=unset#text/plain
-WinAos/Src/vyants/vyPaint3d.Mod -text svneol=unset#text/plain
-WinAos/Src/vyants/vyPars.Mod -text svneol=unset#text/plain
-WinAos/Src/vyants/vyParser.Mod -text svneol=unset#text/plain
-WinAos/Src/vyants/vyPatterns.Mod -text svneol=unset#text/plain
-WinAos/Src/vyants/vyPointerVec.Mod -text svneol=unset#text/plain
-WinAos/Src/vyants/vyPolyWorld.Mod -text svneol=unset#text/plain
-WinAos/Src/vyants/vyPort.Mod -text svneol=unset#text/plain
-WinAos/Src/vyants/vyQFisher.Mod -text svneol=unset#text/plain
-WinAos/Src/vyants/vyQuickDraw.Mod -text svneol=unset#text/plain
-WinAos/Src/vyants/vyRan1.Mod -text svneol=unset#text/plain
-WinAos/Src/vyants/vyRanBase.Mod -text svneol=unset#text/plain
-WinAos/Src/vyants/vyRanCombo.Mod -text svneol=unset#text/plain
-WinAos/Src/vyants/vyRanKiss.Mod -text svneol=unset#text/plain
-WinAos/Src/vyants/vyRanMWC.Mod -text svneol=unset#text/plain
-WinAos/Src/vyants/vyRanMWC1616.Mod -text svneol=unset#text/plain
-WinAos/Src/vyants/vyRanParksMiller.Mod -text svneol=unset#text/plain
-WinAos/Src/vyants/vyRanSkeleton.Mod -text svneol=unset#text/plain
-WinAos/Src/vyants/vyRanSupr.Mod -text svneol=unset#text/plain
-WinAos/Src/vyants/vyRandom.Mod -text svneol=unset#text/plain
-WinAos/Src/vyants/vyRandu.Mod -text svneol=unset#text/plain
-WinAos/Src/vyants/vyReadMatrix.Mod -text svneol=unset#text/plain
-WinAos/Src/vyants/vyReal.Mod -text svneol=unset#text/plain
-WinAos/Src/vyants/vyRealVec.Mod -text svneol=unset#text/plain
-WinAos/Src/vyants/vyRectPlot.Mod -text svneol=unset#text/plain
-WinAos/Src/vyants/vyRectangles.Mod -text svneol=unset#text/plain
-WinAos/Src/vyants/vyRegress.Mod -text svneol=unset#text/plain
-WinAos/Src/vyants/vyScale.Mod -text svneol=unset#text/plain
-WinAos/Src/vyants/vyScanners.Mod -text svneol=unset#text/plain
-WinAos/Src/vyants/vyScatter.Mod -text svneol=unset#text/plain
-WinAos/Src/vyants/vyScatter1.Mod -text svneol=unset#text/plain
-WinAos/Src/vyants/vyScatter2.Mod -text svneol=unset#text/plain
-WinAos/Src/vyants/vyScatter3.Mod -text svneol=unset#text/plain
-WinAos/Src/vyants/vySet.Mod -text svneol=unset#text/plain
-WinAos/Src/vyants/vyShorth.Mod -text svneol=unset#text/plain
-WinAos/Src/vyants/vySketch.Mod -text svneol=unset#text/plain
-WinAos/Src/vyants/vySlider.Mod -text svneol=unset#text/plain
-WinAos/Src/vyants/vySlider2d.Mod -text svneol=unset#text/plain
-WinAos/Src/vyants/vyStd2dLayer.Mod -text svneol=unset#text/plain
-WinAos/Src/vyants/vyStringVec.Mod -text svneol=unset#text/plain
-WinAos/Src/vyants/vySurface.Mod -text svneol=unset#text/plain
-WinAos/Src/vyants/vyTextsCtl.Mod -text svneol=unset#text/plain
-WinAos/Src/vyants/vyTracking.Mod -text svneol=unset#text/plain
-WinAos/Src/vyants/vyTypes.Mod -text svneol=unset#text/plain
-WinAos/Src/vyants/vyXPValues.Mod -text svneol=unset#text/plain
-WinAos/Src/vyants/vyXYPlane.Mod -text svneol=unset#text/plain
-WinAos/Src/vyants/vydbg.RandomTest.Mod -text svneol=unset#text/plain
-WinAos/Src/vyants/vyxPlots.Mod -text svneol=unset#text/plain
 WinAos/Work/Projects.Tool -text
 WinAos/license.txt -text svneol=unset#text/plain
+WinAos/vy.ants/documents/AntsInFields.Ico -text
+WinAos/vy.ants/documents/Aztec.Panel -text
+WinAos/vy.ants/documents/ants.Desk -text
+WinAos/vy.ants/documents/ants.Panel -text
+WinAos/vy.ants/documents/ants.Text -text
+WinAos/vy.ants/documents/antsAutobinomial.Help -text
+WinAos/vy.ants/documents/antsAutobinomial.Panel -text
+WinAos/vy.ants/documents/antsAutonormal.Help -text
+WinAos/vy.ants/documents/antsAutonormal.Panel -text
+WinAos/vy.ants/documents/antsBook.Panel -text
+WinAos/vy.ants/documents/antsBook.Text -text
+WinAos/vy.ants/documents/antsCFTPIsing.Help -text
+WinAos/vy.ants/documents/antsCFTPIsing.Panel -text
+WinAos/vy.ants/documents/antsChannelNoise.Help -text
+WinAos/vy.ants/documents/antsChannelNoise.Panel -text
+WinAos/vy.ants/documents/antsColors.Panel -text
+WinAos/vy.ants/documents/antsCometTest.Panel -text
+WinAos/vy.ants/documents/antsCommandText.Text -text
+WinAos/vy.ants/documents/antsCopyright.Text -text
+WinAos/vy.ants/documents/antsDefaultPanel.Panel -text
+WinAos/vy.ants/documents/antsDiscrete2dGibbs.Help -text
+WinAos/vy.ants/documents/antsDiscrete2dGibbs.Panel -text
+WinAos/vy.ants/documents/antsDiscreteExt2dCool.Help -text
+WinAos/vy.ants/documents/antsDiscreteExt2dCool.Panel -text
+WinAos/vy.ants/documents/antsDiscreteExt2dGeneric.Help -text
+WinAos/vy.ants/documents/antsDiscreteExt2dGeneric.Panel -text
+WinAos/vy.ants/documents/antsDiscreteExt2dGibbs.Help -text
+WinAos/vy.ants/documents/antsDiscreteExt2dGibbs.Panel -text
+WinAos/vy.ants/documents/antsDocumentation.Panel -text
+WinAos/vy.ants/documents/antsDocumentation.Text -text
+WinAos/vy.ants/documents/antsFileList.Text -text
+WinAos/vy.ants/documents/antsFiles.Panel -text
+WinAos/vy.ants/documents/antsFilters.Help -text
+WinAos/vy.ants/documents/antsFilters.Panel -text
+WinAos/vy.ants/documents/antsFilters1d.Help -text
+WinAos/vy.ants/documents/antsFilters1d.Panel -text
+WinAos/vy.ants/documents/antsFirstRestoration.Help -text
+WinAos/vy.ants/documents/antsFirstRestoration.Panel -text
+WinAos/vy.ants/documents/antsFreeModel.Help -text
+WinAos/vy.ants/documents/antsFreeModel.Panel -text
+WinAos/vy.ants/documents/antsGaussianRW.Help -text
+WinAos/vy.ants/documents/antsGaussianRW.Panel -text
+WinAos/vy.ants/documents/antsGenericModelMod.Text -text
+WinAos/vy.ants/documents/antsGirlsEye.Panel -text
+WinAos/vy.ants/documents/antsHierarchicPotts.Panel -text
+WinAos/vy.ants/documents/antsHierarchicPottsDir.Panel -text
+WinAos/vy.ants/documents/antsHybridObjects.Mod -text
+WinAos/vy.ants/documents/antsIsing2dCooling.Help -text
+WinAos/vy.ants/documents/antsIsing2dCooling.Panel -text
+WinAos/vy.ants/documents/antsIsing2dGibbs.Help -text
+WinAos/vy.ants/documents/antsIsing2dGibbs.Panel -text
+WinAos/vy.ants/documents/antsIsing3dCooling.Help -text
+WinAos/vy.ants/documents/antsIsing3dCooling.Panel -text
+WinAos/vy.ants/documents/antsIsing3dGibbs.Help -text
+WinAos/vy.ants/documents/antsIsing3dGibbs.Panel -text
+WinAos/vy.ants/documents/antsLCGBoxMuller.Help -text
+WinAos/vy.ants/documents/antsLCGBoxMuller.Panel -text
+WinAos/vy.ants/documents/antsLCGPolarMethod.Help -text
+WinAos/vy.ants/documents/antsLCGPolarMethod.Panel -text
+WinAos/vy.ants/documents/antsLCGRandom.Help -text
+WinAos/vy.ants/documents/antsLCGRandom.Panel -text
+WinAos/vy.ants/documents/antsLog.Panel -text
+WinAos/vy.ants/documents/antsLog2.Panel -text
+WinAos/vy.ants/documents/antsMCGen.Help -text
+WinAos/vy.ants/documents/antsMCGen.Panel -text
+WinAos/vy.ants/documents/antsMMSEIsing.Help -text
+WinAos/vy.ants/documents/antsMMSEIsing.Panel -text
+WinAos/vy.ants/documents/antsMakeCompress.Text -text
+WinAos/vy.ants/documents/antsMakefile.a1.02.Text -text
+WinAos/vy.ants/documents/antsMakefile.a1.03.Text -text
+WinAos/vy.ants/documents/antsMakefile.a1.04.Text -text
+WinAos/vy.ants/documents/antsMakefileTemplate.Text -text
+WinAos/vy.ants/documents/antsMaxInt1d.Help -text
+WinAos/vy.ants/documents/antsMaxInt1d.Panel -text
+WinAos/vy.ants/documents/antsMetropolisVisits.Help -text
+WinAos/vy.ants/documents/antsMetropolisVisits.Panel -text
+WinAos/vy.ants/documents/antsModelBuilder.Mod -text
+WinAos/vy.ants/documents/antsModelPrototype.Types -text
+WinAos/vy.ants/documents/antsModelSelection1d.Help -text
+WinAos/vy.ants/documents/antsModelSelection1d.Panel -text
+WinAos/vy.ants/documents/antsNoisedIsingCool3d.Help -text
+WinAos/vy.ants/documents/antsNoisedIsingCool3d.Panel -text
+WinAos/vy.ants/documents/antsNoisedIsingCool4d.Help -text
+WinAos/vy.ants/documents/antsNoisedIsingCool4d.Panel -text
+WinAos/vy.ants/documents/antsNoisedIsingCooling.Help -text
+WinAos/vy.ants/documents/antsNoisedIsingCooling.Panel -text
+WinAos/vy.ants/documents/antsObjectView.Gadgets -text
+WinAos/vy.ants/documents/antsOnTheFlyMod.Text -text
+WinAos/vy.ants/documents/antsOrganizers.Panel -text
+WinAos/vy.ants/documents/antsPMLEPhiModel.Help -text
+WinAos/vy.ants/documents/antsPMLEPhiModel.Panel -text
+WinAos/vy.ants/documents/antsPairModel.Help -text
+WinAos/vy.ants/documents/antsPairModel.Panel -text
+WinAos/vy.ants/documents/antsPictLoader.Help -text
+WinAos/vy.ants/documents/antsPictLoader.Panel -text
+WinAos/vy.ants/documents/antsPictures.Panel -text
+WinAos/vy.ants/documents/antsPixelEdgeM.Help -text
+WinAos/vy.ants/documents/antsPixelEdgeM.Panel -text
+WinAos/vy.ants/documents/antsPixelStatistics.Panel -text
+WinAos/vy.ants/documents/antsPortability.Mod -text
+WinAos/vy.ants/documents/antsPortability.Text -text
+WinAos/vy.ants/documents/antsPosteriorGibbsS.Help -text
+WinAos/vy.ants/documents/antsPosteriorGibbsS.Panel -text
+WinAos/vy.ants/documents/antsPosteriorSampling.Help -text
+WinAos/vy.ants/documents/antsPosteriorSampling.Panel -text
+WinAos/vy.ants/documents/antsPotts1dAll.Help -text
+WinAos/vy.ants/documents/antsPotts1dAll.Panel -text
+WinAos/vy.ants/documents/antsPotts2dCooling.Help -text
+WinAos/vy.ants/documents/antsPotts2dCooling.Panel -text
+WinAos/vy.ants/documents/antsPotts2dGibbs.Help -text
+WinAos/vy.ants/documents/antsPotts2dGibbs.Panel -text
+WinAos/vy.ants/documents/antsProgRandomWalk.Help -text
+WinAos/vy.ants/documents/antsProgRandomWalk.Panel -text
+WinAos/vy.ants/documents/antsProgress.Panel -text
+WinAos/vy.ants/documents/antsRandomWalkMod.Text -text
+WinAos/vy.ants/documents/antsReadMe.Text -text
+WinAos/vy.ants/documents/antsReflectedRW.Help -text
+WinAos/vy.ants/documents/antsReflectedRW.Panel -text
+WinAos/vy.ants/documents/antsSafetyInfo.Panel -text
+WinAos/vy.ants/documents/antsSafetyInfo.Text -text
+WinAos/vy.ants/documents/antsScriptObjects.Panel -text
+WinAos/vy.ants/documents/antsSecurity.Mod -text
+WinAos/vy.ants/documents/antsSimpleCFTP.Help -text
+WinAos/vy.ants/documents/antsSimpleCFTP.Panel -text
+WinAos/vy.ants/documents/antsStandardElems.Panel -text
+WinAos/vy.ants/documents/antsStartup.GIF -text
+WinAos/vy.ants/documents/antsStartupAlpha.GIF -text
+WinAos/vy.ants/documents/antsText.Panel -text
+WinAos/vy.ants/documents/antsText.Text -text
+WinAos/vy.ants/documents/antsTextureExamples.Panel -text
+WinAos/vy.ants/documents/antsTools.Panel -text
+WinAos/vy.ants/documents/antsTracking.Mod -text
+WinAos/vy.ants/documents/antsTrapper.Mod -text
+WinAos/vy.ants/documents/antsTravelingSalesman.Help -text
+WinAos/vy.ants/documents/antsTravelingSalesman.Panel -text
+WinAos/vy.ants/documents/antsViewScannings.Text -text
+WinAos/vy.ants/documents/copying.txt -text
+WinAos/vy.ants/documents/sheep3D.Panel -text
+WinAos/vy.ants/documents/vyCopyright.Text -text
+WinAos/vy.ants/documents/vyDoc.ABC -text
+WinAos/vy.ants/documents/vyDoc.Graphics -text
+WinAos/vy.ants/documents/vyDoc.Introduction -text
+WinAos/vy.ants/documents/vyDoc.Map -text
+WinAos/vy.ants/documents/vyDoc.Messages -text
+WinAos/vy.ants/documents/vyDoc.Objects -text
+WinAos/vy.ants/documents/vyDoc.Operators -text
+WinAos/vy.ants/documents/vyDoc.Portability -text
+WinAos/vy.ants/documents/vyDoc.Random -text
+WinAos/vy.ants/documents/vyDoc.TextModel -text
+WinAos/vy.ants/documents/vyDoc.xEmpty -text
+WinAos/vy.ants/documents/vyDoc.xMakefile -text
+WinAos/vy.ants/documents/vyDoc.xStyles -text
+WinAos/vy.ants/documents/vyDoc.xToDo -text
+WinAos/vy.ants/documents/vyExample.Log -text
+WinAos/vy.ants/documents/vyGraphic.Tool -text
+WinAos/vy.ants/documents/vyGraphics.Panel -text
+WinAos/vy.ants/documents/vyGraphics.tiny.Panel -text
+WinAos/vy.ants/documents/vyPortability.Mod -text
+WinAos/vy.ants/source/Aos.antsHybridObjects.Mod -text
+WinAos/vy.ants/source/Aos.antsPortability.Mod -text
+WinAos/vy.ants/source/Aos.antsSecurity.Mod -text
+WinAos/vy.ants/source/Aos.vyPortability.Mod -text
+WinAos/vy.ants/source/BellmanMinimisation.Mod -text
+WinAos/vy.ants/source/Lin.antsHybridObjects.Mod -text
+WinAos/vy.ants/source/Lin.antsPortability.Mod -text
+WinAos/vy.ants/source/Lin.vyPortability.Mod -text
+WinAos/vy.ants/source/ants.Mod -text
+WinAos/vy.ants/source/ants.fofAutomatic.Mod -text
+WinAos/vy.ants/source/ants1dArrayObjects.Mod -text
+WinAos/vy.ants/source/ants1dArrayVectors.Mod -text
+WinAos/vy.ants/source/ants1dCup.Mod -text
+WinAos/vy.ants/source/ants3D.Mod -text
+WinAos/vy.ants/source/ants3dArrayObjects.Mod -text
+WinAos/vy.ants/source/ants3dArrayViews.Mod -text
+WinAos/vy.ants/source/ants3dBinaryIsingS2.Mod -text
+WinAos/vy.ants/source/ants4dArrayObjects.Mod -text
+WinAos/vy.ants/source/ants4dBinaryIsingS2.Mod -text
+WinAos/vy.ants/source/antsArrayConversions.Mod -text
+WinAos/vy.ants/source/antsArrayImages.Mod -text
+WinAos/vy.ants/source/antsArrayImages16.Mod -text
+WinAos/vy.ants/source/antsArrayObjects.Mod -text
+WinAos/vy.ants/source/antsArrayPictures.Mod -text
+WinAos/vy.ants/source/antsArrayPictures16.Mod -text
+WinAos/vy.ants/source/antsArrayStatistics.Mod -text
+WinAos/vy.ants/source/antsArrayViews.Mod -text
+WinAos/vy.ants/source/antsArrays.Mod -text
+WinAos/vy.ants/source/antsAutoNormalS.Mod -text
+WinAos/vy.ants/source/antsAutobinomialS.Mod -text
+WinAos/vy.ants/source/antsAztec.Mod -text
+WinAos/vy.ants/source/antsBasicGadgets.Mod -text
+WinAos/vy.ants/source/antsBellman.Mod -text
+WinAos/vy.ants/source/antsBinaryEmpiricD.Mod -text
+WinAos/vy.ants/source/antsBinaryEmpiricD2.Mod -text
+WinAos/vy.ants/source/antsBinaryIsingS.Mod -text
+WinAos/vy.ants/source/antsBinaryIsingS2.Mod -text
+WinAos/vy.ants/source/antsBinaryNINNED.Mod -text
+WinAos/vy.ants/source/antsCaches.Mod -text
+WinAos/vy.ants/source/antsColors.Mod -text
+WinAos/vy.ants/source/antsComet.Mod -text
+WinAos/vy.ants/source/antsCommandInvoker.Mod -text
+WinAos/vy.ants/source/antsCommands.Mod -text
+WinAos/vy.ants/source/antsConstRandom.Mod -text
+WinAos/vy.ants/source/antsContainers.Mod -text
+WinAos/vy.ants/source/antsDependency.Mod -text
+WinAos/vy.ants/source/antsDirSet.Mod -text
+WinAos/vy.ants/source/antsDiscreteEmpiricD.Mod -text
+WinAos/vy.ants/source/antsDiscreteIsingS.Mod -text
+WinAos/vy.ants/source/antsEdges.Mod -text
+WinAos/vy.ants/source/antsEffects.Mod -text
+WinAos/vy.ants/source/antsEmpiricD.Mod -text
+WinAos/vy.ants/source/antsEstimate.Mod -text
+WinAos/vy.ants/source/antsEstimate2.Mod -text
+WinAos/vy.ants/source/antsExpressions.Mod -text
+WinAos/vy.ants/source/antsExpressionsDefaults.Mod -text
+WinAos/vy.ants/source/antsExpressionsObjects.Mod -text
+WinAos/vy.ants/source/antsFctEdit.Mod -text
+WinAos/vy.ants/source/antsFctVector.Mod -text
+WinAos/vy.ants/source/antsFiles.Mod -text
+WinAos/vy.ants/source/antsFilters.Mod -text
+WinAos/vy.ants/source/antsFunctions.Mod -text
+WinAos/vy.ants/source/antsGauss1dModel.Mod -text
+WinAos/vy.ants/source/antsGlobals.Mod -text
+WinAos/vy.ants/source/antsGraph.Mod -text
+WinAos/vy.ants/source/antsHierarchicPotts2d.Mod -text
+WinAos/vy.ants/source/antsHistogramEdit.Mod -text
+WinAos/vy.ants/source/antsImageViews.Mod -text
+WinAos/vy.ants/source/antsInteractivePar.Mod -text
+WinAos/vy.ants/source/antsIsingE.Mod -text
+WinAos/vy.ants/source/antsKernel.Mod -text
+WinAos/vy.ants/source/antsKernelViewer.Mod -text
+WinAos/vy.ants/source/antsLayerOps.Mod -text
+WinAos/vy.ants/source/antsLife.Mod -text
+WinAos/vy.ants/source/antsLinkView.Mod -text
+WinAos/vy.ants/source/antsMC.Mod -text
+WinAos/vy.ants/source/antsMCView.Mod -text
+WinAos/vy.ants/source/antsMDimDiscreteGS.Mod -text
+WinAos/vy.ants/source/antsMDimDiscreteIsingS.Mod -text
+WinAos/vy.ants/source/antsMDimDiscreteS.Mod -text
+WinAos/vy.ants/source/antsMDimEstimator.Mod -text
+WinAos/vy.ants/source/antsMDimMDiscreteIsingS.Mod -text
+WinAos/vy.ants/source/antsMasks.Mod -text
+WinAos/vy.ants/source/antsMatrixPar.Mod -text
+WinAos/vy.ants/source/antsMatrixParView.Mod -text
+WinAos/vy.ants/source/antsMeanArray.Mod -text
+WinAos/vy.ants/source/antsMessages.Mod -text
+WinAos/vy.ants/source/antsMinimizeF.Mod -text
+WinAos/vy.ants/source/antsModels.Mod -text
+WinAos/vy.ants/source/antsNDistrView.Mod -text
+WinAos/vy.ants/source/antsNNSampler.Mod -text
+WinAos/vy.ants/source/antsNeighbourhoods.Mod -text
+WinAos/vy.ants/source/antsObjectView.Mod -text
+WinAos/vy.ants/source/antsObjects.Mod -text
+WinAos/vy.ants/source/antsOnTheFly.Mod -text
+WinAos/vy.ants/source/antsOrganizers.Mod -text
+WinAos/vy.ants/source/antsPEIsingDS.Mod -text
+WinAos/vy.ants/source/antsPEV.Mod -text
+WinAos/vy.ants/source/antsPEVIsingDS.Mod -text
+WinAos/vy.ants/source/antsPerfectS.Mod -text
+WinAos/vy.ants/source/antsPictCoordinate.Mod -text
+WinAos/vy.ants/source/antsPictureViews.Mod -text
+WinAos/vy.ants/source/antsPlots.Mod -text
+WinAos/vy.ants/source/antsPointPlot.Mod -text
+WinAos/vy.ants/source/antsPointPlot2.Mod -text
+WinAos/vy.ants/source/antsPorts.Mod -text
+WinAos/vy.ants/source/antsPotts1DSurvey.Mod -text
+WinAos/vy.ants/source/antsPottsMonotone.Mod -text
+WinAos/vy.ants/source/antsPottsSimAdministration.Mod -text
+WinAos/vy.ants/source/antsPottsSimDataStructure.Mod -text
+WinAos/vy.ants/source/antsPottsSimulation.Mod -text
+WinAos/vy.ants/source/antsProgRandomWalk.Mod -text
+WinAos/vy.ants/source/antsRandom.Mod -text
+WinAos/vy.ants/source/antsRandomWalk.Mod -text
+WinAos/vy.ants/source/antsReadWrite.Mod -text
+WinAos/vy.ants/source/antsRegions.Mod -text
+WinAos/vy.ants/source/antsS3.ScrollbarsR.Mod -text
+WinAos/vy.ants/source/antsScale.Mod -text
+WinAos/vy.ants/source/antsScriptObjects.Mod -text
+WinAos/vy.ants/source/antsStatistics.Mod -text
+WinAos/vy.ants/source/antsTautString.Mod -text
+WinAos/vy.ants/source/antsTautStringTree.Mod -text
+WinAos/vy.ants/source/antsTexts.Mod -text
+WinAos/vy.ants/source/antsTextures.Mod -text
+WinAos/vy.ants/source/antsToolbox.Mod -text
+WinAos/vy.ants/source/antsTravelingS.Mod -text
+WinAos/vy.ants/source/antsValuePlot.Mod -text
+WinAos/vy.ants/source/antsVecOpt.Mod -text
+WinAos/vy.ants/source/antsVectors.Mod -text
+WinAos/vy.ants/source/antsViews.Mod -text
+WinAos/vy.ants/source/vy.Voyager.Mod -text
+WinAos/vy.ants/source/vy.dbgSortTest.Mod -text
+WinAos/vy.ants/source/vy.dbgTestVec.Mod -text
+WinAos/vy.ants/source/vy.jbrtStdNormal.Mod -text
+WinAos/vy.ants/source/vyAxis.Mod -text
+WinAos/vy.ants/source/vyBase.Mod -text
+WinAos/vy.ants/source/vyBit.Mod -text
+WinAos/vy.ants/source/vyBitmaps.Mod -text
+WinAos/vy.ants/source/vyBoolean.Mod -text
+WinAos/vy.ants/source/vyBooleanVec.Mod -text
+WinAos/vy.ants/source/vyBoxWhisker.Mod -text
+WinAos/vy.ants/source/vyCaption.Mod -text
+WinAos/vy.ants/source/vyCharts.Mod -text
+WinAos/vy.ants/source/vyChiSquare.Mod -text
+WinAos/vy.ants/source/vyColorPalettes.Mod -text
+WinAos/vy.ants/source/vyCommandMenus.Mod -text
+WinAos/vy.ants/source/vyComplex.Mod -text
+WinAos/vy.ants/source/vyConsume.Mod -text
+WinAos/vy.ants/source/vyDemo.Mod -text
+WinAos/vy.ants/source/vyDialogElems.Mod -text
+WinAos/vy.ants/source/vyDisplay2d.Mod -text
+WinAos/vy.ants/source/vyDistribution.Mod -text
+WinAos/vy.ants/source/vyEvents.Mod -text
+WinAos/vy.ants/source/vyFctEdit.Mod -text
+WinAos/vy.ants/source/vyFctRandom.Mod -text
+WinAos/vy.ants/source/vyFiles.Mod -text
+WinAos/vy.ants/source/vyGraph.Mod -text
+WinAos/vy.ants/source/vyGraphBase.Mod -text
+WinAos/vy.ants/source/vyGraphBase0.Mod -text
+WinAos/vy.ants/source/vyGraphicCtl.Mod -text
+WinAos/vy.ants/source/vyGrid.Mod -text
+WinAos/vy.ants/source/vyHighlight.Mod -text
+WinAos/vy.ants/source/vyHistogram.Mod -text
+WinAos/vy.ants/source/vyHost.Mod -text
+WinAos/vy.ants/source/vyHostFonts.Mod -text
+WinAos/vy.ants/source/vyHostPrint.Mod -text
+WinAos/vy.ants/source/vyHostStrings.Mod -text
+WinAos/vy.ants/source/vyHostTexts.Mod -text
+WinAos/vy.ants/source/vyIcons.Mod -text
+WinAos/vy.ants/source/vyIn.Mod -text
+WinAos/vy.ants/source/vyIntVec.Mod -text
+WinAos/vy.ants/source/vyInteger.Mod -text
+WinAos/vy.ants/source/vyKolSmirL.Mod -text
+WinAos/vy.ants/source/vyLCpx.Mod -text
+WinAos/vy.ants/source/vyLabel.Mod -text
+WinAos/vy.ants/source/vyLayers3d.Mod -text
+WinAos/vy.ants/source/vyLine.Mod -text
+WinAos/vy.ants/source/vyLinePlot.Mod -text
+WinAos/vy.ants/source/vyLinks.Mod -text
+WinAos/vy.ants/source/vyLongComplex.Mod -text
+WinAos/vy.ants/source/vyLongint.Mod -text
+WinAos/vy.ants/source/vyLongintVec.Mod -text
+WinAos/vy.ants/source/vyLongreal.Mod -text
+WinAos/vy.ants/source/vyLongrealVec.Mod -text
+WinAos/vy.ants/source/vyMatrixTypes.Mod -text
+WinAos/vy.ants/source/vyMaxMass.Mod -text
+WinAos/vy.ants/source/vyMouseData.Mod -text
+WinAos/vy.ants/source/vyName.Mod -text
+WinAos/vy.ants/source/vyOut.Mod -text
+WinAos/vy.ants/source/vyPComplex.Mod -text
+WinAos/vy.ants/source/vyPHIGS3D.Mod -text
+WinAos/vy.ants/source/vyPLongComplex.Mod -text
+WinAos/vy.ants/source/vyPaint3d.Mod -text
+WinAos/vy.ants/source/vyPars.Mod -text
+WinAos/vy.ants/source/vyParser.Mod -text
+WinAos/vy.ants/source/vyPatterns.Mod -text
+WinAos/vy.ants/source/vyPointerVec.Mod -text
+WinAos/vy.ants/source/vyPolyWorld.Mod -text
+WinAos/vy.ants/source/vyPort.Mod -text
+WinAos/vy.ants/source/vyQFisher.Mod -text
+WinAos/vy.ants/source/vyQuickDraw.Mod -text
+WinAos/vy.ants/source/vyRan1.Mod -text
+WinAos/vy.ants/source/vyRanBase.Mod -text
+WinAos/vy.ants/source/vyRanCombo.Mod -text
+WinAos/vy.ants/source/vyRanKiss.Mod -text
+WinAos/vy.ants/source/vyRanMWC.Mod -text
+WinAos/vy.ants/source/vyRanMWC1616.Mod -text
+WinAos/vy.ants/source/vyRanParksMiller.Mod -text
+WinAos/vy.ants/source/vyRanSkeleton.Mod -text
+WinAos/vy.ants/source/vyRanSupr.Mod -text
+WinAos/vy.ants/source/vyRandom.Mod -text
+WinAos/vy.ants/source/vyRandu.Mod -text
+WinAos/vy.ants/source/vyReadMatrix.Mod -text
+WinAos/vy.ants/source/vyReal.Mod -text
+WinAos/vy.ants/source/vyRealVec.Mod -text
+WinAos/vy.ants/source/vyRectPlot.Mod -text
+WinAos/vy.ants/source/vyRectangles.Mod -text
+WinAos/vy.ants/source/vyRegress.Mod -text
+WinAos/vy.ants/source/vyScale.Mod -text
+WinAos/vy.ants/source/vyScanners.Mod -text
+WinAos/vy.ants/source/vyScatter.Mod -text
+WinAos/vy.ants/source/vyScatter1.Mod -text
+WinAos/vy.ants/source/vyScatter2.Mod -text
+WinAos/vy.ants/source/vyScatter3.Mod -text
+WinAos/vy.ants/source/vySet.Mod -text
+WinAos/vy.ants/source/vyShorth.Mod -text
+WinAos/vy.ants/source/vySketch.Mod -text
+WinAos/vy.ants/source/vySlider.Mod -text
+WinAos/vy.ants/source/vySlider2d.Mod -text
+WinAos/vy.ants/source/vyStd2dLayer.Mod -text
+WinAos/vy.ants/source/vyStringVec.Mod -text
+WinAos/vy.ants/source/vySurface.Mod -text
+WinAos/vy.ants/source/vyTextsCtl.Mod -text
+WinAos/vy.ants/source/vyTracking.Mod -text
+WinAos/vy.ants/source/vyTypes.Mod -text
+WinAos/vy.ants/source/vyXPValues.Mod -text
+WinAos/vy.ants/source/vyXYPlane.Mod -text
+WinAos/vy.ants/source/vydbg.RandomTest.Mod -text
+WinAos/vy.ants/source/vyxPlots.Mod -text
 source/AFM.Mod -text
 source/AMD64.Aos.Tool -text
 source/AMD64.Machine.Mod -text
@@ -4620,6 +4533,93 @@ source/WebStd.Mod -text
 source/WebWormWatch.Mod -text
 source/Where.zip -text
 source/White.Pal -text
+source/Win32.ADVAPI32.Mod -text svneol=unset#text/plain
+source/Win32.Aos.Clipboard.Mod -text svneol=unset#text/plain
+source/Win32.Aos.FileDir.Mod -text svneol=unset#text/plain
+source/Win32.Aos.Files.Mod -text svneol=unset#text/plain
+source/Win32.Aos.Link -text
+source/Win32.Aos.NetSystem.Mod -text svneol=unset#text/plain
+source/Win32.Aos.Tool -text
+source/Win32.Aos2.Tool -text
+source/Win32.AosBeep.Mod -text svneol=unset#text/plain
+source/Win32.AosClipboard.Mod -text svneol=unset#text/plain
+source/Win32.AosClock.Mod -text svneol=unset#text/plain
+source/Win32.AosConfiguration.Mod -text svneol=unset#text/plain
+source/Win32.AosConsole.Mod -text svneol=unset#text/plain
+source/Win32.AosDNS.Mod -text svneol=unset#text/plain
+source/Win32.AosDisplayWM.Mod -text svneol=unset#text/plain
+source/Win32.AosIP.Mod -text svneol=unset#text/plain
+source/Win32.AosIP.old.Mod -text svneol=unset#text/plain
+source/Win32.AosNet.Mod -text svneol=unset#text/plain
+source/Win32.AosPerformance.Mod -text svneol=unset#text/plain
+source/Win32.AosTCP.Mod -text svneol=unset#text/plain
+source/Win32.AosUDP.Mod -text svneol=unset#text/plain
+source/Win32.AosV24.Mod -text svneol=unset#text/plain
+source/Win32.AosWinDisks.Mod -text svneol=unset#text/plain
+source/Win32.AosWinFS.Mod -text svneol=unset#text/plain
+source/Win32.Bitmaps.Mod -text svneol=unset#text/plain
+source/Win32.BootLinker.Mod -text svneol=unset#text/plain
+source/Win32.COMDLG32.Mod -text svneol=unset#text/plain
+source/Win32.Clipboard.Mod -text svneol=unset#text/plain
+source/Win32.ColorGadgets.Mod -text svneol=unset#text/plain
+source/Win32.Colors.Mod -text svneol=unset#text/plain
+source/Win32.Configuration.Mod -text svneol=unset#text/plain
+source/Win32.Desktops.Mod -text svneol=unset#text/plain
+source/Win32.Directories.Mod -text svneol=unset#text/plain
+source/Win32.Display.Mod -text svneol=unset#text/plain
+source/Win32.Display3.Mod -text svneol=unset#text/plain
+source/Win32.Displays.Mod -text svneol=unset#text/plain
+source/Win32.Effects.Mod -text svneol=unset#text/plain
+source/Win32.Exceptions.Mod -text svneol=unset#text/plain
+source/Win32.Finder.Mod -text svneol=unset#text/plain
+source/Win32.FontRes.Mod -text svneol=unset#text/plain
+source/Win32.Fonts.Mod -text svneol=unset#text/plain
+source/Win32.GDI32.Mod -text svneol=unset#text/plain
+source/Win32.Gadgets.Mod -text svneol=unset#text/plain
+source/Win32.Heaps.Mod -text svneol=unset#text/plain
+source/Win32.ImageGadgets.Mod -text svneol=unset#text/plain
+source/Win32.Input.Mod -text svneol=unset#text/plain
+source/Win32.Kernel.Mod -text svneol=unset#text/plain
+source/Win32.Kernel32.Mod -text svneol=unset#text/plain
+source/Win32.Machine.Mod -text svneol=unset#text/plain
+source/Win32.Miscellaneous.Mod -text svneol=unset#text/plain
+source/Win32.ODBC.Mod -text svneol=unset#text/plain
+source/Win32.Oberon.Mod -text svneol=unset#text/plain
+source/Win32.OberonKernel.Mod -text svneol=unset#text/plain
+source/Win32.Objects.Mod -text svneol=unset#text/plain
+source/Win32.PELinker.Mod -text svneol=unset#text/plain
+source/Win32.PSPrinter.Mod -text svneol=unset#text/plain
+source/Win32.Pictures.Mod -text svneol=unset#text/plain
+source/Win32.PlugInDocs.Mod -text svneol=unset#text/plain
+source/Win32.Printer.Mod -text svneol=unset#text/plain
+source/Win32.PrinterInfo.Mod -text svneol=unset#text/plain
+source/Win32.Registry.Mod -text svneol=unset#text/plain
+source/Win32.RegistryTools.Mod -text svneol=unset#text/plain
+source/Win32.Rembrandt.Mod -text svneol=unset#text/plain
+source/Win32.SQL.Mod -text svneol=unset#text/plain
+source/Win32.Shell32.Mod -text svneol=unset#text/plain
+source/Win32.System.Mod -text svneol=unset#text/plain
+source/Win32.Threads.Mod -text svneol=unset#text/plain
+source/Win32.Traps.Mod -text svneol=unset#text/plain
+source/Win32.User32.Mod -text svneol=unset#text/plain
+source/Win32.V24.Mod -text svneol=unset#text/plain
+source/Win32.Viewers.Mod -text svneol=unset#text/plain
+source/Win32.WMPerfMonPluginCpu.Mod -text svneol=unset#text/plain
+source/Win32.WMPerfMonPluginMemory.Mod -text svneol=unset#text/plain
+source/Win32.WMTCPTracker.Mod -text svneol=unset#text/plain
+source/Win32.WSock32.Mod -text svneol=unset#text/plain
+source/Win32.WinApplications.Mod -text
+source/Win32.WinConsole.Mod -text svneol=unset#text/plain
+source/Win32.WinFonts.Mod -text svneol=unset#text/plain
+source/Win32.WinImages.Mod -text svneol=unset#text/plain
+source/Win32.WinMenus.Mod -text svneol=unset#text/plain
+source/Win32.WinPrinter.Mod -text svneol=unset#text/plain
+source/Win32.Windows.Mod -text svneol=unset#text/plain
+source/Win32.antsPortability.Mod -text svneol=unset#text/plain
+source/Win32.antsTracking.Mod -text svneol=unset#text/plain
+source/Win32.vyPortability.Mod -text svneol=unset#text/plain
+source/Win32AosDisplay.Mod -text svneol=unset#text/plain
+source/Win32RelFS.Mod -text svneol=unset#text/plain
 source/WindowManager.Mod -text
 source/X29Plane.poly -text
 source/XBM.Mod -text
