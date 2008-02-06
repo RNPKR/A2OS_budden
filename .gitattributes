@@ -391,6 +391,8 @@ WinAos/ObjE/Array2dCplx.Obw -text
 WinAos/ObjE/Array2dInt.Obw -text
 WinAos/ObjE/Array2dRat.Obw -text
 WinAos/ObjE/Array2dRe.Obw -text
+WinAos/ObjE/ArrayBase.Obw -text
+WinAos/ObjE/ArrayBaseOptimized.Obw -text
 WinAos/ObjE/ArrayXdBytes.Obw -text
 WinAos/ObjE/ArrayXdCplx.Obw -text
 WinAos/ObjE/ArrayXdInt.Obw -text
@@ -413,6 +415,7 @@ WinAos/ObjE/BasicGadgets.Obw -text
 WinAos/ObjE/BeepTest.Obw -text
 WinAos/ObjE/BimboMail.Obw -text
 WinAos/ObjE/Bimso.Obw -text
+WinAos/ObjE/Bin2Hex.Obw -text
 WinAos/ObjE/BinHex.Obw -text
 WinAos/ObjE/Bitmaps.Obw -text
 WinAos/ObjE/Bluetooth.Obw -text
@@ -676,6 +679,7 @@ WinAos/ObjE/ListGadgets.Obw -text
 WinAos/ObjE/ListModels.Obw -text
 WinAos/ObjE/ListRiders.Obw -text
 WinAos/ObjE/Lists.Obw -text
+WinAos/ObjE/Locks.Obw -text
 WinAos/ObjE/LogWindow.Obw -text
 WinAos/ObjE/Looks.Obw -text
 WinAos/ObjE/MD5.Obw -text
@@ -777,6 +781,7 @@ WinAos/ObjE/PCAARM.Obw -text
 WinAos/ObjE/PCARMCP.Obw -text
 WinAos/ObjE/PCARMDecoder.Obw -text
 WinAos/ObjE/PCARMRegisters.Obw -text
+WinAos/ObjE/PCArrays.Obw -text
 WinAos/ObjE/PCB.Obw -text
 WinAos/ObjE/PCBT.Obw -text
 WinAos/ObjE/PCC.Obw -text
@@ -1016,7 +1021,6 @@ WinAos/ObjE/WMInputMethods.Obw -text
 WinAos/ObjE/WMInstaller.Obw -text
 WinAos/ObjE/WMJoysticks.Obw -text
 WinAos/ObjE/WMKeyCode.Obw -text
-WinAos/ObjE/WMLocks.Obw -text
 WinAos/ObjE/WMLog.Obw -text
 WinAos/ObjE/WMMacros.Obw -text
 WinAos/ObjE/WMMenus.Obw -text
@@ -1602,6 +1606,8 @@ WinAos/ObjI/Array2dCplx.Obw -text
 WinAos/ObjI/Array2dInt.Obw -text
 WinAos/ObjI/Array2dRat.Obw -text
 WinAos/ObjI/Array2dRe.Obw -text
+WinAos/ObjI/ArrayBase.Obw -text
+WinAos/ObjI/ArrayBaseOptimized.Obw -text
 WinAos/ObjI/ArrayXdBytes.Obw -text
 WinAos/ObjI/ArrayXdCplx.Obw -text
 WinAos/ObjI/ArrayXdInt.Obw -text
@@ -1624,6 +1630,7 @@ WinAos/ObjI/BasicGadgets.Obw -text
 WinAos/ObjI/BeepTest.Obw -text
 WinAos/ObjI/BimboMail.Obw -text
 WinAos/ObjI/Bimso.Obw -text
+WinAos/ObjI/Bin2Hex.Obw -text
 WinAos/ObjI/BinHex.Obw -text
 WinAos/ObjI/Bitmaps.Obw -text
 WinAos/ObjI/Bluetooth.Obw -text
@@ -1885,6 +1892,7 @@ WinAos/ObjI/ListGadgets.Obw -text
 WinAos/ObjI/ListModels.Obw -text
 WinAos/ObjI/ListRiders.Obw -text
 WinAos/ObjI/Lists.Obw -text
+WinAos/ObjI/Locks.Obw -text
 WinAos/ObjI/LogWindow.Obw -text
 WinAos/ObjI/Looks.Obw -text
 WinAos/ObjI/MD5.Obw -text
@@ -1986,6 +1994,7 @@ WinAos/ObjI/PCAARM.Obw -text
 WinAos/ObjI/PCARMCP.Obw -text
 WinAos/ObjI/PCARMDecoder.Obw -text
 WinAos/ObjI/PCARMRegisters.Obw -text
+WinAos/ObjI/PCArrays.Obw -text
 WinAos/ObjI/PCB.Obw -text
 WinAos/ObjI/PCBT.Obw -text
 WinAos/ObjI/PCC.Obw -text
@@ -2224,7 +2233,6 @@ WinAos/ObjI/WMInputMethods.Obw -text
 WinAos/ObjI/WMInstaller.Obw -text
 WinAos/ObjI/WMJoysticks.Obw -text
 WinAos/ObjI/WMKeyCode.Obw -text
-WinAos/ObjI/WMLocks.Obw -text
 WinAos/ObjI/WMLog.Obw -text
 WinAos/ObjI/WMMacros.Obw -text
 WinAos/ObjI/WMMenus.Obw -text
@@ -3713,6 +3721,7 @@ source/I386.AosNet.Mod -text
 source/I386.AosS3Aurora64.Mod -text
 source/I386.AosUsbKeyboard.Mod -text
 source/I386.Array1dBytes.Mod -text
+source/I386.ArrayBaseOptimized.Mod -text
 source/I386.ArrayXdBytes.Mod -text
 source/I386.Bitmaps.Mod -text
 source/I386.DivXHelper.Mod -text
