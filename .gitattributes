@@ -3982,6 +3982,7 @@ source/OTScan.Mod -text
 source/OType.Mod -text
 source/OType.Text -text
 source/Oberon.Desk -text
+source/Oberon.Test -text
 source/Oberon.Text -text
 source/Oberon10.Pr3.Fnt -text
 source/Oberon10.Pr6.Fnt -text
@@ -4088,6 +4089,7 @@ source/PCOM.Mod -text
 source/PCP.Mod -text
 source/PCS.Mod -text
 source/PCT.Mod -text
+source/PCTest.Mod -text
 source/PCV.Mod -text
 source/PCX.Mod -text
 source/PCXImages.Mod -text
@@ -4311,6 +4313,7 @@ source/TestComponents.Mod -text
 source/TestHTML.Text -text
 source/TestMenu.Mod -text
 source/TestOrganizer.Panel -text
+source/TestSuite.Mod -text
 source/TestTrees.Mod -text
 source/TestXMLPlugins.Mod -text
 source/Tetra.poly -text
