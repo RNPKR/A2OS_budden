@@ -3371,6 +3371,7 @@ source/Bluetooth.Mod -text
 source/BluetoothHCI.Mod -text
 source/BluetoothL2CAP.Mod -text
 source/BluetoothRFCOMM.Mod -text
+source/BluetoothTest.Mod -text
 source/BluetoothUART.Mod -text
 source/BluetoothUSB.Mod -text
 source/Book.Tool -text
