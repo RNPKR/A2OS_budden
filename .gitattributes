@@ -3523,6 +3523,7 @@ source/Dates.Mod -text
 source/DayTime.Mod -text
 source/DbgOut.Mod -text
 source/DebugLog.Mod -text
+source/Debugging.Mod -text
 source/Decoder.Mod -text
 source/Decoders.Tool -text
 source/Default.Pal -text
