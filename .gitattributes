@@ -3555,7 +3555,6 @@ source/Display3.Mod -text
 source/DisplayGTF.Mod -text
 source/Distance.Shape -text
 source/DivXTypes.Mod -text
-source/DocComponents.Text -text
 source/DocumentSkeleton.Mod -text
 source/Documentation.Tool -text
 source/Documents.Mod -text
