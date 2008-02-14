@@ -4552,8 +4552,6 @@ source/Win32.Aos.FileDir.Mod -text svneol=unset#text/plain
 source/Win32.Aos.Files.Mod -text svneol=unset#text/plain
 source/Win32.Aos.Link -text
 source/Win32.Aos.NetSystem.Mod -text svneol=unset#text/plain
-source/Win32.Aos.Tool -text
-source/Win32.Aos2.Tool -text
 source/Win32.AosBeep.Mod -text svneol=unset#text/plain
 source/Win32.AosClipboard.Mod -text svneol=unset#text/plain
 source/Win32.AosClock.Mod -text svneol=unset#text/plain
