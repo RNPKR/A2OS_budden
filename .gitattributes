@@ -4363,6 +4363,17 @@ source/VecCplx.Mod -text
 source/VecInt.Mod -text
 source/VecRat.Mod -text
 source/VecRe.Mod -text
+source/Vera.ttf -text
+source/VeraBI.ttf -text
+source/VeraBd.ttf -text
+source/VeraCOPYRIGHT.TXT -text
+source/VeraI.ttf -text
+source/VeraMo.ttf -text
+source/VeraMoBI.ttf -text
+source/VeraMoBd.ttf -text
+source/VeraMoI.ttf -text
+source/VeraSe.ttf -text
+source/VeraSeBd.ttf -text
 source/ViewSkeleton.Mod -text
 source/Views.Mod -text
 source/Vinci.Init -text
