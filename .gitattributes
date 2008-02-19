@@ -4443,7 +4443,7 @@ source/Tree.poly -text
 source/Tree1.Pict -text
 source/Trees.Pict -text
 source/TuringCoatWnd.Mod -text
-source/Tutorial.Text -text svneol=unset#application/octet-stream
+source/Tutorial.Text -text
 source/Tutorials.Book -text
 source/Tutorials.Tool -text
 source/UDPExample.Mod -text
