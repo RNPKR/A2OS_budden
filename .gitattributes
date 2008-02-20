@@ -4196,7 +4196,7 @@ source/PCXImages.Mod -text
 source/PDF.Mod -text
 source/PDFExample.Mod -text
 source/PELinker.Tool -text
-source/PET.Mod -text svneol=unset#application/octet-stream
+source/PET.Mod -text
 source/PETIcons.tar -text
 source/PPM.Mod -text
 source/PS.HeaderR.Text -text
