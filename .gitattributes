@@ -43,8 +43,6 @@ UnixAos/KeyboardMap.Mod -text
 UnixAos/Linux.Glue.Mod -text
 UnixAos/Linux.Unix.Mod -text
 UnixAos/Lists.Mod -text
-UnixAos/Math.Mod -text
-UnixAos/MathL.Mod -text
 UnixAos/Modules.Mod -text
 UnixAos/NetBase.Mod -text
 UnixAos/OFormatter.Mod -text
