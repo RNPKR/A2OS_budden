@@ -3407,6 +3407,7 @@ source/AosYMF754.Mod -text
 source/AosYMF754Util.Mod -text
 source/AosZip.Mod -text
 source/AosZipFS.Mod -text
+source/AosZipTool.Mod -text
 source/AosZlibReaders.Mod -text
 source/AosZlibWriters.Mod -text
 source/Aosi810Sound.Mod -text
