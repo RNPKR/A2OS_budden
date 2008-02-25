@@ -3181,11 +3181,18 @@ source/AosConfig.XML -text
 source/AosConsole.Mod -text
 source/AosCopyright.Mod -text
 source/AosCopyright.Text -text
+source/AosCryptoAES.Mod -text
 source/AosCryptoARC4.Mod -text
 source/AosCryptoBigNumbers.Mod -text
+source/AosCryptoBlowfish.Data -text
+source/AosCryptoBlowfish.Mod -text
+source/AosCryptoCAST.Data -text
+source/AosCryptoCAST.Mod -text
 source/AosCryptoCiphers.Mod -text
+source/AosCryptoDES.Data -text
 source/AosCryptoDES.Mod -text
 source/AosCryptoDES3.Mod -text
+source/AosCryptoDHPrimes.Data -text
 source/AosCryptoDSA.Mod -text
 source/AosCryptoDiffieHellman.Mod -text
 source/AosCryptoHMAC.Mod -text
@@ -3202,6 +3209,8 @@ source/AosCryptoTestDSA.Mod -text
 source/AosCryptoTestHMAC.Mod -text
 source/AosCryptoTestHashes.Mod -text
 source/AosCryptoTestRSA.Mod -text
+source/AosCryptoTwofish.Data -text
+source/AosCryptoTwofish.Mod -text
 source/AosCryptoUtils.Mod -text
 source/AosDES.Mod -text
 source/AosDHCP.Mod -text
