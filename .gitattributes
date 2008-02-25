@@ -4285,6 +4285,14 @@ source/RfsFS.Mod -text
 source/Room.poly -text
 source/Rot13.Mod -text
 source/S.Mod -text
+source/SSH.Mod -text
+source/SSH.Panel -text
+source/SSHAuth.Mod -text
+source/SSHConfiguration.Text -text
+source/SSHGadgets.Mod -text
+source/SSHHostkeys.Mod -text
+source/SSHTransport.Mod -text
+source/SSHUtils.Mod -text
 source/SVG.Mod -text
 source/SVGColors.Mod -text
 source/SVGDecoder.Mod -text
