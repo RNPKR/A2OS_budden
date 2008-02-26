@@ -3168,6 +3168,7 @@ source/AosBenchPingPong.Mod -text
 source/AosBenchSpeedup.Mod -text
 source/AosBenchTCP.Mod -text
 source/AosBimboFS.Mod -text
+source/AosBuild.Tool -text
 source/AosCDRecord.Mod -text
 source/AosCDRecordLib.Mod -text
 source/AosCDRecordUtils.Mod -text
