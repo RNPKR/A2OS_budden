@@ -4288,6 +4288,7 @@ source/Rot13.Mod -text
 source/S.Mod -text
 source/SSH.Mod -text
 source/SSH.Panel -text
+source/SSH.Tool -text
 source/SSHAuth.Mod -text
 source/SSHConfiguration.Text -text
 source/SSHGadgets.Mod -text
