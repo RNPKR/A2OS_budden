@@ -5,7 +5,6 @@ UnixAos/AosBasetypes.Mod -text
 UnixAos/AosUnixFiles.Mod -text
 UnixAos/Clipboard.Mod -text
 UnixAos/Darwin.Glue.Mod -text
-UnixAos/Darwin.PCM.Mod -text
 UnixAos/Darwin.Unix.Mod -text
 UnixAos/Decoder.Mod -text
 UnixAos/Directories.Mod -text
