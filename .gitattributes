@@ -4555,6 +4555,7 @@ source/WMGrids.Mod -text
 source/WMInputMethods.Mod -text
 source/WMInstaller.Mod -text
 source/WMInstaller.tar -text svneol=unset#unset
+source/WMInstallerPackages.XML -text
 source/WMJoysticks.Mod -text
 source/WMKeyCode.Mod -text
 source/WMLog.Mod -text
