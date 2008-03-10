@@ -4216,6 +4216,9 @@ source/Packages.Tool -text
 source/PanelDocs.Mod -text
 source/Panels.Mod -text
 source/Parser.FRM -text
+source/PartitionEditor.Mod -text
+source/PartitionEditorComponents.Mod -text
+source/PartitionEditorTable.Mod -text
 source/Partitions.Mod -text
 source/Partitions.Tool -text
 source/PasswordFields.Mod -text
