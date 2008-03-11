@@ -4288,6 +4288,7 @@ source/RfsFS.Mod -text
 source/Room.poly -text
 source/Rot13.Mod -text
 source/S.Mod -text
+source/SSFS.Mod -text
 source/SSH.Mod -text
 source/SSH.Panel -text
 source/SSH.Tool -text
