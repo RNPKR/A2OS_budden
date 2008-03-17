@@ -4862,6 +4862,7 @@ source/tutorial6.dxp -text
 source/winxp.skin -text
 source/xmas.skin -text
 source/xmas04.tar -text
+tools/ObeDAV/ObeDAV.Text -text
 tools/WinAosDebug/Debug.c -text
 tools/WinAosDebug/Debug.h -text
 tools/WinAosDebug/Debug.rc -text
