@@ -1,3 +1,10 @@
 * text=auto !eol
+/OdAuth.Mod -text
+/OdAuthBase.Mod -text
+/OdClient.Mod -text
+/OdClientTools.Mod -text
+/OdCond.Mod -text
+/OdSvn.Mod -text
 /OdSvn.Tool -text
 /OdUtil.Mod -text
+/OdXml.Mod -text
