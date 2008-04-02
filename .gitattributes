@@ -4709,7 +4709,6 @@ source/WebBrowserComponents.Mod -text
 source/WebBrowserPanel.Mod -text
 source/WebCGI.Mod -text
 source/WebComplex.Mod -text
-source/WebDAV.1.3.4.Zip -text
 source/WebDefaultSSMP.Mod -text
 source/WebFTPServer.Mod -text
 source/WebForum.Mod -text
