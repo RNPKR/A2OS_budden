@@ -4208,6 +4208,7 @@ source/ObjExplorer.Mod -text
 source/ObjExplorer.Panel -text
 source/Objects.Mod -text
 source/OdAuth.Mod -text
+source/OdAuthBase.Mod -text
 source/OpenDemo.Mod -text
 source/OpenDemo2.Mod -text
 source/Options.Mod -text
