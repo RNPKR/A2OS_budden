@@ -4212,6 +4212,7 @@ source/OdAuthBase.Mod -text
 source/OdClient.Mod -text
 source/OdClientTools.Mod -text
 source/OdCond.Mod -text
+source/OdSvn.Mod -text
 source/OpenDemo.Mod -text
 source/OpenDemo2.Mod -text
 source/Options.Mod -text
