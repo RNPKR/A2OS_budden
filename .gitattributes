@@ -4210,6 +4210,7 @@ source/Objects.Mod -text
 source/OdAuth.Mod -text
 source/OdAuthBase.Mod -text
 source/OdClient.Mod -text
+source/OdClientTools.Mod -text
 source/OpenDemo.Mod -text
 source/OpenDemo2.Mod -text
 source/Options.Mod -text
