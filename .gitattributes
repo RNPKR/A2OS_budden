@@ -4213,9 +4213,12 @@ source/OdAuthBase.Mod -text
 source/OdClient.Mod -text
 source/OdClientTools.Mod -text
 source/OdCond.Mod -text
+source/OdDeltavBase.Mod -text
+source/OdPlugin.Mod -text
 source/OdSvn.Mod -text
 source/OdSvn.Tool -text
 source/OdUtil.Mod -text
+source/OdVCSBase.Mod -text
 source/OdXml.Mod -text
 source/OpenDemo.Mod -text
 source/OpenDemo2.Mod -text
