@@ -3876,6 +3876,7 @@ source/I386.AosUsbKeyboard.Mod -text
 source/I386.Array1dBytes.Mod -text
 source/I386.ArrayBaseOptimized.Mod -text
 source/I386.ArrayXdBytes.Mod -text
+source/I386.BenchInterrupts.Mod -text
 source/I386.Bitmaps.Mod -text
 source/I386.DivXHelper.Mod -text
 source/I386.IDCT.Mod -text
