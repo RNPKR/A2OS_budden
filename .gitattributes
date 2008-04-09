@@ -3160,7 +3160,6 @@ WinAos/vy.ants/source/vyXYPlane.Mod -text
 WinAos/vy.ants/source/vydbg.RandomTest.Mod -text
 WinAos/vy.ants/source/vyxPlots.Mod -text
 source/AFM.Mod -text
-source/AMD64.Aos.Tool -text
 source/AMD64.Machine.Mod -text
 source/AMD64.Processors.Mod -text
 source/ASCIITab.Mod -text
