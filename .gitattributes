@@ -2808,7 +2808,6 @@ WinAos/vy.ants/documents/antsGenericModelMod.Text -text
 WinAos/vy.ants/documents/antsGirlsEye.Panel -text
 WinAos/vy.ants/documents/antsHierarchicPotts.Panel -text
 WinAos/vy.ants/documents/antsHierarchicPottsDir.Panel -text
-WinAos/vy.ants/documents/antsHybridObjects.Mod -text
 WinAos/vy.ants/documents/antsIsing2dCooling.Help -text
 WinAos/vy.ants/documents/antsIsing2dCooling.Panel -text
 WinAos/vy.ants/documents/antsIsing2dGibbs.Help -text
@@ -2838,7 +2837,6 @@ WinAos/vy.ants/documents/antsMaxInt1d.Help -text
 WinAos/vy.ants/documents/antsMaxInt1d.Panel -text
 WinAos/vy.ants/documents/antsMetropolisVisits.Help -text
 WinAos/vy.ants/documents/antsMetropolisVisits.Panel -text
-WinAos/vy.ants/documents/antsModelBuilder.Mod -text
 WinAos/vy.ants/documents/antsModelPrototype.Types -text
 WinAos/vy.ants/documents/antsModelSelection1d.Help -text
 WinAos/vy.ants/documents/antsModelSelection1d.Panel -text
@@ -2861,7 +2859,6 @@ WinAos/vy.ants/documents/antsPictures.Panel -text
 WinAos/vy.ants/documents/antsPixelEdgeM.Help -text
 WinAos/vy.ants/documents/antsPixelEdgeM.Panel -text
 WinAos/vy.ants/documents/antsPixelStatistics.Panel -text
-WinAos/vy.ants/documents/antsPortability.Mod -text
 WinAos/vy.ants/documents/antsPortability.Text -text
 WinAos/vy.ants/documents/antsPosteriorGibbsS.Help -text
 WinAos/vy.ants/documents/antsPosteriorGibbsS.Panel -text
@@ -2893,8 +2890,6 @@ WinAos/vy.ants/documents/antsText.Panel -text
 WinAos/vy.ants/documents/antsText.Text -text
 WinAos/vy.ants/documents/antsTextureExamples.Panel -text
 WinAos/vy.ants/documents/antsTools.Panel -text
-WinAos/vy.ants/documents/antsTracking.Mod -text
-WinAos/vy.ants/documents/antsTrapper.Mod -text
 WinAos/vy.ants/documents/antsTravelingSalesman.Help -text
 WinAos/vy.ants/documents/antsTravelingSalesman.Panel -text
 WinAos/vy.ants/documents/antsViewScannings.Text -text
@@ -2919,7 +2914,6 @@ WinAos/vy.ants/documents/vyExample.Log -text
 WinAos/vy.ants/documents/vyGraphic.Tool -text
 WinAos/vy.ants/documents/vyGraphics.Panel -text
 WinAos/vy.ants/documents/vyGraphics.tiny.Panel -text
-WinAos/vy.ants/documents/vyPortability.Mod -text
 WinAos/vy.ants/source/Aos.antsHybridObjects.Mod -text
 WinAos/vy.ants/source/Aos.antsPortability.Mod -text
 WinAos/vy.ants/source/Aos.antsSecurity.Mod -text
