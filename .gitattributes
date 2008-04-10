@@ -2920,7 +2920,6 @@ WinAos/vy.ants/source/Aos.antsSecurity.Mod -text
 WinAos/vy.ants/source/Aos.vyPortability.Mod -text
 WinAos/vy.ants/source/BellmanMinimisation.Mod -text
 WinAos/vy.ants/source/Lin.antsHybridObjects.Mod -text
-WinAos/vy.ants/source/Lin.antsPortability.Mod -text
 WinAos/vy.ants/source/Lin.vyPortability.Mod -text
 WinAos/vy.ants/source/ants.Mod -text
 WinAos/vy.ants/source/ants.fofAutomatic.Mod -text
