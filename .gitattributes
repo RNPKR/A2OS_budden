@@ -4742,7 +4742,6 @@ source/Win32.AosConsole.Mod -text svneol=unset#text/plain
 source/Win32.AosDNS.Mod -text svneol=unset#text/plain
 source/Win32.AosDisplayWM.Mod -text svneol=unset#text/plain
 source/Win32.AosIP.Mod -text svneol=unset#text/plain
-source/Win32.AosIP.old.Mod -text svneol=unset#text/plain
 source/Win32.AosNet.Mod -text svneol=unset#text/plain
 source/Win32.AosPerformance.Mod -text svneol=unset#text/plain
 source/Win32.AosTCP.Mod -text svneol=unset#text/plain
