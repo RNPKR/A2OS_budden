@@ -29,7 +29,6 @@ UnixAos/Unix.Display.Mod -text
 UnixAos/Unix.FileDir.Mod -text
 UnixAos/Unix.Files.Mod -text
 UnixAos/Unix.Find.Mod -text
-UnixAos/Unix.Find.Modll -text
 UnixAos/Unix.FindFile.Mod -text
 UnixAos/Unix.GfxFonts0.Mod -text
 UnixAos/Unix.GfxPKFonts.Mod -text
