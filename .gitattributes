@@ -266,7 +266,6 @@ WinAos/Aos/Watson.Contents.html -text svneol=unset#text/html
 WinAos/Aos/Watson.Index.html -text svneol=unset#text/html
 WinAos/Aos/Watson.html -text svneol=unset#text/html
 WinAos/Aos/WatsonObjs.Lib -text
-WinAos/Aos/Win32.Rel -text
 WinAos/Aos/WinAos.Text -text svneol=unset#text/plain
 WinAos/Aos/WinAos.ico -text svneol=unset#image/x-icon
 WinAos/Aos/WinMenus.Lib -text
