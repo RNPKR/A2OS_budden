@@ -3310,7 +3310,6 @@ source/AosHotKeys.Mod -text
 source/AosHotKeys.XML -text
 source/AosHotKeysCommands.Mod -text
 source/AosICMP.Mod -text
-source/AosIO.Mod -text
 source/AosIPv6.Mod -text
 source/AosISO9660Files.Mod -text
 source/AosISO9660Volumes.Mod -text
@@ -4426,6 +4425,7 @@ source/Spider.Mod -text
 source/Spirals.Pict -text
 source/Stars.Vinci -text
 source/StartMenu.Mod -text
+source/Streams.Mod -text
 source/StringPool.Mod -text
 source/Strings.Mod -text
 source/StyleGadgets.Mod -text
