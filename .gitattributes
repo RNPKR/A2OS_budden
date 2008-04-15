@@ -4196,6 +4196,7 @@ source/OberonKernel.Mod -text
 source/OberonModules.Mod -text
 source/OberonObjects.Mod -text
 source/OberonReport.html -text
+source/OberonStreams.Mod -text
 source/ObjExplorer.Mod -text
 source/ObjExplorer.Panel -text
 source/Objects.Mod -text
@@ -4425,7 +4426,6 @@ source/Spider.Mod -text
 source/Spirals.Pict -text
 source/Stars.Vinci -text
 source/StartMenu.Mod -text
-source/Streams.Mod -text
 source/StringPool.Mod -text
 source/Strings.Mod -text
 source/StyleGadgets.Mod -text
