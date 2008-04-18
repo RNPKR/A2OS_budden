@@ -32,7 +32,6 @@ UnixAos/buildtools/x86.Darwin.Tool -text
 UnixAos/buildtools/x86.Linux.Tool -text
 UnixAos/buildtools/x86.Solaris.Tool -text
 WinAos/Aos.EXE -text
-WinAos/Aos.Text -text svneol=unset#text/plain
 WinAos/Aos/AddressBook.Text -text svneol=unset#text/plain
 WinAos/Aos/Aos.ico -text svneol=unset#image/x-icon
 WinAos/Aos/Aos.small.ico -text svneol=unset#image/x-icon
@@ -2699,6 +2698,7 @@ WinAos/ObjI/vyXPValues.Obw -text
 WinAos/ObjI/vyXYPlane.Obw -text
 WinAos/ObjI/vyxPlots.Obw -text
 WinAos/Work/Projects.Tool -text
+WinAos/aos.ini -text svneol=unset#text/plain
 WinAos/license.txt -text svneol=unset#text/plain
 WinAos/vy.ants/documents/AntsInFields.Ico -text
 WinAos/vy.ants/documents/Aztec.Panel -text
@@ -4736,7 +4736,6 @@ source/Win32.AosBeep.Mod -text svneol=unset#text/plain
 source/Win32.AosClipboard.Mod -text svneol=unset#text/plain
 source/Win32.AosClock.Mod -text svneol=unset#text/plain
 source/Win32.AosConfiguration.Mod -text svneol=unset#text/plain
-source/Win32.AosConsole.Mod -text svneol=unset#text/plain
 source/Win32.AosDNS.Mod -text svneol=unset#text/plain
 source/Win32.AosDisplayWM.Mod -text svneol=unset#text/plain
 source/Win32.AosIP.Mod -text svneol=unset#text/plain
