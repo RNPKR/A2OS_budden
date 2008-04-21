@@ -32,6 +32,7 @@ UnixAos/buildtools/x86.Darwin.Tool -text
 UnixAos/buildtools/x86.Linux.Tool -text
 UnixAos/buildtools/x86.Solaris.Tool -text
 WinAos/Aos.EXE -text
+WinAos/Aos.Text -text svneol=unset#text/plain
 WinAos/Aos/AddressBook.Text -text svneol=unset#text/plain
 WinAos/Aos/Aos.ico -text svneol=unset#image/x-icon
 WinAos/Aos/Aos.small.ico -text svneol=unset#image/x-icon
