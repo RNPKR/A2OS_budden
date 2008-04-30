@@ -4861,6 +4861,7 @@ source/public.System.ssmp -text
 source/public.WebServer.ssmp -text
 source/public.form.html -text
 source/public.info.ssmp -text
+source/recticle.png -text
 source/redlook.skin -text
 source/refresh.png -text
 source/reptile.skin -text
