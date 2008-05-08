@@ -3820,7 +3820,6 @@ source/I386.NbrInt64.Mod -text
 source/I386.NbrRe32.Mod -text
 source/I386.NbrRe64.Mod -text
 source/I386.PCI.Mod -text
-source/I386.Processors.Mod -text
 source/I386.Raster.Mod -text
 source/I386.Reals.Mod -text
 source/I386.VMWareTools.Mod -text
