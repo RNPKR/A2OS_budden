@@ -3464,9 +3464,11 @@ source/BooksUser.Panel -text
 source/BootLoader.Text -text
 source/BootManager.Asm -text
 source/BootManager.Bin -text
+source/BootManager.Mod -text
 source/BootManager.Text -text svneol=unset#unset
+source/BootManager.Tool -text
 source/BootManagerMBR.Bin -text
-source/BootManagerNull.Bin -text
+source/BootManagerTail.Bin -text
 source/Bows.Pict -text
 source/Bricks.Pict -text
 source/Browser.Mod -text
