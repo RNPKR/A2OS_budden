@@ -4725,6 +4725,7 @@ source/WebStd.Mod -text
 source/WebWormWatch.Mod -text
 source/Where.zip -text
 source/White.Pal -text
+source/WhitespaceRemover.Mod -text
 source/Win32.ADVAPI32.Mod -text svneol=unset#text/plain
 source/Win32.Aos.Clipboard.Mod -text svneol=unset#text/plain
 source/Win32.Aos.FileDir.Mod -text svneol=unset#text/plain
