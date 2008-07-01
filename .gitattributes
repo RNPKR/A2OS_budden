@@ -4717,8 +4717,8 @@ source/WMStringGrids.Mod -text
 source/WMStyle.Mod -text
 source/WMSystemComponents.Mod -text
 source/WMTCPTracker.Mod -text
-source/WMTT.Mod -text
 source/WMTabComponents.Mod -text
+source/WMTetris.Mod -text
 source/WMTextStyleTool.Mod -text
 source/WMTextTool.Mod -text
 source/WMTextView.Mod -text
