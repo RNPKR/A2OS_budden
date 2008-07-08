@@ -3417,7 +3417,6 @@ source/AsciiCoder.Tool -text
 source/Authorization.html -text
 source/Auto.dsk -text
 source/Autostart.Mod -text
-source/BBL.Asm -text
 source/BIT.Mod -text
 source/Babel.zip -text
 source/Backdrop.Pict -text
@@ -3851,6 +3850,7 @@ source/News.Tool -text
 source/Notepad.Mod -text
 source/OBEMBR.BIN -text
 source/OBEMBR4.ASM -text
+source/OBL.Asm -text
 source/OBL.Bin -text
 source/OFS.Tool -text
 source/OGGRadios.Text -text
