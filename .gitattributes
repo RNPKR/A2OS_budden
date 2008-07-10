@@ -3129,13 +3129,10 @@ source/Analyzer.Tool -text
 source/Aos.Par -text
 source/AosArrow.gif -text
 source/AosBackdrop.png -text
-source/AosBuild.Tool -text
 source/AosConfig.XML -text
 source/AosDefault.Pal -text
-source/AosErrors.Text -text
 source/AosInst.Tool -text
 source/AosMove.gif -text
-source/AosSetup.Text -text
 source/AosTools.Tool -text
 source/AppendA.Text -text
 source/AppendB.Text -text
@@ -3207,6 +3204,7 @@ source/BootManagerMBR.Bin -text
 source/BootManagerTail.Bin -text
 source/Bows.Pict -text
 source/Bricks.Pict -text
+source/Build.Tool -text
 source/Builder.Tool -text
 source/BunnyLinear.gif -text
 source/CATServer.Mod -text
@@ -3398,6 +3396,7 @@ source/EditTools.Tool -text
 source/Editing.Tool -text
 source/ElevatorStyle.XML -text
 source/EnsoniqSound.Mod -text
+source/Errors.Text -text
 source/Errors.XML -text
 source/Ethernet3Com90x.Mod -text
 source/Evening.jp2 -text
@@ -4344,6 +4343,7 @@ source/ScriptGuide.Text -text
 source/SearchTools.Mod -text
 source/Serials.Mod -text
 source/SerialsVirtual.Mod -text
+source/Setup.Text -text
 source/Setup.Tool -text
 source/Shanghai.Scn.Fnt -text
 source/Shell.Alias -text
