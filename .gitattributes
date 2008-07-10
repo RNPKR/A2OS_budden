@@ -3127,12 +3127,10 @@ source/AlmSmtpReceiver.Mod -text
 source/AlmSmtpReceiver.Tool -text
 source/Analyzer.Tool -text
 source/Aos.Par -text
-source/AosArrow.gif -text
 source/AosBackdrop.png -text
 source/AosConfig.XML -text
 source/AosDefault.Pal -text
 source/AosInst.Tool -text
-source/AosMove.gif -text
 source/AosTools.Tool -text
 source/AppendA.Text -text
 source/AppendB.Text -text
@@ -4606,7 +4604,6 @@ source/WMCDRecorder.Mod -text
 source/WMCharCodes.Mod -text
 source/WMCharMap.Mod -text
 source/WMClock.Mod -text
-source/WMClose.png -text
 source/WMColorTools.Mod -text
 source/WMComponents.Mod -text
 source/WMCyrillicIME.Mod -text
