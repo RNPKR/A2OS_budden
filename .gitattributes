@@ -3135,7 +3135,6 @@ source/AosDefault.Pal -text
 source/AosErrors.Text -text
 source/AosInst.Tool -text
 source/AosMove.gif -text
-source/AosQuotes.txt -text
 source/AosSetup.Text -text
 source/AosTools.Tool -text
 source/AppendA.Text -text
@@ -4280,6 +4279,7 @@ source/Printers.Tool -text
 source/Profiler.Mod -text
 source/Programming.Tool -text
 source/QuoteServer.Mod -text
+source/Quotes.txt -text
 source/RAMVolumes.Mod -text
 source/RAWPrinter.Mod -text
 source/RFC865Client.Mod -text
