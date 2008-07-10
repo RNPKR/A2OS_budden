@@ -42,7 +42,6 @@ WinAos/Aos/AosBottleBlack.ico -text svneol=unset#image/x-icon
 WinAos/Aos/AosBottleBlackEnh.ico -text svneol=unset#image/x-icon
 WinAos/Aos/AosBottleOnly.ico -text svneol=unset#image/x-icon
 WinAos/Aos/AosBottleSmall.ico -text svneol=unset#image/x-icon
-WinAos/Aos/AosConfig.XML.old -text
 WinAos/Aos/AosTL.ico -text svneol=unset#image/x-icon
 WinAos/Aos/Applic.Contents.html -text svneol=unset#text/html
 WinAos/Aos/Applic.Index.html -text svneol=unset#text/html
@@ -3572,7 +3571,6 @@ source/Info.Mod -text
 source/InitNetwork.Mod -text
 source/Inputs.Mod -text
 source/Installer.Mod -text
-source/Installer.Mod.Bak -text
 source/Intel8255x.Mod -text
 source/Interfaces.Mod -text
 source/IntroToGadgets.Text -text
