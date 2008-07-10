@@ -2724,7 +2724,6 @@ WinAos/ObjI/srvoxels.Obw -text
 WinAos/Work/Projects.Tool -text
 WinAos/aos.ini -text svneol=unset#text/plain
 WinAos/license.txt -text svneol=unset#text/plain
-WinAos/myaos.ini -text
 WinAos/vy.ants/documents/AntsInFields.Ico -text
 WinAos/vy.ants/documents/Aztec.Panel -text
 WinAos/vy.ants/documents/ants.Desk -text
