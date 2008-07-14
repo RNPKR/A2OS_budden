@@ -3127,7 +3127,6 @@ source/AlmSmtpReceiver.Mod -text
 source/AlmSmtpReceiver.Tool -text
 source/Analyzer.Tool -text
 source/Aos.Par -text
-source/AosBackdrop.png -text
 source/AosConfig.XML -text
 source/AosDefault.Pal -text
 source/AosInst.Tool -text
@@ -4865,6 +4864,7 @@ source/gb2312.txt -text
 source/glass.skin -text
 source/i810Sound.Mod -text
 source/icons.tar -text
+source/mars.png -text
 source/next.png -text
 source/pci.ids -text
 source/pklook.skin -text
