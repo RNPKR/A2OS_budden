@@ -4205,8 +4205,8 @@ source/OpenTypeInt.Mod -text
 source/OpenTypeScan.Mod -text
 source/Options.Mod -text
 source/Outlines.Tool -text
+source/PC.Mod -text
 source/PC.Tool -text
-source/PC0.Mod -text
 source/PCA386.Mod -text
 source/PCAAMD64.Mod -text
 source/PCAARM.Mod -text
