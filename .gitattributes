@@ -3127,7 +3127,6 @@ source/AlmSmtpReceiver.Mod -text
 source/AlmSmtpReceiver.Tool -text
 source/Analyzer.Tool -text
 source/Aos.Par -text
-source/AosConfig.XML -text
 source/AosDefault.Pal -text
 source/AosInst.Tool -text
 source/AosTools.Tool -text
@@ -3270,6 +3269,7 @@ source/ComponentViewer.Mod -text
 source/Compress.Tool -text
 source/Configuration.Mod -text
 source/Configuration.Tool -text
+source/Configuration.XML -text
 source/CoordSys.Shape -text
 source/Copyright.Text -text
 source/Courier10.Pr3.Fnt -text
@@ -4908,7 +4908,7 @@ source/srVoxel3.Mod -text
 source/srVoxel4.Mod -text
 source/srVoxel5.Mod -text
 source/srvoxels.Mod -text
-source/stijn.skin -text
+source/stijn.skin -text svneol=unset#application/octet-stream
 source/stucki01.svg -text
 source/stucki02.svg -text
 source/teletext.bfnt -text
