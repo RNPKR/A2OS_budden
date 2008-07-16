@@ -4508,7 +4508,10 @@ source/Unix.Threads.Mod -text
 source/Unix.Trace.Mod -text
 source/Unix.UDP.Mod -text
 source/Unix.UnixFiles.Mod -text
+source/Unix.WMPerfMonPluginCpu.Mod -text
+source/Unix.WMPerfMonPluginMemory.Mod -text
 source/Unix.WMPerfMonPlugins.Mod -text
+source/Unix.WMPerfMonTabSystem.Mod -text
 source/Unix.WindowManager.Mod -text
 source/Unix.X11.Mod -text
 source/Unix.XDisplay.Mod -text
