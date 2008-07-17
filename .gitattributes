@@ -3496,11 +3496,11 @@ source/HTMLTransformer.Mod -text
 source/HTTP.Tool -text
 source/HTTPSession.Mod -text
 source/HTTPSupport.Mod -text
-source/HW1.Mod -text
-source/HW2.Mod -text
-source/HW3.Mod -text
 source/Heaps.Mod -text
 source/HelloWorld.Mod -text
+source/HelloWorld1.Mod -text
+source/HelloWorld2.Mod -text
+source/HelloWorld3.Mod -text
 source/Hex.Tool -text
 source/Histogram.Panel -text
 source/HostClipboard.Mod -text
