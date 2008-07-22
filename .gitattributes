@@ -3512,7 +3512,6 @@ source/HyperDocs.Tool -text
 source/HyperLinks.Panel -text
 source/I386.ATADisks.Mod -text
 source/I386.Adaptec7Script.Mod -text
-source/I386.Aos.Tool -text
 source/I386.Array1dBytes.Mod -text
 source/I386.ArrayBaseOptimized.Mod -text
 source/I386.ArrayXdBytes.Mod -text
@@ -4013,7 +4012,6 @@ source/Oberon.RX.Mod -text
 source/Oberon.RXA.Mod -text
 source/Oberon.RandomNumbers.Mod -text
 source/Oberon.RefGadgets.Mod -text
-source/Oberon.Release.Mod -text
 source/Oberon.Rembrandt.Mod -text
 source/Oberon.Rembrandt0.Mod -text
 source/Oberon.RembrandtDocs.Mod -text
