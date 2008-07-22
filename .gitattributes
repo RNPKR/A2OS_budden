@@ -415,9 +415,6 @@ WinAos/ObjE/HTMLScanner.Obw -text
 WinAos/ObjE/HTMLTransformer.Obw -text
 WinAos/ObjE/HTTPSession.Obw -text
 WinAos/ObjE/HTTPSupport.Obw -text
-WinAos/ObjE/HW1.Obw -text
-WinAos/ObjE/HW2.Obw -text
-WinAos/ObjE/HW3.Obw -text
 WinAos/ObjE/Heaps.Obw -text
 WinAos/ObjE/HelloWorld.Obw -text
 WinAos/ObjE/HelloWorld1.Obw -text
@@ -777,7 +774,6 @@ WinAos/ObjE/Oberon.RandomTest.Obw -text
 WinAos/ObjE/Oberon.RefGadgets.Obw -text
 WinAos/ObjE/Oberon.Registry.Obw -text
 WinAos/ObjE/Oberon.RegistryTools.Obw -text
-WinAos/ObjE/Oberon.Release.Obw -text
 WinAos/ObjE/Oberon.Rembrandt.Obw -text
 WinAos/ObjE/Oberon.Rembrandt0.Obw -text
 WinAos/ObjE/Oberon.RembrandtDocs.Obw -text
@@ -1136,7 +1132,6 @@ WinAos/ObjE/OpenTypeInt.Obw -text
 WinAos/ObjE/OpenTypeScan.Obw -text
 WinAos/ObjE/Options.Obw -text
 WinAos/ObjE/PC.Obw -text
-WinAos/ObjE/PC0.Obw -text
 WinAos/ObjE/PCA386.Obw -text
 WinAos/ObjE/PCAAMD64.Obw -text
 WinAos/ObjE/PCAARM.Obw -text
@@ -1365,7 +1360,6 @@ WinAos/ObjE/WMPerfMonPluginNetwork.Obw -text
 WinAos/ObjE/WMPerfMonPluginPerfMon.Obw -text
 WinAos/ObjE/WMPerfMonPluginQuoteServer.Obw -text
 WinAos/ObjE/WMPerfMonPluginSerials.Obw -text
-WinAos/ObjE/WMPerfMonPluginUsb.Obw -text
 WinAos/ObjE/WMPerfMonPluginVNCServer.Obw -text
 WinAos/ObjE/WMPerfMonPlugins.Obw -text
 WinAos/ObjE/WMPerfMonTabAlerts.Obw -text
@@ -1669,9 +1663,6 @@ WinAos/ObjI/HTMLScanner.Obw -text
 WinAos/ObjI/HTMLTransformer.Obw -text
 WinAos/ObjI/HTTPSession.Obw -text
 WinAos/ObjI/HTTPSupport.Obw -text
-WinAos/ObjI/HW1.Obw -text
-WinAos/ObjI/HW2.Obw -text
-WinAos/ObjI/HW3.Obw -text
 WinAos/ObjI/Heaps.Obw -text
 WinAos/ObjI/HelloWorld.Obw -text
 WinAos/ObjI/HelloWorld1.Obw -text
@@ -2029,7 +2020,6 @@ WinAos/ObjI/Oberon.RandomNumbers.Obw -text
 WinAos/ObjI/Oberon.RandomTest.Obw -text
 WinAos/ObjI/Oberon.RefGadgets.Obw -text
 WinAos/ObjI/Oberon.Registry.Obw -text
-WinAos/ObjI/Oberon.Release.Obw -text
 WinAos/ObjI/Oberon.Rembrandt.Obw -text
 WinAos/ObjI/Oberon.Rembrandt0.Obw -text
 WinAos/ObjI/Oberon.RembrandtDocs.Obw -text
@@ -2382,7 +2372,6 @@ WinAos/ObjI/OpenTypeInt.Obw -text
 WinAos/ObjI/OpenTypeScan.Obw -text
 WinAos/ObjI/Options.Obw -text
 WinAos/ObjI/PC.Obw -text
-WinAos/ObjI/PC0.Obw -text
 WinAos/ObjI/PCA386.Obw -text
 WinAos/ObjI/PCAAMD64.Obw -text
 WinAos/ObjI/PCAARM.Obw -text
@@ -2611,7 +2600,6 @@ WinAos/ObjI/WMPerfMonPluginNetwork.Obw -text
 WinAos/ObjI/WMPerfMonPluginPerfMon.Obw -text
 WinAos/ObjI/WMPerfMonPluginQuoteServer.Obw -text
 WinAos/ObjI/WMPerfMonPluginSerials.Obw -text
-WinAos/ObjI/WMPerfMonPluginUsb.Obw -text
 WinAos/ObjI/WMPerfMonPluginVNCServer.Obw -text
 WinAos/ObjI/WMPerfMonPlugins.Obw -text
 WinAos/ObjI/WMPerfMonTabAlerts.Obw -text
