@@ -420,6 +420,9 @@ WinAos/ObjE/HW2.Obw -text
 WinAos/ObjE/HW3.Obw -text
 WinAos/ObjE/Heaps.Obw -text
 WinAos/ObjE/HelloWorld.Obw -text
+WinAos/ObjE/HelloWorld1.Obw -text
+WinAos/ObjE/HelloWorld2.Obw -text
+WinAos/ObjE/HelloWorld3.Obw -text
 WinAos/ObjE/HostClipboard.Obw -text
 WinAos/ObjE/HotKeys.Obw -text
 WinAos/ObjE/HotKeysCommands.Obw -text
@@ -1132,6 +1135,7 @@ WinAos/ObjE/OpenTypeFonts.Obw -text
 WinAos/ObjE/OpenTypeInt.Obw -text
 WinAos/ObjE/OpenTypeScan.Obw -text
 WinAos/ObjE/Options.Obw -text
+WinAos/ObjE/PC.Obw -text
 WinAos/ObjE/PC0.Obw -text
 WinAos/ObjE/PCA386.Obw -text
 WinAos/ObjE/PCAAMD64.Obw -text
@@ -1670,6 +1674,9 @@ WinAos/ObjI/HW2.Obw -text
 WinAos/ObjI/HW3.Obw -text
 WinAos/ObjI/Heaps.Obw -text
 WinAos/ObjI/HelloWorld.Obw -text
+WinAos/ObjI/HelloWorld1.Obw -text
+WinAos/ObjI/HelloWorld2.Obw -text
+WinAos/ObjI/HelloWorld3.Obw -text
 WinAos/ObjI/HostClipboard.Obw -text
 WinAos/ObjI/HotKeys.Obw -text
 WinAos/ObjI/HotKeysCommands.Obw -text
@@ -2374,6 +2381,7 @@ WinAos/ObjI/OpenTypeFonts.Obw -text
 WinAos/ObjI/OpenTypeInt.Obw -text
 WinAos/ObjI/OpenTypeScan.Obw -text
 WinAos/ObjI/Options.Obw -text
+WinAos/ObjI/PC.Obw -text
 WinAos/ObjI/PC0.Obw -text
 WinAos/ObjI/PCA386.Obw -text
 WinAos/ObjI/PCAAMD64.Obw -text
