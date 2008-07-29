@@ -4136,6 +4136,8 @@ source/OdSvn.Tool -text
 source/OdUtil.Mod -text
 source/OdVCSBase.Mod -text
 source/OdXml.Mod -text
+source/OldDiskFS.Mod -text
+source/OldDiskVolumes.Mod -text
 source/OpenType.Mod -text
 source/OpenTypeFonts.Mod -text
 source/OpenTypeInt.Mod -text
