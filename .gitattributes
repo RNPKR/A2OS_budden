@@ -4440,7 +4440,6 @@ source/Unix.Oberon.TextGadgets0.Mod -text
 source/Unix.Oberon.TextSBControl.Mod -text
 source/Unix.Oberon.UnixPrinter.Mod -text
 source/Unix.Objects.Mod -text
-source/Unix.S.Mod -text
 source/Unix.Starter.Mod -text
 source/Unix.TCP.Mod -text
 source/Unix.Threads.Mod -text
