@@ -3072,6 +3072,7 @@ source/AppendA.Text -text
 source/AppendB.Text -text
 source/AppendC.Text -text
 source/Applications.Tool -text
+source/ArabicContext.xml -text
 source/Archives.Mod -text
 source/Array1dCplx.Mod -text
 source/Array1dInt.Mod -text
@@ -3110,6 +3111,7 @@ source/BenchPingPong.Mod -text
 source/BenchSpeedup.Mod -text
 source/BenchTCP.Mod -text
 source/Biblio.Text -text
+source/BidiMirroring.txt -text
 source/BimboMail.Mod -text
 source/Bimso.Mod -text
 source/Bin2Hex.Mod -text svneol=unset#unset
@@ -3208,6 +3210,7 @@ source/Compress.Tool -text
 source/Configuration.Mod -text
 source/Configuration.Tool -text
 source/Configuration.XML -text
+source/ContextualDependency.Mod -text
 source/CoordSys.Shape -text
 source/Copyright.Text -text
 source/Courier10.Pr3.Fnt -text
@@ -4175,7 +4178,7 @@ source/PCV.Mod -text
 source/PDF.Mod -text
 source/PDFExample.Mod -text
 source/PELinker.Tool -text
-source/PET.Mod -text
+source/PET.Mod -text svneol=unset#application/octet-stream
 source/PETIcons.tar -text
 source/PNGDecoder.Mod -text
 source/POP3Client.Mod -text
@@ -4207,6 +4210,7 @@ source/Plasma.Pict -text
 source/Plotter.Panel -text
 source/Plugins.Mod -text
 source/Popups.Tool -text
+source/PositionDebugging.Mod -text
 source/PresentViewer.Mod -text
 source/Presentation.Mod -text
 source/PrevalenceSystem.Mod -text
@@ -4235,7 +4239,7 @@ source/Release.Mod -text
 source/Release.NetSystem.Tool -text
 source/Release.Oberon.Text -text
 source/Release.Popups.Tool -text
-source/Release.Tool -text
+source/Release.Tool -text svneol=unset#application/octet-stream
 source/Rembrandt.Lib -text
 source/Rembrandt.Panel -text
 source/Rename.TFMailConfig.XML -text
@@ -4363,6 +4367,7 @@ source/Test1.Vinci -text
 source/Test2.Vinci -text
 source/TestComponentDragDrop.Mod -text
 source/TestComponents.Mod -text
+source/TestContext.xml -text
 source/TestHTML.Text -text
 source/TestLocks.Mod -text
 source/TestMenu.Mod -text
@@ -4396,6 +4401,9 @@ source/Tutorials.Tool -text
 source/UDP.Mod -text
 source/UTF8Strings.Mod -text
 source/UndoManager.Mod -text
+source/UnicodeBidirectionality.Mod -text
+source/UnicodeData.txt -text
+source/UnicodeProperties.Mod -text
 source/UnihanParser.Mod -text
 source/Unix.Basetypes.Mod -text
 source/Unix.Beep.Mod -text
@@ -4533,7 +4541,9 @@ source/W3dVectors.Mod -text
 source/W3dWorld.Mod -text
 source/WAVCodec.Mod -text
 source/WAVRecorder.Mod -text
+source/WMArabicIME.Mod -text
 source/WMArchives.Mod -text
+source/WMArmenianIME.Mod -text
 source/WMBackdrop.Mod -text
 source/WMBackdropLoader.Mod -text
 source/WMBitmapFont.Mod -text
@@ -4567,6 +4577,8 @@ source/WMGraphicUtilities.Mod -text
 source/WMGraphics.Mod -text
 source/WMGraphicsDemo.Mod -text
 source/WMGrids.Mod -text
+source/WMHebrewIME.Mod -text
+source/WMInputMethodTool.Mod -text
 source/WMInputMethods.Mod -text
 source/WMInstaller.Mod -text
 source/WMInstaller.tar -text svneol=unset#unset
@@ -4647,6 +4659,7 @@ source/WMTextView.Mod -text
 source/WMTrapWriter.Mod -text
 source/WMTrees.Mod -text
 source/WMUnicodeIME.Mod -text
+source/WMUnicodeMarkerTool.Mod -text
 source/WMUsbInfo.Mod -text
 source/WMUsbInfo.tar -text
 source/WMUtilities.Mod -text
