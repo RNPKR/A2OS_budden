@@ -291,6 +291,7 @@ WinAos/ObjE/Commands.Obw -text
 WinAos/ObjE/CompilerInterface.Obw -text
 WinAos/ObjE/ComponentViewer.Obw -text
 WinAos/ObjE/Configuration.Obw -text
+WinAos/ObjE/ContextualDependency.Obw -text
 WinAos/ObjE/CryptoAES.Obw -text
 WinAos/ObjE/CryptoARC4.Obw -text
 WinAos/ObjE/CryptoBigNumbers.Obw -text
@@ -1113,12 +1114,16 @@ WinAos/ObjE/Objects.Obw -text
 WinAos/ObjE/OdAuth.Obw -text
 WinAos/ObjE/OdAuthBase.Obw -text
 WinAos/ObjE/OdClient.Obw -text
+WinAos/ObjE/OdClientTools.Obw -text
 WinAos/ObjE/OdCond.Obw -text
 WinAos/ObjE/OdDeltavBase.Obw -text
+WinAos/ObjE/OdPlugin.Obw -text
 WinAos/ObjE/OdSvn.Obw -text
 WinAos/ObjE/OdUtil.Obw -text
 WinAos/ObjE/OdVCSBase.Obw -text
 WinAos/ObjE/OdXml.Obw -text
+WinAos/ObjE/OldDiskFS.Obw -text
+WinAos/ObjE/OldDiskVolumes.Obw -text
 WinAos/ObjE/OpenType.Obw -text
 WinAos/ObjE/OpenTypeFonts.Obw -text
 WinAos/ObjE/OpenTypeInt.Obw -text
@@ -1166,6 +1171,7 @@ WinAos/ObjE/PictImages.Obw -text
 WinAos/ObjE/PieTest.Obw -text
 WinAos/ObjE/Pipes.Obw -text
 WinAos/ObjE/Plugins.Obw -text
+WinAos/ObjE/PositionDebugging.Obw -text
 WinAos/ObjE/PresentViewer.Obw -text
 WinAos/ObjE/Presentation.Obw -text
 WinAos/ObjE/PrevalenceSystem.Obw -text
@@ -1235,6 +1241,8 @@ WinAos/ObjE/UDPChatClient.Obw -text
 WinAos/ObjE/UDPChatServer.Obw -text
 WinAos/ObjE/UTF8Strings.Obw -text
 WinAos/ObjE/UndoManager.Obw -text
+WinAos/ObjE/UnicodeBidirectionality.Obw -text
+WinAos/ObjE/UnicodeProperties.Obw -text
 WinAos/ObjE/UnihanParser.Obw -text
 WinAos/ObjE/Unzip.Obw -text
 WinAos/ObjE/UpTime.Obw -text
@@ -1263,7 +1271,9 @@ WinAos/ObjE/W3dVectors.Obw -text
 WinAos/ObjE/W3dWorld.Obw -text
 WinAos/ObjE/WAVCodec.Obw -text
 WinAos/ObjE/WAVRecorder.Obw -text
+WinAos/ObjE/WMArabicIME.Obw -text
 WinAos/ObjE/WMArchives.Obw -text
+WinAos/ObjE/WMArmenianIME.Obw -text
 WinAos/ObjE/WMBackdrop.Obw -text
 WinAos/ObjE/WMBackdropLoader.Obw -text
 WinAos/ObjE/WMBitmapFont.Obw -text
@@ -1295,6 +1305,8 @@ WinAos/ObjE/WMGraphicUtilities.Obw -text
 WinAos/ObjE/WMGraphics.Obw -text
 WinAos/ObjE/WMGraphicsDemo.Obw -text
 WinAos/ObjE/WMGrids.Obw -text
+WinAos/ObjE/WMHebrewIME.Obw -text
+WinAos/ObjE/WMInputMethodTool.Obw -text
 WinAos/ObjE/WMInputMethods.Obw -text
 WinAos/ObjE/WMInstaller.Obw -text
 WinAos/ObjE/WMJoysticks.Obw -text
@@ -1367,6 +1379,7 @@ WinAos/ObjE/WMTransitions.Obw -text
 WinAos/ObjE/WMTrapWriter.Obw -text
 WinAos/ObjE/WMTrees.Obw -text
 WinAos/ObjE/WMUnicodeIME.Obw -text
+WinAos/ObjE/WMUnicodeMarkerTool.Obw -text
 WinAos/ObjE/WMUsbInfo.Obw -text
 WinAos/ObjE/WMUtilities.Obw -text
 WinAos/ObjE/WMV24Component.Obw -text
@@ -1394,6 +1407,7 @@ WinAos/ObjE/WebHTTPServerTools.Obw -text
 WinAos/ObjE/WebHTTPTools.Obw -text
 WinAos/ObjE/WebSSMPPlugin.Obw -text
 WinAos/ObjE/WebStd.Obw -text
+WinAos/ObjE/WhitespaceRemover.Obw -text
 WinAos/ObjE/Win32RelFS.Obw -text
 WinAos/ObjE/WinApplications.Obw -text
 WinAos/ObjE/WinConsole.Obw -text
