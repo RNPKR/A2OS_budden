@@ -3144,7 +3144,6 @@ source/Book.Tool -text
 source/BooksDev.Panel -text
 source/BooksUser.Panel -text
 source/BootConsole.Mod -text
-source/BootLoader.Text -text
 source/BootManager.Asm -text
 source/BootManager.Bin -text
 source/BootManager.Mod -text
@@ -3683,6 +3682,7 @@ source/OBEMBR.BIN -text
 source/OBEMBR4.ASM -text
 source/OBL.Asm -text
 source/OBL.Bin -text
+source/OBL.Text -text
 source/OFS.Tool -text
 source/OGGRadios.Text -text
 source/OGGUtilities.Mod -text
@@ -4253,7 +4253,7 @@ source/Release.Mod -text
 source/Release.NetSystem.Tool -text
 source/Release.Oberon.Text -text
 source/Release.Popups.Tool -text
-source/Release.Tool -text svneol=unset#application/octet-stream
+source/Release.Tool -text
 source/Rembrandt.Lib -text
 source/Rembrandt.Panel -text
 source/Rename.TFMailConfig.XML -text
