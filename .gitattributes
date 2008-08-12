@@ -3347,7 +3347,7 @@ source/EditTools.Tool -text
 source/Editing.Tool -text
 source/ElevatorStyle.XML -text
 source/EnsoniqSound.Mod -text
-source/Errors.Text -text
+source/Errors.Mod -text
 source/Errors.XML -text
 source/Ethernet3Com90x.Mod -text
 source/Evening.jp2 -text
@@ -4580,6 +4580,7 @@ source/WMDiff.Mod -text
 source/WMDocumentEditor.Mod -text
 source/WMDropTarget.Mod -text
 source/WMEditors.Mod -text
+source/WMErrors.Mod -text
 source/WMEventLog.Mod -text
 source/WMEvents.Mod -text
 source/WMFTPClient.Mod -text
@@ -4828,6 +4829,7 @@ source/bones.gif -text
 source/cjkfont.bfnt -text
 source/cn.PrgInOberon.txt -text
 source/cnErrors.XML -text
+source/errors.txt -text svneol=unset#application/octet-stream
 source/flags.avi -text
 source/gb2312.txt -text
 source/glass.skin -text
