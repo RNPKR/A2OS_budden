@@ -3220,6 +3220,7 @@ source/CompilerInterface.Mod -text
 source/ComponentStyle.XML -text
 source/ComponentViewer.Mod -text
 source/Compress.Tool -text
+source/Config.Bin -text
 source/Configuration.Mod -text
 source/Configuration.Tool -text
 source/Configuration.XML -text
