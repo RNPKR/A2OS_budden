@@ -3535,6 +3535,7 @@ source/Joysticks.Mod -text
 source/JoysticksTest.Mod -text
 source/Kernel.Mod -text
 source/KernelLog.Mod -text
+source/KernelLogger.Mod -text
 source/KeyBE.Bin -text
 source/KeyCA.Bin -text
 source/KeyCH.Bin -text
@@ -3583,7 +3584,6 @@ source/Lissajous.Panel -text
 source/LoadGadgets.Text -text
 source/Loader.Mod -text
 source/Locks.Mod -text
-source/LogWindow.Mod -text
 source/Looks.Mod -text
 source/Loopback.Mod -text
 source/MD5.Mod -text
@@ -4600,8 +4600,8 @@ source/WMInstaller.Mod -text
 source/WMInstaller.tar -text svneol=unset#unset
 source/WMInstallerPackages.XML -text
 source/WMJoysticks.Mod -text
+source/WMKernelLog.Mod -text
 source/WMKeyCode.Mod -text
-source/WMLog.Mod -text
 source/WMMacros.Mod -text
 source/WMMenus.Mod -text
 source/WMMessages.Mod -text
