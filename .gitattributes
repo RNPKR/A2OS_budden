@@ -4674,6 +4674,7 @@ source/WMTextTool.Mod -text
 source/WMTextView.Mod -text
 source/WMTrapWriter.Mod -text
 source/WMTrees.Mod -text
+source/WMUkrainianIME.Mod -text
 source/WMUnicodeIME.Mod -text
 source/WMUnicodeMarkerTool.Mod -text
 source/WMUsbInfo.Mod -text
