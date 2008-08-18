@@ -4571,7 +4571,6 @@ source/WMCharMap.Mod -text
 source/WMClock.Mod -text
 source/WMColorTools.Mod -text
 source/WMComponents.Mod -text
-source/WMCyrillicIME.Mod -text
 source/WMDefaultFont.Mod -text
 source/WMDefaultWindows.Mod -text
 source/WMDesktopIcons.Mod -text
@@ -4654,6 +4653,7 @@ source/WMProgressComponents.Mod -text
 source/WMProperties.Mod -text
 source/WMRectangles.Mod -text
 source/WMRestorable.Mod -text
+source/WMRussianIME.Mod -text
 source/WMScreenShot.Mod -text
 source/WMScribble.Mod -text
 source/WMScrollableComponents.Mod -text
