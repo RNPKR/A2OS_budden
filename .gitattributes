@@ -4263,7 +4263,6 @@ source/RfsClientProxy.Mod -text
 source/RfsConnection.Mod -text
 source/RfsFS.Mod -text
 source/Room.poly -text
-source/S.Mod -text
 source/SCSI.Mod -text
 source/SMTPClient.Mod -text
 source/SSFS.Mod -text
@@ -4348,6 +4347,7 @@ source/System3F4.Graphic -text
 source/System3F5.Graphic -text
 source/System3F6.Graphic -text
 source/System3F7.Graphic -text
+source/SystemTools.Mod -text
 source/TBox.zip -text
 source/TCP.Mod -text
 source/TCPPortLog.Mod -text
