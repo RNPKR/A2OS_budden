@@ -4578,6 +4578,7 @@ source/WMDiagramComponents.Mod -text
 source/WMDialogs.Mod -text
 source/WMDiff.Mod -text
 source/WMDocumentEditor.Mod -text
+source/WMDropDownLists.Mod -text
 source/WMDropTarget.Mod -text
 source/WMEditors.Mod -text
 source/WMErrors.Mod -text
