@@ -1,6 +1,4 @@
 * text=auto !eol
-UnixAos/OFormatter.Mod -text
-UnixAos/OFormatterIO.Mod -text
 UnixAos/boot/Makefile.darwin -text
 UnixAos/boot/Makefile.linux -text
 UnixAos/boot/Makefile.solaris -text
