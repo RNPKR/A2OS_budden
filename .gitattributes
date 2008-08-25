@@ -1,4 +1,9 @@
 * text=auto !eol
+AosVM/Aos.vmx -text
+AosVM/AosVM.vmdk -text
+AosVM/AosVMDisk2.vmdk -text
+AosVM/AosVMDisk3.vmdk -text
+AosVM/GenerateVMImages.Text -text
 UnixAos/boot/Makefile.darwin -text
 UnixAos/boot/Makefile.linux -text
 UnixAos/boot/Makefile.solaris -text
