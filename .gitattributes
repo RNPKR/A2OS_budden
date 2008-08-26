@@ -3218,7 +3218,6 @@ source/CompilerInterface.Mod -text
 source/ComponentStyle.XML -text
 source/ComponentViewer.Mod -text
 source/Compress.Tool -text
-source/Config.Bin -text
 source/Configuration.Mod -text
 source/Configuration.Tool -text
 source/Configuration.XML -text
@@ -4830,6 +4829,7 @@ source/bones.gif -text
 source/cjkfont.bfnt -text
 source/cn.PrgInOberon.txt -text
 source/cnErrors.XML -text
+source/config.txt -text
 source/errors.txt -text svneol=unset#application/octet-stream
 source/flags.avi -text
 source/gb2312.txt -text
