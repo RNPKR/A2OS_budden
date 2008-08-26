@@ -3518,6 +3518,7 @@ source/Info.Mod -text
 source/InitNetwork.Mod -text
 source/Inputs.Mod -text
 source/Installer.Mod -text
+source/InstallerPackages.XML -text
 source/Intel8255x.Mod -text
 source/Interfaces.Mod -text
 source/IntroToGadgets.Text -text
@@ -4595,7 +4596,6 @@ source/WMInputMethodTool.Mod -text
 source/WMInputMethods.Mod -text
 source/WMInstaller.Mod -text
 source/WMInstaller.tar -text svneol=unset#unset
-source/WMInstallerPackages.XML -text
 source/WMJoysticks.Mod -text
 source/WMKernelLog.Mod -text
 source/WMKeyCode.Mod -text
