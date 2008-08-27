@@ -354,7 +354,6 @@ WinAos/ObjE/Displays.Obw -text
 WinAos/ObjE/DivXDecoder.Obw -text
 WinAos/ObjE/DivXHelper.Obw -text
 WinAos/ObjE/DivXTypes.Obw -text
-WinAos/ObjE/DriverDatabase.Obw -text
 WinAos/ObjE/DynamicStrings.Obw -text
 WinAos/ObjE/DynamicWebpage.Obw -text
 WinAos/ObjE/DynamicWebpagePlugin.Obw -text
@@ -452,7 +451,6 @@ WinAos/ObjE/Linker0.Obw -text
 WinAos/ObjE/Linker1.Obw -text
 WinAos/ObjE/Loader.Obw -text
 WinAos/ObjE/Locks.Obw -text
-WinAos/ObjE/LogWindow.Obw -text
 WinAos/ObjE/Looks.Obw -text
 WinAos/ObjE/MD5.Obw -text
 WinAos/ObjE/MP3Decoder.Obw -text
@@ -501,7 +499,6 @@ WinAos/ObjE/NbrStrings.Obw -text
 WinAos/ObjE/Network.Obw -text
 WinAos/ObjE/NewHTTPClient.Obw -text
 WinAos/ObjE/Notepad.Obw -text
-WinAos/ObjE/OCT.Obw -text
 WinAos/ObjE/ODBC.Obw -text
 WinAos/ObjE/OGGUtilities.Obw -text
 WinAos/ObjE/OGGVorbisPlayer.Obw -text
@@ -1185,7 +1182,6 @@ WinAos/ObjE/Raster.Obw -text
 WinAos/ObjE/Reals.Obw -text
 WinAos/ObjE/RegisterRFW.Obw -text
 WinAos/ObjE/Release.Obw -text
-WinAos/ObjE/S.Obw -text
 WinAos/ObjE/SMTPClient.Obw -text
 WinAos/ObjE/SQL.Obw -text
 WinAos/ObjE/SSFS.Obw -text
@@ -1285,7 +1281,6 @@ WinAos/ObjE/WMCharMap.Obw -text
 WinAos/ObjE/WMClock.Obw -text
 WinAos/ObjE/WMColorTools.Obw -text
 WinAos/ObjE/WMComponents.Obw -text
-WinAos/ObjE/WMCyrillicIME.Obw -text
 WinAos/ObjE/WMDefaultFont.Obw -text
 WinAos/ObjE/WMDefaultWindows.Obw -text
 WinAos/ObjE/WMDesktopIcons.Obw -text
@@ -1315,7 +1310,6 @@ WinAos/ObjE/WMInstaller.Obw -text
 WinAos/ObjE/WMJoysticks.Obw -text
 WinAos/ObjE/WMKernelLog.Obw -text
 WinAos/ObjE/WMKeyCode.Obw -text
-WinAos/ObjE/WMLog.Obw -text
 WinAos/ObjE/WMMacros.Obw -text
 WinAos/ObjE/WMMenus.Obw -text
 WinAos/ObjE/WMMessages.Obw -text
@@ -1386,7 +1380,6 @@ WinAos/ObjE/WMTrees.Obw -text
 WinAos/ObjE/WMUkrainianIME.Obw -text
 WinAos/ObjE/WMUnicodeIME.Obw -text
 WinAos/ObjE/WMUnicodeMarkerTool.Obw -text
-WinAos/ObjE/WMUsbInfo.Obw -text
 WinAos/ObjE/WMUtilities.Obw -text
 WinAos/ObjE/WMV24Component.Obw -text
 WinAos/ObjE/WMVNCView.Obw -text
@@ -1595,7 +1588,6 @@ WinAos/ObjI/Displays.Obw -text
 WinAos/ObjI/DivXDecoder.Obw -text
 WinAos/ObjI/DivXHelper.Obw -text
 WinAos/ObjI/DivXTypes.Obw -text
-WinAos/ObjI/DriverDatabase.Obw -text
 WinAos/ObjI/DynamicStrings.Obw -text
 WinAos/ObjI/DynamicWebpage.Obw -text
 WinAos/ObjI/DynamicWebpagePlugin.Obw -text
@@ -1693,7 +1685,6 @@ WinAos/ObjI/Linker0.Obw -text
 WinAos/ObjI/Linker1.Obw -text
 WinAos/ObjI/Loader.Obw -text
 WinAos/ObjI/Locks.Obw -text
-WinAos/ObjI/LogWindow.Obw -text
 WinAos/ObjI/Looks.Obw -text
 WinAos/ObjI/MD5.Obw -text
 WinAos/ObjI/MP3Decoder.Obw -text
@@ -1742,7 +1733,6 @@ WinAos/ObjI/NbrStrings.Obw -text
 WinAos/ObjI/Network.Obw -text
 WinAos/ObjI/NewHTTPClient.Obw -text
 WinAos/ObjI/Notepad.Obw -text
-WinAos/ObjI/OCT.Obw -text
 WinAos/ObjI/ODBC.Obw -text
 WinAos/ObjI/OGGUtilities.Obw -text
 WinAos/ObjI/OGGVorbisPlayer.Obw -text
@@ -2418,7 +2408,6 @@ WinAos/ObjI/Raster.Obw -text
 WinAos/ObjI/Reals.Obw -text
 WinAos/ObjI/RegisterRFW.Obw -text
 WinAos/ObjI/Release.Obw -text
-WinAos/ObjI/S.Obw -text
 WinAos/ObjI/SMTPClient.Obw -text
 WinAos/ObjI/SQL.Obw -text
 WinAos/ObjI/SSFS.Obw -text
@@ -2518,7 +2507,6 @@ WinAos/ObjI/WMCharMap.Obw -text
 WinAos/ObjI/WMClock.Obw -text
 WinAos/ObjI/WMColorTools.Obw -text
 WinAos/ObjI/WMComponents.Obw -text
-WinAos/ObjI/WMCyrillicIME.Obw -text
 WinAos/ObjI/WMDefaultFont.Obw -text
 WinAos/ObjI/WMDefaultWindows.Obw -text
 WinAos/ObjI/WMDesktopIcons.Obw -text
@@ -2548,7 +2536,6 @@ WinAos/ObjI/WMInstaller.Obw -text
 WinAos/ObjI/WMJoysticks.Obw -text
 WinAos/ObjI/WMKernelLog.Obw -text
 WinAos/ObjI/WMKeyCode.Obw -text
-WinAos/ObjI/WMLog.Obw -text
 WinAos/ObjI/WMMacros.Obw -text
 WinAos/ObjI/WMMenus.Obw -text
 WinAos/ObjI/WMMessages.Obw -text
@@ -2619,7 +2606,6 @@ WinAos/ObjI/WMTrees.Obw -text
 WinAos/ObjI/WMUkrainianIME.Obw -text
 WinAos/ObjI/WMUnicodeIME.Obw -text
 WinAos/ObjI/WMUnicodeMarkerTool.Obw -text
-WinAos/ObjI/WMUsbInfo.Obw -text
 WinAos/ObjI/WMUtilities.Obw -text
 WinAos/ObjI/WMV24Component.Obw -text
 WinAos/ObjI/WMVNCView.Obw -text
