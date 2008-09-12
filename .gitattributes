@@ -4553,6 +4553,7 @@ source/VeraSeBd.ttf -text
 source/Vinci.Init -text
 source/Vinci.Text -text
 source/VirtualDisks.Mod -text
+source/Visualizer.Mod -text
 source/W3dAbstractWorld.Mod -text
 source/W3dClusterWatch.Mod -text
 source/W3dClusterWatchIcons.tar -text
