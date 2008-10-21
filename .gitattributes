@@ -4929,7 +4929,9 @@ tools/WinAosDebug/documents/Debug.doc -text
 tools/WinAosDebug/resource.h -text
 tools/WinAosDebug/ressources/DEBUG.bmp -text
 tools/WinAosDebug/ressources/Debug.ico -text
+tools/WinAosDebug/ressources/aosDebug.ico -text
 tools/WinAosDebug/ressources/bitmap1.bmp -text
+tools/WinAosDebug/ressources/debugAos.ico -text
 tools/WinAosDebug/ressources/ico00001.ico -text
 tools/WinAosDebug/ressources/icon2.ico -text
 tools/WinAosDebug/ressources/icon3.ico -text
