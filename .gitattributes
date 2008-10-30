@@ -4901,6 +4901,7 @@ source/srVoxel4.Mod -text
 source/srVoxel5.Mod -text
 source/srvoxels.Mod -text
 source/stijn.skin -text
+source/stijnbw.skin -text
 source/stucki01.svg -text
 source/stucki02.svg -text
 source/teletext.bfnt -text
