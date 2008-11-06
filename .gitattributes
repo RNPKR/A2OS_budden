@@ -347,9 +347,9 @@ WinAos/ObjE/DiskFS.Obw -text
 WinAos/ObjE/DiskTests.Obw -text
 WinAos/ObjE/DiskVolumes.Obw -text
 WinAos/ObjE/Disks.Obw -text
+WinAos/ObjE/Display.Obw -text
 WinAos/ObjE/DisplayGTF.Obw -text
 WinAos/ObjE/DisplayNull.Obw -text
-WinAos/ObjE/DisplayWin32.Obw -text
 WinAos/ObjE/Displays.Obw -text
 WinAos/ObjE/DivXDecoder.Obw -text
 WinAos/ObjE/DivXHelper.Obw -text
@@ -1582,9 +1582,9 @@ WinAos/ObjI/DiskFS.Obw -text
 WinAos/ObjI/DiskTests.Obw -text
 WinAos/ObjI/DiskVolumes.Obw -text
 WinAos/ObjI/Disks.Obw -text
+WinAos/ObjI/Display.Obw -text
 WinAos/ObjI/DisplayGTF.Obw -text
 WinAos/ObjI/DisplayNull.Obw -text
-WinAos/ObjI/DisplayWin32.Obw -text
 WinAos/ObjI/Displays.Obw -text
 WinAos/ObjI/DivXDecoder.Obw -text
 WinAos/ObjI/DivXHelper.Obw -text
@@ -3341,7 +3341,6 @@ source/Disks.Mod -text
 source/DisplayGTF.Mod -text
 source/DisplayLinear.Mod -text
 source/DisplayNull.Mod -text
-source/DisplayWin32.Mod -text svneol=unset#text/plain
 source/Displays.Mod -text
 source/Distance.Shape -text
 source/DivXTypes.Mod -text
@@ -4737,6 +4736,7 @@ source/Win32.COMDLG32.Mod -text svneol=unset#text/plain
 source/Win32.Clipboard.Mod -text svneol=unset#text/plain
 source/Win32.Clock.Mod -text svneol=unset#text/plain
 source/Win32.DNS.Mod -text svneol=unset#text/plain
+source/Win32.Display.Mod -text svneol=unset#text/plain
 source/Win32.External.Oberon.Clipboard.Mod -text svneol=unset#text/plain
 source/Win32.GDI32.Mod -text svneol=unset#text/plain
 source/Win32.Heaps.Mod -text svneol=unset#text/plain
