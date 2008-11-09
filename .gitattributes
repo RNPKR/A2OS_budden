@@ -4261,9 +4261,11 @@ source/Rainbow.jp2 -text
 source/Random.Mod -text
 source/Rect2.Shape -text
 source/References.Text -text
+source/Reflection.Mod -text
 source/RegisterRFW.Mod -text
 source/RegistryTools.Tool -text
 source/Regul.zip -text
+source/RelativeFileSystem.Mod -text
 source/Release.Auto.dsk -text
 source/Release.Mod -text
 source/Release.NetSystem.Tool -text
@@ -4808,7 +4810,6 @@ source/Win32.WinApplications.Mod -text
 source/Win32.WinConsole.Mod -text svneol=unset#text/plain
 source/Win32.WinDisks.Mod -text svneol=unset#text/plain
 source/Win32.WinFS.Mod -text svneol=unset#text/plain
-source/Win32RelFS.Mod -text svneol=unset#text/plain
 source/WindowManager.Mod -text
 source/X29Plane.poly -text
 source/XML.Mod -text
