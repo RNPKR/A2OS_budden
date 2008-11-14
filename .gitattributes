@@ -4628,6 +4628,7 @@ source/WMModuleState.Mod -text
 source/WMNavigate.Mod -text
 source/WMNavigateOverview.XML -text
 source/WMNavigateTaskList.XML -text
+source/WMNavigator.Mod -text
 source/WMOGGPlayer.Mod -text
 source/WMOSD.Mod -text
 source/WMOTFonts.Mod -text
