@@ -4613,6 +4613,7 @@ source/WMGraphics.Mod -text
 source/WMGraphicsDemo.Mod -text
 source/WMGrids.Mod -text
 source/WMHebrewIME.Mod -text
+source/WMIcons.tar -text
 source/WMInputMethodTool.Mod -text
 source/WMInputMethods.Mod -text
 source/WMInstaller.Mod -text
