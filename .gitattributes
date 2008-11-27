@@ -1180,7 +1180,9 @@ WinAos/ObjE/RMSMTP.Obw -text
 WinAos/ObjE/Random.Obw -text
 WinAos/ObjE/Raster.Obw -text
 WinAos/ObjE/Reals.Obw -text
+WinAos/ObjE/Reflection.Obw -text
 WinAos/ObjE/RegisterRFW.Obw -text
+WinAos/ObjE/RelativeFileSystem.Obw -text
 WinAos/ObjE/Release.Obw -text
 WinAos/ObjE/SMTPClient.Obw -text
 WinAos/ObjE/SQL.Obw -text
@@ -1317,6 +1319,7 @@ WinAos/ObjE/WMMessages.Obw -text
 WinAos/ObjE/WMMixer.Obw -text
 WinAos/ObjE/WMModuleState.Obw -text
 WinAos/ObjE/WMNavigate.Obw -text
+WinAos/ObjE/WMNavigator.Obw -text
 WinAos/ObjE/WMOGGPlayer.Obw -text
 WinAos/ObjE/WMOSD.Obw -text
 WinAos/ObjE/WMOTFonts.Obw -text
@@ -2407,7 +2410,9 @@ WinAos/ObjI/RMSMTP.Obw -text
 WinAos/ObjI/Random.Obw -text
 WinAos/ObjI/Raster.Obw -text
 WinAos/ObjI/Reals.Obw -text
+WinAos/ObjI/Reflection.Obw -text
 WinAos/ObjI/RegisterRFW.Obw -text
+WinAos/ObjI/RelativeFileSystem.Obw -text
 WinAos/ObjI/Release.Obw -text
 WinAos/ObjI/SMTPClient.Obw -text
 WinAos/ObjI/SQL.Obw -text
@@ -2544,6 +2549,7 @@ WinAos/ObjI/WMMessages.Obw -text
 WinAos/ObjI/WMMixer.Obw -text
 WinAos/ObjI/WMModuleState.Obw -text
 WinAos/ObjI/WMNavigate.Obw -text
+WinAos/ObjI/WMNavigator.Obw -text
 WinAos/ObjI/WMOGGPlayer.Obw -text
 WinAos/ObjI/WMOSD.Obw -text
 WinAos/ObjI/WMOTFonts.Obw -text
