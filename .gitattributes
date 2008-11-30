@@ -4818,9 +4818,9 @@ source/Win32.WMPerfMonPluginMemory.Mod -text svneol=unset#text/plain
 source/Win32.WMTCPTracker.Mod -text svneol=unset#text/plain
 source/Win32.WSock32.Mod -text svneol=unset#text/plain
 source/Win32.WinApplications.Mod -text
-source/Win32.WinConsole.Mod -text svneol=unset#text/plain
 source/Win32.WinDisks.Mod -text svneol=unset#text/plain
 source/Win32.WinFS.Mod -text svneol=unset#text/plain
+source/Win32.WinTrace.Mod -text
 source/WindowManager.Mod -text
 source/X29Plane.poly -text
 source/XML.Mod -text
