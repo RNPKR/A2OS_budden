@@ -1411,11 +1411,10 @@ WinAos/ObjE/WebHTTPTools.Obw -text
 WinAos/ObjE/WebSSMPPlugin.Obw -text
 WinAos/ObjE/WebStd.Obw -text
 WinAos/ObjE/WhitespaceRemover.Obw -text
-WinAos/ObjE/Win32RelFS.Obw -text
 WinAos/ObjE/WinApplications.Obw -text
-WinAos/ObjE/WinConsole.Obw -text
 WinAos/ObjE/WinDisks.Obw -text
 WinAos/ObjE/WinFS.Obw -text
+WinAos/ObjE/WinTrace.Obw -text
 WinAos/ObjE/WindowManager.Obw -text
 WinAos/ObjE/XML.Obw -text
 WinAos/ObjE/XMLComponents.Obw -text
@@ -2641,11 +2640,10 @@ WinAos/ObjI/WebHTTPTools.Obw -text
 WinAos/ObjI/WebSSMPPlugin.Obw -text
 WinAos/ObjI/WebStd.Obw -text
 WinAos/ObjI/WhitespaceRemover.Obw -text
-WinAos/ObjI/Win32RelFS.Obw -text
 WinAos/ObjI/WinApplications.Obw -text
-WinAos/ObjI/WinConsole.Obw -text
 WinAos/ObjI/WinDisks.Obw -text
 WinAos/ObjI/WinFS.Obw -text
+WinAos/ObjI/WinTrace.Obw -text
 WinAos/ObjI/WindowManager.Obw -text
 WinAos/ObjI/XML.Obw -text
 WinAos/ObjI/XMLComponents.Obw -text
