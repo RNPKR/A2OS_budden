@@ -433,7 +433,6 @@ WinAos/ObjE/JPEG2000Decoder.Obw -text
 WinAos/ObjE/JPEG2000DecoderCS.Obw -text
 WinAos/ObjE/JPEG2000DecoderUtil.Obw -text
 WinAos/ObjE/JPEGDecoder.Obw -text
-WinAos/ObjE/JString.Obw -text
 WinAos/ObjE/JavaLocks.Obw -text
 WinAos/ObjE/Joysticks.Obw -text
 WinAos/ObjE/JoysticksTest.Obw -text
@@ -1670,7 +1669,6 @@ WinAos/ObjI/JPEG2000Decoder.Obw -text
 WinAos/ObjI/JPEG2000DecoderCS.Obw -text
 WinAos/ObjI/JPEG2000DecoderUtil.Obw -text
 WinAos/ObjI/JPEGDecoder.Obw -text
-WinAos/ObjI/JString.Obw -text
 WinAos/ObjI/JavaLocks.Obw -text
 WinAos/ObjI/Joysticks.Obw -text
 WinAos/ObjI/JoysticksTest.Obw -text
@@ -3548,7 +3546,6 @@ source/JPEG2000Decoder.Mod -text
 source/JPEG2000DecoderCS.Mod -text
 source/JPEG2000DecoderUtil.Mod -text
 source/JPEGDecoder.Mod -text
-source/JString.Mod -text
 source/JavaLocks.Mod -text
 source/Joysticks.Mod -text
 source/JoysticksTest.Mod -text
