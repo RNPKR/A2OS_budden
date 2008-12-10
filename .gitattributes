@@ -3173,7 +3173,6 @@ source/Bows.Pict -text
 source/Bricks.Pict -text
 source/Build.Tool -text
 source/Builder.Tool -text
-source/BunnyLinear.gif -text
 source/CATServer.Mod -text
 source/CDRecord.Mod -text
 source/CDRecordLib.Mod -text
@@ -4831,7 +4830,6 @@ source/XMLTransformer.Mod -text
 source/XMas.poly -text
 source/XModem.Mod -text
 source/XYModem.Mod -text
-source/XmasBunnyLinear.gif -text
 source/XmasMenu.XML -text
 source/YMF754.Bin -text
 source/YMF754.Mod -text
@@ -4853,7 +4851,6 @@ source/aqua.skin -text
 source/benevento.ttf -text
 source/bluebottle.xsl -text
 source/bluebottleselfsigned.der -text
-source/bones.gif -text
 source/cjkfont.bfnt -text
 source/cn.PrgInOberon.txt -text
 source/cnErrors.XML -text
