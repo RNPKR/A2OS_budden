@@ -4628,6 +4628,7 @@ source/WMMessages.Mod -text
 source/WMMixer.Mod -text
 source/WMModuleState.Mod -text
 source/WMNavigate.Mod -text
+source/WMNavigateIcons.tar -text
 source/WMNavigateOverview.XML -text
 source/WMNavigateTaskList.XML -text
 source/WMNavigator.Mod -text
