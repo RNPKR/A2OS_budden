@@ -3703,7 +3703,6 @@ source/OFS.Tool -text
 source/OGGRadios.Text -text
 source/OGGUtilities.Mod -text
 source/OGGVorbisPlayer.Mod -text
-source/OGLDisplay.Mod -text
 source/OPA.Data -text
 source/OSC.Mod -text
 source/OSCEval.Mod -text
