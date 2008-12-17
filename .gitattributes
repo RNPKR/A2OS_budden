@@ -3406,7 +3406,6 @@ source/FirewireLow.Mod -text
 source/FirewireLowUtil.Mod -text
 source/FirewireSBP2.Mod -text
 source/Flock.Pict -text
-source/Folder.png -text
 source/FontEditor.Panel -text
 source/FontRes.Tool -text
 source/Fractal.Pict -text
