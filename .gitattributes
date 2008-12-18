@@ -1368,7 +1368,6 @@ WinAos/ObjE/WMSkinLoader.Obw -text
 WinAos/ObjE/WMSlideshow.Obw -text
 WinAos/ObjE/WMStandardComponents.Obw -text
 WinAos/ObjE/WMStringGrids.Obw -text
-WinAos/ObjE/WMStyle.Obw -text
 WinAos/ObjE/WMSystemComponents.Obw -text
 WinAos/ObjE/WMTCPTracker.Obw -text
 WinAos/ObjE/WMTabComponents.Obw -text
@@ -2595,7 +2594,6 @@ WinAos/ObjI/WMSkinLoader.Obw -text
 WinAos/ObjI/WMSlideshow.Obw -text
 WinAos/ObjI/WMStandardComponents.Obw -text
 WinAos/ObjI/WMStringGrids.Obw -text
-WinAos/ObjI/WMStyle.Obw -text
 WinAos/ObjI/WMSystemComponents.Obw -text
 WinAos/ObjI/WMTCPTracker.Obw -text
 WinAos/ObjI/WMTabComponents.Obw -text
@@ -4684,7 +4682,6 @@ source/WMSkinLoader.Mod -text
 source/WMSlideshow.Mod -text
 source/WMStandardComponents.Mod -text
 source/WMStringGrids.Mod -text
-source/WMStyle.Mod -text
 source/WMSystemComponents.Mod -text
 source/WMTCPTracker.Mod -text
 source/WMTabComponents.Mod -text
