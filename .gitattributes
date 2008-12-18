@@ -1298,7 +1298,6 @@ WinAos/ObjE/WMEventLog.Obw -text
 WinAos/ObjE/WMEvents.Obw -text
 WinAos/ObjE/WMFTPClient.Obw -text
 WinAos/ObjE/WMFileManager.Obw -text
-WinAos/ObjE/WMFingerPost.Obw -text
 WinAos/ObjE/WMFontCCGConverter.Obw -text
 WinAos/ObjE/WMFontManager.Obw -text
 WinAos/ObjE/WMGraphicUtilities.Obw -text
@@ -2526,7 +2525,6 @@ WinAos/ObjI/WMEventLog.Obw -text
 WinAos/ObjI/WMEvents.Obw -text
 WinAos/ObjI/WMFTPClient.Obw -text
 WinAos/ObjI/WMFileManager.Obw -text
-WinAos/ObjI/WMFingerPost.Obw -text
 WinAos/ObjI/WMFontCCGConverter.Obw -text
 WinAos/ObjI/WMFontManager.Obw -text
 WinAos/ObjI/WMGraphicUtilities.Obw -text
@@ -4604,7 +4602,6 @@ source/WMEventLog.Mod -text
 source/WMEvents.Mod -text
 source/WMFTPClient.Mod -text
 source/WMFileManager.Mod -text
-source/WMFingerPost.Mod -text
 source/WMFontCCGConverter.Mod -text
 source/WMFontManager.Mod -text
 source/WMGraphicUtilities.Mod -text
