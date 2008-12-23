@@ -4583,6 +4583,7 @@ source/WMCDRecorder.Mod -text
 source/WMCharCodes.Mod -text
 source/WMCharMap.Mod -text
 source/WMClock.Mod -text
+source/WMClockImages.tar -text
 source/WMColorTools.Mod -text
 source/WMComponents.Mod -text
 source/WMDefaultFont.Mod -text
