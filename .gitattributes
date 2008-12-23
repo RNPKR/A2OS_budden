@@ -4920,6 +4920,7 @@ source/winxp.skin -text
 source/xmas.skin -text
 source/xmas04.tar -text
 tools/WinAosDebug/Debug.c -text
+tools/WinAosDebug/Debug.def -text
 tools/WinAosDebug/Debug.h -text
 tools/WinAosDebug/Debug.rc -text
 tools/WinAosDebug/Debug.sln -text
