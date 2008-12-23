@@ -3752,6 +3752,7 @@ source/Oberon.ColorTools.Mod -text
 source/Oberon.ColorWells.Mod -text
 source/Oberon.Colors.Mod -text
 source/Oberon.Columbus.Mod -text
+source/Oberon.Compilation.Test -text
 source/Oberon.Compiler.Mod -text
 source/Oberon.Complex.Mod -text
 source/Oberon.Compress.Mod -text
@@ -4038,7 +4039,6 @@ source/Oberon.TelnetGadgets.Mod -text
 source/Oberon.TerminalFrames.Mod -text
 source/Oberon.TerminalGadgets.Mod -text
 source/Oberon.Terminals.Mod -text
-source/Oberon.Test -text
 source/Oberon.TestNet.Mod -text
 source/Oberon.Tetris.Mod -text
 source/Oberon.Text -text
