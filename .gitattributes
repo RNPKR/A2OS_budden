@@ -3797,6 +3797,7 @@ source/Oberon.ErrorGadgets.Mod -text
 source/Oberon.ExampleOberon.Mod -text
 source/Oberon.Examples.Mod -text
 source/Oberon.Examples1.Mod -text
+source/Oberon.Execution.Test -text
 source/Oberon.FATDocs.Mod -text
 source/Oberon.FATFiles.Mod -text
 source/Oberon.FATTools.Mod -text
