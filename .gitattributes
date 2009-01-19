@@ -4407,6 +4407,7 @@ source/TestTrees.Mod -text
 source/TestXMLPlugins.Mod -text
 source/Tetra.poly -text
 source/Tetris.Panel -text
+source/TextConverter.Mod -text
 source/TextDocs.Lib -text
 source/TextDocs.Panel -text
 source/TextDocs.Tool -text
