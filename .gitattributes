@@ -3503,7 +3503,6 @@ source/I386.Oberon.Bitmaps.Mod -text
 source/I386.PCI.Mod -text
 source/I386.Raster.Mod -text
 source/I386.Reals.Mod -text
-source/I386.S3Aurora64.Mod -text
 source/I386.UsbKeyboard.Mod -text
 source/I386.VMWareTools.Mod -text
 source/I386.WMRasterScale.Mod -text
