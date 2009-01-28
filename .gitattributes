@@ -4738,6 +4738,7 @@ source/Win32.Beep.Mod -text svneol=unset#text/plain
 source/Win32.COMDLG32.Mod -text svneol=unset#text/plain
 source/Win32.Clipboard.Mod -text svneol=unset#text/plain
 source/Win32.Clock.Mod -text svneol=unset#text/plain
+source/Win32.CommandLine.Mod -text
 source/Win32.DNS.Mod -text svneol=unset#text/plain
 source/Win32.Display.Mod -text svneol=unset#text/plain
 source/Win32.External.Oberon.Clipboard.Mod -text svneol=unset#text/plain
