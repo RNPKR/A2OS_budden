@@ -4382,6 +4382,7 @@ source/TVChannels.XML -text
 source/TVDriver.Mod -text
 source/TVRemoteControl.Mod -text
 source/Tar.Mod -text
+source/TaskScheduler.Mod -text
 source/TeletextBrowser.Mod -text
 source/TeletextDecoder.Mod -text
 source/TeletextFont.Mod -text
@@ -4688,6 +4689,7 @@ source/WMStringGrids.Mod -text
 source/WMSystemComponents.Mod -text
 source/WMTCPTracker.Mod -text
 source/WMTabComponents.Mod -text
+source/WMTaskScheduler.Mod -text
 source/WMTetris.Mod -text
 source/WMTextStyleTool.Mod -text
 source/WMTextTool.Mod -text
