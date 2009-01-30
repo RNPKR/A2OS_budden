@@ -4583,6 +4583,7 @@ source/WMBunny.Mod -text
 source/WMBunnyImages.tar -text
 source/WMCCGFonts.Mod -text
 source/WMCDRecorder.Mod -text
+source/WMCalendar.Mod -text
 source/WMCharCodes.Mod -text
 source/WMCharMap.Mod -text
 source/WMClock.Mod -text
