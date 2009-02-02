@@ -3122,7 +3122,6 @@ source/Autostart.Mod -text
 source/BIT.Mod -text
 source/BMPCodec.Mod -text
 source/BT848.Mod -text
-source/Babel.zip -text
 source/Backdrop.Pict -text
 source/BackdropList.XML -text
 source/Backdrops.Book -text
@@ -3433,7 +3432,6 @@ source/GfxPaths.Mod -text
 source/GfxProlog.ps -text
 source/GfxRaster.Mod -text
 source/GfxRegions.Mod -text
-source/GoodCount.zip -text
 source/Gopher.Tool -text
 source/Grapes.Pict -text
 source/Greek.Tool -text
@@ -3524,7 +3522,6 @@ source/Icons2.Lib -text
 source/Icons3.Lib -text
 source/Images.Text -text
 source/Images.Tool -text
-source/Index.zip -text
 source/Inflate.Mod -text
 source/Info.Mod -text
 source/InitNetwork.Mod -text
@@ -3672,7 +3669,6 @@ source/MultiMail.Panel -text
 source/NCR810Disks.Mod -text
 source/NCRScript.Mod -text
 source/NGon.Shape -text
-source/NPTBoxA.zip -text
 source/NbrCplx.Mod -text
 source/NbrInt.Mod -text
 source/NbrInt16.Mod -text
@@ -4258,7 +4254,6 @@ source/References.Text -text
 source/Reflection.Mod -text
 source/RegisterRFW.Mod -text
 source/RegistryTools.Tool -text
-source/Regul.zip -text
 source/RelativeFileSystem.Mod -text
 source/Release.Auto.dsk -text
 source/Release.Mod -text
@@ -4361,7 +4356,6 @@ source/System3F5.Graphic -text
 source/System3F6.Graphic -text
 source/System3F7.Graphic -text
 source/SystemTools.Mod -text
-source/TBox.zip -text
 source/TCP.Mod -text
 source/TCPPortLog.Mod -text
 source/TCPServices.Mod -text
@@ -4711,7 +4705,6 @@ source/WMWindowManager.Mod -text
 source/WMXMLTree.Mod -text
 source/WPM.Mod -text
 source/WTS.Tool -text
-source/Water.zip -text
 source/Watson.Lib -text
 source/Watson.Panel -text
 source/WebAccounts.Mod -text
@@ -4733,7 +4726,6 @@ source/WebHTTPTools.Mod -text
 source/WebSSMPPlugin.Mod -text
 source/WebStd.Mod -text
 source/WebWormWatch.Mod -text
-source/Where.zip -text
 source/White.Pal -text
 source/WhitespaceRemover.Mod -text
 source/Win32.ADVAPI32.Mod -text svneol=unset#text/plain
