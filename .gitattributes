@@ -3394,6 +3394,7 @@ source/Feedback.Text -text
 source/Fido.Mod -text
 source/FileHandlers.Mod -text
 source/Files.Mod -text
+source/Files.Test -text
 source/Find.Panel -text
 source/Find.Tool -text
 source/Finger.Tool -text
@@ -4390,6 +4391,8 @@ source/Test2.Vinci -text
 source/TestComponentDragDrop.Mod -text
 source/TestComponents.Mod -text
 source/TestContext.xml -text
+source/TestFile0.Bin -text
+source/TestFiles.Mod -text
 source/TestHTML.Text -text
 source/TestLocks.Mod -text
 source/TestMenu.Mod -text
