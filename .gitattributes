@@ -4391,7 +4391,6 @@ source/Test2.Vinci -text
 source/TestComponentDragDrop.Mod -text
 source/TestComponents.Mod -text
 source/TestContext.xml -text
-source/TestFile0.Bin -text
 source/TestFiles.Mod -text
 source/TestHTML.Text -text
 source/TestLocks.Mod -text
