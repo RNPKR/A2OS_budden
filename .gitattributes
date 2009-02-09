@@ -41,70 +41,21 @@ WinAos/Aos/AosBottleBlackEnh.ico -text svneol=unset#image/x-icon
 WinAos/Aos/AosBottleOnly.ico -text svneol=unset#image/x-icon
 WinAos/Aos/AosBottleSmall.ico -text svneol=unset#image/x-icon
 WinAos/Aos/AosTL.ico -text svneol=unset#image/x-icon
-WinAos/Aos/Applic.Contents.html -text svneol=unset#text/html
-WinAos/Aos/Applic.Index.html -text svneol=unset#text/html
-WinAos/Aos/Applic.html -text svneol=unset#text/html
 WinAos/Aos/BasicGadgets.Panel -text
-WinAos/Aos/Big.Index.html -text svneol=unset#text/html
 WinAos/Aos/Bugs.Text -text svneol=unset#text/plain
-WinAos/Aos/Columbus.Contents.html -text svneol=unset#text/html
-WinAos/Aos/Columbus.Index.html -text svneol=unset#text/html
-WinAos/Aos/Columbus.html -text svneol=unset#text/html
-WinAos/Aos/Compiler.Contents.html -text svneol=unset#text/html
-WinAos/Aos/Compiler.Index.html -text svneol=unset#text/html
 WinAos/Aos/Compiler.Panel -text
-WinAos/Aos/Compiler.html -text svneol=unset#text/html
-WinAos/Aos/Compress.Contents.html -text svneol=unset#text/html
-WinAos/Aos/Compress.Index.html -text svneol=unset#text/html
-WinAos/Aos/Compress.html -text svneol=unset#text/html
 WinAos/Aos/Configuration.Text -text svneol=unset#text/plain
-WinAos/Aos/DataConverter.Contents.html -text svneol=unset#text/html
-WinAos/Aos/DataConverter.Index.html -text svneol=unset#text/html
-WinAos/Aos/DataConverter.html -text svneol=unset#text/html
 WinAos/Aos/ETHLicense.txt -text svneol=unset#text/plain
 WinAos/Aos/Escher.Pict -text
 WinAos/Aos/Find.Panel -text
-WinAos/Aos/GadgetsIntro.Contents.html -text svneol=unset#text/html
-WinAos/Aos/GadgetsIntro.Index.html -text svneol=unset#text/html
-WinAos/Aos/GadgetsIntro.html -text svneol=unset#text/html
-WinAos/Aos/GadgetsOberon.Contents.html -text svneol=unset#text/html
-WinAos/Aos/GadgetsOberon.Index.html -text svneol=unset#text/html
-WinAos/Aos/GadgetsOberon.html -text svneol=unset#text/html
-WinAos/Aos/GadgetsProg.Contents.html -text svneol=unset#text/html
-WinAos/Aos/GadgetsProg.Index.html -text svneol=unset#text/html
-WinAos/Aos/GadgetsProg.html -text svneol=unset#text/html
-WinAos/Aos/GadgetsUse.Contents.html -text svneol=unset#text/html
-WinAos/Aos/GadgetsUse.Index.html -text svneol=unset#text/html
-WinAos/Aos/GadgetsUse.html -text svneol=unset#text/html
 WinAos/Aos/HelloCon.Link -text
 WinAos/Aos/HelloCon.Mod -text svneol=unset#text/plain
 WinAos/Aos/HelloCon.reg -text
 WinAos/Aos/IniEdit.Help -text
 WinAos/Aos/IniEdit.Panel -text
-WinAos/Aos/Internet.Contents.html -text svneol=unset#text/html
-WinAos/Aos/Internet.Index.html -text svneol=unset#text/html
-WinAos/Aos/Internet.html -text svneol=unset#text/html
-WinAos/Aos/Main.Contents.html -text svneol=unset#text/html
-WinAos/Aos/Main.html -text svneol=unset#text/html
-WinAos/Aos/Mouse.Contents.html -text svneol=unset#text/html
-WinAos/Aos/Mouse.Index.html -text svneol=unset#text/html
-WinAos/Aos/Mouse.html -text svneol=unset#text/html
-WinAos/Aos/Oberon3TUI.Contents.html -text svneol=unset#text/html
-WinAos/Aos/Oberon3TUI.Index.html -text svneol=unset#text/html
-WinAos/Aos/Oberon3TUI.html -text svneol=unset#text/html
 WinAos/Aos/PrinterInfo.Panel -text
 WinAos/Aos/Rel.Oberon.reg -text
-WinAos/Aos/Rembrandt.Contents.html -text svneol=unset#text/html
-WinAos/Aos/Rembrandt.Index.html -text svneol=unset#text/html
-WinAos/Aos/Rembrandt.html -text svneol=unset#text/html
-WinAos/Aos/Tutorials.Book -text
-WinAos/Aos/Tutorials.Contents.html -text svneol=unset#text/html
-WinAos/Aos/Tutorials.Index.html -text svneol=unset#text/html
-WinAos/Aos/Tutorials.html -text svneol=unset#text/html
 WinAos/Aos/Wallpapers.txt -text svneol=unset#text/plain
-WinAos/Aos/Watson.Contents.html -text svneol=unset#text/html
-WinAos/Aos/Watson.Index.html -text svneol=unset#text/html
-WinAos/Aos/Watson.html -text svneol=unset#text/html
 WinAos/Aos/WinAos.Text -text svneol=unset#text/plain
 WinAos/Aos/antsStartup.GIF -text
 WinAos/Aos/antsStartupAlpha.GIF -text
