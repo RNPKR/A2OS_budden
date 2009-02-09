@@ -2531,6 +2531,7 @@ WinAos/WinOberon/OP2.Errors -text
 WinAos/WinOberon/Oberon3TUIObjs.Lib -text
 WinAos/WinOberon/OberonExternal.Text -text svneol=unset#text/plain
 WinAos/WinOberon/PlugInsGuide.Text -text svneol=unset#text/plain
+WinAos/WinOberon/Setup.Tool -text
 WinAos/WinOberon/System.Log -text
 WinAos/WinOberon/TextPopups.Text -text svneol=unset#text/plain
 WinAos/WinOberon/WatsonObjs.Lib -text
@@ -2940,7 +2941,6 @@ source/AlmSmtpReceiver.Atg -text
 source/AlmSmtpReceiver.Guide.Text -text
 source/AlmSmtpReceiver.Mod -text
 source/AlmSmtpReceiver.Tool -text
-source/Analyzer.Tool -text
 source/Aos.Par -text
 source/AosDefault.Pal -text
 source/AosInst.Tool -text
@@ -3138,7 +3138,6 @@ source/DES.Mod -text
 source/DHCP.Mod -text
 source/DNS.Mod -text
 source/DOS.Tool -text
-source/DOSBackup.Tool -text
 source/DTPData.Mod -text
 source/DTPEditor.Mod -text
 source/DTPImage.Mod -text
@@ -4104,7 +4103,6 @@ source/Rect2.Shape -text
 source/References.Text -text
 source/Reflection.Mod -text
 source/RegisterRFW.Mod -text
-source/RegistryTools.Tool -text
 source/RelativeFileSystem.Mod -text
 source/Release.Auto.dsk -text
 source/Release.Mod -text
@@ -4157,7 +4155,6 @@ source/SearchTools.Mod -text
 source/Serials.Mod -text
 source/SerialsVirtual.Mod -text
 source/Setup.Text -text
-source/Setup.Tool -text
 source/Shanghai.Scn.Fnt -text
 source/Shell.Alias -text
 source/Shell.Mod -text
@@ -4647,7 +4644,6 @@ source/Win32.DNS.Mod -text svneol=unset#text/plain
 source/Win32.Display.Mod -text svneol=unset#text/plain
 source/Win32.External.Oberon.Clipboard.Mod -text svneol=unset#text/plain
 source/Win32.GDI32.Mod -text svneol=unset#text/plain
-source/Win32.Heaps.Mod -text svneol=unset#text/plain
 source/Win32.IP.Mod -text svneol=unset#text/plain
 source/Win32.Kernel.Mod -text svneol=unset#text/plain
 source/Win32.Kernel32.Mod -text svneol=unset#text/plain
