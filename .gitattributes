@@ -113,7 +113,6 @@ WinAos/Aos/Mouse.html -text svneol=unset#text/html
 WinAos/Aos/MouseObjs.Lib -text
 WinAos/Aos/MoveHand.cur -text
 WinAos/Aos/OP2.Errors -text
-WinAos/Aos/Oberon.Report.Text -text svneol=unset#text/plain
 WinAos/Aos/Oberon.ico -text svneol=unset#image/x-icon
 WinAos/Aos/Oberon.small.ico -text svneol=unset#image/x-icon
 WinAos/Aos/Oberon3TUI.Contents.html -text svneol=unset#text/html
@@ -3925,6 +3924,7 @@ source/Oberon.Rembrandt0.Mod -text
 source/Oberon.RembrandtDocs.Mod -text
 source/Oberon.RembrandtTools.Mod -text
 source/Oberon.Reminders.Mod -text
+source/Oberon.Report.Text -text svneol=unset#text/plain
 source/Oberon.Rot13.Mod -text
 source/Oberon.SSH.Mod -text
 source/Oberon.SSHAuth.Mod -text
