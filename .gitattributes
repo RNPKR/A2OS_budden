@@ -30,51 +30,6 @@ UnixAos/buildtools/x86.Darwin.Tool -text
 UnixAos/buildtools/x86.Linux.Tool -text
 UnixAos/buildtools/x86.Solaris.Tool -text
 WinAos/Aos.EXE -text
-WinAos/Aos/AddressBook.Text -text svneol=unset#text/plain
-WinAos/Aos/Aos.ico -text svneol=unset#image/x-icon
-WinAos/Aos/Aos.small.ico -text svneol=unset#image/x-icon
-WinAos/Aos/Aos16.ico -text svneol=unset#image/x-icon
-WinAos/Aos/Aos16.small.ico -text svneol=unset#image/x-icon
-WinAos/Aos/AosBottle.ico -text svneol=unset#image/x-icon
-WinAos/Aos/AosBottleBlack.ico -text svneol=unset#image/x-icon
-WinAos/Aos/AosBottleBlackEnh.ico -text svneol=unset#image/x-icon
-WinAos/Aos/AosBottleOnly.ico -text svneol=unset#image/x-icon
-WinAos/Aos/AosBottleSmall.ico -text svneol=unset#image/x-icon
-WinAos/Aos/AosTL.ico -text svneol=unset#image/x-icon
-WinAos/Aos/BasicGadgets.Panel -text
-WinAos/Aos/Bugs.Text -text svneol=unset#text/plain
-WinAos/Aos/Compiler.Panel -text
-WinAos/Aos/Configuration.Text -text svneol=unset#text/plain
-WinAos/Aos/ETHLicense.txt -text svneol=unset#text/plain
-WinAos/Aos/Escher.Pict -text
-WinAos/Aos/Find.Panel -text
-WinAos/Aos/HelloCon.Link -text
-WinAos/Aos/HelloCon.Mod -text svneol=unset#text/plain
-WinAos/Aos/HelloCon.reg -text
-WinAos/Aos/IniEdit.Help -text
-WinAos/Aos/IniEdit.Panel -text
-WinAos/Aos/PrinterInfo.Panel -text
-WinAos/Aos/Rel.Oberon.reg -text
-WinAos/Aos/Wallpapers.txt -text svneol=unset#text/plain
-WinAos/Aos/WinAos.Text -text svneol=unset#text/plain
-WinAos/Aos/antsStartup.GIF -text
-WinAos/Aos/antsStartupAlpha.GIF -text
-WinAos/Aos/arrow1dd.bmp -text svneol=unset#image/bmp
-WinAos/Aos/arrow1dh.bmp -text svneol=unset#image/bmp
-WinAos/Aos/arrow1du.bmp -text svneol=unset#image/bmp
-WinAos/Aos/arrow1ld.bmp -text svneol=unset#image/bmp
-WinAos/Aos/arrow1lh.bmp -text svneol=unset#image/bmp
-WinAos/Aos/arrow1lu.bmp -text svneol=unset#image/bmp
-WinAos/Aos/arrow1rd.bmp -text svneol=unset#image/bmp
-WinAos/Aos/arrow1rh.bmp -text svneol=unset#image/bmp
-WinAos/Aos/arrow1ru.bmp -text svneol=unset#image/bmp
-WinAos/Aos/arrow1ud.bmp -text svneol=unset#image/bmp
-WinAos/Aos/arrow1uh.bmp -text svneol=unset#image/bmp
-WinAos/Aos/arrow1uu.bmp -text svneol=unset#image/bmp
-WinAos/Aos/public.aosposter.gif -text svneol=unset#image/gif
-WinAos/Aos/public.aosposterthumbgif.gif -text svneol=unset#image/gif
-WinAos/Aos/public.aosposterthumbpdf.gif -text svneol=unset#image/gif
-WinAos/Aos/relfiles.bat svneol=native#text/plain
 WinAos/AosDebug.exe -text
 WinAos/ObjE/ADVAPI32.Obw -text
 WinAos/ObjE/AFM.Obw -text
