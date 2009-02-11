@@ -4636,6 +4636,7 @@ source/WhitespaceRemover.Mod -text
 source/Win32.ADVAPI32.Mod -text svneol=unset#text/plain
 source/Win32.Aos.Link -text
 source/Win32.Beep.Mod -text svneol=unset#text/plain
+source/Win32.BuildMini.Tool -text
 source/Win32.COMDLG32.Mod -text svneol=unset#text/plain
 source/Win32.Clipboard.Mod -text svneol=unset#text/plain
 source/Win32.Clock.Mod -text svneol=unset#text/plain
