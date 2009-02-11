@@ -3499,6 +3499,7 @@ source/MenuPage60.XML -text
 source/MenuPage70.XML -text
 source/MenuPage80.XML -text
 source/MenuPage90.XML -text
+source/MenuPages.Mod -text
 source/MinInitNetwork.Mod -text
 source/MineSweeperBD.Pict -text
 source/Miscellaneous.Tool -text
