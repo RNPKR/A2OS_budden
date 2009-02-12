@@ -282,6 +282,7 @@ WinAos/ObjE/MathReSeries.Obw -text
 WinAos/ObjE/MediaPlayer.Obw -text
 WinAos/ObjE/MemoryReader.Obw -text
 WinAos/ObjE/MenuEdit.Obw -text
+WinAos/ObjE/MenuPages.Obw -text
 WinAos/ObjE/ModuleParser.Obw -text
 WinAos/ObjE/ModuleTrees.Obw -text
 WinAos/ObjE/Modules.Obw -text
@@ -1025,6 +1026,7 @@ WinAos/ObjE/TFLog.Obw -text
 WinAos/ObjE/TFWebForum.Obw -text
 WinAos/ObjE/TLS.Obw -text
 WinAos/ObjE/Tar.Obw -text
+WinAos/ObjE/TaskScheduler.Obw -text
 WinAos/ObjE/Telnet.Obw -text
 WinAos/ObjE/TestComponentDragDrop.Obw -text
 WinAos/ObjE/TestComponents.Obw -text
@@ -1084,6 +1086,7 @@ WinAos/ObjE/WMBackdropLoader.Obw -text
 WinAos/ObjE/WMBitmapFont.Obw -text
 WinAos/ObjE/WMBunny.Obw -text
 WinAos/ObjE/WMCCGFonts.Obw -text
+WinAos/ObjE/WMCalendar.Obw -text
 WinAos/ObjE/WMCharCodes.Obw -text
 WinAos/ObjE/WMCharMap.Obw -text
 WinAos/ObjE/WMClock.Obw -text
@@ -1177,6 +1180,7 @@ WinAos/ObjE/WMStringGrids.Obw -text
 WinAos/ObjE/WMSystemComponents.Obw -text
 WinAos/ObjE/WMTCPTracker.Obw -text
 WinAos/ObjE/WMTabComponents.Obw -text
+WinAos/ObjE/WMTaskScheduler.Obw -text
 WinAos/ObjE/WMTetris.Obw -text
 WinAos/ObjE/WMTextStyleTool.Obw -text
 WinAos/ObjE/WMTextTool.Obw -text
@@ -1516,6 +1520,7 @@ WinAos/ObjI/MathReSeries.Obw -text
 WinAos/ObjI/MediaPlayer.Obw -text
 WinAos/ObjI/MemoryReader.Obw -text
 WinAos/ObjI/MenuEdit.Obw -text
+WinAos/ObjI/MenuPages.Obw -text
 WinAos/ObjI/ModuleParser.Obw -text
 WinAos/ObjI/ModuleTrees.Obw -text
 WinAos/ObjI/Modules.Obw -text
@@ -2251,6 +2256,7 @@ WinAos/ObjI/TFLog.Obw -text
 WinAos/ObjI/TFWebForum.Obw -text
 WinAos/ObjI/TLS.Obw -text
 WinAos/ObjI/Tar.Obw -text
+WinAos/ObjI/TaskScheduler.Obw -text
 WinAos/ObjI/Telnet.Obw -text
 WinAos/ObjI/TestComponentDragDrop.Obw -text
 WinAos/ObjI/TestComponents.Obw -text
@@ -2310,6 +2316,7 @@ WinAos/ObjI/WMBackdropLoader.Obw -text
 WinAos/ObjI/WMBitmapFont.Obw -text
 WinAos/ObjI/WMBunny.Obw -text
 WinAos/ObjI/WMCCGFonts.Obw -text
+WinAos/ObjI/WMCalendar.Obw -text
 WinAos/ObjI/WMCharCodes.Obw -text
 WinAos/ObjI/WMCharMap.Obw -text
 WinAos/ObjI/WMClock.Obw -text
@@ -2403,6 +2410,7 @@ WinAos/ObjI/WMStringGrids.Obw -text
 WinAos/ObjI/WMSystemComponents.Obw -text
 WinAos/ObjI/WMTCPTracker.Obw -text
 WinAos/ObjI/WMTabComponents.Obw -text
+WinAos/ObjI/WMTaskScheduler.Obw -text
 WinAos/ObjI/WMTetris.Obw -text
 WinAos/ObjI/WMTextStyleTool.Obw -text
 WinAos/ObjI/WMTextTool.Obw -text
