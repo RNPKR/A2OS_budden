@@ -3211,7 +3211,6 @@ source/Errors.XML -text
 source/Ethernet3Com90x.Mod -text
 source/Evening.jp2 -text
 source/Events.Mod -text
-source/EventsClasses.XML -text
 source/EventsFileLog.Mod -text
 source/EventsKernelLog.Mod -text
 source/EventsMemoryLog.Mod -text
