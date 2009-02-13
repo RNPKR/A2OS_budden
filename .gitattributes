@@ -4194,6 +4194,7 @@ source/Stars.Vinci -text
 source/StartMenu.Mod -text
 source/Streams.Mod -text
 source/StringPool.Mod -text
+source/Strings.Mod -text
 source/Surface.Pict -text
 source/Swarm.Book -text
 source/Swarm.Lib -text
@@ -4438,7 +4439,6 @@ source/UsbUhci.Mod -text
 source/UsbUtilities.Mod -text
 source/Usbdi.Mod -text
 source/UserGuide.Text -text
-source/Utilities.Mod -text
 source/V24.Mod -text
 source/V24.Panel -text
 source/V24Tracer.Mod -text
