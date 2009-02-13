@@ -3165,6 +3165,7 @@ source/DataQueues.Mod -text
 source/DataStacks.Mod -text
 source/DataTemplate.Mod.Text -text
 source/DataTrees.Mod -text
+source/Dates.Mod -text
 source/DbgOut.Mod -text
 source/DebugLog.Mod -text
 source/Debugging.Mod -text
