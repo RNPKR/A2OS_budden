@@ -4349,6 +4349,7 @@ source/Unix.BootLinker.Mod -text
 source/Unix.Clock.Mod -text
 source/Unix.Console.Mod -text
 source/Unix.DNS.Mod -text
+source/Unix.DisplayRefresher.Mod -text
 source/Unix.Displays.Mod -text
 source/Unix.Files.Mod -text
 source/Unix.Heaps.Mod -text
