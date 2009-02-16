@@ -4402,6 +4402,7 @@ source/Unix.WMPerfMonTabSystem.Mod -text
 source/Unix.WindowManager.Mod -text
 source/Unix.X11.Mod -text
 source/Unix.XDisplay.Mod -text
+source/UnixAos.Tool -text
 source/Unzip.Mod -text
 source/UpTime.Mod -text
 source/Usb.Mod -text
