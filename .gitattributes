@@ -4083,6 +4083,7 @@ source/PrevalenceSystem.Mod -text
 source/Printers.Tool -text
 source/Profiler.Mod -text
 source/Programming.Tool -text
+source/Quickstart.Text -text
 source/QuoteServer.Mod -text
 source/Quotes.txt -text
 source/RAMVolumes.Mod -text
