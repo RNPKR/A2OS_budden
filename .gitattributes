@@ -78,6 +78,7 @@ WinAos/ObjE/CharacterLineup.Obw -text
 WinAos/ObjE/Clipboard.Obw -text
 WinAos/ObjE/Clock.Obw -text
 WinAos/ObjE/Codecs.Obw -text
+WinAos/ObjE/CommandLine.Obw -text
 WinAos/ObjE/Commands.Obw -text
 WinAos/ObjE/CompilerInterface.Obw -text
 WinAos/ObjE/ComponentViewer.Obw -text
@@ -130,7 +131,9 @@ WinAos/ObjE/DataLists.Obw -text
 WinAos/ObjE/DataQueues.Obw -text
 WinAos/ObjE/DataStacks.Obw -text
 WinAos/ObjE/DataTrees.Obw -text
+WinAos/ObjE/Dates.Obw -text
 WinAos/ObjE/DbgOut.Obw -text
+WinAos/ObjE/DebugLog.Obw -text
 WinAos/ObjE/Debugging.Obw -text
 WinAos/ObjE/Decoder.Obw -text
 WinAos/ObjE/Diagnostics.Obw -text
@@ -374,6 +377,7 @@ WinAos/ObjE/Oberon.EditKeys.Obw -text
 WinAos/ObjE/Oberon.EditTools.Obw -text
 WinAos/ObjE/Oberon.Effects.Obw -text
 WinAos/ObjE/Oberon.ErrorGadgets.Obw -text
+WinAos/ObjE/Oberon.ExampleOberon.Obw -text
 WinAos/ObjE/Oberon.Examples.Obw -text
 WinAos/ObjE/Oberon.Examples1.Obw -text
 WinAos/ObjE/Oberon.FATFiles.Obw -text
@@ -977,6 +981,7 @@ WinAos/ObjE/Reflection.Obw -text
 WinAos/ObjE/RegisterRFW.Obw -text
 WinAos/ObjE/RelativeFileSystem.Obw -text
 WinAos/ObjE/Release.Obw -text
+WinAos/ObjE/ReleaseThreadPool.Obw -text
 WinAos/ObjE/SMTPClient.Obw -text
 WinAos/ObjE/SQL.Obw -text
 WinAos/ObjE/SSFS.Obw -text
@@ -1004,6 +1009,7 @@ WinAos/ObjE/SoundDevices.Obw -text
 WinAos/ObjE/StartMenu.Obw -text
 WinAos/ObjE/Streams.Obw -text
 WinAos/ObjE/StringPool.Obw -text
+WinAos/ObjE/Strings.Obw -text
 WinAos/ObjE/SynergyClient.Obw -text
 WinAos/ObjE/SystemTools.Obw -text
 WinAos/ObjE/TCP.Obw -text
@@ -1012,16 +1018,20 @@ WinAos/ObjE/TFClasses.Obw -text
 WinAos/ObjE/TFLog.Obw -text
 WinAos/ObjE/TFWebForum.Obw -text
 WinAos/ObjE/TLS.Obw -text
+WinAos/ObjE/TVDriver.Obw -text
 WinAos/ObjE/Tar.Obw -text
 WinAos/ObjE/TaskScheduler.Obw -text
 WinAos/ObjE/Telnet.Obw -text
 WinAos/ObjE/TestComponentDragDrop.Obw -text
 WinAos/ObjE/TestComponents.Obw -text
+WinAos/ObjE/TestFiles.Obw -text
 WinAos/ObjE/TestMenu.Obw -text
 WinAos/ObjE/TestServer.Obw -text
 WinAos/ObjE/TestSuite.Obw -text
+WinAos/ObjE/TestTimeDifference.Obw -text
 WinAos/ObjE/TestTrees.Obw -text
 WinAos/ObjE/TestXMLPlugins.Obw -text
+WinAos/ObjE/TextConverter.Obw -text
 WinAos/ObjE/TextUtilities.Obw -text
 WinAos/ObjE/Texts.Obw -text
 WinAos/ObjE/Threads.Obw -text
@@ -1040,7 +1050,6 @@ WinAos/ObjE/UnihanParser.Obw -text
 WinAos/ObjE/Unzip.Obw -text
 WinAos/ObjE/UpTime.Obw -text
 WinAos/ObjE/User32.Obw -text
-WinAos/ObjE/Utilities.Obw -text
 WinAos/ObjE/V24.Obw -text
 WinAos/ObjE/V24Tracer.Obw -text
 WinAos/ObjE/VMWareTools.Obw -text
@@ -1316,6 +1325,7 @@ WinAos/ObjI/CharacterLineup.Obw -text
 WinAos/ObjI/Clipboard.Obw -text
 WinAos/ObjI/Clock.Obw -text
 WinAos/ObjI/Codecs.Obw -text
+WinAos/ObjI/CommandLine.Obw -text
 WinAos/ObjI/Commands.Obw -text
 WinAos/ObjI/CompilerInterface.Obw -text
 WinAos/ObjI/ComponentViewer.Obw -text
@@ -1368,7 +1378,9 @@ WinAos/ObjI/DataLists.Obw -text
 WinAos/ObjI/DataQueues.Obw -text
 WinAos/ObjI/DataStacks.Obw -text
 WinAos/ObjI/DataTrees.Obw -text
+WinAos/ObjI/Dates.Obw -text
 WinAos/ObjI/DbgOut.Obw -text
+WinAos/ObjI/DebugLog.Obw -text
 WinAos/ObjI/Debugging.Obw -text
 WinAos/ObjI/Decoder.Obw -text
 WinAos/ObjI/Diagnostics.Obw -text
@@ -1612,6 +1624,7 @@ WinAos/ObjI/Oberon.EditKeys.Obw -text
 WinAos/ObjI/Oberon.EditTools.Obw -text
 WinAos/ObjI/Oberon.Effects.Obw -text
 WinAos/ObjI/Oberon.ErrorGadgets.Obw -text
+WinAos/ObjI/Oberon.ExampleOberon.Obw -text
 WinAos/ObjI/Oberon.Examples.Obw -text
 WinAos/ObjI/Oberon.Examples1.Obw -text
 WinAos/ObjI/Oberon.FATFiles.Obw -text
@@ -1625,6 +1638,7 @@ WinAos/ObjI/Oberon.Find.Obw -text
 WinAos/ObjI/Oberon.Finder.Obw -text
 WinAos/ObjI/Oberon.Finger.Obw -text
 WinAos/ObjI/Oberon.FontEditor.Obw -text
+WinAos/ObjI/Oberon.FontRes.Obw -text
 WinAos/ObjI/Oberon.Fonts.Obw -text
 WinAos/ObjI/Oberon.Freecell.Obw -text
 WinAos/ObjI/Oberon.GIF.Obw -text
@@ -2207,6 +2221,7 @@ WinAos/ObjI/Reflection.Obw -text
 WinAos/ObjI/RegisterRFW.Obw -text
 WinAos/ObjI/RelativeFileSystem.Obw -text
 WinAos/ObjI/Release.Obw -text
+WinAos/ObjI/ReleaseThreadPool.Obw -text
 WinAos/ObjI/SMTPClient.Obw -text
 WinAos/ObjI/SQL.Obw -text
 WinAos/ObjI/SSFS.Obw -text
@@ -2234,6 +2249,7 @@ WinAos/ObjI/SoundDevices.Obw -text
 WinAos/ObjI/StartMenu.Obw -text
 WinAos/ObjI/Streams.Obw -text
 WinAos/ObjI/StringPool.Obw -text
+WinAos/ObjI/Strings.Obw -text
 WinAos/ObjI/SynergyClient.Obw -text
 WinAos/ObjI/SystemTools.Obw -text
 WinAos/ObjI/TCP.Obw -text
@@ -2242,16 +2258,20 @@ WinAos/ObjI/TFClasses.Obw -text
 WinAos/ObjI/TFLog.Obw -text
 WinAos/ObjI/TFWebForum.Obw -text
 WinAos/ObjI/TLS.Obw -text
+WinAos/ObjI/TVDriver.Obw -text
 WinAos/ObjI/Tar.Obw -text
 WinAos/ObjI/TaskScheduler.Obw -text
 WinAos/ObjI/Telnet.Obw -text
 WinAos/ObjI/TestComponentDragDrop.Obw -text
 WinAos/ObjI/TestComponents.Obw -text
+WinAos/ObjI/TestFiles.Obw -text
 WinAos/ObjI/TestMenu.Obw -text
 WinAos/ObjI/TestServer.Obw -text
 WinAos/ObjI/TestSuite.Obw -text
+WinAos/ObjI/TestTimeDifference.Obw -text
 WinAos/ObjI/TestTrees.Obw -text
 WinAos/ObjI/TestXMLPlugins.Obw -text
+WinAos/ObjI/TextConverter.Obw -text
 WinAos/ObjI/TextUtilities.Obw -text
 WinAos/ObjI/Texts.Obw -text
 WinAos/ObjI/Threads.Obw -text
@@ -2270,7 +2290,6 @@ WinAos/ObjI/UnihanParser.Obw -text
 WinAos/ObjI/Unzip.Obw -text
 WinAos/ObjI/UpTime.Obw -text
 WinAos/ObjI/User32.Obw -text
-WinAos/ObjI/Utilities.Obw -text
 WinAos/ObjI/V24.Obw -text
 WinAos/ObjI/V24Tracer.Obw -text
 WinAos/ObjI/VMWareTools.Obw -text
