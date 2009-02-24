@@ -4552,6 +4552,8 @@ source/WMOSD.Mod -text
 source/WMOTFonts.Mod -text
 source/WMOberonFonts.Mod -text
 source/WMObjectTracker.Mod -text
+source/WMOverlay.Mod -text
+source/WMOverlay.tar -text
 source/WMPartitions.Mod -text
 source/WMPartitionsComponents.Mod -text
 source/WMPartitionsPlugins.Mod -text
