@@ -4068,6 +4068,7 @@ source/PETIcons.tar -text
 source/PETModuleTree.Mod -text
 source/PETReleaseTree.Mod -text
 source/PETTrees.Mod -text
+source/PETXMLTree.Mod -text
 source/PNGDecoder.Mod -text
 source/POP3Client.Mod -text
 source/PS.HeaderR.Text -text
