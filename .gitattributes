@@ -4514,6 +4514,7 @@ source/WMComponents.Mod -text
 source/WMDefaultFont.Mod -text
 source/WMDefaultWindows.Mod -text
 source/WMDesktopIcons.Mod -text
+source/WMDesktops.Mod -text
 source/WMDiagramComponents.Mod -text
 source/WMDialogs.Mod -text
 source/WMDiff.Mod -text
