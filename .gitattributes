@@ -4322,6 +4322,7 @@ source/TestLocks.Mod -text
 source/TestMenu.Mod -text
 source/TestOrganizer.Panel -text
 source/TestServer.Mod -text
+source/TestStrings.Mod -text
 source/TestSuite.Mod -text
 source/TestTrees.Mod -text
 source/TestXMLPlugins.Mod -text
