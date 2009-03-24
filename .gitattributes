@@ -4315,6 +4315,7 @@ source/Test2.Vinci -text
 source/TestComponentDragDrop.Mod -text
 source/TestComponents.Mod -text
 source/TestContext.xml -text
+source/TestDates.Mod -text
 source/TestFiles.Mod -text
 source/TestHTML.Text -text
 source/TestLocks.Mod -text
@@ -4322,7 +4323,6 @@ source/TestMenu.Mod -text
 source/TestOrganizer.Panel -text
 source/TestServer.Mod -text
 source/TestSuite.Mod -text
-source/TestTimeDifference.Mod -text
 source/TestTrees.Mod -text
 source/TestXMLPlugins.Mod -text
 source/Tetra.poly -text
