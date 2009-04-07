@@ -4159,6 +4159,8 @@ source/Sage.UDPChat.Text -text
 source/Sage.UDPChatBase.Mod -text
 source/Sage.UDPChatClient.Mod -text
 source/Sage.UDPChatServer.Mod -text
+source/SambaClient.Mod -text
+source/SambaServer.Mod -text
 source/SamplePrograms.Tool -text
 source/Save.Configuration.XML -text
 source/SaveLife.gif -text
