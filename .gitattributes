@@ -3092,6 +3092,7 @@ source/Columbus.Lib -text
 source/Commands.Mod -text
 source/Compiler.Tool -text
 source/CompilerInterface.Mod -text
+source/ComponentInfo.Mod -text
 source/ComponentStyle.XML -text
 source/ComponentViewer.Mod -text
 source/Compress.Tool -text
