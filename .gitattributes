@@ -1028,7 +1028,6 @@ WinAos/ObjE/TestFiles.Obw -text
 WinAos/ObjE/TestMenu.Obw -text
 WinAos/ObjE/TestServer.Obw -text
 WinAos/ObjE/TestSuite.Obw -text
-WinAos/ObjE/TestTimeDifference.Obw -text
 WinAos/ObjE/TestTrees.Obw -text
 WinAos/ObjE/TestXMLPlugins.Obw -text
 WinAos/ObjE/TextConverter.Obw -text
@@ -2268,7 +2267,6 @@ WinAos/ObjI/TestFiles.Obw -text
 WinAos/ObjI/TestMenu.Obw -text
 WinAos/ObjI/TestServer.Obw -text
 WinAos/ObjI/TestSuite.Obw -text
-WinAos/ObjI/TestTimeDifference.Obw -text
 WinAos/ObjI/TestTrees.Obw -text
 WinAos/ObjI/TestXMLPlugins.Obw -text
 WinAos/ObjI/TextConverter.Obw -text
