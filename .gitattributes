@@ -81,6 +81,7 @@ WinAos/ObjE/Codecs.Obw -text
 WinAos/ObjE/CommandLine.Obw -text
 WinAos/ObjE/Commands.Obw -text
 WinAos/ObjE/CompilerInterface.Obw -text
+WinAos/ObjE/ComponentInfo.Obw -text
 WinAos/ObjE/ComponentViewer.Obw -text
 WinAos/ObjE/Configuration.Obw -text
 WinAos/ObjE/ContextualDependency.Obw -text
@@ -221,6 +222,7 @@ WinAos/ObjE/IP.Obw -text
 WinAos/ObjE/ISO9660Files.Obw -text
 WinAos/ObjE/ISO9660Volumes.Obw -text
 WinAos/ObjE/Inflate.Obw -text
+WinAos/ObjE/Info.Obw -text
 WinAos/ObjE/Inputs.Obw -text
 WinAos/ObjE/Installer.Obw -text
 WinAos/ObjE/Interfaces.Obw -text
@@ -953,6 +955,10 @@ WinAos/ObjE/PDF.Obw -text
 WinAos/ObjE/PDFExample.Obw -text
 WinAos/ObjE/PELinker.Obw -text
 WinAos/ObjE/PET.Obw -text
+WinAos/ObjE/PETModuleTree.Obw -text
+WinAos/ObjE/PETReleaseTree.Obw -text
+WinAos/ObjE/PETTrees.Obw -text
+WinAos/ObjE/PETXMLTree.Obw -text
 WinAos/ObjE/PNGDecoder.Obw -text
 WinAos/ObjE/POP3Client.Obw -text
 WinAos/ObjE/PartitionEditor.Obw -text
@@ -994,6 +1000,8 @@ WinAos/ObjE/SVGLoader.Obw -text
 WinAos/ObjE/SVGMatrix.Obw -text
 WinAos/ObjE/SVGRenderer.Obw -text
 WinAos/ObjE/SVGUtilities.Obw -text
+WinAos/ObjE/SambaClient.Obw -text
+WinAos/ObjE/SambaServer.Obw -text
 WinAos/ObjE/SearchTools.Obw -text
 WinAos/ObjE/Serials.Obw -text
 WinAos/ObjE/SerialsVirtual.Obw -text
@@ -1024,9 +1032,11 @@ WinAos/ObjE/TaskScheduler.Obw -text
 WinAos/ObjE/Telnet.Obw -text
 WinAos/ObjE/TestComponentDragDrop.Obw -text
 WinAos/ObjE/TestComponents.Obw -text
+WinAos/ObjE/TestDates.Obw -text
 WinAos/ObjE/TestFiles.Obw -text
 WinAos/ObjE/TestMenu.Obw -text
 WinAos/ObjE/TestServer.Obw -text
+WinAos/ObjE/TestStrings.Obw -text
 WinAos/ObjE/TestSuite.Obw -text
 WinAos/ObjE/TestTrees.Obw -text
 WinAos/ObjE/TestXMLPlugins.Obw -text
@@ -1090,6 +1100,7 @@ WinAos/ObjE/WMComponents.Obw -text
 WinAos/ObjE/WMDefaultFont.Obw -text
 WinAos/ObjE/WMDefaultWindows.Obw -text
 WinAos/ObjE/WMDesktopIcons.Obw -text
+WinAos/ObjE/WMDesktops.Obw -text
 WinAos/ObjE/WMDiagramComponents.Obw -text
 WinAos/ObjE/WMDialogs.Obw -text
 WinAos/ObjE/WMDiff.Obw -text
@@ -1127,6 +1138,7 @@ WinAos/ObjE/WMOSD.Obw -text
 WinAos/ObjE/WMOTFonts.Obw -text
 WinAos/ObjE/WMOberonFonts.Obw -text
 WinAos/ObjE/WMObjectTracker.Obw -text
+WinAos/ObjE/WMOverlay.Obw -text
 WinAos/ObjE/WMPartitions.Obw -text
 WinAos/ObjE/WMPartitionsComponents.Obw -text
 WinAos/ObjE/WMPartitionsPlugins.Obw -text
@@ -1140,6 +1152,7 @@ WinAos/ObjE/WMPerfMonPluginEvents.Obw -text
 WinAos/ObjE/WMPerfMonPluginExample.Obw -text
 WinAos/ObjE/WMPerfMonPluginFTPServer.Obw -text
 WinAos/ObjE/WMPerfMonPluginHTTPServer.Obw -text
+WinAos/ObjE/WMPerfMonPluginHeap.Obw -text
 WinAos/ObjE/WMPerfMonPluginMemory.Obw -text
 WinAos/ObjE/WMPerfMonPluginMessages.Obw -text
 WinAos/ObjE/WMPerfMonPluginModVars.Obw -text
@@ -1327,6 +1340,7 @@ WinAos/ObjI/Codecs.Obw -text
 WinAos/ObjI/CommandLine.Obw -text
 WinAos/ObjI/Commands.Obw -text
 WinAos/ObjI/CompilerInterface.Obw -text
+WinAos/ObjI/ComponentInfo.Obw -text
 WinAos/ObjI/ComponentViewer.Obw -text
 WinAos/ObjI/Configuration.Obw -text
 WinAos/ObjI/ContextualDependency.Obw -text
@@ -1467,6 +1481,7 @@ WinAos/ObjI/IP.Obw -text
 WinAos/ObjI/ISO9660Files.Obw -text
 WinAos/ObjI/ISO9660Volumes.Obw -text
 WinAos/ObjI/Inflate.Obw -text
+WinAos/ObjI/Info.Obw -text
 WinAos/ObjI/Inputs.Obw -text
 WinAos/ObjI/Installer.Obw -text
 WinAos/ObjI/Interfaces.Obw -text
@@ -2192,6 +2207,10 @@ WinAos/ObjI/PDF.Obw -text
 WinAos/ObjI/PDFExample.Obw -text
 WinAos/ObjI/PELinker.Obw -text
 WinAos/ObjI/PET.Obw -text
+WinAos/ObjI/PETModuleTree.Obw -text
+WinAos/ObjI/PETReleaseTree.Obw -text
+WinAos/ObjI/PETTrees.Obw -text
+WinAos/ObjI/PETXMLTree.Obw -text
 WinAos/ObjI/PNGDecoder.Obw -text
 WinAos/ObjI/POP3Client.Obw -text
 WinAos/ObjI/PartitionEditor.Obw -text
@@ -2233,6 +2252,8 @@ WinAos/ObjI/SVGLoader.Obw -text
 WinAos/ObjI/SVGMatrix.Obw -text
 WinAos/ObjI/SVGRenderer.Obw -text
 WinAos/ObjI/SVGUtilities.Obw -text
+WinAos/ObjI/SambaClient.Obw -text
+WinAos/ObjI/SambaServer.Obw -text
 WinAos/ObjI/SearchTools.Obw -text
 WinAos/ObjI/Serials.Obw -text
 WinAos/ObjI/SerialsVirtual.Obw -text
@@ -2263,9 +2284,11 @@ WinAos/ObjI/TaskScheduler.Obw -text
 WinAos/ObjI/Telnet.Obw -text
 WinAos/ObjI/TestComponentDragDrop.Obw -text
 WinAos/ObjI/TestComponents.Obw -text
+WinAos/ObjI/TestDates.Obw -text
 WinAos/ObjI/TestFiles.Obw -text
 WinAos/ObjI/TestMenu.Obw -text
 WinAos/ObjI/TestServer.Obw -text
+WinAos/ObjI/TestStrings.Obw -text
 WinAos/ObjI/TestSuite.Obw -text
 WinAos/ObjI/TestTrees.Obw -text
 WinAos/ObjI/TestXMLPlugins.Obw -text
@@ -2329,6 +2352,7 @@ WinAos/ObjI/WMComponents.Obw -text
 WinAos/ObjI/WMDefaultFont.Obw -text
 WinAos/ObjI/WMDefaultWindows.Obw -text
 WinAos/ObjI/WMDesktopIcons.Obw -text
+WinAos/ObjI/WMDesktops.Obw -text
 WinAos/ObjI/WMDiagramComponents.Obw -text
 WinAos/ObjI/WMDialogs.Obw -text
 WinAos/ObjI/WMDiff.Obw -text
@@ -2366,6 +2390,7 @@ WinAos/ObjI/WMOSD.Obw -text
 WinAos/ObjI/WMOTFonts.Obw -text
 WinAos/ObjI/WMOberonFonts.Obw -text
 WinAos/ObjI/WMObjectTracker.Obw -text
+WinAos/ObjI/WMOverlay.Obw -text
 WinAos/ObjI/WMPartitions.Obw -text
 WinAos/ObjI/WMPartitionsComponents.Obw -text
 WinAos/ObjI/WMPartitionsPlugins.Obw -text
@@ -2379,6 +2404,7 @@ WinAos/ObjI/WMPerfMonPluginEvents.Obw -text
 WinAos/ObjI/WMPerfMonPluginExample.Obw -text
 WinAos/ObjI/WMPerfMonPluginFTPServer.Obw -text
 WinAos/ObjI/WMPerfMonPluginHTTPServer.Obw -text
+WinAos/ObjI/WMPerfMonPluginHeap.Obw -text
 WinAos/ObjI/WMPerfMonPluginMemory.Obw -text
 WinAos/ObjI/WMPerfMonPluginMessages.Obw -text
 WinAos/ObjI/WMPerfMonPluginModVars.Obw -text
