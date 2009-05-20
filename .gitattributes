@@ -3389,6 +3389,7 @@ source/I386.Oberon.Bitmaps.Mod -text
 source/I386.PCI.Mod -text
 source/I386.Raster.Mod -text
 source/I386.Reals.Mod -text
+source/I386.Reflection.Mod -text
 source/I386.UsbKeyboard.Mod -text
 source/I386.VMWareTools.Mod -text
 source/I386.WMRasterScale.Mod -text
@@ -4687,6 +4688,7 @@ source/WebWormWatch.Mod -text
 source/White.Pal -text
 source/WhitespaceRemover.Mod -text
 source/Win32.ADVAPI32.Mod -text svneol=unset#text/plain
+source/Win32.ActiveTimers.Mod -text
 source/Win32.Aos.Link -text
 source/Win32.Beep.Mod -text svneol=unset#text/plain
 source/Win32.Build.Tool -text
@@ -4699,10 +4701,13 @@ source/Win32.DNS.Mod -text svneol=unset#text/plain
 source/Win32.Display.Mod -text svneol=unset#text/plain
 source/Win32.External.Oberon.Clipboard.Mod -text svneol=unset#text/plain
 source/Win32.GDI32.Mod -text svneol=unset#text/plain
+source/Win32.Heaps.Mod -text
 source/Win32.IP.Mod -text svneol=unset#text/plain
 source/Win32.Kernel.Mod -text svneol=unset#text/plain
 source/Win32.Kernel32.Mod -text svneol=unset#text/plain
+source/Win32.KernelLog.Mod -text
 source/Win32.Machine.Mod -text svneol=unset#text/plain
+source/Win32.Modules.Mod -text
 source/Win32.Network.Mod -text svneol=unset#text/plain
 source/Win32.ODBC.Mod -text svneol=unset#text/plain
 source/Win32.Oberon.Bitmaps.Mod -text svneol=unset#text/plain
@@ -4751,10 +4756,12 @@ source/Win32.OberonDisplay.Mod -text svneol=unset#text/plain
 source/Win32.Objects.Mod -text svneol=unset#text/plain
 source/Win32.PELinker.Mod -text svneol=unset#text/plain
 source/Win32.Performance.Mod -text svneol=unset#text/plain
+source/Win32.Reflection.Mod -text
 source/Win32.SQL.Mod -text svneol=unset#text/plain
 source/Win32.Shell32.Mod -text svneol=unset#text/plain
 source/Win32.TCP.Mod -text svneol=unset#text/plain
 source/Win32.Threads.Mod -text svneol=unset#text/plain
+source/Win32.Trace.Mod -text
 source/Win32.Traps.Mod -text svneol=unset#text/plain
 source/Win32.UDP.Mod -text svneol=unset#text/plain
 source/Win32.User32.Mod -text svneol=unset#text/plain
