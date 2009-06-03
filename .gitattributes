@@ -4689,7 +4689,6 @@ source/WebWormWatch.Mod -text
 source/White.Pal -text
 source/WhitespaceRemover.Mod -text
 source/Win32.ADVAPI32.Mod -text svneol=unset#text/plain
-source/Win32.ActiveTimers.Mod -text
 source/Win32.Aos.Link -text
 source/Win32.Beep.Mod -text svneol=unset#text/plain
 source/Win32.Build.Tool -text
