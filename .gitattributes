@@ -4761,7 +4761,6 @@ source/Win32.SQL.Mod -text svneol=unset#text/plain
 source/Win32.Shell32.Mod -text svneol=unset#text/plain
 source/Win32.TCP.Mod -text svneol=unset#text/plain
 source/Win32.Threads.Mod -text svneol=unset#text/plain
-source/Win32.Trace.Mod -text
 source/Win32.Traps.Mod -text svneol=unset#text/plain
 source/Win32.UDP.Mod -text svneol=unset#text/plain
 source/Win32.User32.Mod -text svneol=unset#text/plain
