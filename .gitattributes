@@ -2968,7 +2968,10 @@ source/A2Sequencers.Mod -text
 source/AFM.Mod -text
 source/AM79C970.Mod -text
 source/AMD64.Machine.Mod -text
+source/AMD64.MemCache.Mod -text
+source/AMD64.PCI.Mod -text
 source/AMD64.Processors.Mod -text
+source/AMD64.Reals.Mod -text
 source/AMD64Decoder.Mod -text
 source/ARMDecoder.Mod -text
 source/ASCIITab.Tool -text
