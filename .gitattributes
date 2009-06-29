@@ -3358,6 +3358,8 @@ source/HelloWorld2.Mod -text
 source/HelloWorld3.Mod -text
 source/Hex.Tool -text
 source/HierarchicalProfiler.Mod -text
+source/Highlighter.Mod -text
+source/Highlighter.XML -text
 source/Histogram.Panel -text
 source/HostClipboard.Mod -text
 source/HotKeys.Mod -text
