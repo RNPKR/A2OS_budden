@@ -3499,6 +3499,7 @@ source/Linux.Unix.Mod -text
 source/Lissajous.Panel -text
 source/LoadGadgets.Text -text
 source/Loader.Mod -text
+source/Localization.Mod -text
 source/Locks.Mod -text
 source/Looks.Mod -text
 source/Loopback.Mod -text
@@ -3564,6 +3565,7 @@ source/MenuPages.Mod -text
 source/MinInitNetwork.Mod -text
 source/MineSweeperBD.Pict -text
 source/Miscellaneous.Tool -text
+source/Models.rep -text
 source/ModuleParser.Mod -text
 source/ModuleTrees.Mod -text
 source/ModuleTreesIcons.tar -text
@@ -4181,6 +4183,7 @@ source/ReleaseThreadPool.Mod -text
 source/Rembrandt.Lib -text
 source/Rembrandt.Panel -text
 source/Rename.TFMailConfig.XML -text
+source/Repositories.Mod -text
 source/RetoWMSlideshow.XML -text
 source/RfsClientProxy.Mod -text
 source/RfsConnection.Mod -text
@@ -4225,6 +4228,7 @@ source/Serials.Mod -text
 source/SerialsVirtual.Mod -text
 source/Setup.Text -text
 source/Shanghai.Scn.Fnt -text
+source/Shapes.rep -text
 source/Shell.Alias -text
 source/Shell.Mod -text
 source/ShellCommands.Mod -text
@@ -4250,6 +4254,7 @@ source/Sort.Tool -text
 source/SoundDevices.Mod -text
 source/Sphere.poly -text
 source/Spirals.Pict -text
+source/Standard.rep -text
 source/Stars.Vinci -text
 source/StartMenu.Mod -text
 source/Streams.Mod -text
@@ -4358,6 +4363,8 @@ source/TeletextViewer.Mod -text
 source/Telnet.Mod -text
 source/Telnet.Panel -text
 source/Telnet.Tool -text
+source/TemplateMultiInstance.txt -text
+source/TemplateMultiInstanceBase.txt -text
 source/Test.Vinci -text
 source/Test1.Vinci -text
 source/Test2.Vinci -text
@@ -4549,6 +4556,9 @@ source/WMArmenianIME.Mod -text
 source/WMBackdrop.Mod -text
 source/WMBackdropLoader.Mod -text
 source/WMBitmapFont.Mod -text
+source/WMBuilder.Mod -text
+source/WMBuilder.tar -text
+source/WMBuilderTransformer.Mod -text
 source/WMBunny.Mod -text
 source/WMBunnyImages.tar -text
 source/WMCCGFonts.Mod -text
@@ -4586,6 +4596,9 @@ source/WMHebrewIME.Mod -text
 source/WMIcons.tar -text
 source/WMInputMethodTool.Mod -text
 source/WMInputMethods.Mod -text
+source/WMInspectionComponents.Mod -text
+source/WMInspector.Mod -text
+source/WMInspector.tar -text
 source/WMInstaller.Mod -text
 source/WMInstaller.tar -text svneol=unset#unset
 source/WMJoysticks.Mod -text
@@ -4595,6 +4608,7 @@ source/WMMacros.Mod -text
 source/WMMenus.Mod -text
 source/WMMessages.Mod -text
 source/WMMixer.Mod -text
+source/WMModels.Mod -text
 source/WMModuleState.Mod -text
 source/WMNavigate.Mod -text
 source/WMNavigateIcons.tar -text
@@ -4648,6 +4662,7 @@ source/WMProfiler.Mod -text
 source/WMProgressComponents.Mod -text
 source/WMProperties.Mod -text
 source/WMRectangles.Mod -text
+source/WMRepositories.tar -text
 source/WMRestorable.Mod -text
 source/WMRussianIME.Mod -text
 source/WMScreenShot.Mod -text
