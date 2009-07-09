@@ -4662,6 +4662,7 @@ source/WMProfiler.Mod -text
 source/WMProgressComponents.Mod -text
 source/WMProperties.Mod -text
 source/WMRectangles.Mod -text
+source/WMRepositories.Mod -text
 source/WMRepositories.tar -text
 source/WMRestorable.Mod -text
 source/WMRussianIME.Mod -text
@@ -4670,6 +4671,7 @@ source/WMScribble.Mod -text
 source/WMScrollableComponents.Mod -text
 source/WMSearchComponents.Mod -text
 source/WMSearchTool.Mod -text
+source/WMShapes.Mod -text
 source/WMShell.Mod -text
 source/WMSkinLoader.Mod -text
 source/WMSlideshow.Mod -text
