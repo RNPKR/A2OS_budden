@@ -3229,6 +3229,7 @@ source/Definitions.Tool -text
 source/Demo.Content.XML -text
 source/Demo.Layout.XML -text
 source/Demo.Style.XML -text
+source/Demos.rep -text
 source/Desktops.Tool -text
 source/Diagnostics.Mod -text
 source/Diff.Tool -text
@@ -3312,7 +3313,6 @@ source/FontEditor.Panel -text
 source/FontRes.Tool -text
 source/Fractal.Pict -text
 source/FractalDemo.Mod -text
-source/FractalDemo.XML -text
 source/GIFCodec.Mod -text
 source/GPL.Text -text
 source/GUI.Text -text
@@ -4257,6 +4257,7 @@ source/Spirals.Pict -text
 source/Standard.rep -text
 source/Stars.Vinci -text
 source/StartMenu.Mod -text
+source/StartMenu.rep -text
 source/Streams.Mod -text
 source/StringPool.Mod -text
 source/Strings.Mod -text
