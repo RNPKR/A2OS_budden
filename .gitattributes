@@ -209,6 +209,7 @@ WinAos/ObjE/HelloWorld.Obw -text
 WinAos/ObjE/HelloWorld1.Obw -text
 WinAos/ObjE/HelloWorld2.Obw -text
 WinAos/ObjE/HelloWorld3.Obw -text
+WinAos/ObjE/Highlighter.Obw -text
 WinAos/ObjE/HostClipboard.Obw -text
 WinAos/ObjE/HotKeys.Obw -text
 WinAos/ObjE/HotKeysCommands.Obw -text
@@ -239,6 +240,7 @@ WinAos/ObjE/Kernel32.Obw -text
 WinAos/ObjE/KernelLog.Obw -text
 WinAos/ObjE/KernelLogger.Obw -text
 WinAos/ObjE/LPR.Obw -text
+WinAos/ObjE/Libraries.Obw -text
 WinAos/ObjE/LinEqCholesky.Obw -text
 WinAos/ObjE/LinEqLU.Obw -text
 WinAos/ObjE/LinEqRe.Obw -text
@@ -247,6 +249,7 @@ WinAos/ObjE/Linker.Obw -text
 WinAos/ObjE/Linker0.Obw -text
 WinAos/ObjE/Linker1.Obw -text
 WinAos/ObjE/Loader.Obw -text
+WinAos/ObjE/Localization.Obw -text
 WinAos/ObjE/Locks.Obw -text
 WinAos/ObjE/Looks.Obw -text
 WinAos/ObjE/MD5.Obw -text
@@ -988,6 +991,7 @@ WinAos/ObjE/RegisterRFW.Obw -text
 WinAos/ObjE/RelativeFileSystem.Obw -text
 WinAos/ObjE/Release.Obw -text
 WinAos/ObjE/ReleaseThreadPool.Obw -text
+WinAos/ObjE/Repositories.Obw -text
 WinAos/ObjE/SMTPClient.Obw -text
 WinAos/ObjE/SQL.Obw -text
 WinAos/ObjE/SSFS.Obw -text
@@ -1089,6 +1093,8 @@ WinAos/ObjE/WMArmenianIME.Obw -text
 WinAos/ObjE/WMBackdrop.Obw -text
 WinAos/ObjE/WMBackdropLoader.Obw -text
 WinAos/ObjE/WMBitmapFont.Obw -text
+WinAos/ObjE/WMBuilder.Obw -text
+WinAos/ObjE/WMBuilderTransformer.Obw -text
 WinAos/ObjE/WMBunny.Obw -text
 WinAos/ObjE/WMCCGFonts.Obw -text
 WinAos/ObjE/WMCalendar.Obw -text
@@ -1122,6 +1128,8 @@ WinAos/ObjE/WMGrids.Obw -text
 WinAos/ObjE/WMHebrewIME.Obw -text
 WinAos/ObjE/WMInputMethodTool.Obw -text
 WinAos/ObjE/WMInputMethods.Obw -text
+WinAos/ObjE/WMInspectionComponents.Obw -text
+WinAos/ObjE/WMInspector.Obw -text
 WinAos/ObjE/WMInstaller.Obw -text
 WinAos/ObjE/WMJoysticks.Obw -text
 WinAos/ObjE/WMKernelLog.Obw -text
@@ -1130,6 +1138,7 @@ WinAos/ObjE/WMMacros.Obw -text
 WinAos/ObjE/WMMenus.Obw -text
 WinAos/ObjE/WMMessages.Obw -text
 WinAos/ObjE/WMMixer.Obw -text
+WinAos/ObjE/WMModels.Obw -text
 WinAos/ObjE/WMModuleState.Obw -text
 WinAos/ObjE/WMNavigate.Obw -text
 WinAos/ObjE/WMNavigator.Obw -text
@@ -1173,6 +1182,7 @@ WinAos/ObjE/WMProgressComponents.Obw -text
 WinAos/ObjE/WMProperties.Obw -text
 WinAos/ObjE/WMRasterScale.Obw -text
 WinAos/ObjE/WMRectangles.Obw -text
+WinAos/ObjE/WMRepositories.Obw -text
 WinAos/ObjE/WMRestorable.Obw -text
 WinAos/ObjE/WMRussianIME.Obw -text
 WinAos/ObjE/WMScreenShot.Obw -text
@@ -1180,6 +1190,7 @@ WinAos/ObjE/WMScribble.Obw -text
 WinAos/ObjE/WMScrollableComponents.Obw -text
 WinAos/ObjE/WMSearchComponents.Obw -text
 WinAos/ObjE/WMSearchTool.Obw -text
+WinAos/ObjE/WMShapes.Obw -text
 WinAos/ObjE/WMShell.Obw -text
 WinAos/ObjE/WMSkinLoader.Obw -text
 WinAos/ObjE/WMSlideshow.Obw -text
@@ -1468,6 +1479,7 @@ WinAos/ObjI/HelloWorld.Obw -text
 WinAos/ObjI/HelloWorld1.Obw -text
 WinAos/ObjI/HelloWorld2.Obw -text
 WinAos/ObjI/HelloWorld3.Obw -text
+WinAos/ObjI/Highlighter.Obw -text
 WinAos/ObjI/HostClipboard.Obw -text
 WinAos/ObjI/HotKeys.Obw -text
 WinAos/ObjI/HotKeysCommands.Obw -text
@@ -1498,6 +1510,8 @@ WinAos/ObjI/Kernel32.Obw -text
 WinAos/ObjI/KernelLog.Obw -text
 WinAos/ObjI/KernelLogger.Obw -text
 WinAos/ObjI/LPR.Obw -text
+WinAos/ObjI/Languages.Obw -text
+WinAos/ObjI/Libraries.Obw -text
 WinAos/ObjI/LinEqCholesky.Obw -text
 WinAos/ObjI/LinEqLU.Obw -text
 WinAos/ObjI/LinEqRe.Obw -text
@@ -1506,6 +1520,7 @@ WinAos/ObjI/Linker.Obw -text
 WinAos/ObjI/Linker0.Obw -text
 WinAos/ObjI/Linker1.Obw -text
 WinAos/ObjI/Loader.Obw -text
+WinAos/ObjI/Localization.Obw -text
 WinAos/ObjI/Locks.Obw -text
 WinAos/ObjI/Looks.Obw -text
 WinAos/ObjI/MD5.Obw -text
@@ -2240,6 +2255,7 @@ WinAos/ObjI/RegisterRFW.Obw -text
 WinAos/ObjI/RelativeFileSystem.Obw -text
 WinAos/ObjI/Release.Obw -text
 WinAos/ObjI/ReleaseThreadPool.Obw -text
+WinAos/ObjI/Repositories.Obw -text
 WinAos/ObjI/SMTPClient.Obw -text
 WinAos/ObjI/SQL.Obw -text
 WinAos/ObjI/SSFS.Obw -text
@@ -2341,6 +2357,8 @@ WinAos/ObjI/WMArmenianIME.Obw -text
 WinAos/ObjI/WMBackdrop.Obw -text
 WinAos/ObjI/WMBackdropLoader.Obw -text
 WinAos/ObjI/WMBitmapFont.Obw -text
+WinAos/ObjI/WMBuilder.Obw -text
+WinAos/ObjI/WMBuilderTransformer.Obw -text
 WinAos/ObjI/WMBunny.Obw -text
 WinAos/ObjI/WMCCGFonts.Obw -text
 WinAos/ObjI/WMCalendar.Obw -text
@@ -2374,14 +2392,18 @@ WinAos/ObjI/WMGrids.Obw -text
 WinAos/ObjI/WMHebrewIME.Obw -text
 WinAos/ObjI/WMInputMethodTool.Obw -text
 WinAos/ObjI/WMInputMethods.Obw -text
+WinAos/ObjI/WMInspectionComponents.Obw -text
+WinAos/ObjI/WMInspector.Obw -text
 WinAos/ObjI/WMInstaller.Obw -text
 WinAos/ObjI/WMJoysticks.Obw -text
 WinAos/ObjI/WMKernelLog.Obw -text
 WinAos/ObjI/WMKeyCode.Obw -text
+WinAos/ObjI/WMLanguages.Obw -text
 WinAos/ObjI/WMMacros.Obw -text
 WinAos/ObjI/WMMenus.Obw -text
 WinAos/ObjI/WMMessages.Obw -text
 WinAos/ObjI/WMMixer.Obw -text
+WinAos/ObjI/WMModels.Obw -text
 WinAos/ObjI/WMModuleState.Obw -text
 WinAos/ObjI/WMNavigate.Obw -text
 WinAos/ObjI/WMNavigator.Obw -text
@@ -2425,6 +2447,7 @@ WinAos/ObjI/WMProgressComponents.Obw -text
 WinAos/ObjI/WMProperties.Obw -text
 WinAos/ObjI/WMRasterScale.Obw -text
 WinAos/ObjI/WMRectangles.Obw -text
+WinAos/ObjI/WMRepositories.Obw -text
 WinAos/ObjI/WMRestorable.Obw -text
 WinAos/ObjI/WMRussianIME.Obw -text
 WinAos/ObjI/WMScreenShot.Obw -text
@@ -2432,6 +2455,7 @@ WinAos/ObjI/WMScribble.Obw -text
 WinAos/ObjI/WMScrollableComponents.Obw -text
 WinAos/ObjI/WMSearchComponents.Obw -text
 WinAos/ObjI/WMSearchTool.Obw -text
+WinAos/ObjI/WMShapes.Obw -text
 WinAos/ObjI/WMShell.Obw -text
 WinAos/ObjI/WMSkinLoader.Obw -text
 WinAos/ObjI/WMSlideshow.Obw -text
