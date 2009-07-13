@@ -3606,6 +3606,7 @@ source/MultiMail.Panel -text
 source/NCR810Disks.Mod -text
 source/NCRScript.Mod -text
 source/NGon.Shape -text
+source/Navigation.rep -text
 source/NbrCplx.Mod -text
 source/NbrInt.Mod -text
 source/NbrInt16.Mod -text
@@ -4636,9 +4637,6 @@ source/WMMixer.Mod -text
 source/WMModels.Mod -text
 source/WMModuleState.Mod -text
 source/WMNavigate.Mod -text
-source/WMNavigateIcons.tar -text
-source/WMNavigateOverview.XML -text
-source/WMNavigateTaskList.XML -text
 source/WMNavigator.Mod -text
 source/WMOGGPlayer.Mod -text
 source/WMOSD.Mod -text
