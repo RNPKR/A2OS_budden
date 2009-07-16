@@ -4352,6 +4352,7 @@ source/Syntax8m.Pr3.Fnt -text
 source/Syntax8m.Scn.Fnt -text
 source/System.Text -text
 source/System.Tool -text
+source/System.rep -text
 source/System3.Tool -text
 source/System3F1.Graphic -text
 source/System3F2.Graphic -text
