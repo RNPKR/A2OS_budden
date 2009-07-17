@@ -4193,6 +4193,7 @@ source/RX.Tool -text
 source/Radicals.txt -text
 source/Rainbow.jp2 -text
 source/Random.Mod -text
+source/RealtimeComm.Mod -text
 source/Rect2.Shape -text
 source/References.Text -text
 source/Reflection.Mod -text
@@ -4404,6 +4405,8 @@ source/TestHTML.Text -text
 source/TestLocks.Mod -text
 source/TestMenu.Mod -text
 source/TestOrganizer.Panel -text
+source/TestRealtimeComm.Mod -text
+source/TestRealtimeComm1.Mod -text
 source/TestServer.Mod -text
 source/TestStrings.Mod -text
 source/TestSuite.Mod -text
