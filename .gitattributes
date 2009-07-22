@@ -4366,6 +4366,7 @@ source/SystemTools.Mod -text
 source/TCP.Mod -text
 source/TCPPortLog.Mod -text
 source/TCPServices.Mod -text
+source/TCPTools.Mod -text
 source/TFClasses.Mod -text
 source/TFLog.Mod -text
 source/TFSMTPServer.Mod -text
