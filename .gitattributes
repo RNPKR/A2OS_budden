@@ -240,7 +240,6 @@ WinAos/ObjE/Kernel32.Obw -text
 WinAos/ObjE/KernelLog.Obw -text
 WinAos/ObjE/KernelLogger.Obw -text
 WinAos/ObjE/LPR.Obw -text
-WinAos/ObjE/Libraries.Obw -text
 WinAos/ObjE/LinEqCholesky.Obw -text
 WinAos/ObjE/LinEqLU.Obw -text
 WinAos/ObjE/LinEqRe.Obw -text
@@ -1026,6 +1025,7 @@ WinAos/ObjE/SynergyClient.Obw -text
 WinAos/ObjE/SystemTools.Obw -text
 WinAos/ObjE/TCP.Obw -text
 WinAos/ObjE/TCPServices.Obw -text
+WinAos/ObjE/TCPTools.Obw -text
 WinAos/ObjE/TFClasses.Obw -text
 WinAos/ObjE/TFLog.Obw -text
 WinAos/ObjE/TFWebForum.Obw -text
@@ -1510,8 +1510,6 @@ WinAos/ObjI/Kernel32.Obw -text
 WinAos/ObjI/KernelLog.Obw -text
 WinAos/ObjI/KernelLogger.Obw -text
 WinAos/ObjI/LPR.Obw -text
-WinAos/ObjI/Languages.Obw -text
-WinAos/ObjI/Libraries.Obw -text
 WinAos/ObjI/LinEqCholesky.Obw -text
 WinAos/ObjI/LinEqLU.Obw -text
 WinAos/ObjI/LinEqRe.Obw -text
@@ -2290,6 +2288,7 @@ WinAos/ObjI/SynergyClient.Obw -text
 WinAos/ObjI/SystemTools.Obw -text
 WinAos/ObjI/TCP.Obw -text
 WinAos/ObjI/TCPServices.Obw -text
+WinAos/ObjI/TCPTools.Obw -text
 WinAos/ObjI/TFClasses.Obw -text
 WinAos/ObjI/TFLog.Obw -text
 WinAos/ObjI/TFWebForum.Obw -text
@@ -2398,7 +2397,6 @@ WinAos/ObjI/WMInstaller.Obw -text
 WinAos/ObjI/WMJoysticks.Obw -text
 WinAos/ObjI/WMKernelLog.Obw -text
 WinAos/ObjI/WMKeyCode.Obw -text
-WinAos/ObjI/WMLanguages.Obw -text
 WinAos/ObjI/WMMacros.Obw -text
 WinAos/ObjI/WMMenus.Obw -text
 WinAos/ObjI/WMMessages.Obw -text
