@@ -4458,7 +4458,6 @@ source/Unix.IP.Mod -text
 source/Unix.KbdMouse.Mod -text
 source/Unix.Kernel.Mod -text
 source/Unix.Kernel0.Mod -text
-source/Unix.KernelLog.Mod -text
 source/Unix.Loader.Mod -text
 source/Unix.Modules.Mod -text
 source/Unix.NetBase.Mod -text
@@ -4475,10 +4474,8 @@ source/Unix.Oberon.HostSysinfo.Mod -text
 source/Unix.Oberon.KeyboardMap.Mod -text
 source/Unix.Oberon.Lists.Mod -text
 source/Unix.Oberon.NetSystem.Mod -text
-source/Unix.Oberon.Oberon.Mod -text
 source/Unix.Oberon.Printer.Mod -text
 source/Unix.Oberon.Scrollbars.Mod -text
-source/Unix.Oberon.System.Mod -text
 source/Unix.Oberon.TextDocs.Mod -text
 source/Unix.Oberon.TextGadgets.Mod -text
 source/Unix.Oberon.TextGadgets0.Mod -text
