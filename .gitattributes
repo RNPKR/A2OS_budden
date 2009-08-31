@@ -3020,6 +3020,7 @@ source/AlmSmtpReceiver.Atg -text
 source/AlmSmtpReceiver.Guide.Text -text
 source/AlmSmtpReceiver.Mod -text
 source/AlmSmtpReceiver.Tool -text
+source/AnimationCodec.Mod -text
 source/Aos.Par -text
 source/AosDefault.Pal -text
 source/AosInst.Tool -text
