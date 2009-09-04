@@ -4229,6 +4229,13 @@ source/SVGLoader.Mod -text
 source/SVGMatrix.Mod -text
 source/SVGRenderer.Mod -text
 source/SVGUtilities.Mod -text
+source/SVN.Mod -text
+source/SVN.Text -text
+source/SVNAdmin.Mod -text
+source/SVNArgument.Mod -text
+source/SVNOutput.Mod -text
+source/SVNUtil.Mod -text
+source/SVNWebDAV.Mod -text
 source/SaasFee.jpg -text
 source/Sage.UDPChat.Text -text
 source/Sage.UDPChatBase.Mod -text
@@ -4819,6 +4826,7 @@ source/Win32.PELinker.Mod -text svneol=unset#text/plain
 source/Win32.Performance.Mod -text svneol=unset#text/plain
 source/Win32.Reflection.Mod -text
 source/Win32.SQL.Mod -text svneol=unset#text/plain
+source/Win32.SVNAdmin.Mod -text
 source/Win32.Shell32.Mod -text svneol=unset#text/plain
 source/Win32.TCP.Mod -text svneol=unset#text/plain
 source/Win32.Threads.Mod -text svneol=unset#text/plain
