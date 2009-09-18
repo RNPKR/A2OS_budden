@@ -3154,6 +3154,7 @@ source/Coins.Pict -text
 source/ColorSystem.Panel -text
 source/Colors.Panel -text
 source/Colors.Tool -text
+source/Colors.rep -text
 source/Columbus.Lib -text
 source/Commands.Mod -text
 source/Compiler.Tool -text
