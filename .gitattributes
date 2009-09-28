@@ -26,6 +26,7 @@ WinAos/ObjE/ASMAMD64.Obw -text
 WinAos/ObjE/AVI.Obw -text
 WinAos/ObjE/ActiveTimers.Obw -text
 WinAos/ObjE/AlmSmtpReceiver.Obw -text
+WinAos/ObjE/AnimationCodec.Obw -text
 WinAos/ObjE/Archives.Obw -text
 WinAos/ObjE/Array1dBytes.Obw -text
 WinAos/ObjE/Array1dCplx.Obw -text
@@ -912,10 +913,7 @@ WinAos/ObjE/Objects.Obw -text
 WinAos/ObjE/OdAuth.Obw -text
 WinAos/ObjE/OdAuthBase.Obw -text
 WinAos/ObjE/OdClient.Obw -text
-WinAos/ObjE/OdClientTools.Obw -text
 WinAos/ObjE/OdCond.Obw -text
-WinAos/ObjE/OdDeltavBase.Obw -text
-WinAos/ObjE/OdPlugin.Obw -text
 WinAos/ObjE/OdSvn.Obw -text
 WinAos/ObjE/OdUtil.Obw -text
 WinAos/ObjE/OdVCSBase.Obw -text
@@ -1003,6 +1001,12 @@ WinAos/ObjE/SVGLoader.Obw -text
 WinAos/ObjE/SVGMatrix.Obw -text
 WinAos/ObjE/SVGRenderer.Obw -text
 WinAos/ObjE/SVGUtilities.Obw -text
+WinAos/ObjE/SVN.Obw -text
+WinAos/ObjE/SVNAdmin.Obw -text
+WinAos/ObjE/SVNArgument.Obw -text
+WinAos/ObjE/SVNOutput.Obw -text
+WinAos/ObjE/SVNUtil.Obw -text
+WinAos/ObjE/SVNWebDAV.Obw -text
 WinAos/ObjE/SambaClient.Obw -text
 WinAos/ObjE/SambaServer.Obw -text
 WinAos/ObjE/SearchTools.Obw -text
@@ -1087,6 +1091,7 @@ WinAos/ObjE/W3dVectors.Obw -text
 WinAos/ObjE/W3dWorld.Obw -text
 WinAos/ObjE/WAVCodec.Obw -text
 WinAos/ObjE/WAVRecorder.Obw -text
+WinAos/ObjE/WMAnimations.Obw -text
 WinAos/ObjE/WMArabicIME.Obw -text
 WinAos/ObjE/WMArchives.Obw -text
 WinAos/ObjE/WMArmenianIME.Obw -text
@@ -1101,7 +1106,7 @@ WinAos/ObjE/WMCalendar.Obw -text
 WinAos/ObjE/WMCharCodes.Obw -text
 WinAos/ObjE/WMCharMap.Obw -text
 WinAos/ObjE/WMClock.Obw -text
-WinAos/ObjE/WMColorTools.Obw -text
+WinAos/ObjE/WMColorComponents.Obw -text
 WinAos/ObjE/WMComponents.Obw -text
 WinAos/ObjE/WMDefaultFont.Obw -text
 WinAos/ObjE/WMDefaultWindows.Obw -text
@@ -1297,6 +1302,7 @@ WinAos/ObjI/ASMAMD64.Obw -text
 WinAos/ObjI/AVI.Obw -text
 WinAos/ObjI/ActiveTimers.Obw -text
 WinAos/ObjI/AlmSmtpReceiver.Obw -text
+WinAos/ObjI/AnimationCodec.Obw -text
 WinAos/ObjI/Archives.Obw -text
 WinAos/ObjI/Array1dBytes.Obw -text
 WinAos/ObjI/Array1dCplx.Obw -text
@@ -1328,6 +1334,7 @@ WinAos/ObjI/BootConsole.Obw -text
 WinAos/ObjI/BootManager.Obw -text
 WinAos/ObjI/CATServer.Obw -text
 WinAos/ObjI/CLUTs.Obw -text
+WinAos/ObjI/COMDLG32.Obw -text
 WinAos/ObjI/CPUID.Obw -text
 WinAos/ObjI/CRC.Obw -text
 WinAos/ObjI/CSS2.Obw -text
@@ -1605,7 +1612,6 @@ WinAos/ObjI/Oberon.Calc.Obw -text
 WinAos/ObjI/Oberon.Calculator.Obw -text
 WinAos/ObjI/Oberon.CalculatorGadgets.Obw -text
 WinAos/ObjI/Oberon.Cards.Obw -text
-WinAos/ObjI/Oberon.Centronics.Obw -text
 WinAos/ObjI/Oberon.CleanupFiles.Obw -text
 WinAos/ObjI/Oberon.Clipboard.Obw -text
 WinAos/ObjI/Oberon.Clocks.Obw -text
@@ -1643,6 +1649,7 @@ WinAos/ObjI/Oberon.Directories.Obw -text
 WinAos/ObjI/Oberon.Disks.Obw -text
 WinAos/ObjI/Oberon.Display.Obw -text
 WinAos/ObjI/Oberon.Display3.Obw -text
+WinAos/ObjI/Oberon.Displays.Obw -text
 WinAos/ObjI/Oberon.DocumentSkeleton.Obw -text
 WinAos/ObjI/Oberon.Documents.Obw -text
 WinAos/ObjI/Oberon.ET.Obw -text
@@ -1835,6 +1842,7 @@ WinAos/ObjI/Oberon.RandomNumbers.Obw -text
 WinAos/ObjI/Oberon.RandomTest.Obw -text
 WinAos/ObjI/Oberon.RefGadgets.Obw -text
 WinAos/ObjI/Oberon.Registry.Obw -text
+WinAos/ObjI/Oberon.RegistryTools.Obw -text
 WinAos/ObjI/Oberon.Rembrandt.Obw -text
 WinAos/ObjI/Oberon.Rembrandt0.Obw -text
 WinAos/ObjI/Oberon.RembrandtDocs.Obw -text
@@ -1927,6 +1935,11 @@ WinAos/ObjI/Oberon.WTSPict.Obw -text
 WinAos/ObjI/Oberon.WTSStamp.Obw -text
 WinAos/ObjI/Oberon.Watson.Obw -text
 WinAos/ObjI/Oberon.Watson0.Obw -text
+WinAos/ObjI/Oberon.WinFonts.Obw -text
+WinAos/ObjI/Oberon.WinImages.Obw -text
+WinAos/ObjI/Oberon.WinMenus.Obw -text
+WinAos/ObjI/Oberon.WinPrinter.Obw -text
+WinAos/ObjI/Oberon.Windows.Obw -text
 WinAos/ObjI/Oberon.XBM.Obw -text
 WinAos/ObjI/Oberon.XPM.Obw -text
 WinAos/ObjI/Oberon.XYplane.Obw -text
@@ -2053,6 +2066,7 @@ WinAos/ObjI/Oberon.antsTautStringTree.Obw -text
 WinAos/ObjI/Oberon.antsTexts.Obw -text
 WinAos/ObjI/Oberon.antsTextures.Obw -text
 WinAos/ObjI/Oberon.antsToolbox.Obw -text
+WinAos/ObjI/Oberon.antsTracking.Obw -text
 WinAos/ObjI/Oberon.antsTravelingS.Obw -text
 WinAos/ObjI/Oberon.antsValuePlot.Obw -text
 WinAos/ObjI/Oberon.antsVecOpt.Obw -text
@@ -2175,10 +2189,7 @@ WinAos/ObjI/Objects.Obw -text
 WinAos/ObjI/OdAuth.Obw -text
 WinAos/ObjI/OdAuthBase.Obw -text
 WinAos/ObjI/OdClient.Obw -text
-WinAos/ObjI/OdClientTools.Obw -text
 WinAos/ObjI/OdCond.Obw -text
-WinAos/ObjI/OdDeltavBase.Obw -text
-WinAos/ObjI/OdPlugin.Obw -text
 WinAos/ObjI/OdSvn.Obw -text
 WinAos/ObjI/OdUtil.Obw -text
 WinAos/ObjI/OdVCSBase.Obw -text
@@ -2266,6 +2277,12 @@ WinAos/ObjI/SVGLoader.Obw -text
 WinAos/ObjI/SVGMatrix.Obw -text
 WinAos/ObjI/SVGRenderer.Obw -text
 WinAos/ObjI/SVGUtilities.Obw -text
+WinAos/ObjI/SVN.Obw -text
+WinAos/ObjI/SVNAdmin.Obw -text
+WinAos/ObjI/SVNArgument.Obw -text
+WinAos/ObjI/SVNOutput.Obw -text
+WinAos/ObjI/SVNUtil.Obw -text
+WinAos/ObjI/SVNWebDAV.Obw -text
 WinAos/ObjI/SambaClient.Obw -text
 WinAos/ObjI/SambaServer.Obw -text
 WinAos/ObjI/SearchTools.Obw -text
@@ -2350,6 +2367,7 @@ WinAos/ObjI/W3dVectors.Obw -text
 WinAos/ObjI/W3dWorld.Obw -text
 WinAos/ObjI/WAVCodec.Obw -text
 WinAos/ObjI/WAVRecorder.Obw -text
+WinAos/ObjI/WMAnimations.Obw -text
 WinAos/ObjI/WMArabicIME.Obw -text
 WinAos/ObjI/WMArchives.Obw -text
 WinAos/ObjI/WMArmenianIME.Obw -text
@@ -2364,7 +2382,7 @@ WinAos/ObjI/WMCalendar.Obw -text
 WinAos/ObjI/WMCharCodes.Obw -text
 WinAos/ObjI/WMCharMap.Obw -text
 WinAos/ObjI/WMClock.Obw -text
-WinAos/ObjI/WMColorTools.Obw -text
+WinAos/ObjI/WMColorComponents.Obw -text
 WinAos/ObjI/WMComponents.Obw -text
 WinAos/ObjI/WMDefaultFont.Obw -text
 WinAos/ObjI/WMDefaultWindows.Obw -text
