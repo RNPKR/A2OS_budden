@@ -1334,7 +1334,6 @@ WinAos/ObjI/BootConsole.Obw -text
 WinAos/ObjI/BootManager.Obw -text
 WinAos/ObjI/CATServer.Obw -text
 WinAos/ObjI/CLUTs.Obw -text
-WinAos/ObjI/COMDLG32.Obw -text
 WinAos/ObjI/CPUID.Obw -text
 WinAos/ObjI/CRC.Obw -text
 WinAos/ObjI/CSS2.Obw -text
@@ -1650,7 +1649,6 @@ WinAos/ObjI/Oberon.Directories.Obw -text
 WinAos/ObjI/Oberon.Disks.Obw -text
 WinAos/ObjI/Oberon.Display.Obw -text
 WinAos/ObjI/Oberon.Display3.Obw -text
-WinAos/ObjI/Oberon.Displays.Obw -text
 WinAos/ObjI/Oberon.DocumentSkeleton.Obw -text
 WinAos/ObjI/Oberon.Documents.Obw -text
 WinAos/ObjI/Oberon.ET.Obw -text
@@ -1843,7 +1841,6 @@ WinAos/ObjI/Oberon.RandomNumbers.Obw -text
 WinAos/ObjI/Oberon.RandomTest.Obw -text
 WinAos/ObjI/Oberon.RefGadgets.Obw -text
 WinAos/ObjI/Oberon.Registry.Obw -text
-WinAos/ObjI/Oberon.RegistryTools.Obw -text
 WinAos/ObjI/Oberon.Rembrandt.Obw -text
 WinAos/ObjI/Oberon.Rembrandt0.Obw -text
 WinAos/ObjI/Oberon.RembrandtDocs.Obw -text
@@ -1936,11 +1933,6 @@ WinAos/ObjI/Oberon.WTSPict.Obw -text
 WinAos/ObjI/Oberon.WTSStamp.Obw -text
 WinAos/ObjI/Oberon.Watson.Obw -text
 WinAos/ObjI/Oberon.Watson0.Obw -text
-WinAos/ObjI/Oberon.WinFonts.Obw -text
-WinAos/ObjI/Oberon.WinImages.Obw -text
-WinAos/ObjI/Oberon.WinMenus.Obw -text
-WinAos/ObjI/Oberon.WinPrinter.Obw -text
-WinAos/ObjI/Oberon.Windows.Obw -text
 WinAos/ObjI/Oberon.XBM.Obw -text
 WinAos/ObjI/Oberon.XPM.Obw -text
 WinAos/ObjI/Oberon.XYplane.Obw -text
@@ -2067,7 +2059,6 @@ WinAos/ObjI/Oberon.antsTautStringTree.Obw -text
 WinAos/ObjI/Oberon.antsTexts.Obw -text
 WinAos/ObjI/Oberon.antsTextures.Obw -text
 WinAos/ObjI/Oberon.antsToolbox.Obw -text
-WinAos/ObjI/Oberon.antsTracking.Obw -text
 WinAos/ObjI/Oberon.antsTravelingS.Obw -text
 WinAos/ObjI/Oberon.antsValuePlot.Obw -text
 WinAos/ObjI/Oberon.antsVecOpt.Obw -text
