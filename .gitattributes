@@ -1612,6 +1612,7 @@ WinAos/ObjI/Oberon.Calc.Obw -text
 WinAos/ObjI/Oberon.Calculator.Obw -text
 WinAos/ObjI/Oberon.CalculatorGadgets.Obw -text
 WinAos/ObjI/Oberon.Cards.Obw -text
+WinAos/ObjI/Oberon.Centronics.Obw -text
 WinAos/ObjI/Oberon.CleanupFiles.Obw -text
 WinAos/ObjI/Oberon.Clipboard.Obw -text
 WinAos/ObjI/Oberon.Clocks.Obw -text
