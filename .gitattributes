@@ -3118,6 +3118,8 @@ source/CSS2.Mod -text
 source/CSS2Parser.Mod -text
 source/CSS2Properties.Mod -text
 source/CSS2Scanner.Mod -text
+source/CSV.Mod -text
+source/CSV.Test -text
 source/CUSeeMe.Panel -text
 source/Caches.Mod -text
 source/Calc.Tool -text
