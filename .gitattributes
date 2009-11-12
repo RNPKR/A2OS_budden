@@ -3241,7 +3241,6 @@ source/DTPUtilities.Mod -text
 source/DTPView.Mod -text
 source/DVI.Lib -text
 source/Dark.Pal -text
-source/Darwin.Glue.Mod -text
 source/Darwin.Unix.Mod -text
 source/Data.Mod -text
 source/DataErrors.Mod -text
@@ -3530,7 +3529,6 @@ source/LinEqSVD.Mod -text
 source/Linker.Mod -text
 source/Linker0.Mod -text
 source/Linker1.Mod -text
-source/Linux.Glue.Mod -text
 source/Linux.Unix.Mod -text
 source/Lissajous.Panel -text
 source/LoadGadgets.Text -text
@@ -4292,7 +4290,6 @@ source/Smiley.Vinci -text
 source/Snapshot.Tool -text
 source/Snow.Mod -text
 source/Sokoban.Data -text
-source/Solaris.Glue.Mod -text
 source/Solaris.Unix.Mod -text
 source/Song.ccg -text
 source/Sort.Tool -text
@@ -4472,13 +4469,13 @@ source/Unix.DNS.Mod -text
 source/Unix.DisplayRefresher.Mod -text
 source/Unix.Displays.Mod -text
 source/Unix.Files.Mod -text
+source/Unix.Glue.Mod -text
 source/Unix.Heaps.Mod -text
 source/Unix.I386.Machine.Mod -text
 source/Unix.I386.Traps.Mod -text
 source/Unix.IP.Mod -text
 source/Unix.KbdMouse.Mod -text
 source/Unix.Kernel.Mod -text
-source/Unix.Kernel0.Mod -text
 source/Unix.Loader.Mod -text
 source/Unix.Modules.Mod -text
 source/Unix.NetBase.Mod -text
