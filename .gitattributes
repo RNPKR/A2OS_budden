@@ -4485,7 +4485,6 @@ source/Unix.Oberon.Display.Mod -text
 source/Unix.Oberon.FileDir.Mod -text
 source/Unix.Oberon.Files.Mod -text
 source/Unix.Oberon.Find.Mod -text
-source/Unix.Oberon.FindFile.Mod -text
 source/Unix.Oberon.GfxFonts0.Mod -text
 source/Unix.Oberon.GfxPKFonts.Mod -text
 source/Unix.Oberon.HostSysinfo.Mod -text
