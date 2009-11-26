@@ -4480,16 +4480,11 @@ source/Unix.Loader.Mod -text
 source/Unix.Modules.Mod -text
 source/Unix.NetBase.Mod -text
 source/Unix.Oberon.Clipboard.Mod -text
-source/Unix.Oberon.Directories.Mod -text
 source/Unix.Oberon.Display.Mod -text
 source/Unix.Oberon.FileDir.Mod -text
 source/Unix.Oberon.Files.Mod -text
-source/Unix.Oberon.Find.Mod -text
-source/Unix.Oberon.GfxFonts0.Mod -text
-source/Unix.Oberon.GfxPKFonts.Mod -text
 source/Unix.Oberon.HostSysinfo.Mod -text
 source/Unix.Oberon.KeyboardMap.Mod -text
-source/Unix.Oberon.Lists.Mod -text
 source/Unix.Oberon.NetSystem.Mod -text
 source/Unix.Oberon.Printer.Mod -text
 source/Unix.Oberon.Scrollbars.Mod -text
