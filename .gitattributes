@@ -4464,7 +4464,6 @@ source/Unix.Beep.Mod -text
 source/Unix.BootConsole.Mod -text
 source/Unix.BootLinker.Mod -text
 source/Unix.Clock.Mod -text
-source/Unix.Console.Mod -text
 source/Unix.DNS.Mod -text
 source/Unix.DisplayRefresher.Mod -text
 source/Unix.Displays.Mod -text
