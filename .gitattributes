@@ -4095,6 +4095,7 @@ source/OberonFS.Mod -text
 source/OberonInput.Mod -text
 source/OberonReport.html -text
 source/ObjExplorer.Panel -text
+source/ObjectFile.Mod -text
 source/Objects.Mod -text
 source/OdAuth.Mod -text
 source/OdAuthBase.Mod -text
