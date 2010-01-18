@@ -3570,6 +3570,8 @@ source/Math20.Scn.Fnt -text
 source/Math24.Pr3.Fnt -text
 source/Math24.Pr6.Fnt -text
 source/Math24.Scn.Fnt -text
+source/MathArrays.Compilation.Test -text
+source/MathArrays.Execution.Test -text
 source/MathCbrt.Mod -text
 source/MathCplx.Mod -text
 source/MathCplxSeries.Mod -text
