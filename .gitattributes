@@ -4333,6 +4333,7 @@ source/Standard.rep -text
 source/Stars.Vinci -text
 source/StartMenu.Mod -text
 source/StartMenu.rep -text
+source/StaticLinker.Mod -text
 source/Streams.Mod -text
 source/StringPool.Mod -text
 source/Strings.Mod -text
