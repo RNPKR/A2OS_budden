@@ -3361,6 +3361,7 @@ source/Gadgets.Tool -text
 source/Gadgets.poly -text
 source/GadgetsChanges.Text -text
 source/Games.Tool -text
+source/GenericLinker.Mod -text svneol=unset#application/octet-stream
 source/GenericSort.Mod -text
 source/Gfx.Mod -text
 source/Gfx.Tool -text
