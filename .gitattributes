@@ -3082,6 +3082,7 @@ source/BimboMail.Mod -text
 source/Bimso.Mod -text
 source/Bin2Hex.Mod -text svneol=unset#unset
 source/BinToCode.Mod -text
+source/BitSets.Mod -text
 source/Black.Pal -text
 source/BluePlastic.skin -text
 source/BluebottlePic0.png -text
