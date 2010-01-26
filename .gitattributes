@@ -1185,7 +1185,6 @@ WinAos/ObjE/WMObjectTracker.Obw -text
 WinAos/ObjE/WMOverlay.Obw -text
 WinAos/ObjE/WMPartitions.Obw -text
 WinAos/ObjE/WMPartitionsComponents.Obw -text
-WinAos/ObjE/WMPartitionsPlugins.Obw -text
 WinAos/ObjE/WMPerfMon.Obw -text
 WinAos/ObjE/WMPerfMonAlerts.Obw -text
 WinAos/ObjE/WMPerfMonAlertsUtils.Obw -text
@@ -2482,7 +2481,6 @@ WinAos/ObjI/WMObjectTracker.Obw -text
 WinAos/ObjI/WMOverlay.Obw -text
 WinAos/ObjI/WMPartitions.Obw -text
 WinAos/ObjI/WMPartitionsComponents.Obw -text
-WinAos/ObjI/WMPartitionsPlugins.Obw -text
 WinAos/ObjI/WMPerfMon.Obw -text
 WinAos/ObjI/WMPerfMonAlerts.Obw -text
 WinAos/ObjI/WMPerfMonAlertsUtils.Obw -text
