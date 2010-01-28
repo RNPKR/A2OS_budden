@@ -4747,7 +4747,7 @@ source/WMOverlay.tar -text
 source/WMPartitions.Mod -text
 source/WMPartitionsComponents.Mod -text
 source/WMPerfMon.Mod -text
-source/WMPerfMon.Text -text
+source/WMPerfMon.Text -text svneol=unset#unset
 source/WMPerfMonAlerts.Mod -text
 source/WMPerfMonAlerts.XML -text
 source/WMPerfMonAlertsUtils.Mod -text
