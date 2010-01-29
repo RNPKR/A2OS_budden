@@ -4588,7 +4588,6 @@ source/Unix.UDP.Mod -text
 source/Unix.UnixFiles.Mod -text
 source/Unix.WMPerfMonPluginCpu.Mod -text
 source/Unix.WMPerfMonPluginMemory.Mod -text
-source/Unix.WindowManager.Mod -text
 source/Unix.X11.Mod -text
 source/Unix.XDisplay.Mod -text
 source/UnixAos.Tool -text
