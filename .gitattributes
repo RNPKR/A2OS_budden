@@ -3069,7 +3069,6 @@ source/AMD64.MemCache.Mod -text
 source/AMD64.MemInfo.Mod -text
 source/AMD64.Network.Mod -text
 source/AMD64.PCI.Mod -text
-source/AMD64.Processors.Mod -text
 source/AMD64.Raster.Mod -text
 source/AMD64.Reals.Mod -text
 source/AMD64.Traps.Mod -text
@@ -4858,7 +4857,6 @@ source/Win32.GDI32.Mod -text svneol=unset#text/plain
 source/Win32.IP.Mod -text svneol=unset#text/plain
 source/Win32.Kernel.Mod -text svneol=unset#text/plain
 source/Win32.Kernel32.Mod -text svneol=unset#text/plain
-source/Win32.KernelLog.Mod -text
 source/Win32.Machine.Mod -text svneol=unset#text/plain
 source/Win32.Network.Mod -text svneol=unset#text/plain
 source/Win32.ODBC.Mod -text svneol=unset#text/plain
@@ -4908,7 +4906,6 @@ source/Win32.OberonDisplay.Mod -text svneol=unset#text/plain
 source/Win32.Objects.Mod -text svneol=unset#text/plain
 source/Win32.PELinker.Mod -text svneol=unset#text/plain
 source/Win32.Performance.Mod -text svneol=unset#text/plain
-source/Win32.Reflection.Mod -text
 source/Win32.SQL.Mod -text svneol=unset#text/plain
 source/Win32.SVNAdmin.Mod -text
 source/Win32.Shell32.Mod -text svneol=unset#text/plain
