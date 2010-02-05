@@ -3466,8 +3466,6 @@ source/HelloWorld2.Mod -text
 source/HelloWorld3.Mod -text
 source/Hex.Tool -text
 source/HierarchicalProfiler.Mod -text
-source/Highlighter.Mod -text
-source/Highlighter.XML -text
 source/Histogram.Panel -text
 source/HostClipboard.Mod -text
 source/HotKeys.Mod -text
@@ -4456,6 +4454,8 @@ source/Syntax8i.Pr3.Fnt -text
 source/Syntax8i.Scn.Fnt -text
 source/Syntax8m.Pr3.Fnt -text
 source/Syntax8m.Scn.Fnt -text
+source/SyntaxHighlighter.Mod -text
+source/SyntaxHighlighter.XML -text
 source/System.Text -text
 source/System.Tool -text
 source/System.rep -text
