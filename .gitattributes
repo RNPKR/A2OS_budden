@@ -3131,6 +3131,7 @@ source/BenchNew.Mod -text
 source/BenchObjCount.Mod -text
 source/BenchPingPong.Mod -text
 source/BenchSpeedup.Mod -text
+source/BenchSyntaxHighlighter.Mod -text
 source/BenchTCP.Mod -text
 source/Biblio.Text -text
 source/BidiMirroring.txt -text
