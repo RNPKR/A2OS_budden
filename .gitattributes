@@ -3260,7 +3260,6 @@ source/CryptoCiphers.Mod -text
 source/CryptoDES.Data -text
 source/CryptoDES.Mod -text
 source/CryptoDES3.Mod -text
-source/CryptoDHPrimes.Data -text
 source/CryptoDSA.Mod -text
 source/CryptoDiffieHellman.Mod -text
 source/CryptoHMAC.Mod -text
