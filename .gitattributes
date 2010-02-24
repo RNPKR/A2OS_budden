@@ -50,6 +50,7 @@ WinAos/ObjE/BIT.Obw -text
 WinAos/ObjE/BMPCodec.Obw -text
 WinAos/ObjE/Beep.Obw -text
 WinAos/ObjE/BeepTest.Obw -text
+WinAos/ObjE/BenchSyntaxHighlighter.Obw -text
 WinAos/ObjE/BenchTCP.Obw -text
 WinAos/ObjE/BimboMail.Obw -text
 WinAos/ObjE/Bimso.Obw -text
@@ -67,6 +68,7 @@ WinAos/ObjE/CSS2.Obw -text
 WinAos/ObjE/CSS2Parser.Obw -text
 WinAos/ObjE/CSS2Properties.Obw -text
 WinAos/ObjE/CSS2Scanner.Obw -text
+WinAos/ObjE/CSV.Obw -text
 WinAos/ObjE/Caches.Obw -text
 WinAos/ObjE/CalcConvolution.Obw -text
 WinAos/ObjE/CalcD1.Obw -text
@@ -1056,6 +1058,7 @@ WinAos/ObjE/Streams.Obw -text
 WinAos/ObjE/StringPool.Obw -text
 WinAos/ObjE/Strings.Obw -text
 WinAos/ObjE/SynergyClient.Obw -text
+WinAos/ObjE/SyntaxHighlighter.Obw -text
 WinAos/ObjE/SystemTools.Obw -text
 WinAos/ObjE/TCP.Obw -text
 WinAos/ObjE/TCPServices.Obw -text
@@ -1355,6 +1358,7 @@ WinAos/ObjI/BIT.Obw -text
 WinAos/ObjI/BMPCodec.Obw -text
 WinAos/ObjI/Beep.Obw -text
 WinAos/ObjI/BeepTest.Obw -text
+WinAos/ObjI/BenchSyntaxHighlighter.Obw -text
 WinAos/ObjI/BenchTCP.Obw -text
 WinAos/ObjI/BimboMail.Obw -text
 WinAos/ObjI/Bimso.Obw -text
@@ -1371,6 +1375,7 @@ WinAos/ObjI/CSS2.Obw -text
 WinAos/ObjI/CSS2Parser.Obw -text
 WinAos/ObjI/CSS2Properties.Obw -text
 WinAos/ObjI/CSS2Scanner.Obw -text
+WinAos/ObjI/CSV.Obw -text
 WinAos/ObjI/Caches.Obw -text
 WinAos/ObjI/CalcConvolution.Obw -text
 WinAos/ObjI/CalcD1.Obw -text
@@ -2352,6 +2357,7 @@ WinAos/ObjI/Streams.Obw -text
 WinAos/ObjI/StringPool.Obw -text
 WinAos/ObjI/Strings.Obw -text
 WinAos/ObjI/SynergyClient.Obw -text
+WinAos/ObjI/SyntaxHighlighter.Obw -text
 WinAos/ObjI/SystemTools.Obw -text
 WinAos/ObjI/TCP.Obw -text
 WinAos/ObjI/TCPServices.Obw -text
