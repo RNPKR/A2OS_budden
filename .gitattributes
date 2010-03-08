@@ -4308,6 +4308,8 @@ source/Release.Popups.Tool -text
 source/Release.Tool -text
 source/ReleaseThreadPool.Mod -text
 source/ReleaseVisualizer.Mod -text
+source/ReleaseVisualizerBase.Mod -text
+source/ReleaseVisualizerScanner.Mod -text
 source/Rembrandt.Lib -text
 source/Rembrandt.Panel -text
 source/Rename.TFMailConfig.XML -text
