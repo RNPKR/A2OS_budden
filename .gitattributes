@@ -4523,6 +4523,7 @@ source/TestServer.Mod -text
 source/TestStrings.Mod -text
 source/TestSuite.Mod -text
 source/TestTrees.Mod -text
+source/TestVideo.Mod -text
 source/TestXMLPlugins.Mod -text
 source/Tetra.poly -text
 source/Tetris.Panel -text
@@ -4656,6 +4657,7 @@ source/VeraMoBd.ttf -text
 source/VeraMoI.ttf -text
 source/VeraSe.ttf -text
 source/VeraSeBd.ttf -text
+source/VideoExample.Mod -text
 source/Vinci.Init -text
 source/Vinci.Text -text
 source/VirtualDisks.Mod -text
@@ -4923,6 +4925,7 @@ source/Win32.Traps.Mod -text svneol=unset#text/plain
 source/Win32.UDP.Mod -text svneol=unset#text/plain
 source/Win32.User32.Mod -text svneol=unset#text/plain
 source/Win32.V24.Mod -text svneol=unset#text/plain
+source/Win32.VfW.Mod -text
 source/Win32.WMPerfMonPluginCpu.Mod -text svneol=unset#text/plain
 source/Win32.WMPerfMonPluginMemory.Mod -text svneol=unset#text/plain
 source/Win32.WMTCPTracker.Mod -text svneol=unset#text/plain
