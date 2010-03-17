@@ -4773,6 +4773,7 @@ source/WMPerfMonPluginModVars.Mod -text
 source/WMPerfMonPluginNetStats.Mod -text
 source/WMPerfMonPluginNetwork.Mod -text
 source/WMPerfMonPluginPerfMon.Mod -text
+source/WMPerfMonPluginProcesses.Mod -text
 source/WMPerfMonPluginQuoteServer.Mod -text
 source/WMPerfMonPluginSerials.Mod -text
 source/WMPerfMonPluginUsb.Mod -text
