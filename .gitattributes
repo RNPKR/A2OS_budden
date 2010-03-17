@@ -2670,6 +2670,7 @@ WinAos/WinOberon/TextPopups.Text -text svneol=unset#text/plain
 WinAos/WinOberon/WatsonObjs.Lib -text
 WinAos/WinOberon/WinMenus.Lib -text
 WinAos/Work/Projects.Tool -text
+WinAos/Work/RasterPixelFormats.Mod -text
 WinAos/aos.ini -text svneol=unset#text/plain
 WinAos/license.txt -text svneol=unset#text/plain
 WinAos/vy.ants/documents/AntsInFields.Ico -text
