@@ -4306,7 +4306,7 @@ source/Release.Mod -text
 source/Release.NetSystem.Tool -text
 source/Release.Oberon.Text -text
 source/Release.Popups.Tool -text
-source/Release.Tool -text
+source/Release.Tool -text svneol=unset#application/octet-stream
 source/ReleaseThreadPool.Mod -text
 source/ReleaseVisualizer.Mod -text
 source/ReleaseVisualizerScanner.Mod -text
