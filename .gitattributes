@@ -3130,6 +3130,7 @@ source/Backdrops.Book -text
 source/Backdrops.Panel -text
 source/Backup.Tool -text
 source/Bart.Pict -text
+source/Base64.Mod -text
 source/Beep.Mod -text
 source/BeepTest.Mod -text
 source/BenchClockDrift.Mod -text
