@@ -3258,6 +3258,7 @@ source/Courier8.Scn.Fnt -text
 source/Crochet.Pict -text
 source/CryptoAES.Mod -text
 source/CryptoARC4.Mod -text
+source/CryptoBase64.Mod -text
 source/CryptoBigNumbers.Mod -text
 source/CryptoBlowfish.Data -text
 source/CryptoBlowfish.Mod -text
