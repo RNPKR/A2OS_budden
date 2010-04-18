@@ -93,6 +93,7 @@ WinAos/ObjE/Configuration.Obw -text
 WinAos/ObjE/ContextualDependency.Obw -text
 WinAos/ObjE/CryptoAES.Obw -text
 WinAos/ObjE/CryptoARC4.Obw -text
+WinAos/ObjE/CryptoBase64.Obw -text
 WinAos/ObjE/CryptoBigNumbers.Obw -text
 WinAos/ObjE/CryptoBlowfish.Obw -text
 WinAos/ObjE/CryptoCAST.Obw -text
@@ -1013,6 +1014,7 @@ WinAos/ObjE/RFC865Client.Obw -text
 WinAos/ObjE/RMSMTP.Obw -text
 WinAos/ObjE/Random.Obw -text
 WinAos/ObjE/Raster.Obw -text
+WinAos/ObjE/RasterPixelFormats.Obw -text
 WinAos/ObjE/Reals.Obw -text
 WinAos/ObjE/Reflection.Obw -text
 WinAos/ObjE/RegisterRFW.Obw -text
@@ -1080,6 +1082,7 @@ WinAos/ObjE/TestServer.Obw -text
 WinAos/ObjE/TestStrings.Obw -text
 WinAos/ObjE/TestSuite.Obw -text
 WinAos/ObjE/TestTrees.Obw -text
+WinAos/ObjE/TestVideo.Obw -text
 WinAos/ObjE/TestXMLPlugins.Obw -text
 WinAos/ObjE/TextConverter.Obw -text
 WinAos/ObjE/TextUtilities.Obw -text
@@ -1110,6 +1113,8 @@ WinAos/ObjE/VecCplx.Obw -text
 WinAos/ObjE/VecInt.Obw -text
 WinAos/ObjE/VecRat.Obw -text
 WinAos/ObjE/VecRe.Obw -text
+WinAos/ObjE/VfW.Obw -text
+WinAos/ObjE/VideoExample.Obw -text
 WinAos/ObjE/VirtualDisks.Obw -text
 WinAos/ObjE/Visualizer.Obw -text
 WinAos/ObjE/W3dAbstractWorld.Obw -text
@@ -1204,6 +1209,7 @@ WinAos/ObjE/WMPerfMonPluginMessages.Obw -text
 WinAos/ObjE/WMPerfMonPluginModVars.Obw -text
 WinAos/ObjE/WMPerfMonPluginNetwork.Obw -text
 WinAos/ObjE/WMPerfMonPluginPerfMon.Obw -text
+WinAos/ObjE/WMPerfMonPluginProcesses.Obw -text
 WinAos/ObjE/WMPerfMonPluginQuoteServer.Obw -text
 WinAos/ObjE/WMPerfMonPluginSerials.Obw -text
 WinAos/ObjE/WMPerfMonPluginVNCServer.Obw -text
@@ -1400,6 +1406,7 @@ WinAos/ObjI/Configuration.Obw -text
 WinAos/ObjI/ContextualDependency.Obw -text
 WinAos/ObjI/CryptoAES.Obw -text
 WinAos/ObjI/CryptoARC4.Obw -text
+WinAos/ObjI/CryptoBase64.Obw -text
 WinAos/ObjI/CryptoBigNumbers.Obw -text
 WinAos/ObjI/CryptoBlowfish.Obw -text
 WinAos/ObjI/CryptoCAST.Obw -text
@@ -2312,6 +2319,7 @@ WinAos/ObjI/RFC865Client.Obw -text
 WinAos/ObjI/RMSMTP.Obw -text
 WinAos/ObjI/Random.Obw -text
 WinAos/ObjI/Raster.Obw -text
+WinAos/ObjI/RasterPixelFormats.Obw -text
 WinAos/ObjI/Reals.Obw -text
 WinAos/ObjI/Reflection.Obw -text
 WinAos/ObjI/RegisterRFW.Obw -text
@@ -2379,6 +2387,7 @@ WinAos/ObjI/TestServer.Obw -text
 WinAos/ObjI/TestStrings.Obw -text
 WinAos/ObjI/TestSuite.Obw -text
 WinAos/ObjI/TestTrees.Obw -text
+WinAos/ObjI/TestVideo.Obw -text
 WinAos/ObjI/TestXMLPlugins.Obw -text
 WinAos/ObjI/TextConverter.Obw -text
 WinAos/ObjI/TextUtilities.Obw -text
@@ -2409,6 +2418,8 @@ WinAos/ObjI/VecCplx.Obw -text
 WinAos/ObjI/VecInt.Obw -text
 WinAos/ObjI/VecRat.Obw -text
 WinAos/ObjI/VecRe.Obw -text
+WinAos/ObjI/VfW.Obw -text
+WinAos/ObjI/VideoExample.Obw -text
 WinAos/ObjI/VirtualDisks.Obw -text
 WinAos/ObjI/Visualizer.Obw -text
 WinAos/ObjI/W3dAbstractWorld.Obw -text
@@ -2503,6 +2514,7 @@ WinAos/ObjI/WMPerfMonPluginMessages.Obw -text
 WinAos/ObjI/WMPerfMonPluginModVars.Obw -text
 WinAos/ObjI/WMPerfMonPluginNetwork.Obw -text
 WinAos/ObjI/WMPerfMonPluginPerfMon.Obw -text
+WinAos/ObjI/WMPerfMonPluginProcesses.Obw -text
 WinAos/ObjI/WMPerfMonPluginQuoteServer.Obw -text
 WinAos/ObjI/WMPerfMonPluginSerials.Obw -text
 WinAos/ObjI/WMPerfMonPluginVNCServer.Obw -text
