@@ -3183,6 +3183,7 @@ source/BootManagerTail.Bin -text
 source/Bows.Pict -text
 source/Bricks.Pict -text
 source/Build.Tool -text
+source/Build.VMWare.Tool -text
 source/Builder.Tool -text
 source/CATServer.Mod -text
 source/CDRecord.Mod -text
