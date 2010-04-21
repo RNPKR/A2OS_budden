@@ -4339,8 +4339,16 @@ source/Runtime.Mod -text
 source/SCSI.Mod -text
 source/SMTPClient.Mod -text
 source/SSFS.Mod -text
+source/SSH.Configuration.Text -text
+source/SSH.Mod -text
 source/SSH.Panel -text
+source/SSH.Tool -text
+source/SSHAuthorize.Mod -text
+source/SSHClient.Mod -text
 source/SSHConfiguration.Text -text
+source/SSHGlobals.Mod -text
+source/SSHKeys.Mod -text
+source/SSHTransport.Mod -text
 source/SVG.Mod -text
 source/SVGColors.Mod -text
 source/SVGDecoder.Mod -text
