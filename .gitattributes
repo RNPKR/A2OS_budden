@@ -4037,6 +4037,7 @@ source/Oberon.Reminders.Mod -text
 source/Oberon.Report.Text -text svneol=unset#text/plain
 source/Oberon.Rot13.Mod -text
 source/Oberon.SSH.Mod -text
+source/Oberon.SSH.Tool -text
 source/Oberon.SSHAuth.Mod -text
 source/Oberon.SSHGadgets.Mod -text
 source/Oberon.SSHHostkeys.Mod -text
@@ -4339,7 +4340,6 @@ source/SCSI.Mod -text
 source/SMTPClient.Mod -text
 source/SSFS.Mod -text
 source/SSH.Panel -text
-source/SSH.Tool -text
 source/SSHConfiguration.Text -text
 source/SVG.Mod -text
 source/SVGColors.Mod -text
