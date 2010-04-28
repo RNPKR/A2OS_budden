@@ -3241,6 +3241,7 @@ source/Coco.Report.ps -text
 source/Coco.Tool -text
 source/Codecs.Mod -text
 source/Coins.Pict -text
+source/ColorModels.Mod -text
 source/ColorSystem.Panel -text
 source/Colors.Panel -text
 source/Colors.Tool -text
