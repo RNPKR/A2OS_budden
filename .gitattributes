@@ -4783,7 +4783,6 @@ source/WMPerfMonAlerts.Mod -text
 source/WMPerfMonAlerts.XML -text
 source/WMPerfMonAlertsUtils.Mod -text
 source/WMPerfMonComponents.Mod -text
-source/WMPerfMonPluginActive.Mod -text
 source/WMPerfMonPluginCpu.Mod -text
 source/WMPerfMonPluginDisks.Mod -text
 source/WMPerfMonPluginEvents.Mod -text
