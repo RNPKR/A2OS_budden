@@ -83,6 +83,7 @@ WinAos/ObjE/CharacterLineup.Obw -text
 WinAos/ObjE/Clipboard.Obw -text
 WinAos/ObjE/Clock.Obw -text
 WinAos/ObjE/Codecs.Obw -text
+WinAos/ObjE/ColorModels.Obw -text
 WinAos/ObjE/CommandLine.Obw -text
 WinAos/ObjE/Commands.Obw -text
 WinAos/ObjE/Compiler.Obw -text
@@ -1026,6 +1027,12 @@ WinAos/ObjE/Runtime.Obw -text
 WinAos/ObjE/SMTPClient.Obw -text
 WinAos/ObjE/SQL.Obw -text
 WinAos/ObjE/SSFS.Obw -text
+WinAos/ObjE/SSH.Obw -text
+WinAos/ObjE/SSHAuthorize.Obw -text
+WinAos/ObjE/SSHClient.Obw -text
+WinAos/ObjE/SSHGlobals.Obw -text
+WinAos/ObjE/SSHKeys.Obw -text
+WinAos/ObjE/SSHTransport.Obw -text
 WinAos/ObjE/SVG.Obw -text
 WinAos/ObjE/SVGColors.Obw -text
 WinAos/ObjE/SVGDecoder.Obw -text
@@ -1396,8 +1403,10 @@ WinAos/ObjI/CharacterLineup.Obw -text
 WinAos/ObjI/Clipboard.Obw -text
 WinAos/ObjI/Clock.Obw -text
 WinAos/ObjI/Codecs.Obw -text
+WinAos/ObjI/ColorModels.Obw -text
 WinAos/ObjI/CommandLine.Obw -text
 WinAos/ObjI/Commands.Obw -text
+WinAos/ObjI/CompileCommand.Tool -text
 WinAos/ObjI/Compiler.Obw -text
 WinAos/ObjI/CompilerInterface.Obw -text
 WinAos/ObjI/ComponentInfo.Obw -text
@@ -2331,6 +2340,12 @@ WinAos/ObjI/Runtime.Obw -text
 WinAos/ObjI/SMTPClient.Obw -text
 WinAos/ObjI/SQL.Obw -text
 WinAos/ObjI/SSFS.Obw -text
+WinAos/ObjI/SSH.Obw -text
+WinAos/ObjI/SSHAuthorize.Obw -text
+WinAos/ObjI/SSHClient.Obw -text
+WinAos/ObjI/SSHGlobals.Obw -text
+WinAos/ObjI/SSHKeys.Obw -text
+WinAos/ObjI/SSHTransport.Obw -text
 WinAos/ObjI/SVG.Obw -text
 WinAos/ObjI/SVGColors.Obw -text
 WinAos/ObjI/SVGDecoder.Obw -text
