@@ -48,6 +48,7 @@ WinAos/ObjE/ArrayXdRe.Obw -text
 WinAos/ObjE/Autostart.Obw -text
 WinAos/ObjE/BIT.Obw -text
 WinAos/ObjE/BMPCodec.Obw -text
+WinAos/ObjE/Base64.Obw -text
 WinAos/ObjE/Beep.Obw -text
 WinAos/ObjE/BeepTest.Obw -text
 WinAos/ObjE/BenchSyntaxHighlighter.Obw -text
@@ -194,6 +195,7 @@ WinAos/ObjE/FractalDemo.Obw -text
 WinAos/ObjE/GDI32.Obw -text
 WinAos/ObjE/GIFCodec.Obw -text
 WinAos/ObjE/GZip.Obw -text
+WinAos/ObjE/GenericLinker.Obw -text
 WinAos/ObjE/GenericSort.Obw -text
 WinAos/ObjE/Gfx.Obw -text
 WinAos/ObjE/GfxBuffer.Obw -text
@@ -217,7 +219,6 @@ WinAos/ObjE/HelloWorld.Obw -text
 WinAos/ObjE/HelloWorld1.Obw -text
 WinAos/ObjE/HelloWorld2.Obw -text
 WinAos/ObjE/HelloWorld3.Obw -text
-WinAos/ObjE/Highlighter.Obw -text
 WinAos/ObjE/HostClipboard.Obw -text
 WinAos/ObjE/HotKeys.Obw -text
 WinAos/ObjE/HotKeysCommands.Obw -text
@@ -1022,6 +1023,8 @@ WinAos/ObjE/RegisterRFW.Obw -text
 WinAos/ObjE/RelativeFileSystem.Obw -text
 WinAos/ObjE/Release.Obw -text
 WinAos/ObjE/ReleaseThreadPool.Obw -text
+WinAos/ObjE/ReleaseVisualizer.Obw -text
+WinAos/ObjE/ReleaseVisualizerScanner.Obw -text
 WinAos/ObjE/Repositories.Obw -text
 WinAos/ObjE/Runtime.Obw -text
 WinAos/ObjE/SMTPClient.Obw -text
@@ -1063,6 +1066,7 @@ WinAos/ObjE/SkinLanguage.Obw -text
 WinAos/ObjE/Snow.Obw -text
 WinAos/ObjE/SoundDevices.Obw -text
 WinAos/ObjE/StartMenu.Obw -text
+WinAos/ObjE/StaticLinker.Obw -text
 WinAos/ObjE/Streams.Obw -text
 WinAos/ObjE/StringPool.Obw -text
 WinAos/ObjE/Strings.Obw -text
@@ -1369,6 +1373,7 @@ WinAos/ObjI/ArrayXdRe.Obw -text
 WinAos/ObjI/Autostart.Obw -text
 WinAos/ObjI/BIT.Obw -text
 WinAos/ObjI/BMPCodec.Obw -text
+WinAos/ObjI/Base64.Obw -text
 WinAos/ObjI/Beep.Obw -text
 WinAos/ObjI/BeepTest.Obw -text
 WinAos/ObjI/BenchSyntaxHighlighter.Obw -text
@@ -1515,6 +1520,7 @@ WinAos/ObjI/FractalDemo.Obw -text
 WinAos/ObjI/GDI32.Obw -text
 WinAos/ObjI/GIFCodec.Obw -text
 WinAos/ObjI/GZip.Obw -text
+WinAos/ObjI/GenericLinker.Obw -text
 WinAos/ObjI/GenericSort.Obw -text
 WinAos/ObjI/Gfx.Obw -text
 WinAos/ObjI/GfxBuffer.Obw -text
@@ -1538,7 +1544,6 @@ WinAos/ObjI/HelloWorld.Obw -text
 WinAos/ObjI/HelloWorld1.Obw -text
 WinAos/ObjI/HelloWorld2.Obw -text
 WinAos/ObjI/HelloWorld3.Obw -text
-WinAos/ObjI/Highlighter.Obw -text
 WinAos/ObjI/HostClipboard.Obw -text
 WinAos/ObjI/HotKeys.Obw -text
 WinAos/ObjI/HotKeysCommands.Obw -text
@@ -2335,6 +2340,8 @@ WinAos/ObjI/RegisterRFW.Obw -text
 WinAos/ObjI/RelativeFileSystem.Obw -text
 WinAos/ObjI/Release.Obw -text
 WinAos/ObjI/ReleaseThreadPool.Obw -text
+WinAos/ObjI/ReleaseVisualizer.Obw -text
+WinAos/ObjI/ReleaseVisualizerScanner.Obw -text
 WinAos/ObjI/Repositories.Obw -text
 WinAos/ObjI/Runtime.Obw -text
 WinAos/ObjI/SMTPClient.Obw -text
@@ -2376,6 +2383,7 @@ WinAos/ObjI/SkinLanguage.Obw -text
 WinAos/ObjI/Snow.Obw -text
 WinAos/ObjI/SoundDevices.Obw -text
 WinAos/ObjI/StartMenu.Obw -text
+WinAos/ObjI/StaticLinker.Obw -text
 WinAos/ObjI/Streams.Obw -text
 WinAos/ObjI/StringPool.Obw -text
 WinAos/ObjI/Strings.Obw -text
@@ -4053,7 +4061,6 @@ source/Oberon.Reminders.Mod -text
 source/Oberon.Report.Text -text svneol=unset#text/plain
 source/Oberon.Rot13.Mod -text
 source/Oberon.SSH.Mod -text
-source/Oberon.SSH.Tool -text
 source/Oberon.SSHAuth.Mod -text
 source/Oberon.SSHGadgets.Mod -text
 source/Oberon.SSHHostkeys.Mod -text
