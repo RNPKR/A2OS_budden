@@ -3751,6 +3751,7 @@ source/OCBinaryObjectFile.Mod -text
 source/OCBinarySymbolFile.Mod -text
 source/OCCompiler.Mod -text
 source/OCFingerPrint.Mod -text
+source/OCFingerPrinter.Mod -text
 source/OCFormats.Mod -text
 source/OCGenericObjectFile.Mod -text
 source/OCGlobal.Mod -text
