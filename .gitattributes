@@ -3740,34 +3740,34 @@ source/OBL.Asm -text
 source/OBL.Bin -text
 source/OBL.Text -text
 source/OC.Tool -text
-source/OCAMD64Assembler.Mod -text
-source/OCAMD64Backend.Mod -text
-source/OCAMD64InstructionSet.Mod -text
+source/OCAMD64Assembler.Mod -text svneol=unset#application/octet-stream
+source/OCAMD64Backend.Mod -text svneol=unset#application/octet-stream
+source/OCAMD64InstructionSet.Mod -text svneol=unset#application/octet-stream
 source/OCArrayBase.Mod -text
-source/OCBackend.Mod -text
-source/OCBasic.Mod -text
-source/OCBinaryCode.Mod -text
-source/OCBinaryObjectFile.Mod -text
-source/OCBinarySymbolFile.Mod -text
-source/OCCompiler.Mod -text
-source/OCFingerPrint.Mod -text
-source/OCFingerPrinter.Mod -text
-source/OCFormats.Mod -text
+source/OCBackend.Mod -text svneol=unset#application/octet-stream
+source/OCBasic.Mod -text svneol=unset#application/octet-stream
+source/OCBinaryCode.Mod -text svneol=unset#application/octet-stream
+source/OCBinaryObjectFile.Mod -text svneol=unset#application/octet-stream
+source/OCBinarySymbolFile.Mod -text svneol=unset#application/octet-stream
+source/OCCompiler.Mod -text svneol=unset#application/octet-stream
+source/OCFingerPrint.Mod -text svneol=unset#application/octet-stream
+source/OCFingerPrinter.Mod -text svneol=unset#application/octet-stream
+source/OCFormats.Mod -text svneol=unset#application/octet-stream
 source/OCGenericObjectFile.Mod -text
-source/OCGlobal.Mod -text
+source/OCGlobal.Mod -text svneol=unset#application/octet-stream
 source/OCInstructionSetAMD64TabSeperated.txt -text
-source/OCInterfaceComparison.Mod -text
-source/OCIntermediateBackend.Mod -text
-source/OCIntermediateCode.Mod -text
+source/OCInterfaceComparison.Mod -text svneol=unset#application/octet-stream
+source/OCIntermediateBackend.Mod -text svneol=unset#application/octet-stream
+source/OCIntermediateCode.Mod -text svneol=unset#application/octet-stream
 source/OCParser.Mod -text
 source/OCPrintout.Mod -text
-source/OCProgTools.Mod -text
-source/OCScanner.Mod -text
-source/OCSections.Mod -text
+source/OCProgTools.Mod -text svneol=unset#application/octet-stream
+source/OCScanner.Mod -text svneol=unset#application/octet-stream
+source/OCSections.Mod -text svneol=unset#application/octet-stream
 source/OCSemanticChecker.Mod -text
 source/OCSyntaxTree.Mod -text
-source/OCTest.Mod -text
-source/OCTextualSymbolFile.Mod -text
+source/OCTest.Mod -text svneol=unset#application/octet-stream
+source/OCTextualSymbolFile.Mod -text svneol=unset#application/octet-stream
 source/OFS.Tool -text
 source/OGGRadios.Text -text
 source/OGGUtilities.Mod -text
@@ -4359,7 +4359,7 @@ source/RfsClientProxy.Mod -text
 source/RfsConnection.Mod -text
 source/RfsFS.Mod -text
 source/Room.poly -text
-source/Runtime.Mod -text
+source/Runtime.Mod -text svneol=unset#application/octet-stream
 source/SCSI.Mod -text
 source/SMTPClient.Mod -text
 source/SSFS.Mod -text
