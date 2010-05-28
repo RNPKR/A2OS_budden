@@ -4320,6 +4320,8 @@ source/PresentViewer.Mod -text
 source/Presentation.Mod -text
 source/PrevalenceSystem.Mod -text
 source/Printers.Tool -text
+source/ProcessInfo.Mod -text
+source/ProcessInfo0.Mod -text
 source/Profiler.Mod -text
 source/Programming.Tool -text
 source/Quickstart.Text -text
@@ -4637,6 +4639,7 @@ source/Unix.Oberon.TextGadgets0.Mod -text
 source/Unix.Oberon.TextSBControl.Mod -text
 source/Unix.Oberon.UnixPrinter.Mod -text
 source/Unix.Objects.Mod -text
+source/Unix.ProcessInfo0.Mod -text
 source/Unix.Starter.Mod -text
 source/Unix.TCP.Mod -text
 source/Unix.Threads.Mod -text
@@ -4833,6 +4836,7 @@ source/WMPieMenu.Mod -text
 source/WMPinyinIME.Mod -text
 source/WMPlayer.Mod -text
 source/WMPopups.Mod -text
+source/WMProcessInfo.Mod -text
 source/WMProfiler.Mod -text
 source/WMProgressComponents.Mod -text
 source/WMProperties.Mod -text
