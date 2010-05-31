@@ -4732,6 +4732,7 @@ source/W3dWorld.Mod -text
 source/WAVCodec.Mod -text
 source/WAVRecorder.Mod -text
 source/WMAnimations.Mod -text
+source/WMApplications.Mod -text
 source/WMArabicIME.Mod -text
 source/WMArchives.Mod -text
 source/WMArmenianIME.Mod -text
