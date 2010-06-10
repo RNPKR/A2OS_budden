@@ -3510,6 +3510,7 @@ source/HelloWorld2.Mod -text
 source/HelloWorld3.Mod -text
 source/Hex.Tool -text
 source/HierarchicalProfiler.Mod -text
+source/HierarchicalProfiler0.Mod -text
 source/Histogram.Panel -text
 source/HostClipboard.Mod -text
 source/HotKeys.Mod -text
@@ -4916,6 +4917,7 @@ source/Win32.DNS.Mod -text svneol=unset#text/plain
 source/Win32.Display.Mod -text svneol=unset#text/plain
 source/Win32.External.Oberon.Clipboard.Mod -text svneol=unset#text/plain
 source/Win32.GDI32.Mod -text svneol=unset#text/plain
+source/Win32.HierarchicalProfiler0.Mod -text
 source/Win32.IP.Mod -text svneol=unset#text/plain
 source/Win32.Kernel.Mod -text svneol=unset#text/plain
 source/Win32.Kernel32.Mod -text svneol=unset#text/plain
