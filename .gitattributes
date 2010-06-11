@@ -3329,6 +3329,7 @@ source/CubeInt.Mod -text
 source/CubeRat.Mod -text
 source/CubeRe.Mod -text
 source/CyberbitNetInstall.Mod -text
+source/CyrillicUtilities.Mod -text
 source/DES.Mod -text
 source/DHCP.Mod -text
 source/DNS.Mod -text
