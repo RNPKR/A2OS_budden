@@ -3751,6 +3751,7 @@ source/OCBinaryCode.Mod -text svneol=unset#application/octet-stream
 source/OCBinaryObjectFile.Mod -text svneol=unset#application/octet-stream
 source/OCBinarySymbolFile.Mod -text svneol=unset#application/octet-stream
 source/OCCompiler.Mod -text svneol=unset#application/octet-stream
+source/OCDataflow.Mod -text
 source/OCFingerPrint.Mod -text svneol=unset#application/octet-stream
 source/OCFingerPrinter.Mod -text svneol=unset#application/octet-stream
 source/OCFormats.Mod -text svneol=unset#application/octet-stream
