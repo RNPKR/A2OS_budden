@@ -125,6 +125,7 @@ WinAos/ObjE/CubeInt.Obw -text
 WinAos/ObjE/CubeRat.Obw -text
 WinAos/ObjE/CubeRe.Obw -text
 WinAos/ObjE/CyberbitNetInstall.Obw -text
+WinAos/ObjE/CyrillicUtilities.Obw -text
 WinAos/ObjE/DES.Obw -text
 WinAos/ObjE/DNS.Obw -text
 WinAos/ObjE/DTPData.Obw -text
@@ -219,6 +220,8 @@ WinAos/ObjE/HelloWorld.Obw -text
 WinAos/ObjE/HelloWorld1.Obw -text
 WinAos/ObjE/HelloWorld2.Obw -text
 WinAos/ObjE/HelloWorld3.Obw -text
+WinAos/ObjE/HierarchicalProfiler.Obw -text
+WinAos/ObjE/HierarchicalProfiler0.Obw -text
 WinAos/ObjE/HostClipboard.Obw -text
 WinAos/ObjE/HotKeys.Obw -text
 WinAos/ObjE/HotKeysCommands.Obw -text
@@ -317,7 +320,9 @@ WinAos/ObjE/OCBasic.Obw -text
 WinAos/ObjE/OCBinaryCode.Obw -text
 WinAos/ObjE/OCBinaryObjectFile.Obw -text
 WinAos/ObjE/OCBinarySymbolFile.Obw -text
+WinAos/ObjE/OCDataflow.Obw -text
 WinAos/ObjE/OCFingerPrint.Obw -text
+WinAos/ObjE/OCFingerprinter.Obw -text
 WinAos/ObjE/OCFormats.Obw -text
 WinAos/ObjE/OCGenericObjectFile.Obw -text
 WinAos/ObjE/OCGlobal.Obw -text
@@ -1009,6 +1014,8 @@ WinAos/ObjE/PositionDebugging.Obw -text
 WinAos/ObjE/PresentViewer.Obw -text
 WinAos/ObjE/Presentation.Obw -text
 WinAos/ObjE/PrevalenceSystem.Obw -text
+WinAos/ObjE/ProcessInfo.Obw -text
+WinAos/ObjE/ProcessInfo0.Obw -text
 WinAos/ObjE/QuoteServer.Obw -text
 WinAos/ObjE/RAMVolumes.Obw -text
 WinAos/ObjE/RAWPrinter.Obw -text
@@ -1141,6 +1148,7 @@ WinAos/ObjE/W3dWorld.Obw -text
 WinAos/ObjE/WAVCodec.Obw -text
 WinAos/ObjE/WAVRecorder.Obw -text
 WinAos/ObjE/WMAnimations.Obw -text
+WinAos/ObjE/WMApplications.Obw -text
 WinAos/ObjE/WMArabicIME.Obw -text
 WinAos/ObjE/WMArchives.Obw -text
 WinAos/ObjE/WMArmenianIME.Obw -text
@@ -1232,6 +1240,8 @@ WinAos/ObjE/WMPieMenu.Obw -text
 WinAos/ObjE/WMPinyinIME.Obw -text
 WinAos/ObjE/WMPlayer.Obw -text
 WinAos/ObjE/WMPopups.Obw -text
+WinAos/ObjE/WMProcessInfo.Obw -text
+WinAos/ObjE/WMProfiler.Obw -text
 WinAos/ObjE/WMProgressComponents.Obw -text
 WinAos/ObjE/WMProperties.Obw -text
 WinAos/ObjE/WMRasterScale.Obw -text
@@ -1450,6 +1460,7 @@ WinAos/ObjI/CubeInt.Obw -text
 WinAos/ObjI/CubeRat.Obw -text
 WinAos/ObjI/CubeRe.Obw -text
 WinAos/ObjI/CyberbitNetInstall.Obw -text
+WinAos/ObjI/CyrillicUtilities.Obw -text
 WinAos/ObjI/DES.Obw -text
 WinAos/ObjI/DNS.Obw -text
 WinAos/ObjI/DTPData.Obw -text
@@ -1544,6 +1555,8 @@ WinAos/ObjI/HelloWorld.Obw -text
 WinAos/ObjI/HelloWorld1.Obw -text
 WinAos/ObjI/HelloWorld2.Obw -text
 WinAos/ObjI/HelloWorld3.Obw -text
+WinAos/ObjI/HierarchicalProfiler.Obw -text
+WinAos/ObjI/HierarchicalProfiler0.Obw -text
 WinAos/ObjI/HostClipboard.Obw -text
 WinAos/ObjI/HotKeys.Obw -text
 WinAos/ObjI/HotKeysCommands.Obw -text
@@ -1641,7 +1654,9 @@ WinAos/ObjI/OCBasic.Obw -text
 WinAos/ObjI/OCBinaryCode.Obw -text
 WinAos/ObjI/OCBinaryObjectFile.Obw -text
 WinAos/ObjI/OCBinarySymbolFile.Obw -text
+WinAos/ObjI/OCDataflow.Obw -text
 WinAos/ObjI/OCFingerPrint.Obw -text
+WinAos/ObjI/OCFingerprinter.Obw -text
 WinAos/ObjI/OCFormats.Obw -text
 WinAos/ObjI/OCGenericObjectFile.Obw -text
 WinAos/ObjI/OCGlobal.Obw -text
@@ -2326,6 +2341,8 @@ WinAos/ObjI/PositionDebugging.Obw -text
 WinAos/ObjI/PresentViewer.Obw -text
 WinAos/ObjI/Presentation.Obw -text
 WinAos/ObjI/PrevalenceSystem.Obw -text
+WinAos/ObjI/ProcessInfo.Obw -text
+WinAos/ObjI/ProcessInfo0.Obw -text
 WinAos/ObjI/QuoteServer.Obw -text
 WinAos/ObjI/RAMVolumes.Obw -text
 WinAos/ObjI/RAWPrinter.Obw -text
@@ -2458,6 +2475,7 @@ WinAos/ObjI/W3dWorld.Obw -text
 WinAos/ObjI/WAVCodec.Obw -text
 WinAos/ObjI/WAVRecorder.Obw -text
 WinAos/ObjI/WMAnimations.Obw -text
+WinAos/ObjI/WMApplications.Obw -text
 WinAos/ObjI/WMArabicIME.Obw -text
 WinAos/ObjI/WMArchives.Obw -text
 WinAos/ObjI/WMArmenianIME.Obw -text
@@ -2549,6 +2567,8 @@ WinAos/ObjI/WMPieMenu.Obw -text
 WinAos/ObjI/WMPinyinIME.Obw -text
 WinAos/ObjI/WMPlayer.Obw -text
 WinAos/ObjI/WMPopups.Obw -text
+WinAos/ObjI/WMProcessInfo.Obw -text
+WinAos/ObjI/WMProfiler.Obw -text
 WinAos/ObjI/WMProgressComponents.Obw -text
 WinAos/ObjI/WMProperties.Obw -text
 WinAos/ObjI/WMRasterScale.Obw -text
