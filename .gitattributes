@@ -3222,6 +3222,7 @@ source/BootManager.Text -text svneol=unset#unset
 source/BootManager.Tool -text
 source/BootManagerMBR.Bin -text
 source/BootManagerTail.Bin -text
+source/BootShell.Mod -text
 source/Bows.Pict -text
 source/Bricks.Pict -text
 source/Build.Tool -text
