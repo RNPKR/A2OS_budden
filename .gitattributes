@@ -3415,6 +3415,7 @@ source/DynamicWebpage.Mod -text
 source/DynamicWebpagePlugin.Mod -text
 source/DynamicWebpagePlugin.Text -text
 source/EFI.Mod -text
+source/EFI.Tool -text
 source/EFIA2Loader.Mod -text
 source/EFIBlockIO.Mod -text svneol=unset#application/octet-stream
 source/EFIDiskIO.Mod -text svneol=unset#application/octet-stream
