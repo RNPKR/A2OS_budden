@@ -4664,8 +4664,6 @@ source/Unix.Oberon.Clipboard.Mod -text
 source/Unix.Oberon.Display.Mod -text
 source/Unix.Oberon.FileDir.Mod -text
 source/Unix.Oberon.Files.Mod -text
-source/Unix.Oberon.HostSysinfo.Mod -text
-source/Unix.Oberon.KeyboardMap.Mod -text
 source/Unix.Oberon.NetSystem.Mod -text
 source/Unix.Oberon.Printer.Mod -text
 source/Unix.Oberon.Scrollbars.Mod -text
