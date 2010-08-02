@@ -4898,7 +4898,7 @@ source/WMTaskScheduler.tar -text
 source/WMTetris.Mod -text
 source/WMTextStyleTool.Mod -text
 source/WMTextTool.Mod -text
-source/WMTextView.Mod -text
+source/WMTextView.Mod -text svneol=unset#application/octet-stream
 source/WMTrapWriter.Mod -text
 source/WMTrees.Mod -text
 source/WMUkrainianIME.Mod -text
