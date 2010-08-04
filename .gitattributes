@@ -4801,6 +4801,7 @@ source/WMErrors.Mod -text
 source/WMEventLog.Mod -text
 source/WMEvents.Mod -text
 source/WMFTPClient.Mod -text
+source/WMFigures.Mod -text
 source/WMFileManager.Mod -text
 source/WMFontCCGConverter.Mod -text
 source/WMFontManager.Mod -text
