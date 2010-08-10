@@ -3735,6 +3735,7 @@ source/MenuPages.Mod -text
 source/MinInitNetwork.Mod -text
 source/MineSweeperBD.Pict -text
 source/Miscellaneous.Tool -text
+source/Models.Mod -text
 source/Models.rep -text
 source/ModuleParser.Mod -text
 source/ModuleTrees.Mod -text
@@ -4634,6 +4635,7 @@ source/TuringCoatWnd.Mod -text
 source/Tutorial.Text -text
 source/Tutorials.Book -text
 source/Tutorials.Tool -text
+source/Types.Mod -text
 source/UDP.Mod -text
 source/UTF8Strings.Mod -text
 source/UndoManager.Mod -text
@@ -4825,7 +4827,6 @@ source/WMMacros.Mod -text
 source/WMMenus.Mod -text
 source/WMMessages.Mod -text
 source/WMMixer.Mod -text
-source/WMModels.Mod -text
 source/WMModuleState.Mod -text
 source/WMNavigate.Mod -text
 source/WMNavigator.Mod -text
