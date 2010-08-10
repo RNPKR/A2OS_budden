@@ -4635,7 +4635,7 @@ source/TuringCoatWnd.Mod -text
 source/Tutorial.Text -text
 source/Tutorials.Book -text
 source/Tutorials.Tool -text
-source/Types.Mod -text
+source/Types.Mod -text svneol=unset#application/octet-stream
 source/UDP.Mod -text
 source/UTF8Strings.Mod -text
 source/UndoManager.Mod -text
