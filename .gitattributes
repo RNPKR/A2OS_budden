@@ -106,6 +106,7 @@ WinAos/obj/BinToCode.Obw -text
 WinAos/obj/BitSets.Obw -text
 WinAos/obj/BootConsole.Obw -text
 WinAos/obj/BootManager.Obw -text
+WinAos/obj/BootShell.Obw -text
 WinAos/obj/CATServer.Obw -text
 WinAos/obj/CLUTs.Obw -text
 WinAos/obj/CPUID.Obw -text
@@ -210,6 +211,17 @@ WinAos/obj/DivXTypes.Obw -text
 WinAos/obj/DynamicStrings.Obw -text
 WinAos/obj/DynamicWebpage.Obw -text
 WinAos/obj/DynamicWebpagePlugin.Obw -text
+WinAos/obj/EFI.Obw -text
+WinAos/obj/EFIA2Loader.Obw -text
+WinAos/obj/EFIBlockIO.Obw -text
+WinAos/obj/EFIDiskIO.Obw -text
+WinAos/obj/EFIFileProtocol.Obw -text
+WinAos/obj/EFIGraphicsOutput.Obw -text
+WinAos/obj/EFILib.Obw -text
+WinAos/obj/EFILoadedImage.Obw -text
+WinAos/obj/EFISimpleFS.Obw -text
+WinAos/obj/EFITest.Obw -text
+WinAos/obj/EFITrace.Obw -text
 WinAos/obj/Errors.Obw -text
 WinAos/obj/Events.Obw -text
 WinAos/obj/EventsFileLog.Obw -text
@@ -335,6 +347,7 @@ WinAos/obj/MediaPlayer.Obw -text
 WinAos/obj/MemoryReader.Obw -text
 WinAos/obj/MenuEdit.Obw -text
 WinAos/obj/MenuPages.Obw -text
+WinAos/obj/Models.Obw -text
 WinAos/obj/ModuleParser.Obw -text
 WinAos/obj/ModuleTrees.Obw -text
 WinAos/obj/Modules.Obw -text
@@ -366,6 +379,7 @@ WinAos/obj/OCBinaryCode.Obw -text
 WinAos/obj/OCBinaryObjectFile.Obw -text
 WinAos/obj/OCBinarySymbolFile.Obw -text
 WinAos/obj/OCDataflow.Obw -text
+WinAos/obj/OCDataflowBackend.Obw -text
 WinAos/obj/OCFingerPrint.Obw -text
 WinAos/obj/OCFingerprinter.Obw -text
 WinAos/obj/OCFormats.Obw -text
@@ -1147,6 +1161,7 @@ WinAos/obj/Threads.Obw -text
 WinAos/obj/Trace.Obw -text
 WinAos/obj/Traps.Obw -text
 WinAos/obj/TuringCoatWnd.Obw -text
+WinAos/obj/Types.Obw -text
 WinAos/obj/UDP.Obw -text
 WinAos/obj/UDPChatBase.Obw -text
 WinAos/obj/UDPChatClient.Obw -text
@@ -1218,6 +1233,7 @@ WinAos/obj/WMErrors.Obw -text
 WinAos/obj/WMEventLog.Obw -text
 WinAos/obj/WMEvents.Obw -text
 WinAos/obj/WMFTPClient.Obw -text
+WinAos/obj/WMFigures.Obw -text
 WinAos/obj/WMFileManager.Obw -text
 WinAos/obj/WMFontCCGConverter.Obw -text
 WinAos/obj/WMFontManager.Obw -text
