@@ -1238,7 +1238,6 @@ WinAos/obj/WMMacros.Obw -text
 WinAos/obj/WMMenus.Obw -text
 WinAos/obj/WMMessages.Obw -text
 WinAos/obj/WMMixer.Obw -text
-WinAos/obj/WMModels.Obw -text
 WinAos/obj/WMModuleState.Obw -text
 WinAos/obj/WMNavigate.Obw -text
 WinAos/obj/WMNavigator.Obw -text
