@@ -2458,6 +2458,7 @@ source/OC.Tool -text
 source/OCAMD64Assembler.Mod -text svneol=unset#application/octet-stream
 source/OCAMD64Backend.Mod -text svneol=unset#application/octet-stream
 source/OCAMD64InstructionSet.Mod -text svneol=unset#application/octet-stream
+source/OCAMDBackend.Mod -text
 source/OCArrayBase.Mod -text svneol=unset#application/octet-stream
 source/OCBackend.Mod -text svneol=unset#application/octet-stream
 source/OCBasic.Mod -text svneol=unset#application/octet-stream
