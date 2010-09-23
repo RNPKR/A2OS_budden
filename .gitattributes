@@ -1851,6 +1851,7 @@ source/ArrayXdInt.Mod -text svneol=unset#application/octet-stream
 source/ArrayXdRat.Mod -text svneol=unset#application/octet-stream
 source/ArrayXdRe.Mod -text svneol=unset#application/octet-stream
 source/AsciiCoder.Tool -text
+source/Attributes.Mod -text
 source/Authorization.html -text
 source/Auto.dsk -text
 source/Autostart.Mod -text svneol=unset#application/octet-stream
