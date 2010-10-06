@@ -3086,7 +3086,6 @@ source/SSH.Panel -text
 source/SSH.Tool -text
 source/SSHAuthorize.Mod -text svneol=unset#application/octet-stream
 source/SSHClient.Mod -text svneol=unset#application/octet-stream
-source/SSHConfiguration.Text -text
 source/SSHGlobals.Mod -text svneol=unset#application/octet-stream
 source/SSHKeys.Mod -text svneol=unset#application/octet-stream
 source/SSHTransport.Mod -text svneol=unset#application/octet-stream
