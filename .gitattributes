@@ -2782,12 +2782,6 @@ source/Oberon.RembrandtTools.Mod -text
 source/Oberon.Reminders.Mod -text
 source/Oberon.Report.Text -text svneol=unset#text/plain
 source/Oberon.Rot13.Mod -text
-source/Oberon.SSH.Mod -text
-source/Oberon.SSHAuth.Mod -text
-source/Oberon.SSHGadgets.Mod -text
-source/Oberon.SSHHostkeys.Mod -text
-source/Oberon.SSHTransport.Mod -text
-source/Oberon.SSHUtils.Mod -text
 source/Oberon.SaveArt.Mod -text
 source/Oberon.SaveDecay.Mod -text
 source/Oberon.SaveLife.Mod -text
