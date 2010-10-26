@@ -1877,6 +1877,7 @@ source/BenchPingPong.Mod -text svneol=unset#application/octet-stream
 source/BenchSpeedup.Mod -text svneol=unset#application/octet-stream
 source/BenchSyntaxHighlighter.Mod -text
 source/BenchTCP.Mod -text svneol=unset#application/octet-stream
+source/BenchXML.Mod -text
 source/Biblio.Text -text
 source/BidiMirroring.txt -text
 source/BimboMail.Mod -text svneol=unset#application/octet-stream
