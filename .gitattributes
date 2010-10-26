@@ -3332,7 +3332,7 @@ source/Unix.Displays.Mod -text svneol=unset#application/octet-stream
 source/Unix.Files.Mod -text svneol=unset#application/octet-stream
 source/Unix.Glue.Mod -text svneol=unset#application/octet-stream
 source/Unix.Heaps.Mod -text svneol=unset#application/octet-stream
-source/Unix.I386.Machine.Mod -text svneol=unset#application/octet-stream
+source/Unix.I386.Machine.Mod -text
 source/Unix.IP.Mod -text svneol=unset#application/octet-stream
 source/Unix.KbdMouse.Mod -text svneol=unset#application/octet-stream
 source/Unix.Kernel.Mod -text svneol=unset#application/octet-stream
@@ -3354,7 +3354,6 @@ source/Unix.Oberon.UnixPrinter.Mod -text
 source/Unix.Objects.Mod -text svneol=unset#application/octet-stream
 source/Unix.ProcessInfo0.Mod -text
 source/Unix.TCP.Mod -text svneol=unset#application/octet-stream
-source/Unix.Threads.Mod -text svneol=unset#application/octet-stream
 source/Unix.Traps.Mod -text
 source/Unix.UDP.Mod -text svneol=unset#application/octet-stream
 source/Unix.UnixFiles.Mod -text svneol=unset#application/octet-stream
