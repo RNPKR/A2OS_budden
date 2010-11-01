@@ -2401,6 +2401,7 @@ source/MathRandomSeed.dat -text
 source/MathRat.Mod -text svneol=unset#application/octet-stream
 source/MathRe.Mod -text svneol=unset#application/octet-stream
 source/MathReSeries.Mod -text svneol=unset#application/octet-stream
+source/MatrixModels.Mod -text
 source/MediaPlayer.Mod -text svneol=unset#application/octet-stream
 source/MemoryReader.Mod -text svneol=unset#application/octet-stream
 source/Menu.XML -text
@@ -3499,6 +3500,7 @@ source/WMJoysticks.Mod -text svneol=unset#application/octet-stream
 source/WMKernelLog.Mod -text svneol=unset#application/octet-stream
 source/WMKeyCode.Mod -text svneol=unset#application/octet-stream
 source/WMMacros.Mod -text svneol=unset#application/octet-stream
+source/WMMatrixComponents.Mod -text
 source/WMMenus.Mod -text svneol=unset#application/octet-stream
 source/WMMessages.Mod -text svneol=unset#application/octet-stream
 source/WMMixer.Mod -text svneol=unset#application/octet-stream
