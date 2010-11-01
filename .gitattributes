@@ -3500,7 +3500,7 @@ source/WMJoysticks.Mod -text svneol=unset#application/octet-stream
 source/WMKernelLog.Mod -text svneol=unset#application/octet-stream
 source/WMKeyCode.Mod -text svneol=unset#application/octet-stream
 source/WMMacros.Mod -text svneol=unset#application/octet-stream
-source/WMMatrixComponents.Mod -text
+source/WMMatrixComponents.Mod -text svneol=unset#application/octet-stream
 source/WMMenus.Mod -text svneol=unset#application/octet-stream
 source/WMMessages.Mod -text svneol=unset#application/octet-stream
 source/WMMixer.Mod -text svneol=unset#application/octet-stream
