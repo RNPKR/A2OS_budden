@@ -2401,7 +2401,7 @@ source/MathRandomSeed.dat -text
 source/MathRat.Mod -text svneol=unset#application/octet-stream
 source/MathRe.Mod -text svneol=unset#application/octet-stream
 source/MathReSeries.Mod -text svneol=unset#application/octet-stream
-source/MatrixModels.Mod -text
+source/MatrixModels.Mod -text svneol=unset#application/octet-stream
 source/MediaPlayer.Mod -text svneol=unset#application/octet-stream
 source/MemoryReader.Mod -text svneol=unset#application/octet-stream
 source/Menu.XML -text
