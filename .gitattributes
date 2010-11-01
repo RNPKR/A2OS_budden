@@ -3589,6 +3589,7 @@ source/WMUtilities.Mod -text svneol=unset#application/octet-stream
 source/WMV24Component.Mod -text svneol=unset#application/octet-stream
 source/WMVNCView.Mod -text svneol=unset#application/octet-stream
 source/WMVT100.Mod -text svneol=unset#application/octet-stream
+source/WMVisualComponentSkeleton.Mod -text
 source/WMWindowManager.Mod -text svneol=unset#application/octet-stream
 source/WMXMLTree.Mod -text svneol=unset#application/octet-stream
 source/WPM.Mod -text svneol=unset#application/octet-stream
