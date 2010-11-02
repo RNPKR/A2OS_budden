@@ -3467,7 +3467,7 @@ source/WMDefaultFont.Mod -text svneol=unset#application/octet-stream
 source/WMDefaultWindows.Mod -text svneol=unset#application/octet-stream
 source/WMDesktopIcons.Mod -text svneol=unset#application/octet-stream
 source/WMDesktops.Mod -text svneol=unset#application/octet-stream
-source/WMDiagnostics.Mod -text
+source/WMDiagnostics.Mod -text svneol=unset#application/octet-stream
 source/WMDiagramComponents.Mod -text svneol=unset#application/octet-stream
 source/WMDialogs.Mod -text svneol=unset#application/octet-stream
 source/WMDiff.Mod -text svneol=unset#application/octet-stream
