@@ -1868,6 +1868,7 @@ source/Backdrops.Panel -text
 source/Backup.Tool -text
 source/Bart.Pict -text
 source/Base64.Mod -text svneol=unset#application/octet-stream
+source/Bbl.Asm -text
 source/Beep.Mod -text svneol=unset#application/octet-stream
 source/BeepTest.Mod -text svneol=unset#application/octet-stream
 source/BenchClockDrift.Mod -text svneol=unset#application/octet-stream
