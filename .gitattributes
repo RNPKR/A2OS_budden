@@ -1811,6 +1811,7 @@ source/AMD64.Network.Mod -text svneol=unset#application/octet-stream
 source/AMD64.PCI.Mod -text svneol=unset#application/octet-stream
 source/AMD64.Raster.Mod -text svneol=unset#application/octet-stream
 source/AMD64.Reals.Mod -text svneol=unset#application/octet-stream
+source/AMD64.Runtime.Mod -text
 source/AMD64.Traps.Mod -text svneol=unset#application/octet-stream
 source/AMD64.UsbKeyboard.Mod -text svneol=unset#application/octet-stream
 source/AMD64.WMRasterScale.Mod -text svneol=unset#application/octet-stream
