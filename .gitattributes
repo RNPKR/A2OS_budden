@@ -3322,7 +3322,6 @@ source/UnicodeBidirectionality.Mod -text svneol=unset#application/octet-stream
 source/UnicodeData.txt -text
 source/UnicodeProperties.Mod -text svneol=unset#application/octet-stream
 source/UnihanParser.Mod -text svneol=unset#application/octet-stream
-source/Unix.Basetypes.Mod -text svneol=unset#application/octet-stream
 source/Unix.Beep.Mod -text svneol=unset#application/octet-stream
 source/Unix.BootConsole.Mod -text svneol=unset#application/octet-stream
 source/Unix.BootLinker.Mod -text svneol=unset#application/octet-stream
