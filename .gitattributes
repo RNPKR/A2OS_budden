@@ -2484,6 +2484,7 @@ source/OCIntermediateBackend.Mod -text svneol=unset#application/octet-stream
 source/OCIntermediateCode.Mod -text svneol=unset#application/octet-stream
 source/OCParser.Mod -text
 source/OCPrintout.Mod -text
+source/OCProfiler.Mod -text
 source/OCProgTools.Mod -text svneol=unset#application/octet-stream
 source/OCScanner.Mod -text svneol=unset#application/octet-stream
 source/OCSections.Mod -text svneol=unset#application/octet-stream
