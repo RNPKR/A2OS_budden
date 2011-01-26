@@ -2165,6 +2165,41 @@ source/FirewireSBP2.Mod -text svneol=unset#application/octet-stream
 source/Flock.Pict -text
 source/FontEditor.Panel -text
 source/FontRes.Tool -text
+source/Fox.Tool -text
+source/FoxA2Interface.Mod -text
+source/FoxAMD64Assembler.Mod -text svneol=unset#application/octet-stream
+source/FoxAMD64Backend.Mod -text svneol=unset#application/octet-stream
+source/FoxAMD64InstructionSet.Mod -text svneol=unset#application/octet-stream
+source/FoxAMDBackend.Mod -text
+source/FoxArrayBase.Mod -text svneol=unset#application/octet-stream
+source/FoxBackend.Mod -text svneol=unset#application/octet-stream
+source/FoxBasic.Mod -text svneol=unset#application/octet-stream
+source/FoxBinaryCode.Mod -text svneol=unset#application/octet-stream
+source/FoxBinaryObjectFile.Mod -text svneol=unset#application/octet-stream
+source/FoxBinarySymbolFile.Mod -text svneol=unset#application/octet-stream
+source/FoxCompiler.Mod -text svneol=unset#application/octet-stream
+source/FoxDataflow.Mod -text svneol=unset#application/octet-stream
+source/FoxDataflowBackend.Mod -text
+source/FoxFingerPrint.Mod -text svneol=unset#application/octet-stream
+source/FoxFingerPrinter.Mod -text svneol=unset#application/octet-stream
+source/FoxFormats.Mod -text svneol=unset#application/octet-stream
+source/FoxGenericObjectFile.Mod -text
+source/FoxGlobal.Mod -text svneol=unset#application/octet-stream
+source/FoxInstructionSetAMD64TabSeperated.txt -text
+source/FoxInterfaceComparison.Mod -text svneol=unset#application/octet-stream
+source/FoxIntermediateBackend.Mod -text svneol=unset#application/octet-stream
+source/FoxIntermediateCode.Mod -text svneol=unset#application/octet-stream
+source/FoxParser.Mod -text
+source/FoxPrintout.Mod -text
+source/FoxProfiler.Mod -text
+source/FoxProgTools.Mod -text svneol=unset#application/octet-stream
+source/FoxScanner.Mod -text svneol=unset#application/octet-stream
+source/FoxSections.Mod -text svneol=unset#application/octet-stream
+source/FoxSemanticChecker.Mod -text
+source/FoxSyntaxTree.Mod -text
+source/FoxTest.Mod -text svneol=unset#application/octet-stream
+source/FoxTextCompiler.Mod -text
+source/FoxTextualSymbolFile.Mod -text svneol=unset#application/octet-stream
 source/Fractal.Pict -text
 source/FractalDemo.Mod -text svneol=unset#application/octet-stream
 source/GIFCodec.Mod -text svneol=unset#application/octet-stream
@@ -2459,41 +2494,6 @@ source/OBEMBR4.ASM -text
 source/OBL.Asm -text
 source/OBL.Bin -text
 source/OBL.Text -text
-source/OC.Tool -text
-source/OCA2Interface.Mod -text
-source/OCAMD64Assembler.Mod -text svneol=unset#application/octet-stream
-source/OCAMD64Backend.Mod -text svneol=unset#application/octet-stream
-source/OCAMD64InstructionSet.Mod -text svneol=unset#application/octet-stream
-source/OCAMDBackend.Mod -text
-source/OCArrayBase.Mod -text svneol=unset#application/octet-stream
-source/OCBackend.Mod -text svneol=unset#application/octet-stream
-source/OCBasic.Mod -text svneol=unset#application/octet-stream
-source/OCBinaryCode.Mod -text svneol=unset#application/octet-stream
-source/OCBinaryObjectFile.Mod -text svneol=unset#application/octet-stream
-source/OCBinarySymbolFile.Mod -text svneol=unset#application/octet-stream
-source/OCCompiler.Mod -text svneol=unset#application/octet-stream
-source/OCDataflow.Mod -text svneol=unset#application/octet-stream
-source/OCDataflowBackend.Mod -text
-source/OCFingerPrint.Mod -text svneol=unset#application/octet-stream
-source/OCFingerPrinter.Mod -text svneol=unset#application/octet-stream
-source/OCFormats.Mod -text svneol=unset#application/octet-stream
-source/OCGenericObjectFile.Mod -text
-source/OCGlobal.Mod -text svneol=unset#application/octet-stream
-source/OCInstructionSetAMD64TabSeperated.txt -text
-source/OCInterfaceComparison.Mod -text svneol=unset#application/octet-stream
-source/OCIntermediateBackend.Mod -text svneol=unset#application/octet-stream
-source/OCIntermediateCode.Mod -text svneol=unset#application/octet-stream
-source/OCParser.Mod -text
-source/OCPrintout.Mod -text
-source/OCProfiler.Mod -text
-source/OCProgTools.Mod -text svneol=unset#application/octet-stream
-source/OCScanner.Mod -text svneol=unset#application/octet-stream
-source/OCSections.Mod -text svneol=unset#application/octet-stream
-source/OCSemanticChecker.Mod -text
-source/OCSyntaxTree.Mod -text
-source/OCTest.Mod -text svneol=unset#application/octet-stream
-source/OCTextCompiler.Mod -text
-source/OCTextualSymbolFile.Mod -text svneol=unset#application/octet-stream
 source/OFS.Tool -text
 source/OGGRadios.Text -text
 source/OGGUtilities.Mod -text svneol=unset#application/octet-stream
