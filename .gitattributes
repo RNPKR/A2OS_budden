@@ -2170,7 +2170,6 @@ source/FontRes.Tool -text
 source/Fox.Tool -text
 source/FoxA2Interface.Mod -text
 source/FoxAMD64Assembler.Mod -text svneol=unset#application/octet-stream
-source/FoxAMD64Backend.Mod -text svneol=unset#application/octet-stream
 source/FoxAMD64InstructionSet.Mod -text svneol=unset#application/octet-stream
 source/FoxAMDBackend.Mod -text
 source/FoxArrayBase.Mod -text svneol=unset#application/octet-stream
