@@ -2460,6 +2460,7 @@ source/OBL.Asm -text
 source/OBL.Bin -text
 source/OBL.Text -text
 source/OC.Tool -text
+source/OCA2Interface.Mod -text
 source/OCAMD64Assembler.Mod -text svneol=unset#application/octet-stream
 source/OCAMD64Backend.Mod -text svneol=unset#application/octet-stream
 source/OCAMD64InstructionSet.Mod -text svneol=unset#application/octet-stream
@@ -2491,6 +2492,7 @@ source/OCSections.Mod -text svneol=unset#application/octet-stream
 source/OCSemanticChecker.Mod -text
 source/OCSyntaxTree.Mod -text
 source/OCTest.Mod -text svneol=unset#application/octet-stream
+source/OCTextCompiler.Mod -text
 source/OCTextualSymbolFile.Mod -text svneol=unset#application/octet-stream
 source/OFS.Tool -text
 source/OGGRadios.Text -text
