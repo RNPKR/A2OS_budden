@@ -2060,7 +2060,6 @@ source/DataStacks.Mod -text svneol=unset#application/octet-stream
 source/DataTemplate.Mod.Text -text
 source/DataTrees.Mod -text svneol=unset#application/octet-stream
 source/Dates.Mod -text svneol=unset#application/octet-stream
-source/DbgOut.Mod -text svneol=unset#application/octet-stream
 source/DebugLog.Mod -text svneol=unset#application/octet-stream
 source/Debugging.Mod -text svneol=unset#application/octet-stream
 source/Decoder.Mod -text svneol=unset#application/octet-stream
