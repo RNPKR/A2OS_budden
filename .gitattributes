@@ -3036,6 +3036,7 @@ source/Plotter.Panel -text
 source/Plugins.Mod -text svneol=unset#application/octet-stream
 source/Popups.Tool -text
 source/PositionDebugging.Mod -text svneol=unset#application/octet-stream
+source/PowerManagementEvents.Mod -text
 source/PresentViewer.Mod -text svneol=unset#application/octet-stream
 source/Presentation.Mod -text svneol=unset#application/octet-stream
 source/PrevalenceSystem.Mod -text svneol=unset#application/octet-stream
