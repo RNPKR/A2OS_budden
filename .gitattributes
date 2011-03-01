@@ -2171,6 +2171,8 @@ source/FoxA2Interface.Mod -text
 source/FoxAMD64Assembler.Mod -text svneol=unset#application/octet-stream
 source/FoxAMD64InstructionSet.Mod -text svneol=unset#application/octet-stream
 source/FoxAMDBackend.Mod -text
+source/FoxActiveCells.Mod -text svneol=unset#application/octet-stream
+source/FoxActiveCellsBackend.Mod -text
 source/FoxArrayBase.Mod -text svneol=unset#application/octet-stream
 source/FoxBackend.Mod -text svneol=unset#application/octet-stream
 source/FoxBasic.Mod -text svneol=unset#application/octet-stream
@@ -2178,8 +2180,6 @@ source/FoxBinaryCode.Mod -text svneol=unset#application/octet-stream
 source/FoxBinaryObjectFile.Mod -text svneol=unset#application/octet-stream
 source/FoxBinarySymbolFile.Mod -text svneol=unset#application/octet-stream
 source/FoxCompiler.Mod -text svneol=unset#application/octet-stream
-source/FoxDataflow.Mod -text svneol=unset#application/octet-stream
-source/FoxDataflowBackend.Mod -text
 source/FoxFingerPrint.Mod -text svneol=unset#application/octet-stream
 source/FoxFingerPrinter.Mod -text svneol=unset#application/octet-stream
 source/FoxFormats.Mod -text svneol=unset#application/octet-stream
