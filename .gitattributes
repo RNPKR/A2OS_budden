@@ -3343,7 +3343,6 @@ source/Unix.Kernel.Mod -text svneol=unset#application/octet-stream
 source/Unix.Loader.Mod -text svneol=unset#application/octet-stream
 source/Unix.NetBase.Mod -text svneol=unset#application/octet-stream
 source/Unix.Oberon.Clipboard.Mod -text
-source/Unix.Oberon.Display.Mod -text
 source/Unix.Oberon.FileDir.Mod -text
 source/Unix.Oberon.Files.Mod -text
 source/Unix.Oberon.NetSystem.Mod -text
