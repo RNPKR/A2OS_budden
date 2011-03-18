@@ -2178,7 +2178,6 @@ source/FoxBinaryCode.Mod -text svneol=unset#application/octet-stream
 source/FoxBinaryObjectFile.Mod -text svneol=unset#application/octet-stream
 source/FoxBinarySymbolFile.Mod -text svneol=unset#application/octet-stream
 source/FoxCompiler.Mod -text svneol=unset#application/octet-stream
-source/FoxFingerPrint.Mod -text svneol=unset#application/octet-stream
 source/FoxFingerPrinter.Mod -text svneol=unset#application/octet-stream
 source/FoxFormats.Mod -text svneol=unset#application/octet-stream
 source/FoxGenericObjectFile.Mod -text
