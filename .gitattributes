@@ -263,7 +263,6 @@ WinAos/obj/FoxBasic.Obw -text
 WinAos/obj/FoxBinaryCode.Obw -text
 WinAos/obj/FoxBinaryObjectFile.Obw -text
 WinAos/obj/FoxBinarySymbolFile.Obw -text
-WinAos/obj/FoxFingerPrint.Obw -text
 WinAos/obj/FoxFingerPrinter.Obw -text
 WinAos/obj/FoxFormats.Obw -text
 WinAos/obj/FoxGenericObjectFile.Obw -text
