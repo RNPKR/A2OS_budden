@@ -3349,7 +3349,7 @@ source/Unix.Oberon.TextGadgets.Mod -text
 source/Unix.Oberon.TextGadgets0.Mod -text
 source/Unix.Oberon.TextSBControl.Mod -text
 source/Unix.Oberon.UnixPrinter.Mod -text
-source/Unix.Objects.Mod -text svneol=unset#application/octet-stream
+source/Unix.Objects.Mod -text
 source/Unix.ProcessInfo0.Mod -text
 source/Unix.TCP.Mod -text svneol=unset#application/octet-stream
 source/Unix.Traps.Mod -text
