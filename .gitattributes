@@ -2186,7 +2186,6 @@ source/FoxIntermediateBackend.Mod -text svneol=unset#application/octet-stream
 source/FoxIntermediateCode.Mod -text svneol=unset#application/octet-stream
 source/FoxIntermediateParser.Mod -text
 source/FoxIntermediateScanner.Mod -text
-source/FoxOperatorRuntime.Mod -text
 source/FoxParser.Mod -text
 source/FoxPrintout.Mod -text
 source/FoxProfiler.Mod -text
