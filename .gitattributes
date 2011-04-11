@@ -269,6 +269,7 @@ WinAos/obj/FoxGlobal.Obw -text
 WinAos/obj/FoxInterfaceComparison.Obw -text
 WinAos/obj/FoxIntermediateBackend.Obw -text
 WinAos/obj/FoxIntermediateCode.Obw -text
+WinAos/obj/FoxIntermediateCodeAssembler.Obw -text
 WinAos/obj/FoxParser.Obw -text
 WinAos/obj/FoxPrintout.Obw -text
 WinAos/obj/FoxProgTools.Obw -text
