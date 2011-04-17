@@ -3339,7 +3339,6 @@ source/Unix.I386.Machine.Mod -text
 source/Unix.IP.Mod -text svneol=unset#application/octet-stream
 source/Unix.KbdMouse.Mod -text svneol=unset#application/octet-stream
 source/Unix.Kernel.Mod -text svneol=unset#application/octet-stream
-source/Unix.NetBase.Mod -text svneol=unset#application/octet-stream
 source/Unix.Oberon.Clipboard.Mod -text
 source/Unix.Oberon.FileDir.Mod -text
 source/Unix.Oberon.Files.Mod -text
@@ -3353,6 +3352,7 @@ source/Unix.Oberon.TextSBControl.Mod -text
 source/Unix.Oberon.UnixPrinter.Mod -text
 source/Unix.Objects.Mod -text
 source/Unix.ProcessInfo0.Mod -text
+source/Unix.Sockets.Mod -text
 source/Unix.TCP.Mod -text svneol=unset#application/octet-stream
 source/Unix.Traps.Mod -text
 source/Unix.UDP.Mod -text svneol=unset#application/octet-stream
