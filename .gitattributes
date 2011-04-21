@@ -2281,6 +2281,7 @@ source/I386.BenchInterrupts.Mod -text svneol=unset#application/octet-stream
 source/I386.CPUID.Mod -text svneol=unset#application/octet-stream
 source/I386.DivXDecoder.Mod -text svneol=unset#application/octet-stream
 source/I386.DivXHelper.Mod -text svneol=unset#application/octet-stream
+source/I386.FoxArrayBaseOptimized.Mod -text
 source/I386.IDCT.Mod -text svneol=unset#application/octet-stream
 source/I386.IP.Mod -text svneol=unset#application/octet-stream
 source/I386.IPv4.Mod -text svneol=unset#application/octet-stream
