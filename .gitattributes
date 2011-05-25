@@ -3333,7 +3333,6 @@ source/Unix.BootLinker.Mod -text svneol=unset#application/octet-stream
 source/Unix.Clock.Mod -text svneol=unset#application/octet-stream
 source/Unix.DNS.Mod -text svneol=unset#application/octet-stream
 source/Unix.DisplayRefresher.Mod -text svneol=unset#application/octet-stream
-source/Unix.Files.Mod -text svneol=unset#application/octet-stream
 source/Unix.Glue.Mod -text svneol=unset#application/octet-stream
 source/Unix.Heaps.Mod -text svneol=unset#application/octet-stream
 source/Unix.I386.Machine.Mod -text
