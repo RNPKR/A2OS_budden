@@ -257,6 +257,7 @@ WinAos/obj/FoxAMDBackend.Obw -text
 WinAos/obj/FoxActiveCells.Obw -text
 WinAos/obj/FoxActiveCellsBackend.Obw -text
 WinAos/obj/FoxArrayBase.Obw -text
+WinAos/obj/FoxArrayBaseOptimized.Obw -text
 WinAos/obj/FoxBackend.Obw -text
 WinAos/obj/FoxBasic.Obw -text
 WinAos/obj/FoxBinaryCode.Obw -text
