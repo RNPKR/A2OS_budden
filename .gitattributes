@@ -3361,6 +3361,7 @@ source/Unix.UnixFiles.Mod -text svneol=unset#application/octet-stream
 source/Unix.WMPerfMonPluginCpu.Mod -text svneol=unset#application/octet-stream
 source/Unix.WMPerfMonPluginMemory.Mod -text svneol=unset#application/octet-stream
 source/Unix.X11.Mod -text svneol=unset#application/octet-stream
+source/Unix.X11Api.Mod -text
 source/Unix.XDisplay.Mod -text svneol=unset#application/octet-stream
 source/UnixAos.Tool -text
 source/Unzip.Mod -text svneol=unset#application/octet-stream
