@@ -1798,6 +1798,7 @@ source/AM79C970.Mod -text svneol=unset#application/octet-stream
 source/AMD64.ATADisks.Mod -text svneol=unset#application/octet-stream
 source/AMD64.BenchInterrupts.Mod -text svneol=unset#application/octet-stream
 source/AMD64.CPUID.Mod -text svneol=unset#application/octet-stream
+source/AMD64.EFIMachine.Mod -text
 source/AMD64.IP.Mod -text svneol=unset#application/octet-stream
 source/AMD64.IPv4.Mod -text svneol=unset#application/octet-stream
 source/AMD64.Keyboard.Mod -text svneol=unset#application/octet-stream
@@ -2282,6 +2283,7 @@ source/I386.BenchInterrupts.Mod -text svneol=unset#application/octet-stream
 source/I386.CPUID.Mod -text svneol=unset#application/octet-stream
 source/I386.DivXDecoder.Mod -text svneol=unset#application/octet-stream
 source/I386.DivXHelper.Mod -text svneol=unset#application/octet-stream
+source/I386.EFIMachine.Mod -text
 source/I386.FoxArrayBaseOptimized.Mod -text
 source/I386.IDCT.Mod -text svneol=unset#application/octet-stream
 source/I386.IP.Mod -text svneol=unset#application/octet-stream
