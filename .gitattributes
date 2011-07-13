@@ -3343,8 +3343,6 @@ source/Unix.IP.Mod -text svneol=unset#application/octet-stream
 source/Unix.KbdMouse.Mod -text svneol=unset#application/octet-stream
 source/Unix.Kernel.Mod -text svneol=unset#application/octet-stream
 source/Unix.Oberon.Clipboard.Mod -text
-source/Unix.Oberon.FileDir.Mod -text
-source/Unix.Oberon.Files.Mod -text
 source/Unix.Oberon.NetSystem.Mod -text
 source/Unix.Oberon.Printer.Mod -text
 source/Unix.Oberon.Scrollbars.Mod -text
