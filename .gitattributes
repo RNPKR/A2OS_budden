@@ -219,6 +219,7 @@ WinAos/obj/EFIFileProtocol.Obw -text
 WinAos/obj/EFIGraphicsOutput.Obw -text
 WinAos/obj/EFILib.Obw -text
 WinAos/obj/EFILoadedImage.Obw -text
+WinAos/obj/EFIMachine.Obw -text
 WinAos/obj/EFISimpleFS.Obw -text
 WinAos/obj/EFITest.Obw -text
 WinAos/obj/EFITrace.Obw -text
