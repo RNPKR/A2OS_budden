@@ -1887,6 +1887,7 @@ source/BimboMail.Mod -text svneol=unset#application/octet-stream
 source/Bimso.Mod -text svneol=unset#application/octet-stream
 source/Bin2Hex.Mod -text
 source/BinToCode.Mod -text svneol=unset#application/octet-stream
+source/BiosFreePCI.Mod -text
 source/BitSets.Mod -text
 source/Black.Pal -text
 source/BluePlastic.skin -text
