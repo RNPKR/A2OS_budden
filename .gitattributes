@@ -3163,6 +3163,7 @@ source/Sokoban.Data -text
 source/Solaris.Unix.Mod -text svneol=unset#application/octet-stream
 source/Song.ccg -text
 source/Sort.Tool -text
+source/SortDemo.Mod -text
 source/SoundDevices.Mod -text svneol=unset#application/octet-stream
 source/Sphere.poly -text
 source/Spirals.Pict -text
