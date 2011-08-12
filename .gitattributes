@@ -2155,6 +2155,7 @@ source/DynamicStrings.Mod -text svneol=unset#application/octet-stream
 source/DynamicWebpage.Mod -text svneol=unset#application/octet-stream
 source/DynamicWebpagePlugin.Mod -text svneol=unset#application/octet-stream
 source/DynamicWebpagePlugin.Text -text
+source/EFI.AMD64.Machine.Mod -text
 source/EFI.Mod -text
 source/EFI.Tool -text svneol=unset#application/octet-stream
 source/EFIA2Loader.Mod -text
