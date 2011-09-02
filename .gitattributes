@@ -2162,6 +2162,7 @@ source/EFIA2Loader.Mod -text
 source/EFIBlockIO.Mod -text svneol=unset#application/octet-stream
 source/EFIDiskIO.Mod -text svneol=unset#application/octet-stream
 source/EFIFileProtocol.Mod -text svneol=unset#application/octet-stream
+source/EFIGraphicalConsole.Mod -text
 source/EFIGraphicsOutput.Mod -text
 source/EFILib.Mod -text
 source/EFILoadedImage.Mod -text svneol=unset#application/octet-stream
