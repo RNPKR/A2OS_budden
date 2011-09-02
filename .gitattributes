@@ -3225,6 +3225,7 @@ source/Sphere.poly -text
 source/Spirals.Pict -text
 source/Standard.rep -text
 source/Stars.Vinci -text
+source/StartConsole.Mod -text
 source/StartMenu.Mod -text svneol=unset#application/octet-stream
 source/StartMenu.rep -text
 source/StaticLinker.Mod -text
