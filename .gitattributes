@@ -244,6 +244,7 @@ WinAos/obj/EFIA2Loader.Obw -text
 WinAos/obj/EFIBlockIO.Obw -text
 WinAos/obj/EFIDiskIO.Obw -text
 WinAos/obj/EFIFileProtocol.Obw -text
+WinAos/obj/EFIGraphicalConsole.Obw -text
 WinAos/obj/EFIGraphicsOutput.Obw -text
 WinAos/obj/EFILib.Obw -text
 WinAos/obj/EFILoadedImage.Obw -text
@@ -292,6 +293,7 @@ WinAos/obj/FoxBasic.Obw -text
 WinAos/obj/FoxBinaryCode.Obw -text
 WinAos/obj/FoxBinaryObjectFile.Obw -text
 WinAos/obj/FoxBinarySymbolFile.Obw -text
+WinAos/obj/FoxCodeGenerators.Obw -text
 WinAos/obj/FoxFingerPrinter.Obw -text
 WinAos/obj/FoxFormats.Obw -text
 WinAos/obj/FoxGenericObjectFile.Obw -text
