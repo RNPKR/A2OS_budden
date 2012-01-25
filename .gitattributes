@@ -2161,6 +2161,7 @@ source/FTPFS.Mod -text svneol=unset#application/octet-stream
 source/Feedback.Text -text
 source/Fido.Mod -text svneol=unset#application/octet-stream
 source/FileHandlers.Mod -text svneol=unset#application/octet-stream
+source/FileTrapWriter.Mod -text
 source/Files.Mod -text svneol=unset#application/octet-stream
 source/Files.Test -text
 source/Find.Panel -text
@@ -3323,6 +3324,7 @@ source/Threads.Pict -text
 source/Tools.Tool -text
 source/Trace.Mod -text svneol=unset#application/octet-stream
 source/TraceRoute.Mod -text svneol=unset#application/octet-stream
+source/TrapWriters.Mod -text
 source/Traps.Mod -text svneol=unset#application/octet-stream
 source/Tree.poly -text
 source/Tree1.Pict -text
