@@ -251,6 +251,7 @@ WinAos/obj/FTPClient.Obw -text
 WinAos/obj/FTPFS.Obw -text
 WinAos/obj/Fido.Obw -text
 WinAos/obj/FileHandlers.Obw -text
+WinAos/obj/FileTrapWriter.Obw -text
 WinAos/obj/Files.Obw -text
 WinAos/obj/FoxA2Interface.Obw -text
 WinAos/obj/FoxAMD64Assembler.Obw -text
@@ -1160,6 +1161,7 @@ WinAos/obj/TextUtilities.Obw -text
 WinAos/obj/Texts.Obw -text
 WinAos/obj/Threads.Obw -text
 WinAos/obj/Trace.Obw -text
+WinAos/obj/TrapWriters.Obw -text
 WinAos/obj/Traps.Obw -text
 WinAos/obj/TuringCoatWnd.Obw -text
 WinAos/obj/Types.Obw -text
