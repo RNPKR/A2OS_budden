@@ -1159,7 +1159,6 @@ WinAos/obj/TextCompiler.Obw -text
 WinAos/obj/TextConverter.Obw -text
 WinAos/obj/TextUtilities.Obw -text
 WinAos/obj/Texts.Obw -text
-WinAos/obj/Threads.Obw -text
 WinAos/obj/Trace.Obw -text
 WinAos/obj/TrapWriters.Obw -text
 WinAos/obj/Traps.Obw -text
