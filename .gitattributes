@@ -102,6 +102,7 @@ WinAos/obj/BenchSyntaxHighlighter.Obw -text
 WinAos/obj/BenchTCP.Obw -text
 WinAos/obj/BenchXML.Obw -text
 WinAos/obj/BimboMail.Obw -text
+WinAos/obj/BimboScanner.Obw -text
 WinAos/obj/Bimso.Obw -text
 WinAos/obj/Bin2Hex.Obw -text
 WinAos/obj/BinToCode.Obw -text
@@ -1136,9 +1137,19 @@ WinAos/obj/SystemTools.Obw -text
 WinAos/obj/TCP.Obw -text
 WinAos/obj/TCPServices.Obw -text
 WinAos/obj/TCPTools.Obw -text
+WinAos/obj/TFAOParser.Obw -text
+WinAos/obj/TFCheck.Obw -text
 WinAos/obj/TFClasses.Obw -text
+WinAos/obj/TFDocGenerator.Obw -text
+WinAos/obj/TFDumpTS.Obw -text
 WinAos/obj/TFLog.Obw -text
+WinAos/obj/TFModuleTrees.Obw -text
+WinAos/obj/TFPET.Obw -text
+WinAos/obj/TFScopeTools.Obw -text
+WinAos/obj/TFStringPool.Obw -text
+WinAos/obj/TFTypeSys.Obw -text
 WinAos/obj/TFWebForum.Obw -text
+WinAos/obj/TFXRef.Obw -text
 WinAos/obj/TLS.Obw -text
 WinAos/obj/TVDriver.Obw -text
 WinAos/obj/Tar.Obw -text
