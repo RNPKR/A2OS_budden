@@ -1887,6 +1887,7 @@ source/BenchXML.Mod -text
 source/Biblio.Text -text
 source/BidiMirroring.txt -text
 source/BimboMail.Mod -text svneol=unset#application/octet-stream
+source/BimboScanner.Mod -text
 source/Bimso.Mod -text svneol=unset#application/octet-stream
 source/Bin2Hex.Mod -text
 source/BinToCode.Mod -text svneol=unset#application/octet-stream
@@ -3265,14 +3266,25 @@ source/TCP.Mod -text svneol=unset#application/octet-stream
 source/TCPPortLog.Mod -text svneol=unset#application/octet-stream
 source/TCPServices.Mod -text svneol=unset#application/octet-stream
 source/TCPTools.Mod -text svneol=unset#application/octet-stream
+source/TFAOParser.Mod -text
+source/TFCheck.Mod -text
 source/TFClasses.Mod -text svneol=unset#application/octet-stream
+source/TFDocGenerator.Mod -text
+source/TFDumpTS.Mod -text
 source/TFLog.Mod -text svneol=unset#application/octet-stream
+source/TFModuleTrees.Mod -text
+source/TFPET.Mod -text
+source/TFPET.Tool -text
 source/TFSMTPServer.Mod -text svneol=unset#application/octet-stream
 source/TFSMTPServer.Text -text
+source/TFScopeTools.Mod -text
+source/TFStringPool.Mod -text
 source/TFTP.Mod -text svneol=unset#application/octet-stream
 source/TFTPFS.Mod -text svneol=unset#application/octet-stream
 source/TFTPServer.Mod -text svneol=unset#application/octet-stream
+source/TFTypeSys.Mod -text
 source/TFWebForum.Mod -text svneol=unset#application/octet-stream
+source/TFXRef.Mod -text
 source/TLS.Mod -text svneol=unset#application/octet-stream
 source/TV.Mod -text svneol=unset#application/octet-stream
 source/TV.Tool -text
@@ -3752,11 +3764,13 @@ source/bluebottleselfsigned.der -text
 source/cjkfont.bfnt -text
 source/cn.PrgInOberon.txt -text
 source/cnErrors.XML -text
+source/code.css -text
 source/config.txt -text
 source/errors.txt -text svneol=unset#application/octet-stream
 source/flags.avi -text
 source/gb2312.txt -text
 source/glass.skin -text
+source/highlight.js -text
 source/i810Sound.Mod -text svneol=unset#application/octet-stream
 source/icons.tar -text
 source/mars.png -text
