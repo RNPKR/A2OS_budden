@@ -3192,7 +3192,7 @@ source/StartConsole.Mod -text
 source/StartMenu.Mod -text svneol=unset#application/octet-stream
 source/StartMenu.rep -text
 source/StaticLinker.Mod -text
-source/StreamMonitors.Mod -text
+source/StreamUtilities.Mod -text
 source/Streams.Mod -text svneol=unset#application/octet-stream
 source/StringPool.Mod -text svneol=unset#application/octet-stream
 source/Strings.Mod -text svneol=unset#application/octet-stream
