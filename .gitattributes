@@ -3101,6 +3101,7 @@ source/ReleaseVisualizerScanner.Mod -text svneol=unset#application/octet-stream
 source/Rembrandt.Lib -text
 source/Rembrandt.Panel -text
 source/Rename.TFMailConfig.XML -text
+source/ReplaySystem.Mod -text
 source/Repositories.Mod -text svneol=unset#application/octet-stream
 source/RetoWMSlideshow.XML -text
 source/RfsClientProxy.Mod -text svneol=unset#application/octet-stream
