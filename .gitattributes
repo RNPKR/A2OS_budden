@@ -1134,6 +1134,7 @@ WinAos/obj/Strings.Obw -text
 WinAos/obj/SynergyClient.Obw -text
 WinAos/obj/SyntaxHighlighter.Obw -text
 WinAos/obj/SystemTools.Obw -text
+WinAos/obj/SystemVersion.Obw -text
 WinAos/obj/TCP.Obw -text
 WinAos/obj/TCPServices.Obw -text
 WinAos/obj/TCPTools.Obw -text
