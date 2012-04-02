@@ -3115,7 +3115,6 @@ source/SMTPClient.Mod -text svneol=unset#application/octet-stream
 source/SSFS.Mod -text svneol=unset#application/octet-stream
 source/SSH.Configuration.Text -text
 source/SSH.Mod -text svneol=unset#application/octet-stream
-source/SSH.Panel -text
 source/SSH.Tool -text
 source/SSHAuthorize.Mod -text svneol=unset#application/octet-stream
 source/SSHClient.Mod -text svneol=unset#application/octet-stream
