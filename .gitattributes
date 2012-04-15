@@ -2038,6 +2038,7 @@ source/CryptoMD5.Mod -text svneol=unset#application/octet-stream
 source/CryptoPrimes.Mod -text svneol=unset#application/octet-stream
 source/CryptoRSA.Mod -text svneol=unset#application/octet-stream
 source/CryptoSHA1.Mod -text svneol=unset#application/octet-stream
+source/CryptoSHA256.Mod -text
 source/CryptoTestBigNumbers.Mod -text svneol=unset#application/octet-stream
 source/CryptoTestCiphers.Mod -text svneol=unset#application/octet-stream
 source/CryptoTestDH.Mod -text svneol=unset#application/octet-stream
