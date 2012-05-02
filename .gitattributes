@@ -1994,6 +1994,7 @@ source/Colors.Panel -text
 source/Colors.Tool -text
 source/Colors.rep -text
 source/Columbus.Lib -text
+source/CommandTest.Mod -text
 source/Commands.Mod -text svneol=unset#application/octet-stream
 source/Compiler.Tool -text
 source/CompilerInterface.Mod -text svneol=unset#application/octet-stream
