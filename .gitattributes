@@ -2990,6 +2990,7 @@ source/OdVCSBase.Mod -text svneol=unset#application/octet-stream
 source/OdXml.Mod -text svneol=unset#application/octet-stream
 source/OldDiskFS.Mod -text svneol=unset#application/octet-stream
 source/OldDiskVolumes.Mod -text svneol=unset#application/octet-stream
+source/OpenALSound.Mod -text
 source/OpenType.Mod -text svneol=unset#application/octet-stream
 source/OpenTypeFonts.Mod -text svneol=unset#application/octet-stream
 source/OpenTypeInt.Mod -text svneol=unset#application/octet-stream
@@ -3392,6 +3393,7 @@ source/Unix.Oberon.TextGadgets0.Mod -text
 source/Unix.Oberon.TextSBControl.Mod -text
 source/Unix.Oberon.UnixPrinter.Mod -text
 source/Unix.Objects.Mod -text
+source/Unix.OpenAL.Mod -text
 source/Unix.ProcessInfo0.Mod -text
 source/Unix.Sockets.Mod -text
 source/Unix.StdIO.Mod -text
