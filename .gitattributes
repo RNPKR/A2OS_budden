@@ -160,6 +160,7 @@ WinAos/obj/CryptoMD5.Obw -text
 WinAos/obj/CryptoPrimes.Obw -text
 WinAos/obj/CryptoRSA.Obw -text
 WinAos/obj/CryptoSHA1.Obw -text
+WinAos/obj/CryptoSHA256.Obw -text
 WinAos/obj/CryptoTestBigNumbers.Obw -text
 WinAos/obj/CryptoTestCiphers.Obw -text
 WinAos/obj/CryptoTestDH.Obw -text
@@ -278,6 +279,7 @@ WinAos/obj/FoxIntermediateCode.Obw -text
 WinAos/obj/FoxIntermediateCodeAssembler.Obw -text
 WinAos/obj/FoxParser.Obw -text
 WinAos/obj/FoxPrintout.Obw -text
+WinAos/obj/FoxProfiler.Obw -text
 WinAos/obj/FoxProgTools.Obw -text
 WinAos/obj/FoxScanner.Obw -text
 WinAos/obj/FoxSections.Obw -text
@@ -1125,6 +1127,7 @@ WinAos/obj/SkinEditor.Obw -text
 WinAos/obj/SkinEngine.Obw -text
 WinAos/obj/SkinLanguage.Obw -text
 WinAos/obj/Snow.Obw -text
+WinAos/obj/SortDemo.Obw -text
 WinAos/obj/SoundDevices.Obw -text
 WinAos/obj/StartMenu.Obw -text
 WinAos/obj/StaticLinker.Obw -text
