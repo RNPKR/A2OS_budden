@@ -2211,6 +2211,7 @@ source/FoxFingerPrinter.Mod -text svneol=unset#application/octet-stream
 source/FoxFormats.Mod -text svneol=unset#application/octet-stream
 source/FoxGenericObjectFile.Mod -text
 source/FoxGlobal.Mod -text svneol=unset#application/octet-stream
+source/FoxHardware.Mod -text
 source/FoxInstructionSetAMD64TabSeperated.txt -text
 source/FoxInterfaceComparison.Mod -text svneol=unset#application/octet-stream
 source/FoxIntermediateBackend.Mod -text svneol=unset#application/octet-stream
