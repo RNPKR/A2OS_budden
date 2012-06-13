@@ -273,6 +273,7 @@ WinAos/obj/FoxFingerPrinter.Obw -text
 WinAos/obj/FoxFormats.Obw -text
 WinAos/obj/FoxGenericObjectFile.Obw -text
 WinAos/obj/FoxGlobal.Obw -text
+WinAos/obj/FoxHardware.Obw -text
 WinAos/obj/FoxInterfaceComparison.Obw -text
 WinAos/obj/FoxIntermediateBackend.Obw -text
 WinAos/obj/FoxIntermediateCode.Obw -text
@@ -1201,6 +1202,7 @@ WinAos/obj/VecCplx.Obw -text
 WinAos/obj/VecInt.Obw -text
 WinAos/obj/VecRat.Obw -text
 WinAos/obj/VecRe.Obw -text
+WinAos/obj/Versioning.Obw -text
 WinAos/obj/VfW.Obw -text
 WinAos/obj/VideoExample.Obw -text
 WinAos/obj/VirtualDisks.Obw -text
