@@ -2200,7 +2200,6 @@ source/FoxAMD64Assembler.Mod -text svneol=unset#application/octet-stream
 source/FoxAMD64InstructionSet.Mod -text svneol=unset#application/octet-stream
 source/FoxAMDBackend.Mod -text
 source/FoxActiveCells.Mod -text svneol=unset#application/octet-stream
-source/FoxActiveCellsBackend.Mod -text
 source/FoxArrayBase.Mod -text svneol=unset#application/octet-stream
 source/FoxBackend.Mod -text svneol=unset#application/octet-stream
 source/FoxBasic.Mod -text svneol=unset#application/octet-stream
@@ -2218,9 +2217,7 @@ source/FoxInstructionSetAMD64TabSeperated.txt -text
 source/FoxInterfaceComparison.Mod -text svneol=unset#application/octet-stream
 source/FoxIntermediateBackend.Mod -text svneol=unset#application/octet-stream
 source/FoxIntermediateCode.Mod -text svneol=unset#application/octet-stream
-source/FoxIntermediateCodeAssembler.Mod -text
 source/FoxIntermediateParser.Mod -text
-source/FoxIntermediateScanner.Mod -text
 source/FoxParser.Mod -text
 source/FoxPrintout.Mod -text
 source/FoxProfiler.Mod -text
