@@ -1932,7 +1932,7 @@ source/BootManagerTail.Bin -text
 source/BootShell.Mod -text
 source/Bows.Pict -text
 source/Bricks.Pict -text
-source/Build.Tool -text
+source/Build.Tool -text svneol=unset#application/octet-stream
 source/Build.VMWare.Tool -text
 source/Builder.Tool -text
 source/CATServer.Mod -text svneol=unset#application/octet-stream
