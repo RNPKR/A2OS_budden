@@ -3443,6 +3443,7 @@ source/UsbStorageBot.Mod -text svneol=unset#application/octet-stream
 source/UsbStorageCbi.Mod -text svneol=unset#application/octet-stream
 source/UsbStorageScm.Mod -text svneol=unset#application/octet-stream
 source/UsbTools.Mod -text svneol=unset#application/octet-stream
+source/UsbTouchscreen.Mod -text
 source/UsbUhci.Mod -text svneol=unset#application/octet-stream
 source/UsbUtilities.Mod -text svneol=unset#application/octet-stream
 source/Usbdi.Mod -text svneol=unset#application/octet-stream
