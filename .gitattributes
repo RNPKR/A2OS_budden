@@ -3418,6 +3418,7 @@ source/UsbBluetooth.Mod -text svneol=unset#application/octet-stream
 source/UsbDebug.Mod -text svneol=unset#application/octet-stream
 source/UsbDriverLoader.Mod -text svneol=unset#application/octet-stream
 source/UsbEhci.Mod -text svneol=unset#application/octet-stream
+source/UsbFTDI.Mod -text
 source/UsbGarminGPS18.Mod -text svneol=unset#application/octet-stream
 source/UsbHcdi.Mod -text svneol=unset#application/octet-stream
 source/UsbHid.Mod -text svneol=unset#application/octet-stream
