@@ -3377,6 +3377,9 @@ source/UnihanParser.Mod -text svneol=unset#application/octet-stream
 source/Unix.Beep.Mod -text svneol=unset#application/octet-stream
 source/Unix.BootConsole.Mod -text svneol=unset#application/octet-stream
 source/Unix.BootLinker.Mod -text svneol=unset#application/octet-stream
+source/Unix.BootLinkerHeaps.Mod -text
+source/Unix.BootLinkerLoader.Mod -text
+source/Unix.BootLinkerModules.Mod -text
 source/Unix.Clock.Mod -text svneol=unset#application/octet-stream
 source/Unix.DNS.Mod -text svneol=unset#application/octet-stream
 source/Unix.DisplayRefresher.Mod -text svneol=unset#application/octet-stream
