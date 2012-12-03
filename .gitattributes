@@ -2030,7 +2030,6 @@ source/CryptoBlowfish.Mod -text svneol=unset#application/octet-stream
 source/CryptoCAST.Data -text
 source/CryptoCAST.Mod -text svneol=unset#application/octet-stream
 source/CryptoCiphers.Mod -text svneol=unset#application/octet-stream
-source/CryptoDES.Data -text
 source/CryptoDES.Mod -text svneol=unset#application/octet-stream
 source/CryptoDES3.Mod -text svneol=unset#application/octet-stream
 source/CryptoDSA.Mod -text svneol=unset#application/octet-stream
