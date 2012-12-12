@@ -3162,6 +3162,7 @@ source/Scheme.Init -text
 source/Script.Tool -text
 source/ScriptGuide.Text -text
 source/SearchTools.Mod -text svneol=unset#application/octet-stream
+source/SerialNetwork.Mod -text
 source/Serials.Mod -text svneol=unset#application/octet-stream
 source/SerialsVirtual.Mod -text svneol=unset#application/octet-stream
 source/Setup.Text -text
