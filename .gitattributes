@@ -3407,6 +3407,7 @@ source/Unix.TCP.Mod -text svneol=unset#application/octet-stream
 source/Unix.Traps.Mod -text svneol=unset#application/octet-stream
 source/Unix.UDP.Mod -text svneol=unset#application/octet-stream
 source/Unix.UnixFiles.Mod -text svneol=unset#application/octet-stream
+source/Unix.V24.Mod -text
 source/Unix.WMPerfMonPluginCpu.Mod -text svneol=unset#application/octet-stream
 source/Unix.WMPerfMonPluginMemory.Mod -text svneol=unset#application/octet-stream
 source/Unix.X11.Mod -text svneol=unset#application/octet-stream
