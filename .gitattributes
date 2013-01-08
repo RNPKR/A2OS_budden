@@ -2115,6 +2115,7 @@ source/Distance.Shape -text
 source/DivXTypes.Mod -text svneol=unset#application/octet-stream
 source/Documentation.Tool -text
 source/Documents.Panel -text
+source/Drand48.Mod -text
 source/DriverDatabase.Mod -text svneol=unset#application/octet-stream
 source/DriverDatabase.XML -text
 source/DynamicStrings.Mod -text svneol=unset#application/octet-stream
