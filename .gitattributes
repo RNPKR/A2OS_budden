@@ -3768,6 +3768,10 @@ source/XMLParser.Mod -text svneol=unset#application/octet-stream
 source/XMLScanner.Mod -text svneol=unset#application/octet-stream
 source/XMLStyle.Mod -text svneol=unset#application/octet-stream
 source/XMLTransformer.Mod -text svneol=unset#application/octet-stream
+source/XMM.AMD64.Math.Mod -text
+source/XMM.AMD64.MathL.Mod -text
+source/XMM.I386.Math.Mod -text
+source/XMM.i386.MathL.Mod -text
 source/XMas.poly -text
 source/XModem.Mod -text svneol=unset#application/octet-stream
 source/XYModem.Mod -text svneol=unset#application/octet-stream
