@@ -2742,7 +2742,7 @@ source/Oberon.Menu.Mod -text
 source/Oberon.MenuViewers.Mod -text
 source/Oberon.MineSweeper.Mod -text
 source/Oberon.Miscellaneous.Mod -text
-source/Oberon.Mod -text
+source/Oberon.Mod -text svneol=unset#application/octet-stream
 source/Oberon.Modules.Mod -text
 source/Oberon.MultiMail.Mod -text
 source/Oberon.NamePlates.Mod -text
