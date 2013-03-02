@@ -3714,6 +3714,7 @@ source/Win32.Oberon.ImageGadgets.Mod -text svneol=unset#text/plain
 source/Win32.Oberon.Input.Mod -text svneol=unset#text/plain
 source/Win32.Oberon.Kernel.Mod -text svneol=unset#text/plain
 source/Win32.Oberon.Miscellaneous.Mod -text svneol=unset#text/plain
+source/Win32.Oberon.Mod -text
 source/Win32.Oberon.NetSystem.Mod -text svneol=unset#text/plain
 source/Win32.Oberon.Oberon.Mod -text svneol=unset#text/plain
 source/Win32.Oberon.PSPrinter.Mod -text svneol=unset#text/plain
