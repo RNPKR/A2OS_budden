@@ -12,6 +12,9 @@ UnixAos/boot/Threads.h -text
 UnixAos/boot/Threads.linux.c -text
 UnixAos/boot/Threads.solaris.c -text
 UnixAos/boot/aos.c -text
+UnixAos/boot/aos.darwin -text
+UnixAos/boot/aos.linux -text
+UnixAos/boot/aos.solaris -text
 UnixAos/buildtools/UnixAosBuild.Tool -text
 UnixAos/buildtools/x86.Darwin.Tool -text
 UnixAos/buildtools/x86.Linux.Tool -text
