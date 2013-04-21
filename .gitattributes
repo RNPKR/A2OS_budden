@@ -213,6 +213,7 @@ WinAos/obj/Displays.Obw -text
 WinAos/obj/DivXDecoder.Obw -text
 WinAos/obj/DivXHelper.Obw -text
 WinAos/obj/DivXTypes.Obw -text
+WinAos/obj/Drand48.Obw -text
 WinAos/obj/DynamicStrings.Obw -text
 WinAos/obj/DynamicWebpage.Obw -text
 WinAos/obj/DynamicWebpagePlugin.Obw -text
