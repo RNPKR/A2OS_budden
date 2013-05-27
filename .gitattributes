@@ -2030,9 +2030,7 @@ source/CryptoAES.Mod -text svneol=unset#application/octet-stream
 source/CryptoARC4.Mod -text svneol=unset#application/octet-stream
 source/CryptoBase64.Mod -text svneol=unset#application/octet-stream
 source/CryptoBigNumbers.Mod -text svneol=unset#application/octet-stream
-source/CryptoBlowfish.Data -text
 source/CryptoBlowfish.Mod -text svneol=unset#application/octet-stream
-source/CryptoCAST.Data -text
 source/CryptoCAST.Mod -text svneol=unset#application/octet-stream
 source/CryptoCiphers.Mod -text svneol=unset#application/octet-stream
 source/CryptoDES.Mod -text svneol=unset#application/octet-stream
@@ -2054,7 +2052,6 @@ source/CryptoTestDSA.Mod -text svneol=unset#application/octet-stream
 source/CryptoTestHMAC.Mod -text svneol=unset#application/octet-stream
 source/CryptoTestHashes.Mod -text svneol=unset#application/octet-stream
 source/CryptoTestRSA.Mod -text svneol=unset#application/octet-stream
-source/CryptoTwofish.Data -text
 source/CryptoTwofish.Mod -text svneol=unset#application/octet-stream
 source/CryptoUtils.Mod -text svneol=unset#application/octet-stream
 source/Cube.poly -text
