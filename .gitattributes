@@ -3073,6 +3073,7 @@ source/PowerManagementEvents.Mod -text
 source/PresentViewer.Mod -text svneol=unset#application/octet-stream
 source/Presentation.Mod -text svneol=unset#application/octet-stream
 source/PrettyPrint.Mod -text
+source/PrettyPrintHighlighter.XML -text
 source/PrevalenceSystem.Mod -text svneol=unset#application/octet-stream
 source/Printers.Tool -text
 source/ProcessInfo.Mod -text
