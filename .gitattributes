@@ -3094,6 +3094,7 @@ source/Radicals.txt -text
 source/Rainbow.jp2 -text
 source/Random.Mod -text svneol=unset#application/octet-stream
 source/RasterPixelFormats.Mod -text svneol=unset#application/octet-stream
+source/Reboot.Mod -text
 source/Rect2.Shape -text
 source/References.Text -text
 source/Reflection.Mod -text svneol=unset#application/octet-stream
