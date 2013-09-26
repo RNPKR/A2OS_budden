@@ -2040,11 +2040,14 @@ source/CryptoDiffieHellman.Mod -text svneol=unset#application/octet-stream
 source/CryptoHMAC.Mod -text svneol=unset#application/octet-stream
 source/CryptoHashes.Mod -text svneol=unset#application/octet-stream
 source/CryptoIDEA.Mod -text svneol=unset#application/octet-stream
+source/CryptoKeccakF1600.Mod -text
+source/CryptoKeccakSponge.Mod -text
 source/CryptoMD5.Mod -text svneol=unset#application/octet-stream
 source/CryptoPrimes.Mod -text svneol=unset#application/octet-stream
 source/CryptoRSA.Mod -text svneol=unset#application/octet-stream
 source/CryptoSHA1.Mod -text svneol=unset#application/octet-stream
 source/CryptoSHA256.Mod -text
+source/CryptoSHA3.Mod -text
 source/CryptoTestBigNumbers.Mod -text svneol=unset#application/octet-stream
 source/CryptoTestCiphers.Mod -text svneol=unset#application/octet-stream
 source/CryptoTestDH.Mod -text svneol=unset#application/octet-stream
