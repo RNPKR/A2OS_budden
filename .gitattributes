@@ -159,11 +159,14 @@ WinAos/obj/CryptoDiffieHellman.Obw -text
 WinAos/obj/CryptoHMAC.Obw -text
 WinAos/obj/CryptoHashes.Obw -text
 WinAos/obj/CryptoIDEA.Obw -text
+WinAos/obj/CryptoKeccakF1600.Obw -text
+WinAos/obj/CryptoKeccakSponge.Obw -text
 WinAos/obj/CryptoMD5.Obw -text
 WinAos/obj/CryptoPrimes.Obw -text
 WinAos/obj/CryptoRSA.Obw -text
 WinAos/obj/CryptoSHA1.Obw -text
 WinAos/obj/CryptoSHA256.Obw -text
+WinAos/obj/CryptoSHA3.Obw -text
 WinAos/obj/CryptoTestBigNumbers.Obw -text
 WinAos/obj/CryptoTestCiphers.Obw -text
 WinAos/obj/CryptoTestDH.Obw -text
@@ -1072,6 +1075,7 @@ WinAos/obj/Plugins.Obw -text
 WinAos/obj/PositionDebugging.Obw -text
 WinAos/obj/PresentViewer.Obw -text
 WinAos/obj/Presentation.Obw -text
+WinAos/obj/PrettyPrint.Obw -text
 WinAos/obj/PrevalenceSystem.Obw -text
 WinAos/obj/ProcessInfo.Obw -text
 WinAos/obj/ProcessInfo0.Obw -text
@@ -1084,6 +1088,7 @@ WinAos/obj/Random.Obw -text
 WinAos/obj/Raster.Obw -text
 WinAos/obj/RasterPixelFormats.Obw -text
 WinAos/obj/Reals.Obw -text
+WinAos/obj/Reboot.Obw -text
 WinAos/obj/Reflection.Obw -text
 WinAos/obj/RegisterRFW.Obw -text
 WinAos/obj/RelativeFileSystem.Obw -text
