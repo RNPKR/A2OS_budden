@@ -277,12 +277,14 @@ WinAos/obj/FoxBinarySymbolFile.Obw -text
 WinAos/obj/FoxCodeGenerators.Obw -text
 WinAos/obj/FoxFingerPrinter.Obw -text
 WinAos/obj/FoxFormats.Obw -text
+WinAos/obj/FoxFrontend.Obw -text
 WinAos/obj/FoxGenericObjectFile.Obw -text
 WinAos/obj/FoxGlobal.Obw -text
 WinAos/obj/FoxHardware.Obw -text
 WinAos/obj/FoxInterfaceComparison.Obw -text
 WinAos/obj/FoxIntermediateBackend.Obw -text
 WinAos/obj/FoxIntermediateCode.Obw -text
+WinAos/obj/FoxOberonFrontend.Obw -text
 WinAos/obj/FoxParser.Obw -text
 WinAos/obj/FoxPrintout.Obw -text
 WinAos/obj/FoxProfiler.Obw -text
