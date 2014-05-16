@@ -1823,206 +1823,206 @@ WinAos/vy.ants/source/Oberon.vyXPValues.Mod -text
 WinAos/vy.ants/source/Oberon.vyXYPlane.Mod -text
 WinAos/vy.ants/source/Oberon.vydbg.RandomTest.Mod -text
 WinAos/vy.ants/source/Oberon.vyxPlots.Mod -text
-source/A2Sequencers.Mod -text svneol=unset#application/octet-stream
-source/AFM.Mod -text svneol=unset#application/octet-stream
-source/AM79C970.Mod -text svneol=unset#application/octet-stream
-source/AMD64.ATADisks.Mod -text svneol=unset#application/octet-stream
-source/AMD64.BenchInterrupts.Mod -text svneol=unset#application/octet-stream
-source/AMD64.CPUID.Mod -text svneol=unset#application/octet-stream
+source/A2Sequencers.Mod -text
+source/AFM.Mod -text
+source/AM79C970.Mod -text
+source/AMD64.ATADisks.Mod -text
+source/AMD64.BenchInterrupts.Mod -text
+source/AMD64.CPUID.Mod -text
 source/AMD64.EFIMachine.Mod -text
-source/AMD64.IP.Mod -text svneol=unset#application/octet-stream
-source/AMD64.IPv4.Mod -text svneol=unset#application/octet-stream
-source/AMD64.Keyboard.Mod -text svneol=unset#application/octet-stream
-source/AMD64.Machine.Mod -text svneol=unset#application/octet-stream
-source/AMD64.Math.Mod -text svneol=unset#application/octet-stream
-source/AMD64.MathL.Mod -text svneol=unset#application/octet-stream
-source/AMD64.MemCache.Mod -text svneol=unset#application/octet-stream
-source/AMD64.MemInfo.Mod -text svneol=unset#application/octet-stream
-source/AMD64.Network.Mod -text svneol=unset#application/octet-stream
-source/AMD64.PCI.Mod -text svneol=unset#application/octet-stream
-source/AMD64.Raster.Mod -text svneol=unset#application/octet-stream
-source/AMD64.Reals.Mod -text svneol=unset#application/octet-stream
+source/AMD64.IP.Mod -text
+source/AMD64.IPv4.Mod -text
+source/AMD64.Keyboard.Mod -text
+source/AMD64.Machine.Mod -text
+source/AMD64.Math.Mod -text
+source/AMD64.MathL.Mod -text
+source/AMD64.MemCache.Mod -text
+source/AMD64.MemInfo.Mod -text
+source/AMD64.Network.Mod -text
+source/AMD64.PCI.Mod -text
+source/AMD64.Raster.Mod -text
+source/AMD64.Reals.Mod -text
 source/AMD64.Runtime.Mod -text
-source/AMD64.Traps.Mod -text svneol=unset#application/octet-stream
-source/AMD64.UsbKeyboard.Mod -text svneol=unset#application/octet-stream
-source/AMD64.WMRasterScale.Mod -text svneol=unset#application/octet-stream
-source/AMD64.WMTransitions.Mod -text svneol=unset#application/octet-stream
-source/AMD64Decoder.Mod -text svneol=unset#application/octet-stream
-source/ARMDecoder.Mod -text svneol=unset#application/octet-stream
-source/ASCIITab.Tool -text
-source/ASMAMD64.Mod -text svneol=unset#application/octet-stream
-source/AVI.Mod -text svneol=unset#application/octet-stream
-source/ActiveTimers.Mod -text svneol=unset#application/octet-stream
-source/Adaptec7.Mod -text svneol=unset#application/octet-stream
+source/AMD64.Traps.Mod -text
+source/AMD64.UsbKeyboard.Mod -text
+source/AMD64.WMRasterScale.Mod -text
+source/AMD64.WMTransitions.Mod -text
+source/AMD64Decoder.Mod -text
+source/ARMDecoder.Mod -text
+source/ASCIITab.Tool -text svneol=unset#unset
+source/ASMAMD64.Mod -text
+source/AVI.Mod -text
+source/ActiveTimers.Mod -text
+source/Adaptec7.Mod -text
 source/AlmSmtpReceiver.Atg -text
-source/AlmSmtpReceiver.Guide.Text -text
-source/AlmSmtpReceiver.Mod -text svneol=unset#application/octet-stream
-source/AlmSmtpReceiver.Tool -text
-source/AnimationCodec.Mod -text svneol=unset#application/octet-stream
+source/AlmSmtpReceiver.Guide.Text -text svneol=unset#unset
+source/AlmSmtpReceiver.Mod -text
+source/AlmSmtpReceiver.Tool -text svneol=unset#unset
+source/AnimationCodec.Mod -text
 source/Aos.Par -text
 source/AosDefault.Pal -text
-source/AosInst.Tool -text
-source/AosTools.Tool -text
-source/AppendA.Text -text
-source/AppendB.Text -text
-source/AppendC.Text -text
-source/Applications.Tool -text
+source/AosInst.Tool -text svneol=unset#unset
+source/AosTools.Tool -text svneol=unset#unset
+source/AppendA.Text -text svneol=unset#unset
+source/AppendB.Text -text svneol=unset#unset
+source/AppendC.Text -text svneol=unset#unset
+source/Applications.Tool -text svneol=unset#unset
 source/ArabicContext.xml -text
-source/Archives.Mod -text svneol=unset#application/octet-stream
-source/Array1dCplx.Mod -text svneol=unset#application/octet-stream
-source/Array1dInt.Mod -text svneol=unset#application/octet-stream
-source/Array1dRat.Mod -text svneol=unset#application/octet-stream
-source/Array1dRe.Mod -text svneol=unset#application/octet-stream
-source/Array2dCplx.Mod -text svneol=unset#application/octet-stream
-source/Array2dInt.Mod -text svneol=unset#application/octet-stream
-source/Array2dRat.Mod -text svneol=unset#application/octet-stream
-source/Array2dRe.Mod -text svneol=unset#application/octet-stream
-source/ArrayBase.Mod -text svneol=unset#application/octet-stream
-source/ArrayXdCplx.Mod -text svneol=unset#application/octet-stream
-source/ArrayXdInt.Mod -text svneol=unset#application/octet-stream
-source/ArrayXdRat.Mod -text svneol=unset#application/octet-stream
-source/ArrayXdRe.Mod -text svneol=unset#application/octet-stream
-source/AsciiCoder.Tool -text
-source/Attributes.Mod -text
+source/Archives.Mod -text
+source/Array1dCplx.Mod -text
+source/Array1dInt.Mod -text
+source/Array1dRat.Mod -text
+source/Array1dRe.Mod -text
+source/Array2dCplx.Mod -text
+source/Array2dInt.Mod -text
+source/Array2dRat.Mod -text
+source/Array2dRe.Mod -text
+source/ArrayBase.Mod -text
+source/ArrayXdCplx.Mod -text
+source/ArrayXdInt.Mod -text
+source/ArrayXdRat.Mod -text
+source/ArrayXdRe.Mod -text
+source/AsciiCoder.Tool -text svneol=unset#unset
+source/Attributes.Mod -text svneol=unset#unset
 source/Authorization.html -text
 source/Auto.dsk -text
-source/Autostart.Mod -text svneol=unset#application/octet-stream
-source/BIT.Mod -text svneol=unset#application/octet-stream
-source/BMPCodec.Mod -text svneol=unset#application/octet-stream
-source/BSplineCurves.Mod -text
-source/BSplineCurvesTest.Mod -text
-source/BT848.Mod -text svneol=unset#application/octet-stream
+source/Autostart.Mod -text
+source/BIT.Mod -text
+source/BMPCodec.Mod -text
+source/BSplineCurves.Mod -text svneol=unset#unset
+source/BSplineCurvesTest.Mod -text svneol=unset#unset
+source/BT848.Mod -text
 source/Backdrop.Pict -text
 source/BackdropList.XML -text
 source/Backdrops.Book -text
 source/Backdrops.Panel -text
-source/Backup.Tool -text
+source/Backup.Tool -text svneol=unset#unset
 source/Bart.Pict -text
-source/Base64.Mod -text svneol=unset#application/octet-stream
+source/Base64.Mod -text
 source/Bbl.Asm -text
-source/Beep.Mod -text svneol=unset#application/octet-stream
-source/BeepTest.Mod -text svneol=unset#application/octet-stream
-source/BenchClockDrift.Mod -text svneol=unset#application/octet-stream
-source/BenchLocks.Mod -text svneol=unset#application/octet-stream
-source/BenchNew.Mod -text svneol=unset#application/octet-stream
-source/BenchObjCount.Mod -text svneol=unset#application/octet-stream
-source/BenchPingPong.Mod -text svneol=unset#application/octet-stream
-source/BenchSpeedup.Mod -text svneol=unset#application/octet-stream
+source/Beep.Mod -text
+source/BeepTest.Mod -text
+source/BenchClockDrift.Mod -text
+source/BenchLocks.Mod -text
+source/BenchNew.Mod -text
+source/BenchObjCount.Mod -text
+source/BenchPingPong.Mod -text
+source/BenchSpeedup.Mod -text
 source/BenchSyntaxHighlighter.Mod -text
-source/BenchTCP.Mod -text svneol=unset#application/octet-stream
-source/BenchXML.Mod -text
-source/Biblio.Text -text
+source/BenchTCP.Mod -text
+source/BenchXML.Mod -text svneol=unset#unset
+source/Biblio.Text -text svneol=unset#unset
 source/BidiMirroring.txt -text
-source/BimboMail.Mod -text svneol=unset#application/octet-stream
+source/BimboMail.Mod -text
 source/BimboScanner.Mod -text
-source/Bimso.Mod -text svneol=unset#application/octet-stream
+source/Bimso.Mod -text
 source/Bin2Hex.Mod -text
-source/BinToCode.Mod -text svneol=unset#application/octet-stream
+source/BinToCode.Mod -text
 source/BiosFreePCI.Mod -text
 source/BitSets.Mod -text
 source/Black.Pal -text
 source/BluePlastic.skin -text
 source/BluebottlePic0.png -text
-source/Bluetooth.Mod -text svneol=unset#application/octet-stream
-source/BluetoothHCI.Mod -text svneol=unset#application/octet-stream
-source/BluetoothL2CAP.Mod -text svneol=unset#application/octet-stream
-source/BluetoothRFCOMM.Mod -text svneol=unset#application/octet-stream
-source/BluetoothTest.Mod -text svneol=unset#application/octet-stream
-source/BluetoothUART.Mod -text svneol=unset#application/octet-stream
-source/BluetoothUSB.Mod -text svneol=unset#application/octet-stream
-source/Book.Tool -text
+source/Bluetooth.Mod -text
+source/BluetoothHCI.Mod -text
+source/BluetoothL2CAP.Mod -text
+source/BluetoothRFCOMM.Mod -text
+source/BluetoothTest.Mod -text
+source/BluetoothUART.Mod -text
+source/BluetoothUSB.Mod -text
+source/Book.Tool -text svneol=unset#unset
 source/BooksDev.Panel -text
 source/BooksUser.Panel -text
-source/BootConsole.Mod -text svneol=unset#application/octet-stream
+source/BootConsole.Mod -text
 source/BootManager.Asm -text
 source/BootManager.Bin -text
-source/BootManager.Mod -text svneol=unset#application/octet-stream
+source/BootManager.Mod -text
 source/BootManager.Text -text svneol=unset#unset
-source/BootManager.Tool -text
+source/BootManager.Tool -text svneol=unset#unset
 source/BootManagerMBR.Bin -text
 source/BootManagerTail.Bin -text
 source/BootShell.Mod -text
 source/Bows.Pict -text
 source/Bricks.Pict -text
-source/Build.Tool -text svneol=unset#application/octet-stream
+source/Build.Tool -text
 source/Build.VMWare.Tool -text
-source/Builder.Tool -text
-source/CATServer.Mod -text svneol=unset#application/octet-stream
-source/CDRecord.Mod -text svneol=unset#application/octet-stream
-source/CDRecordLib.Mod -text svneol=unset#application/octet-stream
-source/CDRecordUtils.Mod -text svneol=unset#application/octet-stream
-source/CLUTs.Mod -text svneol=unset#application/octet-stream
+source/Builder.Tool -text svneol=unset#unset
+source/CATServer.Mod -text
+source/CDRecord.Mod -text
+source/CDRecordLib.Mod -text
+source/CDRecordUtils.Mod -text
+source/CLUTs.Mod -text
 source/CR.ATG -text
-source/CRC.Mod -text svneol=unset#application/octet-stream
-source/CSS2.Mod -text svneol=unset#application/octet-stream
-source/CSS2Parser.Mod -text svneol=unset#application/octet-stream
-source/CSS2Properties.Mod -text svneol=unset#application/octet-stream
-source/CSS2Scanner.Mod -text svneol=unset#application/octet-stream
-source/CSV.Mod -text svneol=unset#application/octet-stream
+source/CRC.Mod -text
+source/CSS2.Mod -text
+source/CSS2Parser.Mod -text
+source/CSS2Properties.Mod -text
+source/CSS2Scanner.Mod -text
+source/CSV.Mod -text
 source/CSV.Test -text
 source/CUSeeMe.Panel -text
-source/Caches.Mod -text svneol=unset#application/octet-stream
-source/Calc.Tool -text
-source/CalcConvolution.Mod -text svneol=unset#application/octet-stream
-source/CalcD1.Mod -text svneol=unset#application/octet-stream
-source/CalcD2.Mod -text svneol=unset#application/octet-stream
-source/CalcD3.Mod -text svneol=unset#application/octet-stream
-source/CalcD4.Mod -text svneol=unset#application/octet-stream
-source/CalcDiethelm.Mod -text svneol=unset#application/octet-stream
-source/CalcFn.Mod -text svneol=unset#application/octet-stream
-source/CalcGauss.Mod -text svneol=unset#application/octet-stream
-source/CalcGrunwald.Mod -text svneol=unset#application/octet-stream
+source/Caches.Mod -text
+source/Calc.Tool -text svneol=unset#unset
+source/CalcConvolution.Mod -text
+source/CalcD1.Mod -text
+source/CalcD2.Mod -text
+source/CalcD3.Mod -text
+source/CalcD4.Mod -text
+source/CalcDiethelm.Mod -text
+source/CalcFn.Mod -text
+source/CalcGauss.Mod -text
+source/CalcGrunwald.Mod -text
 source/Calculator.LayLa -text
 source/Calculator.Panel -text
 source/Capo.Ascii.Text -text
-source/Capo.Text -text
-source/Capo.Tool -text
+source/Capo.Text -text svneol=unset#unset
+source/Capo.Tool -text svneol=unset#unset
 source/CapoTest1.2.zip -text
 source/CardGames.Book -text
 source/CardGames.Panel -text
 source/Cards.Pict -text
 source/Cells.Pict -text
-source/Chapter0.Text -text
-source/Chapter1.Text -text
-source/Chapter2.Text -text
-source/Chapter3.Text -text
-source/Chapter4.Text -text
-source/Chapter5.Text -text
-source/Chapter6.Text -text
-source/Chapter7.Text -text
-source/CharacterLineup.Mod -text svneol=unset#application/octet-stream
+source/Chapter0.Text -text svneol=unset#unset
+source/Chapter1.Text -text svneol=unset#unset
+source/Chapter2.Text -text svneol=unset#unset
+source/Chapter3.Text -text svneol=unset#unset
+source/Chapter4.Text -text svneol=unset#unset
+source/Chapter5.Text -text svneol=unset#unset
+source/Chapter6.Text -text svneol=unset#unset
+source/Chapter7.Text -text svneol=unset#unset
+source/CharacterLineup.Mod -text
 source/City.poly -text
 source/Clip.Vinci -text
-source/Clipboard.Tool -text
-source/Clock.Mod -text svneol=unset#application/octet-stream
+source/Clipboard.Tool -text svneol=unset#unset
+source/Clock.Mod -text
 source/Clouds.Pict -text
 source/Clouds.jp2 -text
 source/Clown.Pict -text
 source/Cluster.XML -text
 source/Coco.Report.ps -text
-source/Coco.Tool -text
-source/Codecs.Mod -text svneol=unset#application/octet-stream
+source/Coco.Tool -text svneol=unset#unset
+source/Codecs.Mod -text
 source/Coins.Pict -text
-source/ColorModels.Mod -text svneol=unset#application/octet-stream
+source/ColorModels.Mod -text
 source/ColorSystem.Panel -text
 source/Colors.Panel -text
-source/Colors.Tool -text
+source/Colors.Tool -text svneol=unset#unset
 source/Colors.rep -text
 source/Columbus.Lib -text
 source/CommandTest.Mod -text
-source/Commands.Mod -text svneol=unset#application/octet-stream
-source/Compiler.Tool -text
-source/CompilerInterface.Mod -text svneol=unset#application/octet-stream
-source/ComponentInfo.Mod -text svneol=unset#application/octet-stream
+source/Commands.Mod -text
+source/Compiler.Tool -text svneol=unset#unset
+source/CompilerInterface.Mod -text
+source/ComponentInfo.Mod -text
 source/ComponentStyle.XML -text
-source/ComponentViewer.Mod -text svneol=unset#application/octet-stream
-source/Compress.Tool -text
-source/Configuration.Mod -text svneol=unset#application/octet-stream
-source/Configuration.Tool -text
+source/ComponentViewer.Mod -text
+source/Compress.Tool -text svneol=unset#unset
+source/Configuration.Mod -text
+source/Configuration.Tool -text svneol=unset#unset
 source/Configuration.XML -text
-source/ContextualDependency.Mod -text svneol=unset#application/octet-stream
+source/ContextualDependency.Mod -text
 source/CoordSys.Shape -text
-source/Copyright.Text -text
+source/Copyright.Text -text svneol=unset#unset
 source/Courier10.Pr3.Fnt -text
 source/Courier10.Pr6.Fnt -text
 source/Courier10.Scn.Fnt -text
@@ -2033,246 +2033,246 @@ source/Courier8.Pr3.Fnt -text
 source/Courier8.Pr6.Fnt -text
 source/Courier8.Scn.Fnt -text
 source/Crochet.Pict -text
-source/CryptoAES.Mod -text svneol=unset#application/octet-stream
-source/CryptoARC4.Mod -text svneol=unset#application/octet-stream
-source/CryptoBase64.Mod -text svneol=unset#application/octet-stream
-source/CryptoBigNumbers.Mod -text svneol=unset#application/octet-stream
-source/CryptoBlowfish.Mod -text svneol=unset#application/octet-stream
-source/CryptoCAST.Mod -text svneol=unset#application/octet-stream
-source/CryptoCiphers.Mod -text svneol=unset#application/octet-stream
-source/CryptoDES.Mod -text svneol=unset#application/octet-stream
-source/CryptoDES3.Mod -text svneol=unset#application/octet-stream
-source/CryptoDSA.Mod -text svneol=unset#application/octet-stream
-source/CryptoDiffieHellman.Mod -text svneol=unset#application/octet-stream
-source/CryptoHMAC.Mod -text svneol=unset#application/octet-stream
-source/CryptoHashes.Mod -text svneol=unset#application/octet-stream
-source/CryptoIDEA.Mod -text svneol=unset#application/octet-stream
+source/CryptoAES.Mod -text
+source/CryptoARC4.Mod -text
+source/CryptoBase64.Mod -text
+source/CryptoBigNumbers.Mod -text
+source/CryptoBlowfish.Mod -text
+source/CryptoCAST.Mod -text
+source/CryptoCiphers.Mod -text
+source/CryptoDES.Mod -text
+source/CryptoDES3.Mod -text
+source/CryptoDSA.Mod -text
+source/CryptoDiffieHellman.Mod -text
+source/CryptoHMAC.Mod -text
+source/CryptoHashes.Mod -text
+source/CryptoIDEA.Mod -text
 source/CryptoKeccakF1600.Mod -text
 source/CryptoKeccakSponge.Mod -text
-source/CryptoMD5.Mod -text svneol=unset#application/octet-stream
-source/CryptoPrimes.Mod -text svneol=unset#application/octet-stream
-source/CryptoRSA.Mod -text svneol=unset#application/octet-stream
-source/CryptoSHA1.Mod -text svneol=unset#application/octet-stream
+source/CryptoMD5.Mod -text
+source/CryptoPrimes.Mod -text
+source/CryptoRSA.Mod -text
+source/CryptoSHA1.Mod -text
 source/CryptoSHA256.Mod -text
 source/CryptoSHA3.Mod -text
-source/CryptoTestBigNumbers.Mod -text svneol=unset#application/octet-stream
-source/CryptoTestCiphers.Mod -text svneol=unset#application/octet-stream
-source/CryptoTestDH.Mod -text svneol=unset#application/octet-stream
-source/CryptoTestDSA.Mod -text svneol=unset#application/octet-stream
-source/CryptoTestHMAC.Mod -text svneol=unset#application/octet-stream
-source/CryptoTestHashes.Mod -text svneol=unset#application/octet-stream
-source/CryptoTestRSA.Mod -text svneol=unset#application/octet-stream
-source/CryptoTwofish.Mod -text svneol=unset#application/octet-stream
-source/CryptoUtils.Mod -text svneol=unset#application/octet-stream
+source/CryptoTestBigNumbers.Mod -text
+source/CryptoTestCiphers.Mod -text
+source/CryptoTestDH.Mod -text
+source/CryptoTestDSA.Mod -text
+source/CryptoTestHMAC.Mod -text
+source/CryptoTestHashes.Mod -text
+source/CryptoTestRSA.Mod -text
+source/CryptoTwofish.Mod -text
+source/CryptoUtils.Mod -text
 source/Cube.poly -text
-source/CubeCplx.Mod -text svneol=unset#application/octet-stream
-source/CubeInt.Mod -text svneol=unset#application/octet-stream
-source/CubeRat.Mod -text svneol=unset#application/octet-stream
-source/CubeRe.Mod -text svneol=unset#application/octet-stream
-source/CyberbitNetInstall.Mod -text svneol=unset#application/octet-stream
+source/CubeCplx.Mod -text
+source/CubeInt.Mod -text
+source/CubeRat.Mod -text
+source/CubeRe.Mod -text
+source/CyberbitNetInstall.Mod -text
 source/CyrillicUtilities.Mod -text
-source/DES.Mod -text svneol=unset#application/octet-stream
-source/DHCP.Mod -text svneol=unset#application/octet-stream
-source/DNS.Mod -text svneol=unset#application/octet-stream
-source/DOS.Tool -text
-source/DTPData.Mod -text svneol=unset#application/octet-stream
-source/DTPEditor.Mod -text svneol=unset#application/octet-stream
-source/DTPImage.Mod -text svneol=unset#application/octet-stream
-source/DTPRect.Mod -text svneol=unset#application/octet-stream
-source/DTPText.Mod -text svneol=unset#application/octet-stream
-source/DTPUtilities.Mod -text svneol=unset#application/octet-stream
-source/DTPView.Mod -text svneol=unset#application/octet-stream
+source/DES.Mod -text
+source/DHCP.Mod -text
+source/DNS.Mod -text
+source/DOS.Tool -text svneol=unset#unset
+source/DTPData.Mod -text
+source/DTPEditor.Mod -text
+source/DTPImage.Mod -text
+source/DTPRect.Mod -text
+source/DTPText.Mod -text
+source/DTPUtilities.Mod -text
+source/DTPView.Mod -text
 source/DVI.Lib -text
 source/Dark.Pal -text
-source/Darwin.Unix.Mod -text svneol=unset#application/octet-stream
-source/Data.Mod -text svneol=unset#application/octet-stream
-source/DataErrors.Mod -text svneol=unset#application/octet-stream
-source/DataIO.Mod -text svneol=unset#application/octet-stream
-source/DataLists.Mod -text svneol=unset#application/octet-stream
-source/DataQueues.Mod -text svneol=unset#application/octet-stream
-source/DataStacks.Mod -text svneol=unset#application/octet-stream
-source/DataTemplate.Mod.Text -text
-source/DataTrees.Mod -text svneol=unset#application/octet-stream
-source/Dates.Mod -text svneol=unset#application/octet-stream
-source/DebugLog.Mod -text svneol=unset#application/octet-stream
-source/Debugging.Mod -text svneol=unset#application/octet-stream
-source/Decoder.Mod -text svneol=unset#application/octet-stream
+source/Darwin.Unix.Mod -text
+source/Data.Mod -text
+source/DataErrors.Mod -text
+source/DataIO.Mod -text
+source/DataLists.Mod -text
+source/DataQueues.Mod -text
+source/DataStacks.Mod -text
+source/DataTemplate.Mod.Text -text svneol=unset#unset
+source/DataTrees.Mod -text
+source/Dates.Mod -text
+source/DebugLog.Mod -text
+source/Debugging.Mod -text
+source/Decoder.Mod -text
 source/DecoderRes.zip -text
-source/Decoders.Tool -text
+source/Decoders.Tool -text svneol=unset#unset
 source/Default.Pal -text
 source/Default.Pict -text
 source/DefaultTextStyles.XML -text
-source/Definitions.Tool -text
+source/Definitions.Tool -text svneol=unset#unset
 source/Demo.Content.XML -text
 source/Demo.Layout.XML -text
 source/Demo.Style.XML -text
 source/Demos.rep -text
-source/Desktops.Tool -text
-source/Diagnostics.Mod -text svneol=unset#application/octet-stream
-source/Diff.Tool -text
-source/DiffLib.Mod -text svneol=unset#application/octet-stream
+source/Desktops.Tool -text svneol=unset#unset
+source/Diagnostics.Mod -text
+source/Diff.Tool -text svneol=unset#unset
+source/DiffLib.Mod -text
 source/Dim3.Panel -text
-source/Dim3Guide.Text -text
-source/DiskBenchmark.Mod -text svneol=unset#application/octet-stream
-source/DiskFS.Mod -text svneol=unset#application/octet-stream
-source/DiskTests.Mod -text svneol=unset#application/octet-stream
-source/DiskVolumes.Mod -text svneol=unset#application/octet-stream
-source/Diskettes.Mod -text svneol=unset#application/octet-stream
-source/Disks.Mod -text svneol=unset#application/octet-stream
-source/DisplayGTF.Mod -text svneol=unset#application/octet-stream
-source/DisplayLinear.Mod -text svneol=unset#application/octet-stream
-source/DisplayNull.Mod -text svneol=unset#application/octet-stream
-source/Displays.Mod -text svneol=unset#application/octet-stream
+source/Dim3Guide.Text -text svneol=unset#unset
+source/DiskBenchmark.Mod -text
+source/DiskFS.Mod -text
+source/DiskTests.Mod -text
+source/DiskVolumes.Mod -text
+source/Diskettes.Mod -text
+source/Disks.Mod -text
+source/DisplayGTF.Mod -text
+source/DisplayLinear.Mod -text
+source/DisplayNull.Mod -text
+source/Displays.Mod -text
 source/Distance.Shape -text
-source/DivXTypes.Mod -text svneol=unset#application/octet-stream
-source/Documentation.Tool -text
+source/DivXTypes.Mod -text
+source/Documentation.Tool -text svneol=unset#unset
 source/Documents.Panel -text
 source/Drand48.Mod -text
-source/DriverDatabase.Mod -text svneol=unset#application/octet-stream
+source/DriverDatabase.Mod -text
 source/DriverDatabase.XML -text
-source/DynamicStrings.Mod -text svneol=unset#application/octet-stream
-source/DynamicWebpage.Mod -text svneol=unset#application/octet-stream
-source/DynamicWebpagePlugin.Mod -text svneol=unset#application/octet-stream
-source/DynamicWebpagePlugin.Text -text
+source/DynamicStrings.Mod -text
+source/DynamicWebpage.Mod -text
+source/DynamicWebpagePlugin.Mod -text
+source/DynamicWebpagePlugin.Text -text svneol=unset#unset
 source/EFI.AMD64.Machine.Mod -text
 source/EFI.Mod -text
-source/EFI.Tool -text svneol=unset#application/octet-stream
+source/EFI.Tool -text
 source/EFIA2Loader.Mod -text
-source/EFIBlockIO.Mod -text svneol=unset#application/octet-stream
-source/EFIDiskIO.Mod -text svneol=unset#application/octet-stream
-source/EFIFileProtocol.Mod -text svneol=unset#application/octet-stream
+source/EFIBlockIO.Mod -text
+source/EFIDiskIO.Mod -text
+source/EFIFileProtocol.Mod -text
 source/EFIGraphicalConsole.Mod -text
 source/EFIGraphicsOutput.Mod -text
 source/EFILib.Mod -text
-source/EFILoadedImage.Mod -text svneol=unset#application/octet-stream
-source/EFISimpleFS.Mod -text svneol=unset#application/octet-stream
+source/EFILoadedImage.Mod -text
+source/EFISimpleFS.Mod -text
 source/EFITest.Mod -text
 source/EFITrace.Mod -text
 source/ET.Popup.Menu -text
-source/ET.Tool -text
-source/ETGuide.Text -text
-source/Edit.Tool -text
-source/EditKeys.Text -text
-source/EditKeys.Tool -text
-source/EditTools.Tool -text
-source/Editing.Tool -text
+source/ET.Tool -text svneol=unset#unset
+source/ETGuide.Text -text svneol=unset#unset
+source/Edit.Tool -text svneol=unset#unset
+source/EditKeys.Text -text svneol=unset#unset
+source/EditKeys.Tool -text svneol=unset#unset
+source/EditTools.Tool -text svneol=unset#unset
+source/Editing.Tool -text svneol=unset#unset
 source/ElevatorStyle.XML -text
-source/EnsoniqSound.Mod -text svneol=unset#application/octet-stream
-source/Errors.Mod -text svneol=unset#application/octet-stream
+source/EnsoniqSound.Mod -text
+source/Errors.Mod -text
 source/Errors.XML -text
-source/Ethernet3Com90x.Mod -text svneol=unset#application/octet-stream
+source/Ethernet3Com90x.Mod -text
 source/Evening.jp2 -text
-source/Events.Mod -text svneol=unset#application/octet-stream
-source/EventsFileLog.Mod -text svneol=unset#application/octet-stream
-source/EventsKernelLog.Mod -text svneol=unset#application/octet-stream
-source/EventsMemoryLog.Mod -text svneol=unset#application/octet-stream
-source/EventsUtils.Mod -text svneol=unset#application/octet-stream
+source/Events.Mod -text
+source/EventsFileLog.Mod -text
+source/EventsKernelLog.Mod -text
+source/EventsMemoryLog.Mod -text
+source/EventsUtils.Mod -text
 source/Example.poly -text
-source/Example1.Mod -text svneol=unset#application/octet-stream
-source/Example2.Mod -text svneol=unset#application/octet-stream
-source/Example3.Mod -text svneol=unset#application/octet-stream
-source/Example4.Mod -text svneol=unset#application/octet-stream
-source/Example5.Mod -text svneol=unset#application/octet-stream
-source/Example6.Mod -text svneol=unset#application/octet-stream
-source/Example7.Mod -text svneol=unset#application/octet-stream
-source/Example8.Mod -text svneol=unset#application/octet-stream
-source/ExampleTextWriter.Mod -text svneol=unset#application/octet-stream
-source/ExerciseGroups.Mod -text svneol=unset#application/octet-stream
-source/FAT.Tool -text
-source/FATFiles.Mod -text svneol=unset#application/octet-stream
-source/FATScavenger.Mod -text svneol=unset#application/octet-stream
-source/FATVolumes.Mod -text svneol=unset#application/octet-stream
-source/FNHistories.Mod -text svneol=unset#application/octet-stream
-source/FP1616.Mod -text svneol=unset#application/octet-stream
-source/FSTools.Mod -text svneol=unset#application/octet-stream
-source/FTP.Mod -text svneol=unset#application/octet-stream
-source/FTP.Tool -text
-source/FTPClient.Mod -text svneol=unset#application/octet-stream
-source/FTPFS.Mod -text svneol=unset#application/octet-stream
-source/Feedback.Text -text
-source/Fido.Mod -text svneol=unset#application/octet-stream
-source/FileHandlers.Mod -text svneol=unset#application/octet-stream
+source/Example1.Mod -text
+source/Example2.Mod -text
+source/Example3.Mod -text
+source/Example4.Mod -text
+source/Example5.Mod -text
+source/Example6.Mod -text
+source/Example7.Mod -text
+source/Example8.Mod -text
+source/ExampleTextWriter.Mod -text
+source/ExerciseGroups.Mod -text
+source/FAT.Tool -text svneol=unset#unset
+source/FATFiles.Mod -text
+source/FATScavenger.Mod -text
+source/FATVolumes.Mod -text
+source/FNHistories.Mod -text
+source/FP1616.Mod -text
+source/FSTools.Mod -text
+source/FTP.Mod -text
+source/FTP.Tool -text svneol=unset#unset
+source/FTPClient.Mod -text
+source/FTPFS.Mod -text
+source/Feedback.Text -text svneol=unset#unset
+source/Fido.Mod -text
+source/FileHandlers.Mod -text
 source/FileTrapWriter.Mod -text
-source/Files.Mod -text svneol=unset#application/octet-stream
+source/Files.Mod -text
 source/Files.Test -text
 source/Find.Panel -text
-source/Find.Tool -text
-source/Finger.Tool -text
-source/FirewireLow.Mod -text svneol=unset#application/octet-stream
-source/FirewireLowUtil.Mod -text svneol=unset#application/octet-stream
-source/FirewireSBP2.Mod -text svneol=unset#application/octet-stream
+source/Find.Tool -text svneol=unset#unset
+source/Finger.Tool -text svneol=unset#unset
+source/FirewireLow.Mod -text
+source/FirewireLowUtil.Mod -text
+source/FirewireSBP2.Mod -text
 source/Flock.Pict -text
 source/FontEditor.Panel -text
-source/FontRes.Tool -text
-source/Fox.Tool -text
-source/FoxA2Interface.Mod -text
-source/FoxAMD64Assembler.Mod -text svneol=unset#application/octet-stream
-source/FoxAMD64InstructionSet.Mod -text svneol=unset#application/octet-stream
+source/FontRes.Tool -text svneol=unset#unset
+source/Fox.Tool -text svneol=unset#unset
+source/FoxA2Interface.Mod -text svneol=unset#unset
+source/FoxAMD64Assembler.Mod -text
+source/FoxAMD64InstructionSet.Mod -text
 source/FoxAMDBackend.Mod -text
-source/FoxActiveCells.Mod -text svneol=unset#application/octet-stream
-source/FoxArrayBase.Mod -text svneol=unset#application/octet-stream
-source/FoxBackend.Mod -text svneol=unset#application/octet-stream
-source/FoxBasic.Mod -text svneol=unset#application/octet-stream
-source/FoxBinaryCode.Mod -text svneol=unset#application/octet-stream
-source/FoxBinaryObjectFile.Mod -text svneol=unset#application/octet-stream
-source/FoxBinarySymbolFile.Mod -text svneol=unset#application/octet-stream
+source/FoxActiveCells.Mod -text
+source/FoxArrayBase.Mod -text
+source/FoxBackend.Mod -text
+source/FoxBasic.Mod -text
+source/FoxBinaryCode.Mod -text
+source/FoxBinaryObjectFile.Mod -text
+source/FoxBinarySymbolFile.Mod -text
 source/FoxCodeGenerators.Mod -text
-source/FoxCompiler.Mod -text svneol=unset#application/octet-stream
-source/FoxFingerPrinter.Mod -text svneol=unset#application/octet-stream
-source/FoxFormats.Mod -text svneol=unset#application/octet-stream
+source/FoxCompiler.Mod -text
+source/FoxFingerPrinter.Mod -text
+source/FoxFormats.Mod -text
 source/FoxFrontend.Mod -text
 source/FoxGenericObjectFile.Mod -text
-source/FoxGlobal.Mod -text svneol=unset#application/octet-stream
+source/FoxGlobal.Mod -text
 source/FoxHardware.Mod -text
 source/FoxInstructionSetAMD64TabSeperated.txt -text
-source/FoxInterfaceComparison.Mod -text svneol=unset#application/octet-stream
-source/FoxIntermediateBackend.Mod -text svneol=unset#application/octet-stream
-source/FoxIntermediateCode.Mod -text svneol=unset#application/octet-stream
+source/FoxInterfaceComparison.Mod -text
+source/FoxIntermediateBackend.Mod -text
+source/FoxIntermediateCode.Mod -text
 source/FoxIntermediateParser.Mod -text
 source/FoxOberonFrontend.Mod -text
 source/FoxParser.Mod -text
 source/FoxPrintout.Mod -text
 source/FoxProfiler.Mod -text
-source/FoxProgTools.Mod -text svneol=unset#application/octet-stream
-source/FoxScanner.Mod -text svneol=unset#application/octet-stream
-source/FoxSections.Mod -text svneol=unset#application/octet-stream
+source/FoxProgTools.Mod -text
+source/FoxScanner.Mod -text
+source/FoxSections.Mod -text
 source/FoxSemanticChecker.Mod -text
 source/FoxSyntaxTree.Mod -text
-source/FoxTest.Mod -text svneol=unset#application/octet-stream
-source/FoxTextCompiler.Mod -text svneol=unset#application/octet-stream
-source/FoxTextualSymbolFile.Mod -text svneol=unset#application/octet-stream
+source/FoxTest.Mod -text
+source/FoxTextCompiler.Mod -text
+source/FoxTextualSymbolFile.Mod -text
 source/Fractal.Pict -text
-source/FractalDemo.Mod -text svneol=unset#application/octet-stream
-source/GIFCodec.Mod -text svneol=unset#application/octet-stream
+source/FractalDemo.Mod -text
+source/GIFCodec.Mod -text
 source/GPL.Text -text
-source/GUI.Text -text
+source/GUI.Text -text svneol=unset#unset
 source/GUIPat.tar -text
 source/GUIPat.txt -text
-source/GZip.Mod -text svneol=unset#application/octet-stream
-source/GZip.Tool -text
+source/GZip.Mod -text
+source/GZip.Tool -text svneol=unset#unset
 source/Gadgets.Panel -text
 source/Gadgets.Pict -text
-source/Gadgets.Tool -text
+source/Gadgets.Tool -text svneol=unset#unset
 source/Gadgets.poly -text
-source/GadgetsChanges.Text -text
-source/Games.Tool -text
-source/GenericLinker.Mod -text svneol=unset#application/octet-stream
-source/GenericSort.Mod -text svneol=unset#application/octet-stream
-source/Gfx.Mod -text svneol=unset#application/octet-stream
-source/Gfx.Tool -text
-source/GfxBuffer.Mod -text svneol=unset#application/octet-stream
-source/GfxFonts.Mod -text svneol=unset#application/octet-stream
+source/GadgetsChanges.Text -text svneol=unset#unset
+source/Games.Tool -text svneol=unset#unset
+source/GenericLinker.Mod -text
+source/GenericSort.Mod -text
+source/Gfx.Mod -text
+source/Gfx.Tool -text svneol=unset#unset
+source/GfxBuffer.Mod -text
+source/GfxFonts.Mod -text
 source/GfxHowto.html -text
-source/GfxImages.Mod -text svneol=unset#application/octet-stream
-source/GfxMatrix.Mod -text svneol=unset#application/octet-stream
+source/GfxImages.Mod -text
+source/GfxMatrix.Mod -text
 source/GfxOverview.html -text
-source/GfxPaths.Mod -text svneol=unset#application/octet-stream
+source/GfxPaths.Mod -text
 source/GfxProlog.ps -text
-source/GfxRaster.Mod -text svneol=unset#application/octet-stream
-source/GfxRegions.Mod -text svneol=unset#application/octet-stream
-source/Gopher.Tool -text
+source/GfxRaster.Mod -text
+source/GfxRegions.Mod -text
+source/Gopher.Tool -text svneol=unset#unset
 source/Grapes.Pict -text
-source/Greek.Tool -text
+source/Greek.Tool -text svneol=unset#unset
 source/Greek10.Pr3.Fnt -text
 source/Greek10.Scn.Fnt -text
 source/Greek12.Pr3.Fnt -text
@@ -2285,104 +2285,104 @@ source/Greek20.Pr3.Fnt -text
 source/Greek20.Scn.Fnt -text
 source/Greek24.Pr3.Fnt -text
 source/Greek24.Scn.Fnt -text
-source/HCubeCplx.Mod -text svneol=unset#application/octet-stream
-source/HCubeInt.Mod -text svneol=unset#application/octet-stream
-source/HCubeRat.Mod -text svneol=unset#application/octet-stream
-source/HCubeRe.Mod -text svneol=unset#application/octet-stream
+source/HCubeCplx.Mod -text
+source/HCubeInt.Mod -text
+source/HCubeRat.Mod -text
+source/HCubeRe.Mod -text
 source/HPCalc.Panel -text
-source/HTML.Tool -text
-source/HTMLParser.Mod -text svneol=unset#application/octet-stream
-source/HTMLScanner.Mod -text svneol=unset#application/octet-stream
-source/HTMLTransformer.Mod -text svneol=unset#application/octet-stream
-source/HTTP.Tool -text
-source/HTTPSession.Mod -text svneol=unset#application/octet-stream
-source/HTTPSupport.Mod -text svneol=unset#application/octet-stream
-source/Heaps.Mod -text svneol=unset#application/octet-stream
+source/HTML.Tool -text svneol=unset#unset
+source/HTMLParser.Mod -text
+source/HTMLScanner.Mod -text
+source/HTMLTransformer.Mod -text
+source/HTTP.Tool -text svneol=unset#unset
+source/HTTPSession.Mod -text
+source/HTTPSupport.Mod -text
+source/Heaps.Mod -text
 source/HelloWorld.Mod -text
-source/HelloWorld1.Mod -text svneol=unset#application/octet-stream
-source/HelloWorld2.Mod -text svneol=unset#application/octet-stream
-source/HelloWorld3.Mod -text svneol=unset#application/octet-stream
-source/Hex.Tool -text
-source/HierarchicalProfiler.Mod -text svneol=unset#application/octet-stream
+source/HelloWorld1.Mod -text
+source/HelloWorld2.Mod -text
+source/HelloWorld3.Mod -text
+source/Hex.Tool -text svneol=unset#unset
+source/HierarchicalProfiler.Mod -text
 source/HierarchicalProfiler0.Mod -text
 source/Histogram.Panel -text
-source/HostClipboard.Mod -text svneol=unset#application/octet-stream
-source/HotKeys.Mod -text svneol=unset#application/octet-stream
+source/HostClipboard.Mod -text
+source/HotKeys.Mod -text
 source/HotKeys.XML -text
-source/HotKeysCommands.Mod -text svneol=unset#application/octet-stream
+source/HotKeysCommands.Mod -text
 source/HyperDocs.Panel -text
-source/HyperDocs.Tool -text
+source/HyperDocs.Tool -text svneol=unset#unset
 source/HyperLinks.Panel -text
-source/I386.ATADisks.Mod -text svneol=unset#application/octet-stream
-source/I386.Adaptec7Script.Mod -text svneol=unset#application/octet-stream
-source/I386.Array1dBytes.Mod -text svneol=unset#application/octet-stream
-source/I386.ArrayBaseOptimized.Mod -text svneol=unset#application/octet-stream
-source/I386.ArrayXdBytes.Mod -text svneol=unset#application/octet-stream
-source/I386.BenchInterrupts.Mod -text svneol=unset#application/octet-stream
-source/I386.CPUID.Mod -text svneol=unset#application/octet-stream
-source/I386.DivXDecoder.Mod -text svneol=unset#application/octet-stream
-source/I386.DivXHelper.Mod -text svneol=unset#application/octet-stream
+source/I386.ATADisks.Mod -text
+source/I386.Adaptec7Script.Mod -text
+source/I386.Array1dBytes.Mod -text
+source/I386.ArrayBaseOptimized.Mod -text
+source/I386.ArrayXdBytes.Mod -text
+source/I386.BenchInterrupts.Mod -text
+source/I386.CPUID.Mod -text
+source/I386.DivXDecoder.Mod -text
+source/I386.DivXHelper.Mod -text
 source/I386.EFIMachine.Mod -text
 source/I386.FoxArrayBaseOptimized.Mod -text
-source/I386.IDCT.Mod -text svneol=unset#application/octet-stream
-source/I386.IP.Mod -text svneol=unset#application/octet-stream
-source/I386.IPv4.Mod -text svneol=unset#application/octet-stream
-source/I386.Keyboard.Mod -text svneol=unset#application/octet-stream
-source/I386.MPEGUtilities.Mod -text svneol=unset#application/octet-stream
-source/I386.Machine.Mod -text svneol=unset#application/octet-stream
-source/I386.Math.Mod -text svneol=unset#application/octet-stream
-source/I386.MathL.Mod -text svneol=unset#application/octet-stream
-source/I386.MemCache.Mod -text svneol=unset#application/octet-stream
-source/I386.MemInfo.Mod -text svneol=unset#application/octet-stream
-source/I386.NbrInt64.Mod -text svneol=unset#application/octet-stream
-source/I386.NbrRe32.Mod -text svneol=unset#application/octet-stream
-source/I386.NbrRe64.Mod -text svneol=unset#application/octet-stream
-source/I386.Network.Mod -text svneol=unset#application/octet-stream
-source/I386.Oberon.Bitmaps.Mod -text
-source/I386.PCI.Mod -text svneol=unset#application/octet-stream
-source/I386.Raster.Mod -text svneol=unset#application/octet-stream
-source/I386.Reals.Mod -text svneol=unset#application/octet-stream
-source/I386.UsbKeyboard.Mod -text svneol=unset#application/octet-stream
-source/I386.VMWareTools.Mod -text svneol=unset#application/octet-stream
-source/I386.WMRasterScale.Mod -text svneol=unset#application/octet-stream
-source/I386.WMTransitions.Mod -text svneol=unset#application/octet-stream
-source/I386.srE.Mod -text svneol=unset#application/octet-stream
-source/I386Decoder.Mod -text svneol=unset#application/octet-stream
-source/ICMP.Mod -text svneol=unset#application/octet-stream
-source/IFS.Tool -text
-source/IMAP.Mod -text svneol=unset#application/octet-stream
-source/IMAPClient.Mod -text svneol=unset#application/octet-stream
-source/IMAPGUI.Mod -text svneol=unset#application/octet-stream
+source/I386.IDCT.Mod -text
+source/I386.IP.Mod -text
+source/I386.IPv4.Mod -text
+source/I386.Keyboard.Mod -text
+source/I386.MPEGUtilities.Mod -text
+source/I386.Machine.Mod -text
+source/I386.Math.Mod -text
+source/I386.MathL.Mod -text
+source/I386.MemCache.Mod -text
+source/I386.MemInfo.Mod -text
+source/I386.NbrInt64.Mod -text
+source/I386.NbrRe32.Mod -text
+source/I386.NbrRe64.Mod -text
+source/I386.Network.Mod -text
+source/I386.Oberon.Bitmaps.Mod -text svneol=unset#unset
+source/I386.PCI.Mod -text
+source/I386.Raster.Mod -text
+source/I386.Reals.Mod -text
+source/I386.UsbKeyboard.Mod -text
+source/I386.VMWareTools.Mod -text
+source/I386.WMRasterScale.Mod -text
+source/I386.WMTransitions.Mod -text
+source/I386.srE.Mod -text
+source/I386Decoder.Mod -text
+source/ICMP.Mod -text
+source/IFS.Tool -text svneol=unset#unset
+source/IMAP.Mod -text
+source/IMAPClient.Mod -text
+source/IMAPGUI.Mod -text
 source/IMAPIcons.tar -text
-source/IMAPUtilities.Mod -text svneol=unset#application/octet-stream
-source/IPv6.Mod -text svneol=unset#application/octet-stream
-source/ISO9660Files.Mod -text svneol=unset#application/octet-stream
-source/ISO9660Volumes.Mod -text svneol=unset#application/octet-stream
+source/IMAPUtilities.Mod -text
+source/IPv6.Mod -text
+source/ISO9660Files.Mod -text
+source/ISO9660Volumes.Mod -text
 source/Icons.Lib -text
 source/Icons2.Lib -text
 source/Icons3.Lib -text
-source/Images.Text -text
-source/Images.Tool -text
-source/Inflate.Mod -text svneol=unset#application/octet-stream
-source/Info.Mod -text svneol=unset#application/octet-stream
-source/InitNetwork.Mod -text svneol=unset#application/octet-stream
-source/Inputs.Mod -text svneol=unset#application/octet-stream
-source/Installer.Mod -text svneol=unset#application/octet-stream
+source/Images.Text -text svneol=unset#unset
+source/Images.Tool -text svneol=unset#unset
+source/Inflate.Mod -text
+source/Info.Mod -text
+source/InitNetwork.Mod -text
+source/Inputs.Mod -text
+source/Installer.Mod -text
 source/InstallerPackages.XML -text
-source/Intel8255x.Mod -text svneol=unset#application/octet-stream
-source/Interfaces.Mod -text svneol=unset#application/octet-stream
-source/IntroToGadgets.Text -text
-source/IsoImages.Mod -text svneol=unset#application/octet-stream
-source/JPEG2000Decoder.Mod -text svneol=unset#application/octet-stream
-source/JPEG2000DecoderCS.Mod -text svneol=unset#application/octet-stream
-source/JPEG2000DecoderUtil.Mod -text svneol=unset#application/octet-stream
-source/JPEGDecoder.Mod -text svneol=unset#application/octet-stream
-source/JavaLocks.Mod -text svneol=unset#application/octet-stream
-source/Joysticks.Mod -text svneol=unset#application/octet-stream
-source/JoysticksTest.Mod -text svneol=unset#application/octet-stream
-source/Kernel.Mod -text svneol=unset#application/octet-stream
-source/KernelLog.Mod -text svneol=unset#application/octet-stream
-source/KernelLogger.Mod -text svneol=unset#application/octet-stream
+source/Intel8255x.Mod -text
+source/Interfaces.Mod -text
+source/IntroToGadgets.Text -text svneol=unset#unset
+source/IsoImages.Mod -text
+source/JPEG2000Decoder.Mod -text
+source/JPEG2000DecoderCS.Mod -text
+source/JPEG2000DecoderUtil.Mod -text
+source/JPEGDecoder.Mod -text
+source/JavaLocks.Mod -text
+source/Joysticks.Mod -text
+source/JoysticksTest.Mod -text
+source/Kernel.Mod -text
+source/KernelLog.Mod -text
+source/KernelLogger.Mod -text
 source/KeyBE.Bin -text
 source/KeyCA.Bin -text
 source/KeyCH.Bin -text
@@ -2396,58 +2396,58 @@ source/KeySF.Bin -text
 source/KeyTR.Bin -text
 source/KeyUK.Bin -text
 source/KeyUS.Bin -text
-source/LPR.Mod -text svneol=unset#application/octet-stream
-source/LPRPrinter.Tool -text
+source/LPR.Mod -text
+source/LPRPrinter.Tool -text svneol=unset#unset
 source/Labels.Vinci -text
 source/LayLa.Demo.Config -text
-source/LayLa.Guide.Eng.Text -text
+source/LayLa.Guide.Eng.Text -text svneol=unset#unset
 source/LayLa.Include.Config -text
-source/LayLa.QuickGuide.Text -text
-source/LayLa.Tool -text
+source/LayLa.QuickGuide.Text -text svneol=unset#unset
+source/LayLa.Tool -text svneol=unset#unset
 source/LayLa2.Demo.Config -text
 source/LayLa2.Include.Config -text
 source/LayLaTest.Lib -text
-source/Layout.Tool -text
+source/Layout.Tool -text svneol=unset#unset
 source/LayoutEdit.Panel -text
 source/LayoutSamples.Arc -text
-source/LeoConfig.Text -text
+source/LeoConfig.Text -text svneol=unset#unset
 source/Leonardo.Fig -text
 source/Leonardo.Lib -text
 source/Leonardo.Panel -text
-source/Leonardo.Text -text
+source/Leonardo.Text -text svneol=unset#unset
 source/Libraries.Panel -text
-source/License.Text -text
+source/License.Text -text svneol=unset#unset
 source/Light.Pal -text
-source/LinEqCholesky.Mod -text svneol=unset#application/octet-stream
-source/LinEqLU.Mod -text svneol=unset#application/octet-stream
-source/LinEqRe.Mod -text svneol=unset#application/octet-stream
-source/LinEqSVD.Mod -text svneol=unset#application/octet-stream
-source/Linker.Mod -text svneol=unset#application/octet-stream
-source/Linker0.Mod -text svneol=unset#application/octet-stream
-source/Linker1.Mod -text svneol=unset#application/octet-stream
-source/Linux.Unix.Mod -text svneol=unset#application/octet-stream
+source/LinEqCholesky.Mod -text
+source/LinEqLU.Mod -text
+source/LinEqRe.Mod -text
+source/LinEqSVD.Mod -text
+source/Linker.Mod -text
+source/Linker0.Mod -text
+source/Linker1.Mod -text
+source/Linux.Unix.Mod -text
 source/Lissajous.Panel -text
-source/LoadGadgets.Text -text
-source/Loader.Mod -text svneol=unset#application/octet-stream
-source/Localization.Mod -text svneol=unset#application/octet-stream
-source/Locks.Mod -text svneol=unset#application/octet-stream
-source/Looks.Mod -text svneol=unset#application/octet-stream
-source/Loopback.Mod -text svneol=unset#application/octet-stream
-source/MD5.Mod -text svneol=unset#application/octet-stream
-source/MP3Decoder.Mod -text svneol=unset#application/octet-stream
+source/LoadGadgets.Text -text svneol=unset#unset
+source/Loader.Mod -text
+source/Localization.Mod -text
+source/Locks.Mod -text
+source/Looks.Mod -text
+source/Loopback.Mod -text
+source/MD5.Mod -text
+source/MP3Decoder.Mod -text
 source/MP3Huffman.Bin -text
-source/MP3Player.Mod -text svneol=unset#application/octet-stream
-source/MPEGTables.Mod -text svneol=unset#application/octet-stream
-source/MPEGVideoDecoder.Mod -text svneol=unset#application/octet-stream
+source/MP3Player.Mod -text
+source/MPEGTables.Mod -text
+source/MPEGVideoDecoder.Mod -text
 source/Macros.XML -text
-source/Mail.Mod -text svneol=unset#application/octet-stream
+source/Mail.Mod -text
 source/Mail.Panel -text
-source/Mail.Tool -text
-source/MailStorage.Mod -text svneol=unset#application/octet-stream
-source/MainMenu.Mod -text svneol=unset#application/octet-stream
-source/MakeIsoImages.Mod -text svneol=unset#application/octet-stream
+source/Mail.Tool -text svneol=unset#unset
+source/MailStorage.Mod -text
+source/MainMenu.Mod -text
+source/MakeIsoImages.Mod -text
 source/Marble.Pict -text
-source/Math.Tool -text
+source/Math.Tool -text svneol=unset#unset
 source/Math10.Pr3.Fnt -text
 source/Math10.Pr6.Fnt -text
 source/Math10.Scn.Fnt -text
@@ -2468,22 +2468,22 @@ source/Math24.Pr6.Fnt -text
 source/Math24.Scn.Fnt -text
 source/MathArrays.Compilation.Test -text
 source/MathArrays.Execution.Test -text
-source/MathCbrt.Mod -text svneol=unset#application/octet-stream
-source/MathCplx.Mod -text svneol=unset#application/octet-stream
-source/MathCplxSeries.Mod -text svneol=unset#application/octet-stream
-source/MathErf.Mod -text svneol=unset#application/octet-stream
-source/MathGamma.Mod -text svneol=unset#application/octet-stream
-source/MathInt.Mod -text svneol=unset#application/octet-stream
-source/MathMitLef.Mod -text svneol=unset#application/octet-stream
+source/MathCbrt.Mod -text
+source/MathCplx.Mod -text
+source/MathCplxSeries.Mod -text
+source/MathErf.Mod -text
+source/MathGamma.Mod -text
+source/MathInt.Mod -text
+source/MathMitLef.Mod -text
 source/MathRandomSeed.dat -text
-source/MathRat.Mod -text svneol=unset#application/octet-stream
-source/MathRe.Mod -text svneol=unset#application/octet-stream
-source/MathReSeries.Mod -text svneol=unset#application/octet-stream
-source/MatrixModels.Mod -text svneol=unset#application/octet-stream
-source/MediaPlayer.Mod -text svneol=unset#application/octet-stream
-source/MemoryReader.Mod -text svneol=unset#application/octet-stream
+source/MathRat.Mod -text
+source/MathRe.Mod -text
+source/MathReSeries.Mod -text
+source/MatrixModels.Mod -text
+source/MediaPlayer.Mod -text
+source/MemoryReader.Mod -text
 source/Menu.XML -text
-source/MenuEdit.Mod -text svneol=unset#application/octet-stream
+source/MenuEdit.Mod -text
 source/MenuPage00.XML -text
 source/MenuPage10.XML -text
 source/MenuPage20.XML -text
@@ -2494,434 +2494,434 @@ source/MenuPage60.XML -text
 source/MenuPage70.XML -text
 source/MenuPage80.XML -text
 source/MenuPage90.XML -text
-source/MenuPages.Mod -text svneol=unset#application/octet-stream
-source/MinInitNetwork.Mod -text svneol=unset#application/octet-stream
+source/MenuPages.Mod -text
+source/MinInitNetwork.Mod -text
 source/MineSweeperBD.Pict -text
-source/Miscellaneous.Tool -text
-source/Models.Mod -text svneol=unset#application/octet-stream
+source/Miscellaneous.Tool -text svneol=unset#unset
+source/Models.Mod -text
 source/Models.rep -text
-source/ModuleParser.Mod -text svneol=unset#application/octet-stream
-source/ModuleTrees.Mod -text svneol=unset#application/octet-stream
+source/ModuleParser.Mod -text
+source/ModuleTrees.Mod -text
 source/ModuleTreesIcons.tar -text
-source/Modules.Mod -text svneol=unset#application/octet-stream
+source/Modules.Mod -text
 source/Molecules.Pict -text
-source/MousePS2.Mod -text svneol=unset#application/octet-stream
-source/MouseSerial.Mod -text svneol=unset#application/octet-stream
-source/MtxCplx.Mod -text svneol=unset#application/octet-stream
-source/MtxInt.Mod -text svneol=unset#application/octet-stream
-source/MtxRat.Mod -text svneol=unset#application/octet-stream
-source/MtxRe.Mod -text svneol=unset#application/octet-stream
-source/MultiLogger.Mod -text svneol=unset#application/octet-stream
+source/MousePS2.Mod -text
+source/MouseSerial.Mod -text
+source/MtxCplx.Mod -text
+source/MtxInt.Mod -text
+source/MtxRat.Mod -text
+source/MtxRe.Mod -text
+source/MultiLogger.Mod -text
 source/MultiMail.Panel -text
-source/NCR810Disks.Mod -text svneol=unset#application/octet-stream
-source/NCRScript.Mod -text svneol=unset#application/octet-stream
+source/NCR810Disks.Mod -text
+source/NCRScript.Mod -text
 source/NGon.Shape -text
 source/Navigation.rep -text
-source/NbrCplx.Mod -text svneol=unset#application/octet-stream
-source/NbrInt.Mod -text svneol=unset#application/octet-stream
-source/NbrInt16.Mod -text svneol=unset#application/octet-stream
-source/NbrInt32.Mod -text svneol=unset#application/octet-stream
-source/NbrInt8.Mod -text svneol=unset#application/octet-stream
-source/NbrRat.Mod -text svneol=unset#application/octet-stream
-source/NbrRe.Mod -text svneol=unset#application/octet-stream
-source/NbrStrings.Mod -text svneol=unset#application/octet-stream
+source/NbrCplx.Mod -text
+source/NbrInt.Mod -text
+source/NbrInt16.Mod -text
+source/NbrInt32.Mod -text
+source/NbrInt8.Mod -text
+source/NbrRat.Mod -text
+source/NbrRe.Mod -text
+source/NbrStrings.Mod -text
 source/NetDocs.Lib -text
-source/NetSystem.Tool -text
-source/Network.Tool -text
-source/NetworkMii.Mod -text svneol=unset#application/octet-stream
-source/NewHTTPClient.Mod -text svneol=unset#application/octet-stream
-source/News.Tool -text
-source/Notepad.Mod -text svneol=unset#application/octet-stream
+source/NetSystem.Tool -text svneol=unset#unset
+source/Network.Tool -text svneol=unset#unset
+source/NetworkMii.Mod -text
+source/NewHTTPClient.Mod -text
+source/News.Tool -text svneol=unset#unset
+source/Notepad.Mod -text
 source/OBEMBR.BIN -text
 source/OBEMBR4.ASM -text
 source/OBL.Asm -text
 source/OBL.Bin -text
-source/OBL.Text -text
+source/OBL.Text -text svneol=unset#unset
 source/OBLUnreal.Asm -text svneol=unset#application/octet-stream
-source/OFS.Tool -text
-source/OGGRadios.Text -text
-source/OGGUtilities.Mod -text svneol=unset#application/octet-stream
-source/OGGVorbisPlayer.Mod -text svneol=unset#application/octet-stream
+source/OFS.Tool -text svneol=unset#unset
+source/OGGRadios.Text -text svneol=unset#unset
+source/OGGUtilities.Mod -text
+source/OGGVorbisPlayer.Mod -text
 source/OPA.Data -text
-source/OSC.Mod -text svneol=unset#application/octet-stream
-source/OSCEval.Mod -text svneol=unset#application/octet-stream
-source/OSCExample.Mod -text svneol=unset#application/octet-stream
-source/OSCNet.Mod -text svneol=unset#application/octet-stream
-source/OSCQueue.Mod -text svneol=unset#application/octet-stream
-source/OSCRegistry.Mod -text svneol=unset#application/octet-stream
-source/OSCService.Mod -text svneol=unset#application/octet-stream
-source/OType.Text -text
-source/Oberon.ASCIITab.Mod -text
-source/Oberon.Aos.Mod -text
-source/Oberon.AsciiCoder.Mod -text
-source/Oberon.Asteroids.Mod -text
-source/Oberon.Attributes.Mod -text
-source/Oberon.AudioGadgets.Mod -text
-source/Oberon.BMP.Mod -text
-source/Oberon.BMPImages.Mod -text
-source/Oberon.BTrees.Mod -text
-source/Oberon.Backdrops.Mod -text
-source/Oberon.Backup.Mod -text
-source/Oberon.BartSimpson.Mod -text
-source/Oberon.Base64.Mod -text
-source/Oberon.BasicFigures.Mod -text
-source/Oberon.BasicGadgets.Mod -text
-source/Oberon.BinHex.Mod -text
-source/Oberon.BookCompiler.Mod -text
-source/Oberon.BookDocs.Mod -text
-source/Oberon.Books.Mod -text
-source/Oberon.Books0.Mod -text
-source/Oberon.BooksHelp.Mod -text
-source/Oberon.Browser.Mod -text
-source/Oberon.Builder.Mod -text
-source/Oberon.CRA.Mod -text
-source/Oberon.CRP.Mod -text
-source/Oberon.CRS.Mod -text
-source/Oberon.CRT.Mod -text
-source/Oberon.CRX.Mod -text
-source/Oberon.CUSM.Mod -text
-source/Oberon.Calc.Mod -text
-source/Oberon.Calculator.Mod -text
-source/Oberon.CalculatorGadgets.Mod -text
-source/Oberon.Cards.Mod -text
-source/Oberon.Centronics.Mod -text
-source/Oberon.CleanupFiles.Mod -text
-source/Oberon.Clocks.Mod -text
-source/Oberon.Coco.Mod -text
-source/Oberon.ColorDriver.Mod -text
-source/Oberon.ColorGadgets.Mod -text
-source/Oberon.ColorModels.Mod -text
-source/Oberon.ColorSystem.Mod -text
-source/Oberon.ColorTools.Mod -text
-source/Oberon.ColorWells.Mod -text
-source/Oberon.Colors.Mod -text
-source/Oberon.Columbus.Mod -text
+source/OSC.Mod -text
+source/OSCEval.Mod -text
+source/OSCExample.Mod -text
+source/OSCNet.Mod -text
+source/OSCQueue.Mod -text
+source/OSCRegistry.Mod -text
+source/OSCService.Mod -text
+source/OType.Text -text svneol=unset#unset
+source/Oberon.ASCIITab.Mod -text svneol=unset#unset
+source/Oberon.Aos.Mod -text svneol=unset#unset
+source/Oberon.AsciiCoder.Mod -text svneol=unset#unset
+source/Oberon.Asteroids.Mod -text svneol=unset#unset
+source/Oberon.Attributes.Mod -text svneol=unset#unset
+source/Oberon.AudioGadgets.Mod -text svneol=unset#unset
+source/Oberon.BMP.Mod -text svneol=unset#unset
+source/Oberon.BMPImages.Mod -text svneol=unset#unset
+source/Oberon.BTrees.Mod -text svneol=unset#unset
+source/Oberon.Backdrops.Mod -text svneol=unset#unset
+source/Oberon.Backup.Mod -text svneol=unset#unset
+source/Oberon.BartSimpson.Mod -text svneol=unset#unset
+source/Oberon.Base64.Mod -text svneol=unset#unset
+source/Oberon.BasicFigures.Mod -text svneol=unset#unset
+source/Oberon.BasicGadgets.Mod -text svneol=unset#unset
+source/Oberon.BinHex.Mod -text svneol=unset#unset
+source/Oberon.BookCompiler.Mod -text svneol=unset#unset
+source/Oberon.BookDocs.Mod -text svneol=unset#unset
+source/Oberon.Books.Mod -text svneol=unset#unset
+source/Oberon.Books0.Mod -text svneol=unset#unset
+source/Oberon.BooksHelp.Mod -text svneol=unset#unset
+source/Oberon.Browser.Mod -text svneol=unset#unset
+source/Oberon.Builder.Mod -text svneol=unset#unset
+source/Oberon.CRA.Mod -text svneol=unset#unset
+source/Oberon.CRP.Mod -text svneol=unset#unset
+source/Oberon.CRS.Mod -text svneol=unset#unset
+source/Oberon.CRT.Mod -text svneol=unset#unset
+source/Oberon.CRX.Mod -text svneol=unset#unset
+source/Oberon.CUSM.Mod -text svneol=unset#unset
+source/Oberon.Calc.Mod -text svneol=unset#unset
+source/Oberon.Calculator.Mod -text svneol=unset#unset
+source/Oberon.CalculatorGadgets.Mod -text svneol=unset#unset
+source/Oberon.Cards.Mod -text svneol=unset#unset
+source/Oberon.Centronics.Mod -text svneol=unset#unset
+source/Oberon.CleanupFiles.Mod -text svneol=unset#unset
+source/Oberon.Clocks.Mod -text svneol=unset#unset
+source/Oberon.Coco.Mod -text svneol=unset#unset
+source/Oberon.ColorDriver.Mod -text svneol=unset#unset
+source/Oberon.ColorGadgets.Mod -text svneol=unset#unset
+source/Oberon.ColorModels.Mod -text svneol=unset#unset
+source/Oberon.ColorSystem.Mod -text svneol=unset#unset
+source/Oberon.ColorTools.Mod -text svneol=unset#unset
+source/Oberon.ColorWells.Mod -text svneol=unset#unset
+source/Oberon.Colors.Mod -text svneol=unset#unset
+source/Oberon.Columbus.Mod -text svneol=unset#unset
 source/Oberon.Compilation.Test -text
-source/Oberon.Compiler.Mod -text
-source/Oberon.Complex.Mod -text
-source/Oberon.Compress.Mod -text
-source/Oberon.CompressCrypt.Mod -text
-source/Oberon.Configuration.Mod -text
-source/Oberon.Conversions.Mod -text
-source/Oberon.Copyright.Mod -text
-source/Oberon.Cups.Mod -text
-source/Oberon.DBF.Mod -text
-source/Oberon.DBFDump.Mod -text
-source/Oberon.DOS.Mod -text
+source/Oberon.Compiler.Mod -text svneol=unset#unset
+source/Oberon.Complex.Mod -text svneol=unset#unset
+source/Oberon.Compress.Mod -text svneol=unset#unset
+source/Oberon.CompressCrypt.Mod -text svneol=unset#unset
+source/Oberon.Configuration.Mod -text svneol=unset#unset
+source/Oberon.Conversions.Mod -text svneol=unset#unset
+source/Oberon.Copyright.Mod -text svneol=unset#unset
+source/Oberon.Cups.Mod -text svneol=unset#unset
+source/Oberon.DBF.Mod -text svneol=unset#unset
+source/Oberon.DBFDump.Mod -text svneol=unset#unset
+source/Oberon.DOS.Mod -text svneol=unset#unset
 source/Oberon.DVIDocs.Mod -text
 source/Oberon.DVIFiles.Mod -text
 source/Oberon.DVIViewers.Mod -text
-source/Oberon.Dates.Mod -text
-source/Oberon.DayTime.Mod -text
-source/Oberon.Decoder.Mod -text
+source/Oberon.Dates.Mod -text svneol=unset#unset
+source/Oberon.DayTime.Mod -text svneol=unset#unset
+source/Oberon.Decoder.Mod -text svneol=unset#unset
 source/Oberon.Desk -text
-source/Oberon.Desktops.Mod -text
-source/Oberon.Diagrams.Mod -text
-source/Oberon.Diff.Mod -text
-source/Oberon.DiffGadgets.Mod -text
-source/Oberon.Dim3Base.Mod -text
-source/Oberon.Dim3Engine.Mod -text
-source/Oberon.Dim3Frames.Mod -text
-source/Oberon.Dim3Paint.Mod -text
-source/Oberon.Dim3Read.Mod -text
-source/Oberon.Directories.Mod -text
-source/Oberon.Diskette.Mod -text
-source/Oberon.Diskettes.Mod -text
-source/Oberon.Disks.Mod -text
-source/Oberon.Display.Mod -text
-source/Oberon.Display3.Mod -text
-source/Oberon.DocumentSkeleton.Mod -text
-source/Oberon.Documents.Mod -text
-source/Oberon.ET.Mod -text
-source/Oberon.Edit.Mod -text
-source/Oberon.EditKeys.Mod -text
-source/Oberon.EditTools.Mod -text
-source/Oberon.Effects.Mod -text
-source/Oberon.ErrorGadgets.Mod -text
-source/Oberon.ExampleOberon.Mod -text
-source/Oberon.Examples.Mod -text
-source/Oberon.Examples1.Mod -text
+source/Oberon.Desktops.Mod -text svneol=unset#unset
+source/Oberon.Diagrams.Mod -text svneol=unset#unset
+source/Oberon.Diff.Mod -text svneol=unset#unset
+source/Oberon.DiffGadgets.Mod -text svneol=unset#unset
+source/Oberon.Dim3Base.Mod -text svneol=unset#unset
+source/Oberon.Dim3Engine.Mod -text svneol=unset#unset
+source/Oberon.Dim3Frames.Mod -text svneol=unset#unset
+source/Oberon.Dim3Paint.Mod -text svneol=unset#unset
+source/Oberon.Dim3Read.Mod -text svneol=unset#unset
+source/Oberon.Directories.Mod -text svneol=unset#unset
+source/Oberon.Diskette.Mod -text svneol=unset#unset
+source/Oberon.Diskettes.Mod -text svneol=unset#unset
+source/Oberon.Disks.Mod -text svneol=unset#unset
+source/Oberon.Display.Mod -text svneol=unset#unset
+source/Oberon.Display3.Mod -text svneol=unset#unset
+source/Oberon.DocumentSkeleton.Mod -text svneol=unset#unset
+source/Oberon.Documents.Mod -text svneol=unset#unset
+source/Oberon.ET.Mod -text svneol=unset#unset
+source/Oberon.Edit.Mod -text svneol=unset#unset
+source/Oberon.EditKeys.Mod -text svneol=unset#unset
+source/Oberon.EditTools.Mod -text svneol=unset#unset
+source/Oberon.Effects.Mod -text svneol=unset#unset
+source/Oberon.ErrorGadgets.Mod -text svneol=unset#unset
+source/Oberon.ExampleOberon.Mod -text svneol=unset#unset
+source/Oberon.Examples.Mod -text svneol=unset#unset
+source/Oberon.Examples1.Mod -text svneol=unset#unset
 source/Oberon.Execution.Test -text
-source/Oberon.FATDocs.Mod -text
-source/Oberon.FATFiles.Mod -text
-source/Oberon.FATTools.Mod -text
-source/Oberon.FTP.Mod -text
-source/Oberon.FTPDocs.Mod -text
-source/Oberon.FileDir.Mod -text
-source/Oberon.FileDisks.Mod -text
-source/Oberon.Files.Mod -text
-source/Oberon.Find.Mod -text
-source/Oberon.Finder.Mod -text
-source/Oberon.Finger.Mod -text
-source/Oberon.FontEditor.Mod -text
-source/Oberon.Fonts.Mod -text
-source/Oberon.Freecell.Mod -text
-source/Oberon.GIF.Mod -text
-source/Oberon.GIFImages.Mod -text
-source/Oberon.GZReaders.Mod -text
-source/Oberon.GZWriters.Mod -text
-source/Oberon.GZip.Mod -text
-source/Oberon.Gadgets.Mod -text
-source/Oberon.GadgetsIn.Mod -text
-source/Oberon.GadgetsOut.Mod -text
-source/Oberon.Gages.Mod -text
-source/Oberon.Gfx.Mod -text
-source/Oberon.GfxBuffer.Mod -text
-source/Oberon.GfxDemo.Mod -text
-source/Oberon.GfxDisplay.Mod -text
-source/Oberon.GfxFonts.Mod -text
-source/Oberon.GfxFonts0.Mod -text
-source/Oberon.GfxImages.Mod -text
-source/Oberon.GfxMatrix.Mod -text
-source/Oberon.GfxOType.Mod -text
-source/Oberon.GfxPKFonts.Mod -text
-source/Oberon.GfxPS.Mod -text
-source/Oberon.GfxPaths.Mod -text
-source/Oberon.GfxPrinter.Mod -text
-source/Oberon.GfxRaster.Mod -text
-source/Oberon.GfxRegions.Mod -text
-source/Oberon.GfxTest.Mod -text
-source/Oberon.Gopher.Mod -text
-source/Oberon.Graphs.Mod -text
-source/Oberon.HPCalc.Mod -text
-source/Oberon.HPLaserPrinter.Mod -text
-source/Oberon.HPPCL.Mod -text
-source/Oberon.HTML.Mod -text
-source/Oberon.HTMLDocs.Mod -text
-source/Oberon.HTMLForms.Mod -text
-source/Oberon.HTMLImages.Mod -text
-source/Oberon.HTMLPlugIns.Mod -text
-source/Oberon.HTMLTables.Mod -text
-source/Oberon.HTTPDocs.Mod -text
-source/Oberon.HTTPDocs0.Mod -text
-source/Oberon.Hello.Mod -text
-source/Oberon.HelloServer.Mod -text
-source/Oberon.Hex.Mod -text
-source/Oberon.Histogram.Mod -text
-source/Oberon.HyperDocTools.Mod -text
-source/Oberon.HyperDocs.Mod -text
-source/Oberon.ICO.Mod -text
-source/Oberon.IFF.Mod -text
-source/Oberon.IFS.Mod -text
-source/Oberon.Icons.Mod -text
-source/Oberon.ImageDocs.Mod -text
-source/Oberon.ImageGadgets.Mod -text
-source/Oberon.Images.Mod -text
-source/Oberon.In.Mod -text
-source/Oberon.Input.Mod -text
-source/Oberon.JPEG.Mod -text
-source/Oberon.JPEGImages.Mod -text
-source/Oberon.Kernel.Mod -text
-source/Oberon.LPRPrinter.Mod -text
-source/Oberon.LayLa.Mod -text
-source/Oberon.LayLa2.Mod -text
-source/Oberon.LayLa2S.Mod -text
-source/Oberon.LayLaDemo.Mod -text
-source/Oberon.LayLaS.Mod -text
-source/Oberon.LayoutPanels.Mod -text
-source/Oberon.LayoutPanels0.Mod -text
-source/Oberon.Layouts.Mod -text
-source/Oberon.LeoBasic.Mod -text
-source/Oberon.LeoBasicEditors.Mod -text
-source/Oberon.LeoCaptionEditors.Mod -text
-source/Oberon.LeoCaptions.Mod -text
-source/Oberon.LeoDocs.Mod -text
-source/Oberon.LeoDraw.Mod -text
-source/Oberon.LeoFrames.Mod -text
-source/Oberon.LeoImageEditors.Mod -text
-source/Oberon.LeoImages.Mod -text
-source/Oberon.LeoLists.Mod -text
-source/Oberon.LeoOutliners.Mod -text
-source/Oberon.LeoPanels.Mod -text
-source/Oberon.LeoPathEditors.Mod -text
-source/Oberon.LeoPaths.Mod -text
-source/Oberon.LeoPenEditors.Mod -text
-source/Oberon.LeoPens.Mod -text
-source/Oberon.LeoSplineEditors.Mod -text
-source/Oberon.LeoSplines.Mod -text
-source/Oberon.LeoTools.Mod -text
-source/Oberon.Leonardo.Mod -text
-source/Oberon.Links.Mod -text
-source/Oberon.Lissajous.Mod -text
-source/Oberon.ListDags.Mod -text
-source/Oberon.ListGadgets.Mod -text
-source/Oberon.ListModels.Mod -text
-source/Oberon.ListRiders.Mod -text
-source/Oberon.Lists.Mod -text
-source/Oberon.MIME.Mod -text
-source/Oberon.Magnifier.Mod -text
-source/Oberon.Mail.Mod -text
-source/Oberon.MakePoints.Mod -text
-source/Oberon.Menu.Mod -text
-source/Oberon.MenuViewers.Mod -text
-source/Oberon.MineSweeper.Mod -text
-source/Oberon.Miscellaneous.Mod -text
-source/Oberon.Mod -text svneol=unset#application/octet-stream
-source/Oberon.Modules.Mod -text
-source/Oberon.MultiMail.Mod -text
-source/Oberon.NamePlates.Mod -text
-source/Oberon.Navigators.Mod -text
-source/Oberon.NetSystem.Mod -text
-source/Oberon.NetTools.Mod -text
-source/Oberon.News.Mod -text
-source/Oberon.NoteBooks.Mod -text
-source/Oberon.OFSTools.Mod -text
-source/Oberon.OFormatter.Mod -text svneol=unset#text/plain
-source/Oberon.OFormatterIO.Mod -text svneol=unset#text/plain
-source/Oberon.OPA.Mod -text
-source/Oberon.OPAData.Mod -text
-source/Oberon.OPB.Mod -text
-source/Oberon.OPC.Mod -text
-source/Oberon.OPL.Mod -text
-source/Oberon.OPM.Mod -text
-source/Oberon.OPO.Mod -text
-source/Oberon.OPP.Mod -text
-source/Oberon.OPS.Mod -text
-source/Oberon.OPT.Mod -text
-source/Oberon.OPV.Mod -text
-source/Oberon.OTFonts.Mod -text
-source/Oberon.OTInt.Mod -text
-source/Oberon.OTScan.Mod -text
-source/Oberon.OType.Mod -text
-source/Oberon.Oberon.Mod -text
-source/Oberon.ObjExplorer.Mod -text
-source/Oberon.Objects.Mod -text
-source/Oberon.OpenDemo.Mod -text
-source/Oberon.OpenDemo2.Mod -text
-source/Oberon.Organizers.Mod -text
-source/Oberon.Out.Mod -text
-source/Oberon.Outlines.Mod -text
-source/Oberon.PC.Mod -text
-source/Oberon.PCARMDecoder.Mod -text
-source/Oberon.PCITools.Mod -text
-source/Oberon.PCX.Mod -text
-source/Oberon.PCXImages.Mod -text
-source/Oberon.PPM.Mod -text
-source/Oberon.PS.Mod -text
-source/Oberon.PSD.Mod -text
-source/Oberon.PSDImages.Mod -text
-source/Oberon.PSPrinter.Mod -text
-source/Oberon.Packages.Mod -text
-source/Oberon.PanelDocs.Mod -text
-source/Oberon.Panels.Mod -text
-source/Oberon.Partitions.Mod -text
-source/Oberon.PasswordFields.Mod -text
-source/Oberon.PhonePad.Mod -text
-source/Oberon.PictConverters.Mod -text
-source/Oberon.PictImages.Mod -text
-source/Oberon.Pictures.Mod -text
-source/Oberon.Plot.Mod -text
-source/Oberon.Plotter.Mod -text
-source/Oberon.PlugIns.Mod -text
-source/Oberon.Popups.Mod -text
-source/Oberon.Portraits.Mod -text
-source/Oberon.Printer.Mod -text
-source/Oberon.Printer3.Mod -text
-source/Oberon.Profiler.Mod -text
-source/Oberon.ProgressMeters.Mod -text
-source/Oberon.QuotedPrintable.Mod -text
-source/Oberon.RX.Mod -text
-source/Oberon.RXA.Mod -text
-source/Oberon.RandomNumbers.Mod -text
-source/Oberon.RefGadgets.Mod -text
-source/Oberon.Rembrandt.Mod -text
-source/Oberon.Rembrandt0.Mod -text
-source/Oberon.RembrandtDocs.Mod -text
-source/Oberon.RembrandtTools.Mod -text
-source/Oberon.Reminders.Mod -text
-source/Oberon.Report.Text -text svneol=unset#text/plain
-source/Oberon.Rot13.Mod -text
-source/Oberon.SaveArt.Mod -text
-source/Oberon.SaveDecay.Mod -text
-source/Oberon.SaveLife.Mod -text
-source/Oberon.SaveParticles.Mod -text
-source/Oberon.SavePoints.Mod -text
-source/Oberon.SaveScreen.Mod -text
-source/Oberon.SaveSisyphus.Mod -text
-source/Oberon.SaveSwarm.Mod -text
-source/Oberon.SaveTiles.Mod -text
-source/Oberon.Scheme.Mod -text
-source/Oberon.SchemeOps.Mod -text
-source/Oberon.Scramble.Mod -text
-source/Oberon.Script.Mod -text
-source/Oberon.ScriptFrames.Mod -text
-source/Oberon.ScriptGadgets.Mod -text
-source/Oberon.ScrollViews.Mod -text
-source/Oberon.Scrollbars.Mod -text
-source/Oberon.SetGadgets.Mod -text
-source/Oberon.Sets.Mod -text
-source/Oberon.Shanghai.Mod -text
-source/Oberon.Simulator.Mod -text
-source/Oberon.Sisiphus.Mod -text
-source/Oberon.Skeleton.Mod -text
-source/Oberon.Snapshot.Mod -text
-source/Oberon.Sokoban.Mod -text
-source/Oberon.Solitaire.Mod -text
-source/Oberon.Sort.Mod -text
-source/Oberon.Spider.Mod -text
-source/Oberon.Streams.Mod -text
-source/Oberon.Strings.Mod -text
-source/Oberon.StyleGadgets.Mod -text
-source/Oberon.Styles.Mod -text
-source/Oberon.Suitcases.Mod -text
-source/Oberon.Swarm.Mod -text
-source/Oberon.SysLog.Mod -text
-source/Oberon.System.Mod -text
-source/Oberon.TCPExample.Mod -text
-source/Oberon.TFTPTool.Mod -text
-source/Oberon.TGA.Mod -text
-source/Oberon.TGZ.Mod -text
-source/Oberon.Tar.Mod -text
-source/Oberon.TaskExample.Mod -text
-source/Oberon.TeXTools.Mod -text
-source/Oberon.Telnet.Mod -text
-source/Oberon.TelnetGadgets.Mod -text
-source/Oberon.TerminalFrames.Mod -text
-source/Oberon.TerminalGadgets.Mod -text
-source/Oberon.Terminals.Mod -text
-source/Oberon.TestNet.Mod -text
-source/Oberon.Tetris.Mod -text
-source/Oberon.Text -text
-source/Oberon.TextDocs.Mod -text
-source/Oberon.TextFields.Mod -text
-source/Oberon.TextFrames.Mod -text
-source/Oberon.TextGadgets.Mod -text
-source/Oberon.TextGadgets0.Mod -text
-source/Oberon.TextMail.Mod -text
-source/Oberon.TextPopups.Mod -text
-source/Oberon.TextStreams.Mod -text
-source/Oberon.Texts.Mod -text
-source/Oberon.TimeStamps.Mod -text
-source/Oberon.Types.Mod -text svneol=unset#text/plain
-source/Oberon.UDPExample.Mod -text
-source/Oberon.UUDecoder.Mod -text
-source/Oberon.V24.Mod -text
-source/Oberon.V24Gadgets.Mod -text
-source/Oberon.V24Log.Mod -text
-source/Oberon.ViewSkeleton.Mod -text
-source/Oberon.Viewers.Mod -text
-source/Oberon.Views.Mod -text
-source/Oberon.Vinci.Mod -text
-source/Oberon.VinciDocs.Mod -text
-source/Oberon.VinciEditors.Mod -text
-source/Oberon.VinciGadgets.Mod -text
-source/Oberon.VinciPens.Mod -text
-source/Oberon.VinciShapes.Mod -text
-source/Oberon.WTS.Mod -text
-source/Oberon.WTSDraw.Mod -text
-source/Oberon.WTSFold.Mod -text
-source/Oberon.WTSPict.Mod -text
-source/Oberon.WTSStamp.Mod -text
-source/Oberon.Watson.Mod -text
-source/Oberon.Watson0.Mod -text
-source/Oberon.XBM.Mod -text
-source/Oberon.XPM.Mod -text
-source/Oberon.XYplane.Mod -text
-source/Oberon.Zip.Mod -text
-source/Oberon.ZipDocs.Mod -text
-source/Oberon.ZipTool.Mod -text
-source/Oberon.ZlibReaders.Mod -text
-source/Oberon.ZlibWriters.Mod -text
+source/Oberon.FATDocs.Mod -text svneol=unset#unset
+source/Oberon.FATFiles.Mod -text svneol=unset#unset
+source/Oberon.FATTools.Mod -text svneol=unset#unset
+source/Oberon.FTP.Mod -text svneol=unset#unset
+source/Oberon.FTPDocs.Mod -text svneol=unset#unset
+source/Oberon.FileDir.Mod -text svneol=unset#unset
+source/Oberon.FileDisks.Mod -text svneol=unset#unset
+source/Oberon.Files.Mod -text svneol=unset#unset
+source/Oberon.Find.Mod -text svneol=unset#unset
+source/Oberon.Finder.Mod -text svneol=unset#unset
+source/Oberon.Finger.Mod -text svneol=unset#unset
+source/Oberon.FontEditor.Mod -text svneol=unset#unset
+source/Oberon.Fonts.Mod -text svneol=unset#unset
+source/Oberon.Freecell.Mod -text svneol=unset#unset
+source/Oberon.GIF.Mod -text svneol=unset#unset
+source/Oberon.GIFImages.Mod -text svneol=unset#unset
+source/Oberon.GZReaders.Mod -text svneol=unset#unset
+source/Oberon.GZWriters.Mod -text svneol=unset#unset
+source/Oberon.GZip.Mod -text svneol=unset#unset
+source/Oberon.Gadgets.Mod -text svneol=unset#unset
+source/Oberon.GadgetsIn.Mod -text svneol=unset#unset
+source/Oberon.GadgetsOut.Mod -text svneol=unset#unset
+source/Oberon.Gages.Mod -text svneol=unset#unset
+source/Oberon.Gfx.Mod -text svneol=unset#unset
+source/Oberon.GfxBuffer.Mod -text svneol=unset#unset
+source/Oberon.GfxDemo.Mod -text svneol=unset#unset
+source/Oberon.GfxDisplay.Mod -text svneol=unset#unset
+source/Oberon.GfxFonts.Mod -text svneol=unset#unset
+source/Oberon.GfxFonts0.Mod -text svneol=unset#unset
+source/Oberon.GfxImages.Mod -text svneol=unset#unset
+source/Oberon.GfxMatrix.Mod -text svneol=unset#unset
+source/Oberon.GfxOType.Mod -text svneol=unset#unset
+source/Oberon.GfxPKFonts.Mod -text svneol=unset#unset
+source/Oberon.GfxPS.Mod -text svneol=unset#unset
+source/Oberon.GfxPaths.Mod -text svneol=unset#unset
+source/Oberon.GfxPrinter.Mod -text svneol=unset#unset
+source/Oberon.GfxRaster.Mod -text svneol=unset#unset
+source/Oberon.GfxRegions.Mod -text svneol=unset#unset
+source/Oberon.GfxTest.Mod -text svneol=unset#unset
+source/Oberon.Gopher.Mod -text svneol=unset#unset
+source/Oberon.Graphs.Mod -text svneol=unset#unset
+source/Oberon.HPCalc.Mod -text svneol=unset#unset
+source/Oberon.HPLaserPrinter.Mod -text svneol=unset#unset
+source/Oberon.HPPCL.Mod -text svneol=unset#unset
+source/Oberon.HTML.Mod -text svneol=unset#unset
+source/Oberon.HTMLDocs.Mod -text svneol=unset#unset
+source/Oberon.HTMLForms.Mod -text svneol=unset#unset
+source/Oberon.HTMLImages.Mod -text svneol=unset#unset
+source/Oberon.HTMLPlugIns.Mod -text svneol=unset#unset
+source/Oberon.HTMLTables.Mod -text svneol=unset#unset
+source/Oberon.HTTPDocs.Mod -text svneol=unset#unset
+source/Oberon.HTTPDocs0.Mod -text svneol=unset#unset
+source/Oberon.Hello.Mod -text svneol=unset#unset
+source/Oberon.HelloServer.Mod -text svneol=unset#unset
+source/Oberon.Hex.Mod -text svneol=unset#unset
+source/Oberon.Histogram.Mod -text svneol=unset#unset
+source/Oberon.HyperDocTools.Mod -text svneol=unset#unset
+source/Oberon.HyperDocs.Mod -text svneol=unset#unset
+source/Oberon.ICO.Mod -text svneol=unset#unset
+source/Oberon.IFF.Mod -text svneol=unset#unset
+source/Oberon.IFS.Mod -text svneol=unset#unset
+source/Oberon.Icons.Mod -text svneol=unset#unset
+source/Oberon.ImageDocs.Mod -text svneol=unset#unset
+source/Oberon.ImageGadgets.Mod -text svneol=unset#unset
+source/Oberon.Images.Mod -text svneol=unset#unset
+source/Oberon.In.Mod -text svneol=unset#unset
+source/Oberon.Input.Mod -text svneol=unset#unset
+source/Oberon.JPEG.Mod -text svneol=unset#unset
+source/Oberon.JPEGImages.Mod -text svneol=unset#unset
+source/Oberon.Kernel.Mod -text svneol=unset#unset
+source/Oberon.LPRPrinter.Mod -text svneol=unset#unset
+source/Oberon.LayLa.Mod -text svneol=unset#unset
+source/Oberon.LayLa2.Mod -text svneol=unset#unset
+source/Oberon.LayLa2S.Mod -text svneol=unset#unset
+source/Oberon.LayLaDemo.Mod -text svneol=unset#unset
+source/Oberon.LayLaS.Mod -text svneol=unset#unset
+source/Oberon.LayoutPanels.Mod -text svneol=unset#unset
+source/Oberon.LayoutPanels0.Mod -text svneol=unset#unset
+source/Oberon.Layouts.Mod -text svneol=unset#unset
+source/Oberon.LeoBasic.Mod -text svneol=unset#unset
+source/Oberon.LeoBasicEditors.Mod -text svneol=unset#unset
+source/Oberon.LeoCaptionEditors.Mod -text svneol=unset#unset
+source/Oberon.LeoCaptions.Mod -text svneol=unset#unset
+source/Oberon.LeoDocs.Mod -text svneol=unset#unset
+source/Oberon.LeoDraw.Mod -text svneol=unset#unset
+source/Oberon.LeoFrames.Mod -text svneol=unset#unset
+source/Oberon.LeoImageEditors.Mod -text svneol=unset#unset
+source/Oberon.LeoImages.Mod -text svneol=unset#unset
+source/Oberon.LeoLists.Mod -text svneol=unset#unset
+source/Oberon.LeoOutliners.Mod -text svneol=unset#unset
+source/Oberon.LeoPanels.Mod -text svneol=unset#unset
+source/Oberon.LeoPathEditors.Mod -text svneol=unset#unset
+source/Oberon.LeoPaths.Mod -text svneol=unset#unset
+source/Oberon.LeoPenEditors.Mod -text svneol=unset#unset
+source/Oberon.LeoPens.Mod -text svneol=unset#unset
+source/Oberon.LeoSplineEditors.Mod -text svneol=unset#unset
+source/Oberon.LeoSplines.Mod -text svneol=unset#unset
+source/Oberon.LeoTools.Mod -text svneol=unset#unset
+source/Oberon.Leonardo.Mod -text svneol=unset#unset
+source/Oberon.Links.Mod -text svneol=unset#unset
+source/Oberon.Lissajous.Mod -text svneol=unset#unset
+source/Oberon.ListDags.Mod -text svneol=unset#unset
+source/Oberon.ListGadgets.Mod -text svneol=unset#unset
+source/Oberon.ListModels.Mod -text svneol=unset#unset
+source/Oberon.ListRiders.Mod -text svneol=unset#unset
+source/Oberon.Lists.Mod -text svneol=unset#unset
+source/Oberon.MIME.Mod -text svneol=unset#unset
+source/Oberon.Magnifier.Mod -text svneol=unset#unset
+source/Oberon.Mail.Mod -text svneol=unset#unset
+source/Oberon.MakePoints.Mod -text svneol=unset#unset
+source/Oberon.Menu.Mod -text svneol=unset#unset
+source/Oberon.MenuViewers.Mod -text svneol=unset#unset
+source/Oberon.MineSweeper.Mod -text svneol=unset#unset
+source/Oberon.Miscellaneous.Mod -text svneol=unset#unset
+source/Oberon.Mod -text
+source/Oberon.Modules.Mod -text svneol=unset#unset
+source/Oberon.MultiMail.Mod -text svneol=unset#unset
+source/Oberon.NamePlates.Mod -text svneol=unset#unset
+source/Oberon.Navigators.Mod -text svneol=unset#unset
+source/Oberon.NetSystem.Mod -text svneol=unset#unset
+source/Oberon.NetTools.Mod -text svneol=unset#unset
+source/Oberon.News.Mod -text svneol=unset#unset
+source/Oberon.NoteBooks.Mod -text svneol=unset#unset
+source/Oberon.OFSTools.Mod -text svneol=unset#unset
+source/Oberon.OFormatter.Mod -text svneol=unset#unset
+source/Oberon.OFormatterIO.Mod -text svneol=unset#unset
+source/Oberon.OPA.Mod -text svneol=unset#unset
+source/Oberon.OPAData.Mod -text svneol=unset#unset
+source/Oberon.OPB.Mod -text svneol=unset#unset
+source/Oberon.OPC.Mod -text svneol=unset#unset
+source/Oberon.OPL.Mod -text svneol=unset#unset
+source/Oberon.OPM.Mod -text svneol=unset#unset
+source/Oberon.OPO.Mod -text svneol=unset#unset
+source/Oberon.OPP.Mod -text svneol=unset#unset
+source/Oberon.OPS.Mod -text svneol=unset#unset
+source/Oberon.OPT.Mod -text svneol=unset#unset
+source/Oberon.OPV.Mod -text svneol=unset#unset
+source/Oberon.OTFonts.Mod -text svneol=unset#unset
+source/Oberon.OTInt.Mod -text svneol=unset#unset
+source/Oberon.OTScan.Mod -text svneol=unset#unset
+source/Oberon.OType.Mod -text svneol=unset#unset
+source/Oberon.Oberon.Mod -text svneol=unset#unset
+source/Oberon.ObjExplorer.Mod -text svneol=unset#unset
+source/Oberon.Objects.Mod -text svneol=unset#unset
+source/Oberon.OpenDemo.Mod -text svneol=unset#unset
+source/Oberon.OpenDemo2.Mod -text svneol=unset#unset
+source/Oberon.Organizers.Mod -text svneol=unset#unset
+source/Oberon.Out.Mod -text svneol=unset#unset
+source/Oberon.Outlines.Mod -text svneol=unset#unset
+source/Oberon.PC.Mod -text svneol=unset#unset
+source/Oberon.PCARMDecoder.Mod -text svneol=unset#unset
+source/Oberon.PCITools.Mod -text svneol=unset#unset
+source/Oberon.PCX.Mod -text svneol=unset#unset
+source/Oberon.PCXImages.Mod -text svneol=unset#unset
+source/Oberon.PPM.Mod -text svneol=unset#unset
+source/Oberon.PS.Mod -text svneol=unset#unset
+source/Oberon.PSD.Mod -text svneol=unset#unset
+source/Oberon.PSDImages.Mod -text svneol=unset#unset
+source/Oberon.PSPrinter.Mod -text svneol=unset#unset
+source/Oberon.Packages.Mod -text svneol=unset#unset
+source/Oberon.PanelDocs.Mod -text svneol=unset#unset
+source/Oberon.Panels.Mod -text svneol=unset#unset
+source/Oberon.Partitions.Mod -text svneol=unset#unset
+source/Oberon.PasswordFields.Mod -text svneol=unset#unset
+source/Oberon.PhonePad.Mod -text svneol=unset#unset
+source/Oberon.PictConverters.Mod -text svneol=unset#unset
+source/Oberon.PictImages.Mod -text svneol=unset#unset
+source/Oberon.Pictures.Mod -text svneol=unset#unset
+source/Oberon.Plot.Mod -text svneol=unset#unset
+source/Oberon.Plotter.Mod -text svneol=unset#unset
+source/Oberon.PlugIns.Mod -text svneol=unset#unset
+source/Oberon.Popups.Mod -text svneol=unset#unset
+source/Oberon.Portraits.Mod -text svneol=unset#unset
+source/Oberon.Printer.Mod -text svneol=unset#unset
+source/Oberon.Printer3.Mod -text svneol=unset#unset
+source/Oberon.Profiler.Mod -text svneol=unset#unset
+source/Oberon.ProgressMeters.Mod -text svneol=unset#unset
+source/Oberon.QuotedPrintable.Mod -text svneol=unset#unset
+source/Oberon.RX.Mod -text svneol=unset#unset
+source/Oberon.RXA.Mod -text svneol=unset#unset
+source/Oberon.RandomNumbers.Mod -text svneol=unset#unset
+source/Oberon.RefGadgets.Mod -text svneol=unset#unset
+source/Oberon.Rembrandt.Mod -text svneol=unset#unset
+source/Oberon.Rembrandt0.Mod -text svneol=unset#unset
+source/Oberon.RembrandtDocs.Mod -text svneol=unset#unset
+source/Oberon.RembrandtTools.Mod -text svneol=unset#unset
+source/Oberon.Reminders.Mod -text svneol=unset#unset
+source/Oberon.Report.Text -text svneol=unset#unset
+source/Oberon.Rot13.Mod -text svneol=unset#unset
+source/Oberon.SaveArt.Mod -text svneol=unset#unset
+source/Oberon.SaveDecay.Mod -text svneol=unset#unset
+source/Oberon.SaveLife.Mod -text svneol=unset#unset
+source/Oberon.SaveParticles.Mod -text svneol=unset#unset
+source/Oberon.SavePoints.Mod -text svneol=unset#unset
+source/Oberon.SaveScreen.Mod -text svneol=unset#unset
+source/Oberon.SaveSisyphus.Mod -text svneol=unset#unset
+source/Oberon.SaveSwarm.Mod -text svneol=unset#unset
+source/Oberon.SaveTiles.Mod -text svneol=unset#unset
+source/Oberon.Scheme.Mod -text svneol=unset#unset
+source/Oberon.SchemeOps.Mod -text svneol=unset#unset
+source/Oberon.Scramble.Mod -text svneol=unset#unset
+source/Oberon.Script.Mod -text svneol=unset#unset
+source/Oberon.ScriptFrames.Mod -text svneol=unset#unset
+source/Oberon.ScriptGadgets.Mod -text svneol=unset#unset
+source/Oberon.ScrollViews.Mod -text svneol=unset#unset
+source/Oberon.Scrollbars.Mod -text svneol=unset#unset
+source/Oberon.SetGadgets.Mod -text svneol=unset#unset
+source/Oberon.Sets.Mod -text svneol=unset#unset
+source/Oberon.Shanghai.Mod -text svneol=unset#unset
+source/Oberon.Simulator.Mod -text svneol=unset#unset
+source/Oberon.Sisiphus.Mod -text svneol=unset#unset
+source/Oberon.Skeleton.Mod -text svneol=unset#unset
+source/Oberon.Snapshot.Mod -text svneol=unset#unset
+source/Oberon.Sokoban.Mod -text svneol=unset#unset
+source/Oberon.Solitaire.Mod -text svneol=unset#unset
+source/Oberon.Sort.Mod -text svneol=unset#unset
+source/Oberon.Spider.Mod -text svneol=unset#unset
+source/Oberon.Streams.Mod -text svneol=unset#unset
+source/Oberon.Strings.Mod -text svneol=unset#unset
+source/Oberon.StyleGadgets.Mod -text svneol=unset#unset
+source/Oberon.Styles.Mod -text svneol=unset#unset
+source/Oberon.Suitcases.Mod -text svneol=unset#unset
+source/Oberon.Swarm.Mod -text svneol=unset#unset
+source/Oberon.SysLog.Mod -text svneol=unset#unset
+source/Oberon.System.Mod -text svneol=unset#unset
+source/Oberon.TCPExample.Mod -text svneol=unset#unset
+source/Oberon.TFTPTool.Mod -text svneol=unset#unset
+source/Oberon.TGA.Mod -text svneol=unset#unset
+source/Oberon.TGZ.Mod -text svneol=unset#unset
+source/Oberon.Tar.Mod -text svneol=unset#unset
+source/Oberon.TaskExample.Mod -text svneol=unset#unset
+source/Oberon.TeXTools.Mod -text svneol=unset#unset
+source/Oberon.Telnet.Mod -text svneol=unset#unset
+source/Oberon.TelnetGadgets.Mod -text svneol=unset#unset
+source/Oberon.TerminalFrames.Mod -text svneol=unset#unset
+source/Oberon.TerminalGadgets.Mod -text svneol=unset#unset
+source/Oberon.Terminals.Mod -text svneol=unset#unset
+source/Oberon.TestNet.Mod -text svneol=unset#unset
+source/Oberon.Tetris.Mod -text svneol=unset#unset
+source/Oberon.Text -text svneol=unset#unset
+source/Oberon.TextDocs.Mod -text svneol=unset#unset
+source/Oberon.TextFields.Mod -text svneol=unset#unset
+source/Oberon.TextFrames.Mod -text svneol=unset#unset
+source/Oberon.TextGadgets.Mod -text svneol=unset#unset
+source/Oberon.TextGadgets0.Mod -text svneol=unset#unset
+source/Oberon.TextMail.Mod -text svneol=unset#unset
+source/Oberon.TextPopups.Mod -text svneol=unset#unset
+source/Oberon.TextStreams.Mod -text svneol=unset#unset
+source/Oberon.Texts.Mod -text svneol=unset#unset
+source/Oberon.TimeStamps.Mod -text svneol=unset#unset
+source/Oberon.Types.Mod -text svneol=unset#unset
+source/Oberon.UDPExample.Mod -text svneol=unset#unset
+source/Oberon.UUDecoder.Mod -text svneol=unset#unset
+source/Oberon.V24.Mod -text svneol=unset#unset
+source/Oberon.V24Gadgets.Mod -text svneol=unset#unset
+source/Oberon.V24Log.Mod -text svneol=unset#unset
+source/Oberon.ViewSkeleton.Mod -text svneol=unset#unset
+source/Oberon.Viewers.Mod -text svneol=unset#unset
+source/Oberon.Views.Mod -text svneol=unset#unset
+source/Oberon.Vinci.Mod -text svneol=unset#unset
+source/Oberon.VinciDocs.Mod -text svneol=unset#unset
+source/Oberon.VinciEditors.Mod -text svneol=unset#unset
+source/Oberon.VinciGadgets.Mod -text svneol=unset#unset
+source/Oberon.VinciPens.Mod -text svneol=unset#unset
+source/Oberon.VinciShapes.Mod -text svneol=unset#unset
+source/Oberon.WTS.Mod -text svneol=unset#unset
+source/Oberon.WTSDraw.Mod -text svneol=unset#unset
+source/Oberon.WTSFold.Mod -text svneol=unset#unset
+source/Oberon.WTSPict.Mod -text svneol=unset#unset
+source/Oberon.WTSStamp.Mod -text svneol=unset#unset
+source/Oberon.Watson.Mod -text svneol=unset#unset
+source/Oberon.Watson0.Mod -text svneol=unset#unset
+source/Oberon.XBM.Mod -text svneol=unset#unset
+source/Oberon.XPM.Mod -text svneol=unset#unset
+source/Oberon.XYplane.Mod -text svneol=unset#unset
+source/Oberon.Zip.Mod -text svneol=unset#unset
+source/Oberon.ZipDocs.Mod -text svneol=unset#unset
+source/Oberon.ZipTool.Mod -text svneol=unset#unset
+source/Oberon.ZlibReaders.Mod -text svneol=unset#unset
+source/Oberon.ZlibWriters.Mod -text svneol=unset#unset
 source/Oberon10.Pr3.Fnt -text
 source/Oberon10.Pr6.Fnt -text
 source/Oberon10.Scn.Fnt -text
@@ -2985,249 +2985,249 @@ source/Oberon8b.Scn.Fnt -text
 source/Oberon8i.Pr3.Fnt -text
 source/Oberon8i.Pr6.Fnt -text
 source/Oberon8i.Scn.Fnt -text
-source/OberonDisplay.Mod -text svneol=unset#application/octet-stream
-source/OberonFS.Mod -text svneol=unset#application/octet-stream
-source/OberonInput.Mod -text svneol=unset#application/octet-stream
+source/OberonDisplay.Mod -text
+source/OberonFS.Mod -text
+source/OberonInput.Mod -text
 source/OberonReport.html -text
 source/ObjExplorer.Panel -text
 source/ObjectFile.Mod -text
-source/Objects.Mod -text svneol=unset#application/octet-stream
-source/OdAuth.Mod -text svneol=unset#application/octet-stream
-source/OdAuthBase.Mod -text svneol=unset#application/octet-stream
-source/OdClient.Mod -text svneol=unset#application/octet-stream
-source/OdClientTools.Mod -text svneol=unset#application/octet-stream
-source/OdCond.Mod -text svneol=unset#application/octet-stream
-source/OdDeltavBase.Mod -text svneol=unset#application/octet-stream
-source/OdPlugin.Mod -text svneol=unset#application/octet-stream
-source/OdSvn.Mod -text svneol=unset#application/octet-stream
-source/OdSvn.Tool -text
-source/OdUtil.Mod -text svneol=unset#application/octet-stream
-source/OdVCSBase.Mod -text svneol=unset#application/octet-stream
-source/OdXml.Mod -text svneol=unset#application/octet-stream
-source/OldDiskFS.Mod -text svneol=unset#application/octet-stream
-source/OldDiskVolumes.Mod -text svneol=unset#application/octet-stream
+source/Objects.Mod -text
+source/OdAuth.Mod -text
+source/OdAuthBase.Mod -text
+source/OdClient.Mod -text
+source/OdClientTools.Mod -text
+source/OdCond.Mod -text
+source/OdDeltavBase.Mod -text
+source/OdPlugin.Mod -text
+source/OdSvn.Mod -text
+source/OdSvn.Tool -text svneol=unset#unset
+source/OdUtil.Mod -text
+source/OdVCSBase.Mod -text
+source/OdXml.Mod -text
+source/OldDiskFS.Mod -text
+source/OldDiskVolumes.Mod -text
 source/OpenALSound.Mod -text
-source/OpenType.Mod -text svneol=unset#application/octet-stream
-source/OpenTypeFonts.Mod -text svneol=unset#application/octet-stream
-source/OpenTypeInt.Mod -text svneol=unset#application/octet-stream
-source/OpenTypeScan.Mod -text svneol=unset#application/octet-stream
-source/Options.Mod -text svneol=unset#application/octet-stream
-source/Outlines.Tool -text
-source/PC.Mod -text svneol=unset#application/octet-stream
-source/PC.Tool -text
-source/PCA386.Mod -text svneol=unset#application/octet-stream
-source/PCAAMD64.Mod -text svneol=unset#application/octet-stream
-source/PCAARM.Mod -text svneol=unset#application/octet-stream
-source/PCARMCP.Mod -text svneol=unset#application/octet-stream
-source/PCARMRegisters.Mod -text svneol=unset#application/octet-stream
-source/PCArrays.Mod -text svneol=unset#application/octet-stream
-source/PCB.Mod -text svneol=unset#application/octet-stream
-source/PCBT.Mod -text svneol=unset#application/octet-stream
-source/PCC.Mod -text svneol=unset#application/octet-stream
-source/PCDebug.Mod -text svneol=unset#application/octet-stream
-source/PCG386.Mod -text svneol=unset#application/octet-stream
-source/PCGAMD64.Mod -text svneol=unset#application/octet-stream
-source/PCGARM.Mod -text svneol=unset#application/octet-stream
-source/PCITools.Mod -text svneol=unset#application/octet-stream
-source/PCLIR.Mod -text svneol=unset#application/octet-stream
-source/PCM.Mod -text svneol=unset#application/octet-stream
-source/PCO.Mod -text svneol=unset#application/octet-stream
-source/PCOARM.Mod -text svneol=unset#application/octet-stream
-source/PCOF.Mod -text svneol=unset#application/octet-stream
-source/PCOFPE.Mod -text svneol=unset#application/octet-stream
-source/PCOM.Mod -text svneol=unset#application/octet-stream
-source/PCP.Mod -text svneol=unset#application/octet-stream
-source/PCS.Mod -text svneol=unset#application/octet-stream
-source/PCT.Mod -text svneol=unset#application/octet-stream
-source/PCTest.Mod -text svneol=unset#application/octet-stream
-source/PCV.Mod -text svneol=unset#application/octet-stream
-source/PDF.Mod -text svneol=unset#application/octet-stream
-source/PDFExample.Mod -text svneol=unset#application/octet-stream
-source/PELinker.Tool -text
-source/PET.Mod -text svneol=unset#application/octet-stream
+source/OpenType.Mod -text
+source/OpenTypeFonts.Mod -text
+source/OpenTypeInt.Mod -text
+source/OpenTypeScan.Mod -text
+source/Options.Mod -text
+source/Outlines.Tool -text svneol=unset#unset
+source/PC.Mod -text
+source/PC.Tool -text svneol=unset#unset
+source/PCA386.Mod -text
+source/PCAAMD64.Mod -text
+source/PCAARM.Mod -text
+source/PCARMCP.Mod -text
+source/PCARMRegisters.Mod -text
+source/PCArrays.Mod -text
+source/PCB.Mod -text
+source/PCBT.Mod -text
+source/PCC.Mod -text
+source/PCDebug.Mod -text
+source/PCG386.Mod -text
+source/PCGAMD64.Mod -text
+source/PCGARM.Mod -text
+source/PCITools.Mod -text
+source/PCLIR.Mod -text
+source/PCM.Mod -text
+source/PCO.Mod -text
+source/PCOARM.Mod -text
+source/PCOF.Mod -text
+source/PCOFPE.Mod -text
+source/PCOM.Mod -text
+source/PCP.Mod -text
+source/PCS.Mod -text
+source/PCT.Mod -text
+source/PCTest.Mod -text
+source/PCV.Mod -text
+source/PDF.Mod -text
+source/PDFExample.Mod -text
+source/PELinker.Tool -text svneol=unset#unset
+source/PET.Mod -text
 source/PETIcons.tar -text
-source/PETModuleTree.Mod -text svneol=unset#application/octet-stream
-source/PETReleaseTree.Mod -text svneol=unset#application/octet-stream
-source/PETTrees.Mod -text svneol=unset#application/octet-stream
-source/PETXMLTree.Mod -text svneol=unset#application/octet-stream
-source/PNGDecoder.Mod -text svneol=unset#application/octet-stream
-source/POP3Client.Mod -text svneol=unset#application/octet-stream
-source/PS.HeaderR.Text -text
-source/PSHeader.Text -text
-source/Packages.Tool -text
+source/PETModuleTree.Mod -text
+source/PETReleaseTree.Mod -text
+source/PETTrees.Mod -text
+source/PETXMLTree.Mod -text
+source/PNGDecoder.Mod -text
+source/POP3Client.Mod -text
+source/PS.HeaderR.Text -text svneol=unset#unset
+source/PSHeader.Text -text svneol=unset#unset
+source/Packages.Tool -text svneol=unset#unset
 source/Parser.FRM -text
-source/PartitionEditor.Mod -text svneol=unset#application/octet-stream
-source/PartitionEditorComponents.Mod -text svneol=unset#application/octet-stream
-source/PartitionEditorTable.Mod -text svneol=unset#application/octet-stream
-source/Partitions.Mod -text svneol=unset#application/octet-stream
-source/Partitions.Tool -text
-source/PartitionsLib.Mod -text svneol=unset#application/octet-stream
+source/PartitionEditor.Mod -text
+source/PartitionEditorComponents.Mod -text
+source/PartitionEditorTable.Mod -text
+source/Partitions.Mod -text
+source/Partitions.Tool -text svneol=unset#unset
+source/PartitionsLib.Mod -text
 source/Pebbles.Pict -text
-source/Performance.Mod -text svneol=unset#application/octet-stream
+source/Performance.Mod -text
 source/Philus10.Scn.Fnt -text
 source/Philus10b.Scn.Fnt -text
 source/Philus12.Scn.Fnt -text
 source/Philus12b.Scn.Fnt -text
 source/PhonePad.Panel -text
-source/PictConverters.Tool -text
-source/PictImages.Mod -text svneol=unset#application/octet-stream
-source/PieTest.Mod -text svneol=unset#application/octet-stream
-source/Ping.Mod -text svneol=unset#application/octet-stream
+source/PictConverters.Tool -text svneol=unset#unset
+source/PictImages.Mod -text
+source/PieTest.Mod -text
+source/Ping.Mod -text
 source/PinyinIMEPhrases.txt -text
 source/PinyinIMETable.txt -text
-source/Pipes.Mod -text svneol=unset#application/octet-stream
+source/Pipes.Mod -text
 source/Plasma.Pict -text
 source/Plotter.Panel -text
-source/Plugins.Mod -text svneol=unset#application/octet-stream
-source/Popups.Tool -text
-source/PositionDebugging.Mod -text svneol=unset#application/octet-stream
+source/Plugins.Mod -text
+source/Popups.Tool -text svneol=unset#unset
+source/PositionDebugging.Mod -text
 source/PowerManagementEvents.Mod -text
-source/PresentViewer.Mod -text svneol=unset#application/octet-stream
-source/Presentation.Mod -text svneol=unset#application/octet-stream
+source/PresentViewer.Mod -text
+source/Presentation.Mod -text
 source/PrettyPrint.Mod -text
 source/PrettyPrintHighlighter.XML -text
-source/PrevalenceSystem.Mod -text svneol=unset#application/octet-stream
-source/Printers.Tool -text
+source/PrevalenceSystem.Mod -text
+source/Printers.Tool -text svneol=unset#unset
 source/ProcessInfo.Mod -text
 source/ProcessInfo0.Mod -text
-source/Profiler.Mod -text svneol=unset#application/octet-stream
-source/Programming.Tool -text
-source/Quickstart.Text -text
-source/QuoteServer.Mod -text svneol=unset#application/octet-stream
+source/Profiler.Mod -text
+source/Programming.Tool -text svneol=unset#unset
+source/Quickstart.Text -text svneol=unset#unset
+source/QuoteServer.Mod -text
 source/Quotes.txt -text
-source/RAMVolumes.Mod -text svneol=unset#application/octet-stream
-source/RAWPrinter.Mod -text svneol=unset#application/octet-stream
-source/RFC865Client.Mod -text svneol=unset#application/octet-stream
-source/RMSMTP.Mod -text svneol=unset#application/octet-stream
-source/RTL8139.Mod -text svneol=unset#application/octet-stream
-source/RTL8169.Mod -text svneol=unset#application/octet-stream
-source/RX.Tool -text
+source/RAMVolumes.Mod -text
+source/RAWPrinter.Mod -text
+source/RFC865Client.Mod -text
+source/RMSMTP.Mod -text
+source/RTL8139.Mod -text
+source/RTL8169.Mod -text
+source/RX.Tool -text svneol=unset#unset
 source/Radicals.txt -text
 source/Rainbow.jp2 -text
-source/Random.Mod -text svneol=unset#application/octet-stream
-source/RasterPixelFormats.Mod -text svneol=unset#application/octet-stream
+source/Random.Mod -text
+source/RasterPixelFormats.Mod -text
 source/Reboot.Mod -text
 source/Rect2.Shape -text
-source/References.Text -text
-source/Reflection.Mod -text svneol=unset#application/octet-stream
-source/RegisterRFW.Mod -text svneol=unset#application/octet-stream
-source/RelativeFileSystem.Mod -text svneol=unset#application/octet-stream
+source/References.Text -text svneol=unset#unset
+source/Reflection.Mod -text
+source/RegisterRFW.Mod -text
+source/RelativeFileSystem.Mod -text
 source/Release.Auto.dsk -text
-source/Release.Mod -text svneol=unset#application/octet-stream
-source/Release.NetSystem.Tool -text
-source/Release.Oberon.Text -text
-source/Release.Popups.Tool -text
-source/Release.Tool -text svneol=unset#application/octet-stream
-source/ReleaseThreadPool.Mod -text svneol=unset#application/octet-stream
-source/ReleaseVisualizer.Mod -text svneol=unset#application/octet-stream
-source/ReleaseVisualizerScanner.Mod -text svneol=unset#application/octet-stream
+source/Release.Mod -text
+source/Release.NetSystem.Tool -text svneol=unset#unset
+source/Release.Oberon.Text -text svneol=unset#unset
+source/Release.Popups.Tool -text svneol=unset#unset
+source/Release.Tool -text
+source/ReleaseThreadPool.Mod -text
+source/ReleaseVisualizer.Mod -text
+source/ReleaseVisualizerScanner.Mod -text
 source/Rembrandt.Lib -text
 source/Rembrandt.Panel -text
 source/Rename.TFMailConfig.XML -text
 source/ReplaySystem.Mod -text
-source/Repositories.Mod -text svneol=unset#application/octet-stream
+source/Repositories.Mod -text
 source/RetoWMSlideshow.XML -text
-source/RfsClientProxy.Mod -text svneol=unset#application/octet-stream
-source/RfsConnection.Mod -text svneol=unset#application/octet-stream
-source/RfsFS.Mod -text svneol=unset#application/octet-stream
+source/RfsClientProxy.Mod -text
+source/RfsConnection.Mod -text
+source/RfsFS.Mod -text
 source/Room.poly -text
-source/Runtime.Mod -text svneol=unset#application/octet-stream
-source/SCSI.Mod -text svneol=unset#application/octet-stream
-source/SMTPClient.Mod -text svneol=unset#application/octet-stream
-source/SSFS.Mod -text svneol=unset#application/octet-stream
-source/SSH.Configuration.Text -text
-source/SSH.Mod -text svneol=unset#application/octet-stream
-source/SSH.Tool -text
-source/SSHAuthorize.Mod -text svneol=unset#application/octet-stream
-source/SSHClient.Mod -text svneol=unset#application/octet-stream
-source/SSHGlobals.Mod -text svneol=unset#application/octet-stream
-source/SSHKeys.Mod -text svneol=unset#application/octet-stream
-source/SSHTransport.Mod -text svneol=unset#application/octet-stream
-source/SVG.Mod -text svneol=unset#application/octet-stream
-source/SVGColors.Mod -text svneol=unset#application/octet-stream
-source/SVGDecoder.Mod -text svneol=unset#application/octet-stream
-source/SVGFilters.Mod -text svneol=unset#application/octet-stream
-source/SVGGradients.Mod -text svneol=unset#application/octet-stream
-source/SVGLoader.Mod -text svneol=unset#application/octet-stream
-source/SVGMatrix.Mod -text svneol=unset#application/octet-stream
-source/SVGRenderer.Mod -text svneol=unset#application/octet-stream
-source/SVGUtilities.Mod -text svneol=unset#application/octet-stream
-source/SVN.Mod -text svneol=unset#application/octet-stream
-source/SVN.Text -text
-source/SVNAdmin.Mod -text svneol=unset#application/octet-stream
-source/SVNArgument.Mod -text svneol=unset#application/octet-stream
-source/SVNOutput.Mod -text svneol=unset#application/octet-stream
-source/SVNUtil.Mod -text svneol=unset#application/octet-stream
-source/SVNWebDAV.Mod -text svneol=unset#application/octet-stream
+source/Runtime.Mod -text
+source/SCSI.Mod -text
+source/SMTPClient.Mod -text
+source/SSFS.Mod -text
+source/SSH.Configuration.Text -text svneol=unset#unset
+source/SSH.Mod -text
+source/SSH.Tool -text svneol=unset#unset
+source/SSHAuthorize.Mod -text
+source/SSHClient.Mod -text
+source/SSHGlobals.Mod -text
+source/SSHKeys.Mod -text
+source/SSHTransport.Mod -text
+source/SVG.Mod -text
+source/SVGColors.Mod -text
+source/SVGDecoder.Mod -text
+source/SVGFilters.Mod -text
+source/SVGGradients.Mod -text
+source/SVGLoader.Mod -text
+source/SVGMatrix.Mod -text
+source/SVGRenderer.Mod -text
+source/SVGUtilities.Mod -text
+source/SVN.Mod -text
+source/SVN.Text -text svneol=unset#unset
+source/SVNAdmin.Mod -text
+source/SVNArgument.Mod -text
+source/SVNOutput.Mod -text
+source/SVNUtil.Mod -text
+source/SVNWebDAV.Mod -text
 source/SaasFee.jpg -text
-source/Sage.UDPChat.Text -text
-source/Sage.UDPChatBase.Mod -text svneol=unset#application/octet-stream
-source/Sage.UDPChatClient.Mod -text svneol=unset#application/octet-stream
-source/Sage.UDPChatServer.Mod -text svneol=unset#application/octet-stream
-source/SambaClient.Mod -text svneol=unset#application/octet-stream
-source/SambaServer.Mod -text svneol=unset#application/octet-stream
-source/SamplePrograms.Tool -text
+source/Sage.UDPChat.Text -text svneol=unset#unset
+source/Sage.UDPChatBase.Mod -text
+source/Sage.UDPChatClient.Mod -text
+source/Sage.UDPChatServer.Mod -text
+source/SambaClient.Mod -text
+source/SambaServer.Mod -text
+source/SamplePrograms.Tool -text svneol=unset#unset
 source/Save.Configuration.XML -text
 source/SaveLife.gif -text
 source/SaveLife.html -text
 source/SavePoints.Data -text
-source/SavePoints.Text -text
-source/SaveScreen.Text -text
-source/SaveScreen.Tool -text
+source/SavePoints.Text -text svneol=unset#unset
+source/SaveScreen.Text -text svneol=unset#unset
+source/SaveScreen.Tool -text svneol=unset#unset
 source/Scanner.FRM -text
 source/Scheme.Init -text
-source/Script.Tool -text
-source/ScriptGuide.Text -text
-source/SearchTools.Mod -text svneol=unset#application/octet-stream
+source/Script.Tool -text svneol=unset#unset
+source/ScriptGuide.Text -text svneol=unset#unset
+source/SearchTools.Mod -text
 source/SerialNetwork.Mod -text
-source/Serials.Mod -text svneol=unset#application/octet-stream
-source/SerialsVirtual.Mod -text svneol=unset#application/octet-stream
-source/Setup.Text -text
+source/Serials.Mod -text
+source/SerialsVirtual.Mod -text
+source/Setup.Text -text svneol=unset#unset
 source/Shanghai.Scn.Fnt -text
 source/Shapes.rep -text
 source/Shell.Alias -text
-source/Shell.Mod -text svneol=unset#application/octet-stream
-source/ShellCommands.Mod -text svneol=unset#application/octet-stream
-source/ShellSerial.Mod -text svneol=unset#application/octet-stream
+source/Shell.Mod -text
+source/ShellCommands.Mod -text
+source/ShellSerial.Mod -text
 source/Simulator.Panel -text
 source/Single.ccg -text
 source/Sisyphus.Data -text
 source/SkinConfig.XML -text
-source/SkinEditor.Mod -text svneol=unset#application/octet-stream
-source/SkinEngine.Mod -text svneol=unset#application/octet-stream
-source/SkinLanguage.Mod -text svneol=unset#application/octet-stream
+source/SkinEditor.Mod -text
+source/SkinEngine.Mod -text
+source/SkinLanguage.Mod -text
 source/SkinList.XML -text
-source/SkinTutorial.Text -text
+source/SkinTutorial.Text -text svneol=unset#unset
 source/SlideShowData.tar -text
 source/Smiley.Vinci -text
-source/Snapshot.Tool -text
-source/Snow.Mod -text svneol=unset#application/octet-stream
+source/Snapshot.Tool -text svneol=unset#unset
+source/Snow.Mod -text
 source/Sokoban.Data -text
-source/Solaris.Unix.Mod -text svneol=unset#application/octet-stream
+source/Solaris.Unix.Mod -text
 source/Song.ccg -text
-source/Sort.Tool -text
+source/Sort.Tool -text svneol=unset#unset
 source/SortDemo.Mod -text
-source/SoundDevices.Mod -text svneol=unset#application/octet-stream
+source/SoundDevices.Mod -text
 source/Sphere.poly -text
 source/Spirals.Pict -text
 source/Standard.rep -text
 source/Stars.Vinci -text
 source/StartConsole.Mod -text
-source/StartMenu.Mod -text svneol=unset#application/octet-stream
+source/StartMenu.Mod -text
 source/StartMenu.rep -text
 source/StaticLinker.Mod -text
 source/StreamUtilities.Mod -text
-source/Streams.Mod -text svneol=unset#application/octet-stream
-source/StringPool.Mod -text svneol=unset#application/octet-stream
-source/Strings.Mod -text svneol=unset#application/octet-stream
+source/Streams.Mod -text
+source/StringPool.Mod -text
+source/Strings.Mod -text
 source/Surface.Pict -text
 source/Swarm.Book -text
 source/Swarm.Lib -text
 source/Swarm.Panel -text
-source/SymbiosASPI.Mod -text svneol=unset#application/octet-stream
-source/SymbiosDisks.Mod -text svneol=unset#application/octet-stream
+source/SymbiosASPI.Mod -text
+source/SymbiosDisks.Mod -text
 source/Symbols.Lib -text
-source/SynergyClient.Mod -text svneol=unset#application/octet-stream
+source/SynergyClient.Mod -text
 source/Syntax10.Pr3.Fnt -text
 source/Syntax10.Scn.Fnt -text
 source/Syntax10b.Pr3.Fnt -text
@@ -3284,12 +3284,12 @@ source/Syntax8i.Pr3.Fnt -text
 source/Syntax8i.Scn.Fnt -text
 source/Syntax8m.Pr3.Fnt -text
 source/Syntax8m.Scn.Fnt -text
-source/SyntaxHighlighter.Mod -text svneol=unset#application/octet-stream
+source/SyntaxHighlighter.Mod -text
 source/SyntaxHighlighter.XML -text
-source/System.Text -text
-source/System.Tool -text
+source/System.Text -text svneol=unset#unset
+source/System.Tool -text svneol=unset#unset
 source/System.rep -text
-source/System3.Tool -text
+source/System3.Tool -text svneol=unset#unset
 source/System3F1.Graphic -text
 source/System3F2.Graphic -text
 source/System3F3.Graphic -text
@@ -3297,190 +3297,190 @@ source/System3F4.Graphic -text
 source/System3F5.Graphic -text
 source/System3F6.Graphic -text
 source/System3F7.Graphic -text
-source/SystemTools.Mod -text svneol=unset#application/octet-stream
+source/SystemTools.Mod -text
 source/SystemVersion.Mod -text
-source/TCP.Mod -text svneol=unset#application/octet-stream
-source/TCPPortLog.Mod -text svneol=unset#application/octet-stream
-source/TCPServices.Mod -text svneol=unset#application/octet-stream
-source/TCPTools.Mod -text svneol=unset#application/octet-stream
+source/TCP.Mod -text
+source/TCPPortLog.Mod -text
+source/TCPServices.Mod -text
+source/TCPTools.Mod -text
 source/TFAOParser.Mod -text
 source/TFCheck.Mod -text
-source/TFClasses.Mod -text svneol=unset#application/octet-stream
+source/TFClasses.Mod -text
 source/TFDocGenerator.Mod -text
 source/TFDumpTS.Mod -text
-source/TFLog.Mod -text svneol=unset#application/octet-stream
+source/TFLog.Mod -text
 source/TFModuleTrees.Mod -text
 source/TFPET.Mod -text
 source/TFPET.Tool -text
-source/TFSMTPServer.Mod -text svneol=unset#application/octet-stream
-source/TFSMTPServer.Text -text
+source/TFSMTPServer.Mod -text
+source/TFSMTPServer.Text -text svneol=unset#unset
 source/TFScopeTools.Mod -text
 source/TFStringPool.Mod -text
-source/TFTP.Mod -text svneol=unset#application/octet-stream
-source/TFTPFS.Mod -text svneol=unset#application/octet-stream
-source/TFTPServer.Mod -text svneol=unset#application/octet-stream
+source/TFTP.Mod -text
+source/TFTPFS.Mod -text
+source/TFTPServer.Mod -text
 source/TFTypeSys.Mod -text
-source/TFWebForum.Mod -text svneol=unset#application/octet-stream
+source/TFWebForum.Mod -text
 source/TFXRef.Mod -text
-source/TLS.Mod -text svneol=unset#application/octet-stream
-source/TV.Mod -text svneol=unset#application/octet-stream
-source/TV.Tool -text
-source/TVChannels.Mod -text svneol=unset#application/octet-stream
+source/TLS.Mod -text
+source/TV.Mod -text
+source/TV.Tool -text svneol=unset#unset
+source/TVChannels.Mod -text
 source/TVChannels.XML -text
-source/TVDriver.Mod -text svneol=unset#application/octet-stream
-source/TVRemoteControl.Mod -text svneol=unset#application/octet-stream
-source/Tar.Mod -text svneol=unset#application/octet-stream
-source/TaskScheduler.Mod -text svneol=unset#application/octet-stream
-source/TeletextBrowser.Mod -text svneol=unset#application/octet-stream
-source/TeletextDecoder.Mod -text svneol=unset#application/octet-stream
-source/TeletextFont.Mod -text svneol=unset#application/octet-stream
+source/TVDriver.Mod -text
+source/TVRemoteControl.Mod -text
+source/Tar.Mod -text
+source/TaskScheduler.Mod -text
+source/TeletextBrowser.Mod -text
+source/TeletextDecoder.Mod -text
+source/TeletextFont.Mod -text
 source/TeletextServer.zip -text
-source/TeletextViewer.Mod -text svneol=unset#application/octet-stream
-source/Telnet.Mod -text svneol=unset#application/octet-stream
+source/TeletextViewer.Mod -text
+source/Telnet.Mod -text
 source/Telnet.Panel -text
-source/Telnet.Tool -text
-source/TemplateMultiInstance.txt -text
-source/TemplateMultiInstanceBase.txt -text
+source/Telnet.Tool -text svneol=unset#unset
+source/TemplateMultiInstance.txt -text svneol=unset#unset
+source/TemplateMultiInstanceBase.txt -text svneol=unset#unset
 source/Test.Vinci -text
 source/Test1.Vinci -text
 source/Test2.Vinci -text
-source/TestComponentDragDrop.Mod -text svneol=unset#application/octet-stream
-source/TestComponents.Mod -text svneol=unset#application/octet-stream
+source/TestComponentDragDrop.Mod -text
+source/TestComponents.Mod -text
 source/TestContext.xml -text
-source/TestDates.Mod -text svneol=unset#application/octet-stream
-source/TestFiles.Mod -text svneol=unset#application/octet-stream
-source/TestHTML.Text -text
-source/TestLocks.Mod -text svneol=unset#application/octet-stream
-source/TestMenu.Mod -text svneol=unset#application/octet-stream
+source/TestDates.Mod -text
+source/TestFiles.Mod -text
+source/TestHTML.Text -text svneol=unset#unset
+source/TestLocks.Mod -text
+source/TestMenu.Mod -text
 source/TestOrganizer.Panel -text
-source/TestServer.Mod -text svneol=unset#application/octet-stream
-source/TestStrings.Mod -text svneol=unset#application/octet-stream
-source/TestSuite.Mod -text svneol=unset#application/octet-stream
-source/TestTrees.Mod -text svneol=unset#application/octet-stream
-source/TestVideo.Mod -text svneol=unset#application/octet-stream
-source/TestXMLPlugins.Mod -text svneol=unset#application/octet-stream
+source/TestServer.Mod -text
+source/TestStrings.Mod -text
+source/TestSuite.Mod -text
+source/TestTrees.Mod -text
+source/TestVideo.Mod -text
+source/TestXMLPlugins.Mod -text
 source/Tetra.poly -text
 source/Tetris.Panel -text
-source/TextConverter.Mod -text svneol=unset#application/octet-stream
+source/TextConverter.Mod -text
 source/TextDocs.Lib -text
 source/TextDocs.Panel -text
-source/TextDocs.Tool -text
-source/TextPopups.Text -text
-source/TextPopups.Tool -text
-source/TextUtilities.Mod -text svneol=unset#application/octet-stream
+source/TextDocs.Tool -text svneol=unset#unset
+source/TextPopups.Text -text svneol=unset#unset
+source/TextPopups.Tool -text svneol=unset#unset
+source/TextUtilities.Mod -text
 source/Textils.Pict -text
-source/Texts.Mod -text svneol=unset#application/octet-stream
+source/Texts.Mod -text
 source/Threads.Pict -text
-source/Tools.Tool -text
-source/Trace.Mod -text svneol=unset#application/octet-stream
-source/TraceRoute.Mod -text svneol=unset#application/octet-stream
+source/Tools.Tool -text svneol=unset#unset
+source/Trace.Mod -text
+source/TraceRoute.Mod -text
 source/TrapWriters.Mod -text
-source/Traps.Mod -text svneol=unset#application/octet-stream
+source/Traps.Mod -text
 source/Tree.poly -text
 source/Tree1.Pict -text
 source/Trees.Pict -text
-source/TuringCoatWnd.Mod -text svneol=unset#application/octet-stream
-source/Tutorial.Text -text
+source/TuringCoatWnd.Mod -text
+source/Tutorial.Text -text svneol=unset#unset
 source/Tutorials.Book -text
-source/Tutorials.Tool -text
-source/Types.Mod -text svneol=unset#application/octet-stream
-source/UDP.Mod -text svneol=unset#application/octet-stream
-source/UTF8Strings.Mod -text svneol=unset#application/octet-stream
-source/UndoManager.Mod -text svneol=unset#application/octet-stream
-source/UnicodeBidirectionality.Mod -text svneol=unset#application/octet-stream
+source/Tutorials.Tool -text svneol=unset#unset
+source/Types.Mod -text
+source/UDP.Mod -text
+source/UTF8Strings.Mod -text
+source/UndoManager.Mod -text
+source/UnicodeBidirectionality.Mod -text
 source/UnicodeData.txt -text
-source/UnicodeProperties.Mod -text svneol=unset#application/octet-stream
-source/UnihanParser.Mod -text svneol=unset#application/octet-stream
-source/Unix.Beep.Mod -text svneol=unset#application/octet-stream
-source/Unix.BootConsole.Mod -text svneol=unset#application/octet-stream
-source/Unix.BootLinker.Mod -text svneol=unset#application/octet-stream
+source/UnicodeProperties.Mod -text
+source/UnihanParser.Mod -text
+source/Unix.Beep.Mod -text
+source/Unix.BootConsole.Mod -text
+source/Unix.BootLinker.Mod -text
 source/Unix.BootLinkerHeaps.Mod -text
 source/Unix.BootLinkerLoader.Mod -text
 source/Unix.BootLinkerModules.Mod -text
 source/Unix.Clipboard.Mod -text
-source/Unix.Clock.Mod -text svneol=unset#application/octet-stream
-source/Unix.DNS.Mod -text svneol=unset#application/octet-stream
-source/Unix.DisplayRefresher.Mod -text svneol=unset#application/octet-stream
-source/Unix.Glue.Mod -text svneol=unset#application/octet-stream
-source/Unix.Heaps.Mod -text svneol=unset#application/octet-stream
-source/Unix.I386.Machine.Mod -text svneol=unset#application/octet-stream
-source/Unix.IP.Mod -text svneol=unset#application/octet-stream
-source/Unix.KbdMouse.Mod -text svneol=unset#application/octet-stream
-source/Unix.Kernel.Mod -text svneol=unset#application/octet-stream
-source/Unix.Oberon.Clipboard.Mod -text
-source/Unix.Oberon.NetSystem.Mod -text
-source/Unix.Oberon.Printer.Mod -text
-source/Unix.Oberon.Scrollbars.Mod -text
-source/Unix.Oberon.TextDocs.Mod -text
-source/Unix.Oberon.TextGadgets.Mod -text
-source/Unix.Oberon.TextGadgets0.Mod -text
-source/Unix.Oberon.TextSBControl.Mod -text
-source/Unix.Oberon.UnixPrinter.Mod -text
-source/Unix.Objects.Mod -text svneol=unset#application/octet-stream
+source/Unix.Clock.Mod -text
+source/Unix.DNS.Mod -text
+source/Unix.DisplayRefresher.Mod -text
+source/Unix.Glue.Mod -text
+source/Unix.Heaps.Mod -text
+source/Unix.I386.Machine.Mod -text
+source/Unix.IP.Mod -text
+source/Unix.KbdMouse.Mod -text
+source/Unix.Kernel.Mod -text
+source/Unix.Oberon.Clipboard.Mod -text svneol=unset#unset
+source/Unix.Oberon.NetSystem.Mod -text svneol=unset#unset
+source/Unix.Oberon.Printer.Mod -text svneol=unset#unset
+source/Unix.Oberon.Scrollbars.Mod -text svneol=unset#unset
+source/Unix.Oberon.TextDocs.Mod -text svneol=unset#unset
+source/Unix.Oberon.TextGadgets.Mod -text svneol=unset#unset
+source/Unix.Oberon.TextGadgets0.Mod -text svneol=unset#unset
+source/Unix.Oberon.TextSBControl.Mod -text svneol=unset#unset
+source/Unix.Oberon.UnixPrinter.Mod -text svneol=unset#unset
+source/Unix.Objects.Mod -text
 source/Unix.OpenAL.Mod -text
 source/Unix.ProcessInfo0.Mod -text
 source/Unix.Sockets.Mod -text
 source/Unix.StdIO.Mod -text
-source/Unix.TCP.Mod -text svneol=unset#application/octet-stream
-source/Unix.Traps.Mod -text svneol=unset#application/octet-stream
-source/Unix.UDP.Mod -text svneol=unset#application/octet-stream
-source/Unix.UnixFiles.Mod -text svneol=unset#application/octet-stream
+source/Unix.TCP.Mod -text
+source/Unix.Traps.Mod -text
+source/Unix.UDP.Mod -text
+source/Unix.UnixFiles.Mod -text
 source/Unix.V24.Mod -text
-source/Unix.WMPerfMonPluginCpu.Mod -text svneol=unset#application/octet-stream
-source/Unix.WMPerfMonPluginMemory.Mod -text svneol=unset#application/octet-stream
-source/Unix.X11.Mod -text svneol=unset#application/octet-stream
+source/Unix.WMPerfMonPluginCpu.Mod -text
+source/Unix.WMPerfMonPluginMemory.Mod -text
+source/Unix.X11.Mod -text
 source/Unix.X11Api.Mod -text
-source/Unix.XDisplay.Mod -text svneol=unset#application/octet-stream
-source/UnixAos.Tool -text
-source/Unzip.Mod -text svneol=unset#application/octet-stream
-source/UpTime.Mod -text svneol=unset#application/octet-stream
-source/Usb.Mod -text svneol=unset#application/octet-stream
-source/Usb.Text -text
-source/UsbBluetooth.Mod -text svneol=unset#application/octet-stream
-source/UsbDebug.Mod -text svneol=unset#application/octet-stream
-source/UsbDriverLoader.Mod -text svneol=unset#application/octet-stream
-source/UsbEhci.Mod -text svneol=unset#application/octet-stream
+source/Unix.XDisplay.Mod -text
+source/UnixAos.Tool -text svneol=unset#unset
+source/Unzip.Mod -text
+source/UpTime.Mod -text
+source/Usb.Mod -text
+source/Usb.Text -text svneol=unset#unset
+source/UsbBluetooth.Mod -text
+source/UsbDebug.Mod -text
+source/UsbDriverLoader.Mod -text
+source/UsbEhci.Mod -text
 source/UsbFTDI.Mod -text
-source/UsbGarminGPS18.Mod -text svneol=unset#application/octet-stream
-source/UsbHcdi.Mod -text svneol=unset#application/octet-stream
-source/UsbHid.Mod -text svneol=unset#application/octet-stream
-source/UsbHidDriver.Mod -text svneol=unset#application/octet-stream
-source/UsbHidErrors.Mod -text svneol=unset#application/octet-stream
-source/UsbHidParser.Mod -text svneol=unset#application/octet-stream
-source/UsbHidParserExt.Mod -text svneol=unset#application/octet-stream
-source/UsbHidReport.Mod -text svneol=unset#application/octet-stream
-source/UsbHidUP.Mod -text svneol=unset#application/octet-stream
-source/UsbHubDriver.Mod -text svneol=unset#application/octet-stream
-source/UsbInfo.Mod -text svneol=unset#application/octet-stream
-source/UsbMouse.Mod -text svneol=unset#application/octet-stream
-source/UsbNetwork.Mod -text svneol=unset#application/octet-stream
-source/UsbNetworkUSB200M.Mod -text svneol=unset#application/octet-stream
-source/UsbOhci.Mod -text svneol=unset#application/octet-stream
-source/UsbPrinter.Mod -text svneol=unset#application/octet-stream
-source/UsbRS232.Mod -text svneol=unset#application/octet-stream
-source/UsbSkeleton.Mod -text svneol=unset#application/octet-stream
-source/UsbStorage.Mod -text svneol=unset#application/octet-stream
-source/UsbStorageBase.Mod -text svneol=unset#application/octet-stream
-source/UsbStorageBoot.Mod -text svneol=unset#application/octet-stream
-source/UsbStorageBot.Mod -text svneol=unset#application/octet-stream
-source/UsbStorageCbi.Mod -text svneol=unset#application/octet-stream
-source/UsbStorageScm.Mod -text svneol=unset#application/octet-stream
-source/UsbTools.Mod -text svneol=unset#application/octet-stream
+source/UsbGarminGPS18.Mod -text
+source/UsbHcdi.Mod -text
+source/UsbHid.Mod -text
+source/UsbHidDriver.Mod -text
+source/UsbHidErrors.Mod -text
+source/UsbHidParser.Mod -text
+source/UsbHidParserExt.Mod -text
+source/UsbHidReport.Mod -text
+source/UsbHidUP.Mod -text
+source/UsbHubDriver.Mod -text
+source/UsbInfo.Mod -text
+source/UsbMouse.Mod -text
+source/UsbNetwork.Mod -text
+source/UsbNetworkUSB200M.Mod -text
+source/UsbOhci.Mod -text
+source/UsbPrinter.Mod -text
+source/UsbRS232.Mod -text
+source/UsbSkeleton.Mod -text
+source/UsbStorage.Mod -text
+source/UsbStorageBase.Mod -text
+source/UsbStorageBoot.Mod -text
+source/UsbStorageBot.Mod -text
+source/UsbStorageCbi.Mod -text
+source/UsbStorageScm.Mod -text
+source/UsbTools.Mod -text
 source/UsbTouchscreen.Mod -text
-source/UsbUhci.Mod -text svneol=unset#application/octet-stream
-source/UsbUtilities.Mod -text svneol=unset#application/octet-stream
-source/Usbdi.Mod -text svneol=unset#application/octet-stream
-source/UserGuide.Text -text
-source/V24.Mod -text svneol=unset#application/octet-stream
+source/UsbUhci.Mod -text
+source/UsbUtilities.Mod -text
+source/Usbdi.Mod -text
+source/UserGuide.Text -text svneol=unset#unset
+source/V24.Mod -text
 source/V24.Panel -text
-source/V24Tracer.Mod -text svneol=unset#application/octet-stream
-source/VNC.Mod -text svneol=unset#application/octet-stream
-source/VNCServer.Mod -text svneol=unset#application/octet-stream
-source/VNCTetrisServer.Mod -text svneol=unset#application/octet-stream
-source/VecCplx.Mod -text svneol=unset#application/octet-stream
-source/VecInt.Mod -text svneol=unset#application/octet-stream
-source/VecRat.Mod -text svneol=unset#application/octet-stream
-source/VecRe.Mod -text svneol=unset#application/octet-stream
+source/V24Tracer.Mod -text
+source/VNC.Mod -text
+source/VNCServer.Mod -text
+source/VNCTetrisServer.Mod -text
+source/VecCplx.Mod -text
+source/VecInt.Mod -text
+source/VecRat.Mod -text
+source/VecRe.Mod -text
 source/Vera.ttf -text
 source/VeraBI.ttf -text
 source/VeraBd.ttf -text
@@ -3493,321 +3493,321 @@ source/VeraMoI.ttf -text
 source/VeraSe.ttf -text
 source/VeraSeBd.ttf -text
 source/Versioning.Mod -text
-source/VideoExample.Mod -text svneol=unset#application/octet-stream
+source/VideoExample.Mod -text
 source/Vinci.Init -text
-source/Vinci.Text -text
-source/VirtualDisks.Mod -text svneol=unset#application/octet-stream
-source/Visualizer.Mod -text svneol=unset#application/octet-stream
-source/W3dAbstractWorld.Mod -text svneol=unset#application/octet-stream
-source/W3dClusterWatch.Mod -text svneol=unset#application/octet-stream
+source/Vinci.Text -text svneol=unset#unset
+source/VirtualDisks.Mod -text
+source/Visualizer.Mod -text
+source/W3dAbstractWorld.Mod -text
+source/W3dClusterWatch.Mod -text
 source/W3dClusterWatchIcons.tar -text
-source/W3dExplorer.Mod -text svneol=unset#application/octet-stream
-source/W3dGeometry.Mod -text svneol=unset#application/octet-stream
-source/W3dMatrix.Mod -text svneol=unset#application/octet-stream
-source/W3dMenu.Mod -text svneol=unset#application/octet-stream
+source/W3dExplorer.Mod -text
+source/W3dGeometry.Mod -text
+source/W3dMatrix.Mod -text
+source/W3dMenu.Mod -text
 source/W3dMenu.XML -text
 source/W3dMenuIcons.tar -text
-source/W3dObjectGenerator.Mod -text svneol=unset#application/octet-stream
-source/W3dRasterizer.Mod -text svneol=unset#application/octet-stream
-source/W3dVectors.Mod -text svneol=unset#application/octet-stream
-source/W3dWorld.Mod -text svneol=unset#application/octet-stream
-source/WAVCodec.Mod -text svneol=unset#application/octet-stream
-source/WAVRecorder.Mod -text svneol=unset#application/octet-stream
-source/WMAnimations.Mod -text svneol=unset#application/octet-stream
+source/W3dObjectGenerator.Mod -text
+source/W3dRasterizer.Mod -text
+source/W3dVectors.Mod -text
+source/W3dWorld.Mod -text
+source/WAVCodec.Mod -text
+source/WAVRecorder.Mod -text
+source/WMAnimations.Mod -text
 source/WMApplications.Mod -text
-source/WMArabicIME.Mod -text svneol=unset#application/octet-stream
-source/WMArchives.Mod -text svneol=unset#application/octet-stream
-source/WMArmenianIME.Mod -text svneol=unset#application/octet-stream
-source/WMBackdrop.Mod -text svneol=unset#application/octet-stream
-source/WMBackdropLoader.Mod -text svneol=unset#application/octet-stream
-source/WMBitmapFont.Mod -text svneol=unset#application/octet-stream
-source/WMBuilder.Mod -text svneol=unset#application/octet-stream
+source/WMArabicIME.Mod -text
+source/WMArchives.Mod -text
+source/WMArmenianIME.Mod -text
+source/WMBackdrop.Mod -text
+source/WMBackdropLoader.Mod -text
+source/WMBitmapFont.Mod -text
+source/WMBuilder.Mod -text
 source/WMBuilder.tar -text
-source/WMBuilderTransformer.Mod -text svneol=unset#application/octet-stream
-source/WMBunny.Mod -text svneol=unset#application/octet-stream
+source/WMBuilderTransformer.Mod -text
+source/WMBunny.Mod -text
 source/WMBunnyImages.tar -text
-source/WMCCGFonts.Mod -text svneol=unset#application/octet-stream
-source/WMCDRecorder.Mod -text svneol=unset#application/octet-stream
-source/WMCalendar.Mod -text svneol=unset#application/octet-stream
-source/WMCharCodes.Mod -text svneol=unset#application/octet-stream
-source/WMCharMap.Mod -text svneol=unset#application/octet-stream
-source/WMClock.Mod -text svneol=unset#application/octet-stream
+source/WMCCGFonts.Mod -text
+source/WMCDRecorder.Mod -text
+source/WMCalendar.Mod -text
+source/WMCharCodes.Mod -text
+source/WMCharMap.Mod -text
+source/WMClock.Mod -text
 source/WMClockImages.tar -text
-source/WMColorComponents.Mod -text svneol=unset#application/octet-stream
-source/WMComponents.Mod -text svneol=unset#application/octet-stream
-source/WMDefaultFont.Mod -text svneol=unset#application/octet-stream
-source/WMDefaultWindows.Mod -text svneol=unset#application/octet-stream
-source/WMDesktopIcons.Mod -text svneol=unset#application/octet-stream
-source/WMDesktops.Mod -text svneol=unset#application/octet-stream
-source/WMDiagnostics.Mod -text svneol=unset#application/octet-stream
-source/WMDiagramComponents.Mod -text svneol=unset#application/octet-stream
-source/WMDialogs.Mod -text svneol=unset#application/octet-stream
-source/WMDiff.Mod -text svneol=unset#application/octet-stream
-source/WMDocumentEditor.Mod -text svneol=unset#application/octet-stream
-source/WMDropDownLists.Mod -text svneol=unset#application/octet-stream
-source/WMDropTarget.Mod -text svneol=unset#application/octet-stream
-source/WMEditors.Mod -text svneol=unset#application/octet-stream
-source/WMErrors.Mod -text svneol=unset#application/octet-stream
-source/WMEventLog.Mod -text svneol=unset#application/octet-stream
-source/WMEvents.Mod -text svneol=unset#application/octet-stream
-source/WMFTPClient.Mod -text svneol=unset#application/octet-stream
+source/WMColorComponents.Mod -text
+source/WMComponents.Mod -text
+source/WMDefaultFont.Mod -text
+source/WMDefaultWindows.Mod -text
+source/WMDesktopIcons.Mod -text
+source/WMDesktops.Mod -text
+source/WMDiagnostics.Mod -text
+source/WMDiagramComponents.Mod -text
+source/WMDialogs.Mod -text
+source/WMDiff.Mod -text
+source/WMDocumentEditor.Mod -text
+source/WMDropDownLists.Mod -text
+source/WMDropTarget.Mod -text
+source/WMEditors.Mod -text
+source/WMErrors.Mod -text
+source/WMEventLog.Mod -text
+source/WMEvents.Mod -text
+source/WMFTPClient.Mod -text
 source/WMFigures.Mod -text
-source/WMFileManager.Mod -text svneol=unset#application/octet-stream
-source/WMFontCCGConverter.Mod -text svneol=unset#application/octet-stream
-source/WMFontManager.Mod -text svneol=unset#application/octet-stream
-source/WMGraphicUtilities.Mod -text svneol=unset#application/octet-stream
-source/WMGraphics.Mod -text svneol=unset#application/octet-stream
-source/WMGraphicsDemo.Mod -text svneol=unset#application/octet-stream
-source/WMGrids.Mod -text svneol=unset#application/octet-stream
-source/WMHebrewIME.Mod -text svneol=unset#application/octet-stream
+source/WMFileManager.Mod -text
+source/WMFontCCGConverter.Mod -text
+source/WMFontManager.Mod -text
+source/WMGraphicUtilities.Mod -text
+source/WMGraphics.Mod -text
+source/WMGraphicsDemo.Mod -text
+source/WMGrids.Mod -text
+source/WMHebrewIME.Mod -text
 source/WMIcons.tar -text
-source/WMInputMethodTool.Mod -text svneol=unset#application/octet-stream
-source/WMInputMethods.Mod -text svneol=unset#application/octet-stream
-source/WMInspectionComponents.Mod -text svneol=unset#application/octet-stream
-source/WMInspector.Mod -text svneol=unset#application/octet-stream
+source/WMInputMethodTool.Mod -text
+source/WMInputMethods.Mod -text
+source/WMInspectionComponents.Mod -text
+source/WMInspector.Mod -text
 source/WMInspector.tar -text
-source/WMInstaller.Mod -text svneol=unset#application/octet-stream
+source/WMInstaller.Mod -text
 source/WMInstaller.tar -text svneol=unset#unset
-source/WMJoysticks.Mod -text svneol=unset#application/octet-stream
-source/WMKernelLog.Mod -text svneol=unset#application/octet-stream
-source/WMKeyCode.Mod -text svneol=unset#application/octet-stream
-source/WMMacros.Mod -text svneol=unset#application/octet-stream
-source/WMMatrixComponents.Mod -text svneol=unset#application/octet-stream
-source/WMMenus.Mod -text svneol=unset#application/octet-stream
-source/WMMessages.Mod -text svneol=unset#application/octet-stream
-source/WMMixer.Mod -text svneol=unset#application/octet-stream
-source/WMModuleState.Mod -text svneol=unset#application/octet-stream
-source/WMNavigate.Mod -text svneol=unset#application/octet-stream
-source/WMNavigator.Mod -text svneol=unset#application/octet-stream
-source/WMOGGPlayer.Mod -text svneol=unset#application/octet-stream
-source/WMOSD.Mod -text svneol=unset#application/octet-stream
-source/WMOTFonts.Mod -text svneol=unset#application/octet-stream
-source/WMOberonFonts.Mod -text svneol=unset#application/octet-stream
-source/WMObjectTracker.Mod -text svneol=unset#application/octet-stream
-source/WMOverlay.Mod -text svneol=unset#application/octet-stream
+source/WMJoysticks.Mod -text
+source/WMKernelLog.Mod -text
+source/WMKeyCode.Mod -text
+source/WMMacros.Mod -text
+source/WMMatrixComponents.Mod -text
+source/WMMenus.Mod -text
+source/WMMessages.Mod -text
+source/WMMixer.Mod -text
+source/WMModuleState.Mod -text
+source/WMNavigate.Mod -text
+source/WMNavigator.Mod -text
+source/WMOGGPlayer.Mod -text
+source/WMOSD.Mod -text
+source/WMOTFonts.Mod -text
+source/WMOberonFonts.Mod -text
+source/WMObjectTracker.Mod -text
+source/WMOverlay.Mod -text
 source/WMOverlay.tar -text
-source/WMPartitions.Mod -text svneol=unset#application/octet-stream
-source/WMPartitionsComponents.Mod -text svneol=unset#application/octet-stream
-source/WMPerfMon.Mod -text svneol=unset#application/octet-stream
+source/WMPartitions.Mod -text
+source/WMPartitionsComponents.Mod -text
+source/WMPerfMon.Mod -text
 source/WMPerfMon.Text -text svneol=unset#unset
-source/WMPerfMonAlerts.Mod -text svneol=unset#application/octet-stream
+source/WMPerfMonAlerts.Mod -text
 source/WMPerfMonAlerts.XML -text
-source/WMPerfMonAlertsUtils.Mod -text svneol=unset#application/octet-stream
-source/WMPerfMonComponents.Mod -text svneol=unset#application/octet-stream
-source/WMPerfMonPluginCpu.Mod -text svneol=unset#application/octet-stream
-source/WMPerfMonPluginDisks.Mod -text svneol=unset#application/octet-stream
-source/WMPerfMonPluginEvents.Mod -text svneol=unset#application/octet-stream
-source/WMPerfMonPluginExample.Mod -text svneol=unset#application/octet-stream
-source/WMPerfMonPluginFTPServer.Mod -text svneol=unset#application/octet-stream
-source/WMPerfMonPluginHTTPServer.Mod -text svneol=unset#application/octet-stream
-source/WMPerfMonPluginHeap.Mod -text svneol=unset#application/octet-stream
-source/WMPerfMonPluginInterrupts.Mod -text svneol=unset#application/octet-stream
-source/WMPerfMonPluginMemory.Mod -text svneol=unset#application/octet-stream
-source/WMPerfMonPluginMessages.Mod -text svneol=unset#application/octet-stream
-source/WMPerfMonPluginModVars.Mod -text svneol=unset#application/octet-stream
-source/WMPerfMonPluginNetStats.Mod -text svneol=unset#application/octet-stream
-source/WMPerfMonPluginNetwork.Mod -text svneol=unset#application/octet-stream
-source/WMPerfMonPluginPerfMon.Mod -text svneol=unset#application/octet-stream
-source/WMPerfMonPluginProcesses.Mod -text svneol=unset#application/octet-stream
-source/WMPerfMonPluginQuoteServer.Mod -text svneol=unset#application/octet-stream
-source/WMPerfMonPluginSerials.Mod -text svneol=unset#application/octet-stream
-source/WMPerfMonPluginUsb.Mod -text svneol=unset#application/octet-stream
-source/WMPerfMonPluginVNCServer.Mod -text svneol=unset#application/octet-stream
-source/WMPerfMonPlugins.Mod -text svneol=unset#application/octet-stream
-source/WMPerfMonTabAlerts.Mod -text svneol=unset#application/octet-stream
-source/WMPerfMonTabSystem.Mod -text svneol=unset#application/octet-stream
-source/WMPicView.Mod -text svneol=unset#application/octet-stream
-source/WMPieMenu.Mod -text svneol=unset#application/octet-stream
-source/WMPinyinIME.Mod -text svneol=unset#application/octet-stream
-source/WMPlayer.Mod -text svneol=unset#application/octet-stream
-source/WMPopups.Mod -text svneol=unset#application/octet-stream
+source/WMPerfMonAlertsUtils.Mod -text
+source/WMPerfMonComponents.Mod -text
+source/WMPerfMonPluginCpu.Mod -text
+source/WMPerfMonPluginDisks.Mod -text
+source/WMPerfMonPluginEvents.Mod -text
+source/WMPerfMonPluginExample.Mod -text
+source/WMPerfMonPluginFTPServer.Mod -text
+source/WMPerfMonPluginHTTPServer.Mod -text
+source/WMPerfMonPluginHeap.Mod -text
+source/WMPerfMonPluginInterrupts.Mod -text
+source/WMPerfMonPluginMemory.Mod -text
+source/WMPerfMonPluginMessages.Mod -text
+source/WMPerfMonPluginModVars.Mod -text
+source/WMPerfMonPluginNetStats.Mod -text
+source/WMPerfMonPluginNetwork.Mod -text
+source/WMPerfMonPluginPerfMon.Mod -text
+source/WMPerfMonPluginProcesses.Mod -text
+source/WMPerfMonPluginQuoteServer.Mod -text
+source/WMPerfMonPluginSerials.Mod -text
+source/WMPerfMonPluginUsb.Mod -text
+source/WMPerfMonPluginVNCServer.Mod -text
+source/WMPerfMonPlugins.Mod -text
+source/WMPerfMonTabAlerts.Mod -text
+source/WMPerfMonTabSystem.Mod -text
+source/WMPicView.Mod -text
+source/WMPieMenu.Mod -text
+source/WMPinyinIME.Mod -text
+source/WMPlayer.Mod -text
+source/WMPopups.Mod -text
 source/WMProcessInfo.Mod -text
-source/WMProfiler.Mod -text svneol=unset#application/octet-stream
-source/WMProgressComponents.Mod -text svneol=unset#application/octet-stream
-source/WMProperties.Mod -text svneol=unset#application/octet-stream
-source/WMRectangles.Mod -text svneol=unset#application/octet-stream
-source/WMRepositories.Mod -text svneol=unset#application/octet-stream
+source/WMProfiler.Mod -text
+source/WMProgressComponents.Mod -text
+source/WMProperties.Mod -text
+source/WMRectangles.Mod -text
+source/WMRepositories.Mod -text
 source/WMRepositories.tar -text
-source/WMRestorable.Mod -text svneol=unset#application/octet-stream
-source/WMRussianIME.Mod -text svneol=unset#application/octet-stream
-source/WMScreenShot.Mod -text svneol=unset#application/octet-stream
-source/WMScribble.Mod -text svneol=unset#application/octet-stream
-source/WMScrollableComponents.Mod -text svneol=unset#application/octet-stream
-source/WMSearchComponents.Mod -text svneol=unset#application/octet-stream
-source/WMSearchTool.Mod -text svneol=unset#application/octet-stream
-source/WMShapes.Mod -text svneol=unset#application/octet-stream
-source/WMShell.Mod -text svneol=unset#application/octet-stream
-source/WMSkinLoader.Mod -text svneol=unset#application/octet-stream
-source/WMSlideshow.Mod -text svneol=unset#application/octet-stream
-source/WMStandardComponents.Mod -text svneol=unset#application/octet-stream
-source/WMStringGrids.Mod -text svneol=unset#application/octet-stream
-source/WMSystemComponents.Mod -text svneol=unset#application/octet-stream
-source/WMTCPTracker.Mod -text svneol=unset#application/octet-stream
-source/WMTabComponents.Mod -text svneol=unset#application/octet-stream
-source/WMTaskScheduler.Mod -text svneol=unset#application/octet-stream
+source/WMRestorable.Mod -text
+source/WMRussianIME.Mod -text
+source/WMScreenShot.Mod -text
+source/WMScribble.Mod -text
+source/WMScrollableComponents.Mod -text
+source/WMSearchComponents.Mod -text
+source/WMSearchTool.Mod -text
+source/WMShapes.Mod -text
+source/WMShell.Mod -text
+source/WMSkinLoader.Mod -text
+source/WMSlideshow.Mod -text
+source/WMStandardComponents.Mod -text
+source/WMStringGrids.Mod -text
+source/WMSystemComponents.Mod -text
+source/WMTCPTracker.Mod -text
+source/WMTabComponents.Mod -text
+source/WMTaskScheduler.Mod -text
 source/WMTaskScheduler.tar -text
-source/WMTetris.Mod -text svneol=unset#application/octet-stream
-source/WMTextStyleTool.Mod -text svneol=unset#application/octet-stream
-source/WMTextTool.Mod -text svneol=unset#application/octet-stream
-source/WMTextView.Mod -text svneol=unset#application/octet-stream
-source/WMTrapWriter.Mod -text svneol=unset#application/octet-stream
-source/WMTrees.Mod -text svneol=unset#application/octet-stream
-source/WMUkrainianIME.Mod -text svneol=unset#application/octet-stream
-source/WMUnicodeIME.Mod -text svneol=unset#application/octet-stream
-source/WMUnicodeMarkerTool.Mod -text svneol=unset#application/octet-stream
-source/WMUsbInfo.Mod -text svneol=unset#application/octet-stream
+source/WMTetris.Mod -text
+source/WMTextStyleTool.Mod -text
+source/WMTextTool.Mod -text
+source/WMTextView.Mod -text
+source/WMTrapWriter.Mod -text
+source/WMTrees.Mod -text
+source/WMUkrainianIME.Mod -text
+source/WMUnicodeIME.Mod -text
+source/WMUnicodeMarkerTool.Mod -text
+source/WMUsbInfo.Mod -text
 source/WMUsbInfo.tar -text
-source/WMUtilities.Mod -text svneol=unset#application/octet-stream
-source/WMV24Component.Mod -text svneol=unset#application/octet-stream
-source/WMVNCView.Mod -text svneol=unset#application/octet-stream
-source/WMVT100.Mod -text svneol=unset#application/octet-stream
-source/WMVisualComponentSkeleton.Mod -text
-source/WMWindowManager.Mod -text svneol=unset#application/octet-stream
-source/WMXMLTree.Mod -text svneol=unset#application/octet-stream
-source/WPM.Mod -text svneol=unset#application/octet-stream
-source/WTS.Tool -text
+source/WMUtilities.Mod -text
+source/WMV24Component.Mod -text
+source/WMVNCView.Mod -text
+source/WMVT100.Mod -text
+source/WMVisualComponentSkeleton.Mod -text svneol=unset#unset
+source/WMWindowManager.Mod -text
+source/WMXMLTree.Mod -text
+source/WPM.Mod -text
+source/WTS.Tool -text svneol=unset#unset
 source/Watson.Lib -text
 source/Watson.Panel -text
-source/WebAccounts.Mod -text svneol=unset#application/octet-stream
-source/WebBimbodot.Mod -text svneol=unset#application/octet-stream
-source/WebBrowser.Mod -text svneol=unset#application/octet-stream
-source/WebBrowserComponents.Mod -text svneol=unset#application/octet-stream
-source/WebBrowserPanel.Mod -text svneol=unset#application/octet-stream
-source/WebCGI.Mod -text svneol=unset#application/octet-stream
-source/WebComplex.Mod -text svneol=unset#application/octet-stream
-source/WebDefaultSSMP.Mod -text svneol=unset#application/octet-stream
-source/WebFTPServer.Mod -text svneol=unset#application/octet-stream
-source/WebForum.Mod -text svneol=unset#application/octet-stream
-source/WebHTTP.Mod -text svneol=unset#application/octet-stream
-source/WebHTTPClient.Mod -text svneol=unset#application/octet-stream
-source/WebHTTPServer.Mod -text svneol=unset#application/octet-stream
-source/WebHTTPServerStatistics.Mod -text svneol=unset#application/octet-stream
-source/WebHTTPServerTools.Mod -text svneol=unset#application/octet-stream
-source/WebHTTPTools.Mod -text svneol=unset#application/octet-stream
-source/WebSSMPPlugin.Mod -text svneol=unset#application/octet-stream
-source/WebStd.Mod -text svneol=unset#application/octet-stream
-source/WebWormWatch.Mod -text svneol=unset#application/octet-stream
+source/WebAccounts.Mod -text
+source/WebBimbodot.Mod -text
+source/WebBrowser.Mod -text
+source/WebBrowserComponents.Mod -text
+source/WebBrowserPanel.Mod -text
+source/WebCGI.Mod -text
+source/WebComplex.Mod -text
+source/WebDefaultSSMP.Mod -text
+source/WebFTPServer.Mod -text
+source/WebForum.Mod -text
+source/WebHTTP.Mod -text
+source/WebHTTPClient.Mod -text
+source/WebHTTPServer.Mod -text
+source/WebHTTPServerStatistics.Mod -text
+source/WebHTTPServerTools.Mod -text
+source/WebHTTPTools.Mod -text
+source/WebSSMPPlugin.Mod -text
+source/WebStd.Mod -text
+source/WebWormWatch.Mod -text
 source/White.Pal -text
-source/WhitespaceRemover.Mod -text svneol=unset#application/octet-stream
-source/Win32.ADVAPI32.Mod -text svneol=unset#text/plain
+source/WhitespaceRemover.Mod -text
+source/Win32.ADVAPI32.Mod -text
 source/Win32.Aos.Link -text
-source/Win32.Beep.Mod -text svneol=unset#text/plain
-source/Win32.Build.Tool -text
-source/Win32.BuildMini.Tool -text
-source/Win32.COMDLG32.Mod -text svneol=unset#text/plain
-source/Win32.Clipboard.Mod -text svneol=unset#text/plain
-source/Win32.Clock.Mod -text svneol=unset#text/plain
-source/Win32.CommandLine.Mod -text svneol=unset#application/octet-stream
-source/Win32.DNS.Mod -text svneol=unset#text/plain
-source/Win32.Display.Mod -text svneol=unset#text/plain
-source/Win32.External.Oberon.Clipboard.Mod -text svneol=unset#text/plain
-source/Win32.GDI32.Mod -text svneol=unset#text/plain
+source/Win32.Beep.Mod -text
+source/Win32.Build.Tool -text svneol=unset#unset
+source/Win32.BuildMini.Tool -text svneol=unset#unset
+source/Win32.COMDLG32.Mod -text
+source/Win32.Clipboard.Mod -text
+source/Win32.Clock.Mod -text
+source/Win32.CommandLine.Mod -text
+source/Win32.DNS.Mod -text
+source/Win32.Display.Mod -text
+source/Win32.External.Oberon.Clipboard.Mod -text svneol=unset#unset
+source/Win32.GDI32.Mod -text
 source/Win32.HierarchicalProfiler0.Mod -text
-source/Win32.IP.Mod -text svneol=unset#text/plain
-source/Win32.Kernel.Mod -text svneol=unset#text/plain
-source/Win32.Kernel32.Mod -text svneol=unset#text/plain
-source/Win32.Machine.Mod -text svneol=unset#text/plain
-source/Win32.Network.Mod -text svneol=unset#text/plain
-source/Win32.ODBC.Mod -text svneol=unset#text/plain
-source/Win32.Oberon.Bitmaps.Mod -text svneol=unset#text/plain
-source/Win32.Oberon.Clipboard.Mod -text svneol=unset#text/plain
-source/Win32.Oberon.ColorGadgets.Mod -text svneol=unset#text/plain
-source/Win32.Oberon.Colors.Mod -text svneol=unset#text/plain
-source/Win32.Oberon.Configuration.Mod -text svneol=unset#text/plain
-source/Win32.Oberon.Desktops.Mod -text svneol=unset#text/plain
-source/Win32.Oberon.Directories.Mod -text svneol=unset#text/plain
-source/Win32.Oberon.Display.Mod -text svneol=unset#text/plain
-source/Win32.Oberon.Display3.Mod -text svneol=unset#text/plain
-source/Win32.Oberon.Displays.Mod -text svneol=unset#text/plain
-source/Win32.Oberon.Effects.Mod -text svneol=unset#text/plain
-source/Win32.Oberon.FileDir.Mod -text svneol=unset#text/plain
-source/Win32.Oberon.Files.Mod -text svneol=unset#text/plain
-source/Win32.Oberon.Finder.Mod -text svneol=unset#text/plain
-source/Win32.Oberon.FontRes.Mod -text svneol=unset#text/plain
-source/Win32.Oberon.Fonts.Mod -text svneol=unset#text/plain
-source/Win32.Oberon.Gadgets.Mod -text svneol=unset#text/plain
-source/Win32.Oberon.ImageGadgets.Mod -text svneol=unset#text/plain
-source/Win32.Oberon.Input.Mod -text svneol=unset#text/plain
-source/Win32.Oberon.Kernel.Mod -text svneol=unset#text/plain
-source/Win32.Oberon.Miscellaneous.Mod -text svneol=unset#text/plain
+source/Win32.IP.Mod -text
+source/Win32.Kernel.Mod -text
+source/Win32.Kernel32.Mod -text
+source/Win32.Machine.Mod -text
+source/Win32.Network.Mod -text
+source/Win32.ODBC.Mod -text
+source/Win32.Oberon.Bitmaps.Mod -text svneol=unset#unset
+source/Win32.Oberon.Clipboard.Mod -text svneol=unset#unset
+source/Win32.Oberon.ColorGadgets.Mod -text svneol=unset#unset
+source/Win32.Oberon.Colors.Mod -text svneol=unset#unset
+source/Win32.Oberon.Configuration.Mod -text svneol=unset#unset
+source/Win32.Oberon.Desktops.Mod -text svneol=unset#unset
+source/Win32.Oberon.Directories.Mod -text svneol=unset#unset
+source/Win32.Oberon.Display.Mod -text svneol=unset#unset
+source/Win32.Oberon.Display3.Mod -text svneol=unset#unset
+source/Win32.Oberon.Displays.Mod -text svneol=unset#unset
+source/Win32.Oberon.Effects.Mod -text svneol=unset#unset
+source/Win32.Oberon.FileDir.Mod -text svneol=unset#unset
+source/Win32.Oberon.Files.Mod -text svneol=unset#unset
+source/Win32.Oberon.Finder.Mod -text svneol=unset#unset
+source/Win32.Oberon.FontRes.Mod -text svneol=unset#unset
+source/Win32.Oberon.Fonts.Mod -text svneol=unset#unset
+source/Win32.Oberon.Gadgets.Mod -text svneol=unset#unset
+source/Win32.Oberon.ImageGadgets.Mod -text svneol=unset#unset
+source/Win32.Oberon.Input.Mod -text svneol=unset#unset
+source/Win32.Oberon.Kernel.Mod -text svneol=unset#unset
+source/Win32.Oberon.Miscellaneous.Mod -text svneol=unset#unset
 source/Win32.Oberon.Mod -text
-source/Win32.Oberon.NetSystem.Mod -text svneol=unset#text/plain
-source/Win32.Oberon.Oberon.Mod -text svneol=unset#text/plain
-source/Win32.Oberon.PSPrinter.Mod -text svneol=unset#text/plain
-source/Win32.Oberon.Pictures.Mod -text svneol=unset#text/plain
-source/Win32.Oberon.PlugInDocs.Mod -text svneol=unset#text/plain
-source/Win32.Oberon.Printer.Mod -text svneol=unset#text/plain
-source/Win32.Oberon.PrinterInfo.Mod -text svneol=unset#text/plain
-source/Win32.Oberon.Registry.Mod -text svneol=unset#text/plain
-source/Win32.Oberon.RegistryTools.Mod -text svneol=unset#text/plain
-source/Win32.Oberon.Rembrandt.Mod -text svneol=unset#text/plain
-source/Win32.Oberon.System.Mod -text svneol=unset#text/plain
-source/Win32.Oberon.Viewers.Mod -text svneol=unset#text/plain
-source/Win32.Oberon.WinFonts.Mod -text svneol=unset#text/plain
-source/Win32.Oberon.WinImages.Mod -text svneol=unset#text/plain
-source/Win32.Oberon.WinMenus.Mod -text svneol=unset#text/plain
-source/Win32.Oberon.WinPrinter.Mod -text svneol=unset#text/plain
-source/Win32.Oberon.Windows.Mod -text svneol=unset#text/plain
-source/Win32.Oberon.antsPortability.Mod -text svneol=unset#text/plain
-source/Win32.Oberon.antsTracking.Mod -text svneol=unset#text/plain
-source/Win32.Oberon.vyPortability.Mod -text svneol=unset#text/plain
-source/Win32.OberonConfiguration.Mod -text svneol=unset#text/plain
-source/Win32.OberonDisplay.Mod -text svneol=unset#text/plain
-source/Win32.Objects.Mod -text svneol=unset#text/plain
-source/Win32.PELinker.Mod -text svneol=unset#text/plain
-source/Win32.Performance.Mod -text svneol=unset#text/plain
-source/Win32.SQL.Mod -text svneol=unset#text/plain
-source/Win32.SVNAdmin.Mod -text svneol=unset#application/octet-stream
-source/Win32.Shell32.Mod -text svneol=unset#text/plain
-source/Win32.TCP.Mod -text svneol=unset#text/plain
-source/Win32.Threads.Mod -text svneol=unset#text/plain
-source/Win32.Traps.Mod -text svneol=unset#text/plain
-source/Win32.UDP.Mod -text svneol=unset#text/plain
-source/Win32.User32.Mod -text svneol=unset#text/plain
-source/Win32.V24.Mod -text svneol=unset#text/plain
-source/Win32.VfW.Mod -text svneol=unset#application/octet-stream
-source/Win32.WMPerfMonPluginCpu.Mod -text svneol=unset#text/plain
-source/Win32.WMPerfMonPluginMemory.Mod -text svneol=unset#text/plain
-source/Win32.WMTCPTracker.Mod -text svneol=unset#text/plain
-source/Win32.WSock32.Mod -text svneol=unset#text/plain
-source/Win32.WinApplications.Mod -text svneol=unset#application/octet-stream
-source/Win32.WinDisks.Mod -text svneol=unset#text/plain
-source/Win32.WinFS.Mod -text svneol=unset#text/plain
-source/Win32.WinTrace.Mod -text svneol=unset#application/octet-stream
-source/WindowManager.Mod -text svneol=unset#application/octet-stream
+source/Win32.Oberon.NetSystem.Mod -text svneol=unset#unset
+source/Win32.Oberon.Oberon.Mod -text svneol=unset#unset
+source/Win32.Oberon.PSPrinter.Mod -text svneol=unset#unset
+source/Win32.Oberon.Pictures.Mod -text svneol=unset#unset
+source/Win32.Oberon.PlugInDocs.Mod -text svneol=unset#unset
+source/Win32.Oberon.Printer.Mod -text svneol=unset#unset
+source/Win32.Oberon.PrinterInfo.Mod -text svneol=unset#unset
+source/Win32.Oberon.Registry.Mod -text svneol=unset#unset
+source/Win32.Oberon.RegistryTools.Mod -text svneol=unset#unset
+source/Win32.Oberon.Rembrandt.Mod -text svneol=unset#unset
+source/Win32.Oberon.System.Mod -text svneol=unset#unset
+source/Win32.Oberon.Viewers.Mod -text svneol=unset#unset
+source/Win32.Oberon.WinFonts.Mod -text svneol=unset#unset
+source/Win32.Oberon.WinImages.Mod -text svneol=unset#unset
+source/Win32.Oberon.WinMenus.Mod -text svneol=unset#unset
+source/Win32.Oberon.WinPrinter.Mod -text svneol=unset#unset
+source/Win32.Oberon.Windows.Mod -text svneol=unset#unset
+source/Win32.Oberon.antsPortability.Mod -text svneol=unset#unset
+source/Win32.Oberon.antsTracking.Mod -text svneol=unset#unset
+source/Win32.Oberon.vyPortability.Mod -text svneol=unset#unset
+source/Win32.OberonConfiguration.Mod -text
+source/Win32.OberonDisplay.Mod -text
+source/Win32.Objects.Mod -text
+source/Win32.PELinker.Mod -text
+source/Win32.Performance.Mod -text
+source/Win32.SQL.Mod -text
+source/Win32.SVNAdmin.Mod -text
+source/Win32.Shell32.Mod -text
+source/Win32.TCP.Mod -text
+source/Win32.Threads.Mod -text
+source/Win32.Traps.Mod -text
+source/Win32.UDP.Mod -text
+source/Win32.User32.Mod -text
+source/Win32.V24.Mod -text
+source/Win32.VfW.Mod -text
+source/Win32.WMPerfMonPluginCpu.Mod -text
+source/Win32.WMPerfMonPluginMemory.Mod -text
+source/Win32.WMTCPTracker.Mod -text
+source/Win32.WSock32.Mod -text
+source/Win32.WinApplications.Mod -text
+source/Win32.WinDisks.Mod -text
+source/Win32.WinFS.Mod -text
+source/Win32.WinTrace.Mod -text
+source/WindowManager.Mod -text
 source/X29Plane.poly -text
-source/XML.Mod -text svneol=unset#application/octet-stream
-source/XMLComponents.Mod -text svneol=unset#application/octet-stream
-source/XMLGeneratorSchema.Mod -text svneol=unset#application/octet-stream
-source/XMLLoader.Mod -text svneol=unset#application/octet-stream
-source/XMLObjects.Mod -text svneol=unset#application/octet-stream
-source/XMLParser.Mod -text svneol=unset#application/octet-stream
-source/XMLScanner.Mod -text svneol=unset#application/octet-stream
-source/XMLStyle.Mod -text svneol=unset#application/octet-stream
-source/XMLTransformer.Mod -text svneol=unset#application/octet-stream
+source/XML.Mod -text
+source/XMLComponents.Mod -text
+source/XMLGeneratorSchema.Mod -text
+source/XMLLoader.Mod -text
+source/XMLObjects.Mod -text
+source/XMLParser.Mod -text
+source/XMLScanner.Mod -text
+source/XMLStyle.Mod -text
+source/XMLTransformer.Mod -text
 source/XMM.AMD64.Math.Mod -text
 source/XMM.AMD64.MathL.Mod -text
 source/XMM.I386.Math.Mod -text
 source/XMM.I386.MathL.Mod -text
 source/XMas.poly -text
-source/XModem.Mod -text svneol=unset#application/octet-stream
-source/XYModem.Mod -text svneol=unset#application/octet-stream
+source/XModem.Mod -text
+source/XYModem.Mod -text
 source/XmasMenu.XML -text
 source/YMF754.Bin -text
-source/YMF754.Mod -text svneol=unset#application/octet-stream
-source/YMF754Util.Mod -text svneol=unset#application/octet-stream
+source/YMF754.Mod -text
+source/YMF754Util.Mod -text
 source/YinYang.Shape -text
 source/ZeroSkin.zip -text
-source/Zip.Mod -text svneol=unset#application/octet-stream
-source/Zip.Tool -text
-source/ZipFS.Mod -text svneol=unset#application/octet-stream
-source/ZipTool.Mod -text svneol=unset#application/octet-stream
-source/Zlib.Mod -text svneol=unset#application/octet-stream
-source/ZlibBuffers.Mod -text svneol=unset#application/octet-stream
-source/ZlibDeflate.Mod -text svneol=unset#application/octet-stream
-source/ZlibInflate.Mod -text svneol=unset#application/octet-stream
-source/ZlibReaders.Mod -text svneol=unset#application/octet-stream
-source/ZlibWriters.Mod -text svneol=unset#application/octet-stream
+source/Zip.Mod -text
+source/Zip.Tool -text svneol=unset#unset
+source/ZipFS.Mod -text
+source/ZipTool.Mod -text
+source/Zlib.Mod -text
+source/ZlibBuffers.Mod -text
+source/ZlibDeflate.Mod -text
+source/ZlibInflate.Mod -text
+source/ZlibReaders.Mod -text
+source/ZlibWriters.Mod -text
 source/accounts.dxp -text
 source/aqua.skin -text
 source/benevento.ttf -text
@@ -3818,12 +3818,12 @@ source/cn.PrgInOberon.txt -text
 source/cnErrors.XML -text
 source/code.css -text
 source/config.txt -text
-source/errors.txt -text svneol=unset#application/octet-stream
+source/errors.txt -text
 source/flags.avi -text
 source/gb2312.txt -text
 source/glass.skin -text
 source/highlight.js -text
-source/i810Sound.Mod -text svneol=unset#application/octet-stream
+source/i810Sound.Mod -text
 source/icons.tar -text
 source/mars.png -text
 source/next.png -text
@@ -3842,33 +3842,33 @@ source/redlook.skin -text
 source/refresh.png -text
 source/reptile.skin -text
 source/rotator.dxp -text
-source/sr3DTexture.Mod -text svneol=unset#application/octet-stream
-source/srBase.Mod -text svneol=unset#application/octet-stream
-source/srGL.Mod -text svneol=unset#application/octet-stream
-source/srHex.Mod -text svneol=unset#application/octet-stream
-source/srImage.Mod -text svneol=unset#application/octet-stream
-source/srLifeVox.Mod -text svneol=unset#application/octet-stream
-source/srM2Space.Mod -text svneol=unset#application/octet-stream
-source/srM3Space.Mod -text svneol=unset#application/octet-stream
-source/srM5Space.Mod -text svneol=unset#application/octet-stream
-source/srM6Space.Mod -text svneol=unset#application/octet-stream
-source/srMath.Mod -text svneol=unset#application/octet-stream
-source/srRastermovie.Mod -text svneol=unset#application/octet-stream
-source/srRayEngine.Mod -text svneol=unset#application/octet-stream
+source/sr3DTexture.Mod -text
+source/srBase.Mod -text
+source/srGL.Mod -text
+source/srHex.Mod -text
+source/srImage.Mod -text
+source/srLifeVox.Mod -text
+source/srM2Space.Mod -text
+source/srM3Space.Mod -text
+source/srM5Space.Mod -text
+source/srM6Space.Mod -text
+source/srMath.Mod -text
+source/srRastermovie.Mod -text
+source/srRayEngine.Mod -text
 source/srReadMe.Text -text
-source/srRender.Mod -text svneol=unset#application/octet-stream
-source/srRenderTools.Text -text
-source/srRotaVox.Mod -text svneol=unset#application/octet-stream
-source/srTexVox.Mod -text svneol=unset#application/octet-stream
-source/srThermoCell.Mod -text svneol=unset#application/octet-stream
-source/srTree.Mod -text svneol=unset#application/octet-stream
-source/srVolShader.Mod -text svneol=unset#application/octet-stream
-source/srVoxel.Mod -text svneol=unset#application/octet-stream
-source/srVoxel2.Mod -text svneol=unset#application/octet-stream
-source/srVoxel3.Mod -text svneol=unset#application/octet-stream
-source/srVoxel4.Mod -text svneol=unset#application/octet-stream
-source/srVoxel5.Mod -text svneol=unset#application/octet-stream
-source/srvoxels.Mod -text svneol=unset#application/octet-stream
+source/srRender.Mod -text
+source/srRenderTools.Text -text svneol=unset#unset
+source/srRotaVox.Mod -text
+source/srTexVox.Mod -text
+source/srThermoCell.Mod -text
+source/srTree.Mod -text
+source/srVolShader.Mod -text
+source/srVoxel.Mod -text
+source/srVoxel2.Mod -text
+source/srVoxel3.Mod -text
+source/srVoxel4.Mod -text
+source/srVoxel5.Mod -text
+source/srvoxels.Mod -text
 source/stijn.skin -text
 source/stijnbw.skin -text
 source/stucki01.svg -text
@@ -3879,7 +3879,7 @@ source/test1.dxp -text
 source/test2.dxp -text
 source/test3.dxp -text
 source/test4.dxp -text
-source/testutf8.txt -text svneol=unset#application/octet-stream
+source/testutf8.txt -text
 source/traditional.skin -text
 source/tutorial1.dxp -text
 source/tutorial2.dxp -text
