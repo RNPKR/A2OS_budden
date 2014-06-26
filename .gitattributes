@@ -3826,6 +3826,7 @@ source/glass.skin -text
 source/highlight.js -text
 source/i810Sound.Mod -text
 source/icons.tar -text
+source/jiret.ttf -text
 source/mars.png -text
 source/next.png -text
 source/pci.ids -text
