@@ -3548,6 +3548,7 @@ source/WMDropDownLists.Mod -text
 source/WMDropTarget.Mod -text
 source/WMEditors.Mod -text
 source/WMErrors.Mod -text
+source/WMEthiopicIME.Mod -text
 source/WMEventLog.Mod -text
 source/WMEvents.Mod -text
 source/WMFTPClient.Mod -text
