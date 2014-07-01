@@ -3687,6 +3687,7 @@ source/WebHTTPServerTools.Mod -text
 source/WebHTTPTools.Mod -text
 source/WebSSMPPlugin.Mod -text
 source/WebStd.Mod -text
+source/WebTimeServer.Mod -text
 source/WebWormWatch.Mod -text
 source/White.Pal -text
 source/WhitespaceRemover.Mod -text
