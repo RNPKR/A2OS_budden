@@ -3101,6 +3101,7 @@ source/RAMVolumes.Mod -text
 source/RAWPrinter.Mod -text
 source/RFC865Client.Mod -text
 source/RMSMTP.Mod -text
+source/RTL8136.Mod -text
 source/RTL8139.Mod -text
 source/RTL8169.Mod -text
 source/RX.Tool -text svneol=unset#unset
