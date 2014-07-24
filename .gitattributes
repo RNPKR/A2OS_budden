@@ -18,10 +18,13 @@ UnixAos/boot/aos.c -text
 UnixAos/boot/aos.darwin -text
 UnixAos/boot/aos.linux -text
 UnixAos/boot/aos.solaris -text
+UnixAos/buildtools/Darwin.AMD64.Tool -text
+UnixAos/buildtools/Darwin.I386.Tool -text
+UnixAos/buildtools/Linux.AMD64.Tool -text
+UnixAos/buildtools/Linux.I386.Tool -text
+UnixAos/buildtools/Solaris.AMD64.Tool -text
+UnixAos/buildtools/Solaris.I386.Tool -text
 UnixAos/buildtools/UnixAosBuild.Tool -text
-UnixAos/buildtools/x86.Darwin.Tool -text
-UnixAos/buildtools/x86.Linux.Tool -text
-UnixAos/buildtools/x86.Solaris.Tool -text
 WinAos/Aos.EXE -text
 WinAos/AosDebug.exe -text
 WinAos/PELinker/Arrow.cur -text
