@@ -2198,6 +2198,7 @@ source/FTPClient.Mod -text
 source/FTPFS.Mod -text
 source/Feedback.Text -text svneol=unset#unset
 source/Fido.Mod -text
+source/FigureExample.Cwd -text
 source/FileHandlers.Mod -text
 source/FileTrapWriter.Mod -text
 source/Files.Mod -text
