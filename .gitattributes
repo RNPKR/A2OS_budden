@@ -3571,6 +3571,7 @@ source/WMFontManager.Mod -text
 source/WMGraphicUtilities.Mod -text
 source/WMGraphics.Mod -text
 source/WMGraphicsDemo.Mod -text
+source/WMGraphicsGfx.Mod -text
 source/WMGrids.Mod -text
 source/WMHebrewIME.Mod -text
 source/WMIcons.tar -text
