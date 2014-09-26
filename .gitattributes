@@ -2183,6 +2183,7 @@ source/Example6.Mod -text
 source/Example7.Mod -text
 source/Example8.Mod -text
 source/ExampleTextWriter.Mod -text
+source/ExclusiveBlocks.Mod -text
 source/ExerciseGroups.Mod -text
 source/FAT.Tool -text svneol=unset#unset
 source/FATFiles.Mod -text
