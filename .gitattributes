@@ -2264,6 +2264,7 @@ source/Gadgets.poly -text
 source/GadgetsChanges.Text -text svneol=unset#unset
 source/Games.Tool -text svneol=unset#unset
 source/GenericLinker.Mod -text
+source/GenericLoader.Mod -text
 source/GenericSort.Mod -text
 source/Gfx.Mod -text
 source/Gfx.Tool -text svneol=unset#unset
