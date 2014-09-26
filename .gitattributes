@@ -1853,6 +1853,7 @@ source/ASCIITab.Tool -text svneol=unset#unset
 source/ASMAMD64.Mod -text
 source/AVI.Mod -text
 source/ActiveTimers.Mod -text
+source/Activities.Mod -text
 source/Adaptec7.Mod -text
 source/AlmSmtpReceiver.Atg -text
 source/AlmSmtpReceiver.Guide.Text -text svneol=unset#unset
@@ -2021,8 +2022,13 @@ source/Configuration.Mod -text
 source/Configuration.Tool -text svneol=unset#unset
 source/Configuration.XML -text
 source/ContextualDependency.Mod -text
+source/Coop.Heaps.Mod -text
+source/Coop.Machine.Mod -text
+source/Coop.Modules.Mod -text
+source/Coop.Win32.Kernel32.Mod -text
 source/CoordSys.Shape -text
 source/Copyright.Text -text svneol=unset#unset
+source/Counters.Mod -text
 source/Courier10.Pr3.Fnt -text
 source/Courier10.Pr6.Fnt -text
 source/Courier10.Scn.Fnt -text
@@ -2319,6 +2325,7 @@ source/I386.Array1dBytes.Mod -text
 source/I386.ArrayBaseOptimized.Mod -text
 source/I386.ArrayXdBytes.Mod -text
 source/I386.BenchInterrupts.Mod -text
+source/I386.CPU.Mod -text
 source/I386.CPUID.Mod -text
 source/I386.DivXDecoder.Mod -text
 source/I386.DivXHelper.Mod -text
@@ -3092,6 +3099,7 @@ source/ProcessInfo.Mod -text
 source/ProcessInfo0.Mod -text
 source/Profiler.Mod -text
 source/Programming.Tool -text svneol=unset#unset
+source/Queues.Mod -text
 source/Quickstart.Text -text svneol=unset#unset
 source/QuoteServer.Mod -text
 source/Quotes.txt -text
@@ -3132,6 +3140,7 @@ source/RfsConnection.Mod -text
 source/RfsFS.Mod -text
 source/Room.poly -text
 source/Runtime.Mod -text
+source/RuntimeSupport.Mod -text
 source/SCSI.Mod -text
 source/SMTPClient.Mod -text
 source/SSFS.Mod -text
@@ -3700,6 +3709,7 @@ source/Win32.Clock.Mod -text
 source/Win32.CommandLine.Mod -text
 source/Win32.DNS.Mod -text
 source/Win32.Display.Mod -text
+source/Win32.Environment.Mod -text
 source/Win32.External.Oberon.Clipboard.Mod -text svneol=unset#unset
 source/Win32.GDI32.Mod -text
 source/Win32.HierarchicalProfiler0.Mod -text
@@ -3756,6 +3766,7 @@ source/Win32.OberonDisplay.Mod -text
 source/Win32.Objects.Mod -text
 source/Win32.PELinker.Mod -text
 source/Win32.Performance.Mod -text
+source/Win32.Processors.Mod -text
 source/Win32.SQL.Mod -text
 source/Win32.SVNAdmin.Mod -text
 source/Win32.Shell32.Mod -text
