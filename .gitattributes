@@ -1848,6 +1848,7 @@ source/AMD64.UsbKeyboard.Mod -text
 source/AMD64.WMRasterScale.Mod -text
 source/AMD64.WMTransitions.Mod -text
 source/AMD64Decoder.Mod -text
+source/APIC.Processors.Mod -text
 source/ARMDecoder.Mod -text
 source/ASCIITab.Tool -text svneol=unset#unset
 source/ASMAMD64.Mod -text
@@ -2324,6 +2325,7 @@ source/HotKeysCommands.Mod -text
 source/HyperDocs.Panel -text
 source/HyperDocs.Tool -text svneol=unset#unset
 source/HyperLinks.Panel -text
+source/I386.APIC.Mod -text
 source/I386.ATADisks.Mod -text
 source/I386.Adaptec7Script.Mod -text
 source/I386.Array1dBytes.Mod -text
