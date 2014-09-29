@@ -2529,6 +2529,7 @@ source/MtxRat.Mod -text
 source/MtxRe.Mod -text
 source/MultiLogger.Mod -text
 source/MultiMail.Panel -text
+source/Mutexes.Mod -text
 source/NCR810Disks.Mod -text
 source/NCRScript.Mod -text
 source/NGon.Shape -text
