@@ -1889,6 +1889,7 @@ source/Attributes.Mod -text svneol=unset#unset
 source/Authorization.html -text
 source/Auto.dsk -text
 source/Autostart.Mod -text
+source/BIOS.Environment.Mod -text
 source/BIT.Mod -text
 source/BMPCodec.Mod -text
 source/BSplineCurves.Mod -text svneol=unset#unset
@@ -2309,6 +2310,7 @@ source/HTMLTransformer.Mod -text
 source/HTTP.Tool -text svneol=unset#unset
 source/HTTPSession.Mod -text
 source/HTTPSupport.Mod -text
+source/HeapManager.Mod -text
 source/Heaps.Mod -text
 source/HelloWorld.Mod -text
 source/HelloWorld1.Mod -text
