@@ -2030,6 +2030,7 @@ source/Coop.Machine.Mod -text
 source/Coop.Modules.Mod -text
 source/Coop.Objects.Mod -text
 source/Coop.Runtime.Mod -text
+source/Coop.Traps.Mod -text
 source/Coop.Win32.Kernel32.Mod -text
 source/CoordSys.Shape -text
 source/Copyright.Text -text svneol=unset#unset
