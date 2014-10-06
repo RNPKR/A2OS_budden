@@ -2390,6 +2390,7 @@ source/Installer.Mod -text
 source/InstallerPackages.XML -text
 source/Intel8255x.Mod -text
 source/Interfaces.Mod -text
+source/Interrupts.Mod -text
 source/IntroToGadgets.Text -text svneol=unset#unset
 source/IsoImages.Mod -text
 source/JPEG2000Decoder.Mod -text
