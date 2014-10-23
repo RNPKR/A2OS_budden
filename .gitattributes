@@ -1902,6 +1902,7 @@ source/Backdrops.Panel -text
 source/Backup.Tool -text svneol=unset#unset
 source/Bart.Pict -text
 source/Base64.Mod -text
+source/BaseTypes.Mod -text
 source/Bbl.Asm -text
 source/Beep.Mod -text
 source/BeepTest.Mod -text
