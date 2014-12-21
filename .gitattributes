@@ -1857,6 +1857,7 @@ source/AMD64Decoder.Mod -text
 source/ARMDecoder.Mod -text
 source/ASCIITab.Tool -text svneol=unset#unset
 source/ASMAMD64.Mod -text
+source/ASN1.Mod -text
 source/AVI.Mod -text
 source/ActiveTimers.Mod -text
 source/Adaptec7.Mod -text
@@ -3059,6 +3060,7 @@ source/PETModuleTree.Mod -text
 source/PETReleaseTree.Mod -text
 source/PETTrees.Mod -text
 source/PETXMLTree.Mod -text
+source/PKCS1.Mod -text
 source/PNGDecoder.Mod -text
 source/POP3Client.Mod -text
 source/PS.HeaderR.Text -text svneol=unset#unset
@@ -3367,6 +3369,7 @@ source/TestOrganizer.Panel -text
 source/TestServer.Mod -text
 source/TestStrings.Mod -text
 source/TestSuite.Mod -text
+source/TestTLS.Mod -text
 source/TestTrees.Mod -text
 source/TestVideo.Mod -text
 source/TestXMLPlugins.Mod -text
@@ -3794,6 +3797,7 @@ source/Win32.WinFS.Mod -text
 source/Win32.WinTrace.Mod -text
 source/WindowManager.Mod -text
 source/X29Plane.poly -text
+source/X509.Mod -text
 source/XML.Mod -text
 source/XMLComponents.Mod -text
 source/XMLGeneratorSchema.Mod -text
