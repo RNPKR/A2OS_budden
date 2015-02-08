@@ -66,6 +66,7 @@ WinAos/WinOberon/TextPopups.Text -text svneol=unset#text/plain
 WinAos/WinOberon/WatsonObjs.Lib -text
 WinAos/WinOberon/WinMenus.Lib -text
 WinAos/Work/Test.Tool -text
+WinAos/Work/TestLoad.Mod -text
 WinAos/aos.ini -text svneol=unset#text/plain
 WinAos/license.txt -text svneol=unset#text/plain
 WinAos/obj/A2Sequencers.Obw -text
