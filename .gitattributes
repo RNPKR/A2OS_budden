@@ -1998,6 +1998,7 @@ source/Chapter5.Text -text svneol=unset#unset
 source/Chapter6.Text -text svneol=unset#unset
 source/Chapter7.Text -text svneol=unset#unset
 source/CharacterLineup.Mod -text
+source/Checksum.Mod -text
 source/City.poly -text
 source/Clip.Vinci -text
 source/Clipboard.Tool -text svneol=unset#unset
