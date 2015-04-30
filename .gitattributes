@@ -79,6 +79,7 @@ WinAos/obj/AFM.Obw -text
 WinAos/obj/AMD64Decoder.Obw -text
 WinAos/obj/ARMDecoder.Obw -text
 WinAos/obj/ASMAMD64.Obw -text
+WinAos/obj/ASN1.Obw -text
 WinAos/obj/AVI.Obw -text
 WinAos/obj/ActiveTimers.Obw -text
 WinAos/obj/AlmSmtpReceiver.Obw -text
@@ -1068,6 +1069,7 @@ WinAos/obj/PETModuleTree.Obw -text
 WinAos/obj/PETReleaseTree.Obw -text
 WinAos/obj/PETTrees.Obw -text
 WinAos/obj/PETXMLTree.Obw -text
+WinAos/obj/PKCS1.Obw -text
 WinAos/obj/PNGDecoder.Obw -text
 WinAos/obj/POP3Client.Obw -text
 WinAos/obj/PartitionEditor.Obw -text
@@ -1265,6 +1267,7 @@ WinAos/obj/WMDropDownLists.Obw -text
 WinAos/obj/WMDropTarget.Obw -text
 WinAos/obj/WMEditors.Obw -text
 WinAos/obj/WMErrors.Obw -text
+WinAos/obj/WMEthiopicIME.Obw -text
 WinAos/obj/WMEventLog.Obw -text
 WinAos/obj/WMEvents.Obw -text
 WinAos/obj/WMFTPClient.Obw -text
@@ -1275,6 +1278,7 @@ WinAos/obj/WMFontManager.Obw -text
 WinAos/obj/WMGraphicUtilities.Obw -text
 WinAos/obj/WMGraphics.Obw -text
 WinAos/obj/WMGraphicsDemo.Obw -text
+WinAos/obj/WMGraphicsGfx.Obw -text
 WinAos/obj/WMGrids.Obw -text
 WinAos/obj/WMHebrewIME.Obw -text
 WinAos/obj/WMInputMethodTool.Obw -text
@@ -1394,6 +1398,7 @@ WinAos/obj/WinDisks.Obw -text
 WinAos/obj/WinFS.Obw -text
 WinAos/obj/WinTrace.Obw -text
 WinAos/obj/WindowManager.Obw -text
+WinAos/obj/X509.Obw -text
 WinAos/obj/XML.Obw -text
 WinAos/obj/XMLComponents.Obw -text
 WinAos/obj/XMLGeneratorSchema.Obw -text
