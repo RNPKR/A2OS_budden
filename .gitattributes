@@ -2566,6 +2566,8 @@ source/OSCNet.Mod -text
 source/OSCQueue.Mod -text
 source/OSCRegistry.Mod -text
 source/OSCService.Mod -text
+source/OT_TT_Install_E.txt -text
+source/OT_TT_Install_R.txt -text
 source/OType.Text -text svneol=unset#unset
 source/Oberon.ASCIITab.Mod -text svneol=unset#unset
 source/Oberon.Aos.Mod -text svneol=unset#unset
@@ -3071,6 +3073,16 @@ source/PNGDecoder.Mod -text
 source/POP3Client.Mod -text
 source/PS.HeaderR.Text -text svneol=unset#unset
 source/PSHeader.Text -text svneol=unset#unset
+source/PT[!!-~]Free[!!-~]Font[!!-~]License_eng_1.2.txt -text
+source/PT[!!-~]Free[!!-~]Font[!!-~]License_rus_1.2.txt -text
+source/PTSans.ttf -text
+source/PTSansB.ttf -text
+source/PTSansBI.ttf -text
+source/PTSansCaption.ttf -text
+source/PTSansCaptionB.ttf -text
+source/PTSansI.ttf -text
+source/PTSansNarrow.ttf -text
+source/PTSansNarrowB.ttf -text
 source/Packages.Tool -text svneol=unset#unset
 source/Parser.FRM -text
 source/PartitionEditor.Mod -text
