@@ -2052,6 +2052,7 @@ source/CryptoBase64.Mod -text
 source/CryptoBigNumbers.Mod -text
 source/CryptoBlowfish.Mod -text
 source/CryptoCAST.Mod -text
+source/CryptoCSPRNG.Mod -text
 source/CryptoCiphers.Mod -text
 source/CryptoDES.Mod -text
 source/CryptoDES3.Mod -text
