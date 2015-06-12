@@ -3394,6 +3394,7 @@ source/TestVideo.Mod -text
 source/TestXMLPlugins.Mod -text
 source/Tetra.poly -text
 source/Tetris.Panel -text
+source/TextAttributes.Mod -text
 source/TextConverter.Mod -text
 source/TextDocs.Lib -text
 source/TextDocs.Panel -text
