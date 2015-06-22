@@ -1922,7 +1922,7 @@ source/BenchPingPong.Mod -text
 source/BenchSpeedup.Mod -text
 source/BenchSyntaxHighlighter.Mod -text
 source/BenchTCP.Mod -text
-source/BenchXML.Mod -text svneol=unset#unset
+source/BenchXML.Mod -text
 source/Biblio.Text -text svneol=unset#unset
 source/BidiMirroring.txt -text
 source/BimboMail.Mod -text
