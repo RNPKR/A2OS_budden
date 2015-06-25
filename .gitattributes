@@ -2680,6 +2680,7 @@ source/Oberon.GIFImages.Mod -text svneol=unset#unset
 source/Oberon.GZReaders.Mod -text svneol=unset#unset
 source/Oberon.GZWriters.Mod -text svneol=unset#unset
 source/Oberon.GZip.Mod -text svneol=unset#unset
+source/Oberon.GZip.Tool -text
 source/Oberon.Gadgets.Mod -text svneol=unset#unset
 source/Oberon.GadgetsIn.Mod -text svneol=unset#unset
 source/Oberon.GadgetsOut.Mod -text svneol=unset#unset
