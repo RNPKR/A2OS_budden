@@ -3473,6 +3473,7 @@ source/UsbBluetooth.Mod -text
 source/UsbDebug.Mod -text
 source/UsbDriverLoader.Mod -text
 source/UsbEhci.Mod -text
+source/UsbEhciPCI.Mod -text
 source/UsbFTDI.Mod -text
 source/UsbGarminGPS18.Mod -text
 source/UsbHcdi.Mod -text
