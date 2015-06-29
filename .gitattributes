@@ -2281,6 +2281,9 @@ source/Gadgets.poly -text
 source/GadgetsChanges.Text -text svneol=unset#unset
 source/Games.Tool -text svneol=unset#unset
 source/GarbageCollector.Mod -text
+source/Generic.I386.Machine.Mod -text
+source/Generic.Modules.Mod -text
+source/Generic.Win32.Kernel32.Mod -text
 source/GenericLinker.Mod -text
 source/GenericLoader.Mod -text
 source/GenericSort.Mod -text
