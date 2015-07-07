@@ -1831,6 +1831,7 @@ WinAos/vy.ants/source/Oberon.vyXYPlane.Mod -text
 WinAos/vy.ants/source/Oberon.vydbg.RandomTest.Mod -text
 WinAos/vy.ants/source/Oberon.vyxPlots.Mod -text
 source/A2Sequencers.Mod -text
+source/ACPI.Timer.Mod -text
 source/AFM.Mod -text
 source/AM79C970.Mod -text
 source/AMD64.ATADisks.Mod -text
@@ -1896,6 +1897,7 @@ source/Attributes.Mod -text svneol=unset#unset
 source/Authorization.html -text
 source/Auto.dsk -text
 source/Autostart.Mod -text
+source/BIOS.ACPI.Mod -text
 source/BIOS.Environment.Mod -text
 source/BIT.Mod -text
 source/BMPCodec.Mod -text
