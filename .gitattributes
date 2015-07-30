@@ -72,6 +72,9 @@ WinAos/Work/TestLoad.Mod -text
 WinAos/Work/TestOldA2.Tool -text
 WinAos/Work/a2.vmdk -text
 WinAos/Work/bochsrc.bxrc -text
+WinAos/Work/qemu.bat -text
+WinAos/Work/qemuusb.bat -text
+WinAos/Work/qemuusb2.bat -text
 WinAos/aos.ini -text svneol=unset#text/plain
 WinAos/license.txt -text svneol=unset#text/plain
 WinAos/obj/A2Sequencers.Obw -text
