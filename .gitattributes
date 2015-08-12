@@ -1835,6 +1835,7 @@ WinAos/vy.ants/source/Oberon.vyXYPlane.Mod -text
 WinAos/vy.ants/source/Oberon.vydbg.RandomTest.Mod -text
 WinAos/vy.ants/source/Oberon.vyxPlots.Mod -text
 source/A2Sequencers.Mod -text
+source/ACPI.Timer.Mod -text
 source/AFM.Mod -text
 source/AM79C970.Mod -text
 source/AMD64.ATADisks.Mod -text
@@ -1859,12 +1860,14 @@ source/AMD64.UsbKeyboard.Mod -text
 source/AMD64.WMRasterScale.Mod -text
 source/AMD64.WMTransitions.Mod -text
 source/AMD64Decoder.Mod -text
+source/APIC.Processors.Mod -text
 source/ARMDecoder.Mod -text
 source/ASCIITab.Tool -text svneol=unset#unset
 source/ASMAMD64.Mod -text
 source/ASN1.Mod -text
 source/AVI.Mod -text
 source/ActiveTimers.Mod -text
+source/Activities.Mod -text
 source/Adaptec7.Mod -text
 source/AlmSmtpReceiver.Atg -text
 source/AlmSmtpReceiver.Guide.Text -text svneol=unset#unset
@@ -1899,6 +1902,8 @@ source/Attributes.Mod -text svneol=unset#unset
 source/Authorization.html -text
 source/Auto.dsk -text
 source/Autostart.Mod -text
+source/BIOS.ACPI.Mod -text
+source/BIOS.Environment.Mod -text
 source/BIT.Mod -text
 source/BMPCodec.Mod -text
 source/BSplineCurves.Mod -text svneol=unset#unset
@@ -1911,6 +1916,7 @@ source/Backdrops.Panel -text
 source/Backup.Tool -text svneol=unset#unset
 source/Bart.Pict -text
 source/Base64.Mod -text
+source/BaseTypes.Mod -text
 source/Bbl.Asm -text
 source/Beep.Mod -text
 source/BeepTest.Mod -text
@@ -2034,8 +2040,20 @@ source/Configuration.Mod -text
 source/Configuration.Tool -text svneol=unset#unset
 source/Configuration.XML -text
 source/ContextualDependency.Mod -text
+source/Coop.Heaps.Mod -text
+source/Coop.Kernel.Mod -text
+source/Coop.Machine.Mod -text
+source/Coop.MemCache.Mod -text
+source/Coop.Modules.Mod -text
+source/Coop.Objects.Mod -text
+source/Coop.Reflection.Mod -text
+source/Coop.Runtime.Mod -text
+source/Coop.Traps.Mod -text
+source/Coop.Win32.Display.Mod -text
+source/Coop.Win32.Kernel32.Mod -text
 source/CoordSys.Shape -text
 source/Copyright.Text -text svneol=unset#unset
+source/Counters.Mod -text
 source/Courier10.Pr3.Fnt -text
 source/Courier10.Pr6.Fnt -text
 source/Courier10.Scn.Fnt -text
@@ -2192,6 +2210,7 @@ source/Example6.Mod -text
 source/Example7.Mod -text
 source/Example8.Mod -text
 source/ExampleTextWriter.Mod -text
+source/ExclusiveBlocks.Mod -text
 source/ExerciseGroups.Mod -text
 source/FAT.Tool -text svneol=unset#unset
 source/FATFiles.Mod -text
@@ -2272,7 +2291,12 @@ source/Gadgets.Tool -text svneol=unset#unset
 source/Gadgets.poly -text
 source/GadgetsChanges.Text -text svneol=unset#unset
 source/Games.Tool -text svneol=unset#unset
+source/GarbageCollector.Mod -text
+source/Generic.I386.Machine.Mod -text
+source/Generic.Modules.Mod -text
+source/Generic.Win32.Kernel32.Mod -text
 source/GenericLinker.Mod -text
+source/GenericLoader.Mod -text
 source/GenericSort.Mod -text
 source/Gfx.Mod -text
 source/Gfx.Tool -text svneol=unset#unset
@@ -2313,6 +2337,7 @@ source/HTMLTransformer.Mod -text
 source/HTTP.Tool -text svneol=unset#unset
 source/HTTPSession.Mod -text
 source/HTTPSupport.Mod -text
+source/HeapManager.Mod -text
 source/Heaps.Mod -text
 source/HelloWorld.Mod -text
 source/HelloWorld1.Mod -text
@@ -2329,12 +2354,14 @@ source/HotKeysCommands.Mod -text
 source/HyperDocs.Panel -text
 source/HyperDocs.Tool -text svneol=unset#unset
 source/HyperLinks.Panel -text
+source/I386.APIC.Mod -text
 source/I386.ATADisks.Mod -text
 source/I386.Adaptec7Script.Mod -text
 source/I386.Array1dBytes.Mod -text
 source/I386.ArrayBaseOptimized.Mod -text
 source/I386.ArrayXdBytes.Mod -text
 source/I386.BenchInterrupts.Mod -text
+source/I386.CPU.Mod -text
 source/I386.CPUID.Mod -text
 source/I386.DivXDecoder.Mod -text
 source/I386.DivXHelper.Mod -text
@@ -2387,6 +2414,7 @@ source/Installer.Mod -text
 source/InstallerPackages.XML -text
 source/Intel8255x.Mod -text
 source/Interfaces.Mod -text
+source/Interrupts.Mod -text
 source/IntroToGadgets.Text -text svneol=unset#unset
 source/IsoImages.Mod -text
 source/JPEG2000Decoder.Mod -text
@@ -2530,6 +2558,7 @@ source/MtxRat.Mod -text
 source/MtxRe.Mod -text
 source/MultiLogger.Mod -text
 source/MultiMail.Panel -text
+source/Mutexes.Mod -text
 source/NCR810Disks.Mod -text
 source/NCRScript.Mod -text
 source/NGon.Shape -text
@@ -3123,6 +3152,7 @@ source/ProcessInfo.Mod -text
 source/ProcessInfo0.Mod -text
 source/Profiler.Mod -text
 source/Programming.Tool -text svneol=unset#unset
+source/Queues.Mod -text
 source/Quickstart.Text -text svneol=unset#unset
 source/QuoteServer.Mod -text
 source/Quotes.txt -text
@@ -3130,6 +3160,8 @@ source/RAMVolumes.Mod -text
 source/RAWPrinter.Mod -text
 source/RFC865Client.Mod -text
 source/RMSMTP.Mod -text
+source/RPI.CPU.Mod -text
+source/RPI.DisplayLinear.Mod -text
 source/RTL8136.Mod -text
 source/RTL8139.Mod -text
 source/RTL8169.Mod -text
@@ -3741,6 +3773,7 @@ source/Win32.Clock.Mod -text
 source/Win32.CommandLine.Mod -text
 source/Win32.DNS.Mod -text
 source/Win32.Display.Mod -text
+source/Win32.Environment.Mod -text
 source/Win32.External.Oberon.Clipboard.Mod -text svneol=unset#unset
 source/Win32.GDI32.Mod -text
 source/Win32.HierarchicalProfiler0.Mod -text
@@ -3797,11 +3830,13 @@ source/Win32.OberonDisplay.Mod -text
 source/Win32.Objects.Mod -text
 source/Win32.PELinker.Mod -text
 source/Win32.Performance.Mod -text
+source/Win32.Processors.Mod -text
 source/Win32.SQL.Mod -text
 source/Win32.SVNAdmin.Mod -text
 source/Win32.Shell32.Mod -text
 source/Win32.TCP.Mod -text
 source/Win32.Threads.Mod -text
+source/Win32.Timer.Mod -text
 source/Win32.Traps.Mod -text
 source/Win32.UDP.Mod -text
 source/Win32.User32.Mod -text
