@@ -3806,6 +3806,7 @@ source/Win32.SVNAdmin.Mod -text
 source/Win32.Shell32.Mod -text
 source/Win32.TCP.Mod -text
 source/Win32.Threads.Mod -text
+source/Win32.Timer.Mod -text
 source/Win32.Traps.Mod -text
 source/Win32.UDP.Mod -text
 source/Win32.User32.Mod -text
