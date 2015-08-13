@@ -2244,8 +2244,12 @@ source/FoxA2Interface.Mod -text svneol=unset#unset
 source/FoxAMD64Assembler.Mod -text
 source/FoxAMD64InstructionSet.Mod -text
 source/FoxAMDBackend.Mod -text
+source/FoxARMAssembler.Mod -text
+source/FoxARMBackend.Mod -text
+source/FoxARMInstructionSet.Mod -text
 source/FoxActiveCells.Mod -text
 source/FoxArrayBase.Mod -text
+source/FoxAssembler.Mod -text
 source/FoxBackend.Mod -text
 source/FoxBasic.Mod -text
 source/FoxBinaryCode.Mod -text
@@ -2253,6 +2257,7 @@ source/FoxBinaryObjectFile.Mod -text
 source/FoxBinarySymbolFile.Mod -text
 source/FoxCodeGenerators.Mod -text
 source/FoxCompiler.Mod -text
+source/FoxDisassembler.Mod -text
 source/FoxFingerPrinter.Mod -text
 source/FoxFormats.Mod -text
 source/FoxFrontend.Mod -text
@@ -2261,9 +2266,11 @@ source/FoxGlobal.Mod -text
 source/FoxHardware.Mod -text
 source/FoxInstructionSetAMD64TabSeperated.txt -text
 source/FoxInterfaceComparison.Mod -text
+source/FoxIntermediateAssembler.Mod -text
 source/FoxIntermediateBackend.Mod -text
 source/FoxIntermediateCode.Mod -text
 source/FoxIntermediateParser.Mod -text
+source/FoxMinosObjectFile.Mod -text
 source/FoxOberonFrontend.Mod -text
 source/FoxParser.Mod -text
 source/FoxPrintout.Mod -text
