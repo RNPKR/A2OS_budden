@@ -2258,6 +2258,12 @@ source/FoxBinarySymbolFile.Mod -text
 source/FoxCodeGenerators.Mod -text
 source/FoxCompiler.Mod -text
 source/FoxDisassembler.Mod -text
+source/FoxDocumentationBackend.Mod -text
+source/FoxDocumentationHtml.Mod -text
+source/FoxDocumentationParser.Mod -text
+source/FoxDocumentationPrinter.Mod -text
+source/FoxDocumentationScanner.Mod -text
+source/FoxDocumentationTree.Mod -text
 source/FoxFingerPrinter.Mod -text
 source/FoxFormats.Mod -text
 source/FoxFrontend.Mod -text
