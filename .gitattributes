@@ -2281,7 +2281,9 @@ source/FoxIntermediateCode.Mod -text
 source/FoxIntermediateLinker.Mod -text
 source/FoxIntermediateObjectFile.Mod -text
 source/FoxIntermediateParser.Mod -text
+source/FoxInterpreter.Mod -text
 source/FoxInterpreterBackend.Mod -text
+source/FoxInterpreterSymbols.Mod -text
 source/FoxMinosObjectFile.Mod -text
 source/FoxOberonFrontend.Mod -text
 source/FoxParser.Mod -text
@@ -2437,6 +2439,7 @@ source/Installer.Mod -text
 source/InstallerPackages.XML -text
 source/Intel8255x.Mod -text
 source/Interfaces.Mod -text
+source/InterpreterShell.Mod -text
 source/Interrupts.Mod -text
 source/IntroToGadgets.Text -text svneol=unset#unset
 source/IsoImages.Mod -text
@@ -3147,6 +3150,7 @@ source/Partitions.Tool -text svneol=unset#unset
 source/PartitionsLib.Mod -text
 source/Pebbles.Pict -text
 source/Performance.Mod -text
+source/PersistentObjects.Mod -text
 source/Philus10.Scn.Fnt -text
 source/Philus10b.Scn.Fnt -text
 source/Philus12.Scn.Fnt -text
@@ -3662,6 +3666,7 @@ source/WMInspector.Mod -text
 source/WMInspector.tar -text
 source/WMInstaller.Mod -text
 source/WMInstaller.tar -text svneol=unset#unset
+source/WMInterpreterShell.Mod -text
 source/WMJoysticks.Mod -text
 source/WMKernelLog.Mod -text
 source/WMKeyCode.Mod -text
