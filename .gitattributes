@@ -2297,6 +2297,7 @@ source/FoxSyntaxTree.Mod -text
 source/FoxTRMAssembler.Mod -text
 source/FoxTRMBackend.Mod -text
 source/FoxTRMInstructionSet.Mod -text
+source/FoxTRMTools.Mod -text
 source/FoxTest.Mod -text
 source/FoxTextCompiler.Mod -text
 source/FoxTextualSymbolFile.Mod -text
