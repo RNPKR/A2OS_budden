@@ -2272,6 +2272,7 @@ source/FoxIntermediateCode.Mod -text
 source/FoxIntermediateLinker.Mod -text
 source/FoxIntermediateObjectFile.Mod -text
 source/FoxIntermediateParser.Mod -text
+source/FoxInterpreterBackend.Mod -text
 source/FoxMinosObjectFile.Mod -text
 source/FoxOberonFrontend.Mod -text
 source/FoxParser.Mod -text
@@ -2288,6 +2289,7 @@ source/FoxTRMInstructionSet.Mod -text
 source/FoxTest.Mod -text
 source/FoxTextCompiler.Mod -text
 source/FoxTextualSymbolFile.Mod -text
+source/FoxTranspilerBackend.Mod -text
 source/Fractal.Pict -text
 source/FractalDemo.Mod -text
 source/GIFCodec.Mod -text
