@@ -2269,6 +2269,8 @@ source/FoxInterfaceComparison.Mod -text
 source/FoxIntermediateAssembler.Mod -text
 source/FoxIntermediateBackend.Mod -text
 source/FoxIntermediateCode.Mod -text
+source/FoxIntermediateLinker.Mod -text
+source/FoxIntermediateObjectFile.Mod -text
 source/FoxIntermediateParser.Mod -text
 source/FoxMinosObjectFile.Mod -text
 source/FoxOberonFrontend.Mod -text
@@ -2280,6 +2282,9 @@ source/FoxScanner.Mod -text
 source/FoxSections.Mod -text
 source/FoxSemanticChecker.Mod -text
 source/FoxSyntaxTree.Mod -text
+source/FoxTRMAssembler.Mod -text
+source/FoxTRMBackend.Mod -text
+source/FoxTRMInstructionSet.Mod -text
 source/FoxTest.Mod -text
 source/FoxTextCompiler.Mod -text
 source/FoxTextualSymbolFile.Mod -text
