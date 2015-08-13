@@ -2255,6 +2255,9 @@ source/FoxBasic.Mod -text
 source/FoxBinaryCode.Mod -text
 source/FoxBinaryObjectFile.Mod -text
 source/FoxBinarySymbolFile.Mod -text
+source/FoxCSharpFrontend.Mod -text
+source/FoxCSharpParser.Mod -text
+source/FoxCSharpScanner.Mod -text
 source/FoxCodeGenerators.Mod -text
 source/FoxCompiler.Mod -text
 source/FoxDisassembler.Mod -text
