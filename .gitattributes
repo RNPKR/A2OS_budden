@@ -1861,6 +1861,8 @@ source/AMD64.WMRasterScale.Mod -text
 source/AMD64.WMTransitions.Mod -text
 source/AMD64Decoder.Mod -text
 source/APIC.Processors.Mod -text
+source/ARM.ARMRuntime.Mod -text
+source/ARM.FPE64.Mod -text
 source/ARMDecoder.Mod -text
 source/ASCIITab.Tool -text svneol=unset#unset
 source/ASMAMD64.Mod -text
