@@ -3192,6 +3192,7 @@ source/RFC865Client.Mod -text
 source/RMSMTP.Mod -text
 source/RPI.CPU.Mod -text
 source/RPI.DisplayLinear.Mod -text
+source/RPI.Timer.Mod -text
 source/RTL8136.Mod -text
 source/RTL8139.Mod -text
 source/RTL8169.Mod -text
