@@ -2043,8 +2043,8 @@ source/Configuration.Tool -text svneol=unset#unset
 source/Configuration.XML -text
 source/ContextualDependency.Mod -text
 source/Coop.Heaps.Mod -text
+source/Coop.I386.Machine.Mod -text
 source/Coop.Kernel.Mod -text
-source/Coop.Machine.Mod -text
 source/Coop.MemCache.Mod -text
 source/Coop.Modules.Mod -text
 source/Coop.Objects.Mod -text
