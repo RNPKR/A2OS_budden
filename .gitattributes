@@ -140,6 +140,7 @@ WinAos/obj/CalcFn.Obw -text
 WinAos/obj/CalcGauss.Obw -text
 WinAos/obj/CalcGrunwald.Obw -text
 WinAos/obj/CharacterLineup.Obw -text
+WinAos/obj/Checksum.Obw -text
 WinAos/obj/Clipboard.Obw -text
 WinAos/obj/Clock.Obw -text
 WinAos/obj/Codecs.Obw -text
@@ -158,6 +159,7 @@ WinAos/obj/CryptoBase64.Obw -text
 WinAos/obj/CryptoBigNumbers.Obw -text
 WinAos/obj/CryptoBlowfish.Obw -text
 WinAos/obj/CryptoCAST.Obw -text
+WinAos/obj/CryptoCSPRNG.Obw -text
 WinAos/obj/CryptoCiphers.Obw -text
 WinAos/obj/CryptoDES.Obw -text
 WinAos/obj/CryptoDES3.Obw -text
@@ -348,7 +350,6 @@ WinAos/obj/Inflate.Obw -text
 WinAos/obj/Info.Obw -text
 WinAos/obj/Inputs.Obw -text
 WinAos/obj/Installer.Obw -text
-WinAos/obj/Interfaces.Obw -text
 WinAos/obj/IsoImages.Obw -text
 WinAos/obj/JPEG2000Decoder.Obw -text
 WinAos/obj/JPEG2000DecoderCS.Obw -text
@@ -1277,7 +1278,6 @@ WinAos/obj/WMFontCCGConverter.Obw -text
 WinAos/obj/WMFontManager.Obw -text
 WinAos/obj/WMGraphicUtilities.Obw -text
 WinAos/obj/WMGraphics.Obw -text
-WinAos/obj/WMGraphicsDemo.Obw -text
 WinAos/obj/WMGraphicsGfx.Obw -text
 WinAos/obj/WMGrids.Obw -text
 WinAos/obj/WMHebrewIME.Obw -text
