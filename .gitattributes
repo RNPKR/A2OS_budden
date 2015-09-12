@@ -3772,6 +3772,7 @@ source/WMSearchComponents.Mod -text
 source/WMSearchTool.Mod -text
 source/WMShapes.Mod -text
 source/WMShell.Mod -text
+source/WMSimpleGraphs.Mod -text
 source/WMSkinLoader.Mod -text
 source/WMSlideshow.Mod -text
 source/WMStandardComponents.Mod -text
