@@ -2529,6 +2529,7 @@ source/Linker.Mod -text
 source/Linker0.Mod -text
 source/Linker1.Mod -text
 source/Linux.AMD64.Unix.Mod -text
+source/Linux.I386.ElfHeader.Mod -text
 source/Linux.I386.Unix.Mod -text
 source/Lissajous.Panel -text
 source/LoadGadgets.Text -text svneol=unset#unset
