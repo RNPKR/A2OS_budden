@@ -1897,6 +1897,8 @@ source/ASCIITab.Tool -text svneol=unset#unset
 source/ASMAMD64.Mod -text
 source/ASN1.Mod -text
 source/AVI.Mod -text
+source/ActiveCellsRunner.mod -text
+source/ActiveCellsRuntime.mod -text
 source/ActiveTimers.Mod -text
 source/Activities.Mod -text
 source/Adaptec7.Mod -text
