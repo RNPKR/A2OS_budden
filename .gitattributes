@@ -2409,6 +2409,7 @@ source/HostClipboard.Mod -text
 source/HotKeys.Mod -text
 source/HotKeys.XML -text
 source/HotKeysCommands.Mod -text
+source/Huffman.mod -text
 source/HyperDocs.Panel -text
 source/HyperDocs.Tool -text svneol=unset#unset
 source/HyperLinks.Panel -text
