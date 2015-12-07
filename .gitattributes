@@ -3168,7 +3168,11 @@ source/POP3Client.Mod -text
 source/PS.HeaderR.Text -text svneol=unset#unset
 source/PSHeader.Text -text svneol=unset#unset
 source/PTFreeFontLicenseEng1.2.txt -text
+source/PTFreeFontLicenseEng1.3.txt -text
 source/PTFreeFontLicenseRus1.2.txt -text
+source/PTFreeFontLicenseRus1.3.txt -text
+source/PTMono.ttf -text
+source/PTMonoB.ttf -text
 source/PTSans.ttf -text
 source/PTSansB.ttf -text
 source/PTSansBI.ttf -text
@@ -3177,6 +3181,12 @@ source/PTSansCaptionB.ttf -text
 source/PTSansI.ttf -text
 source/PTSansNarrow.ttf -text
 source/PTSansNarrowB.ttf -text
+source/PTSerif.ttf -text
+source/PTSerifB.ttf -text
+source/PTSerifBI.ttf -text
+source/PTSerifCaption.ttf -text
+source/PTSerifCaptionI.ttf -text
+source/PTSerifI.ttf -text
 source/Packages.Tool -text svneol=unset#unset
 source/Parser.FRM -text
 source/PartitionEditor.Mod -text
