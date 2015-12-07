@@ -3167,8 +3167,8 @@ source/PNGDecoder.Mod -text
 source/POP3Client.Mod -text
 source/PS.HeaderR.Text -text svneol=unset#unset
 source/PSHeader.Text -text svneol=unset#unset
-source/PT[!!-~]Free[!!-~]Font[!!-~]License_eng_1.2.txt -text
-source/PT[!!-~]Free[!!-~]Font[!!-~]License_rus_1.2.txt -text
+source/PTFreeFontLicenseEng1.2.txt -text
+source/PTFreeFontLicenseRus1.2.txt -text
 source/PTSans.ttf -text
 source/PTSansB.ttf -text
 source/PTSansBI.ttf -text
