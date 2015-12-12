@@ -3965,6 +3965,10 @@ source/ZlibDeflate.Mod -text
 source/ZlibInflate.Mod -text
 source/ZlibReaders.Mod -text
 source/ZlibWriters.Mod -text
+source/Zynq.CPU.Mod -text
+source/Zynq.Environment.Mod -text
+source/Zynq.Processors.Mod -text
+source/Zynq.Timer.Mod -text
 source/accounts.dxp -text
 source/aqua.skin -text
 source/benevento.ttf -text
