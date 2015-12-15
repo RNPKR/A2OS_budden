@@ -1889,6 +1889,8 @@ source/ARM.ARMRuntime.Mod -text
 source/ARM.FPE64.Mod -text
 source/ARM.IP.Mod -text
 source/ARM.IPv4.Mod -text
+source/ARM.Math.Mod -text
+source/ARM.MathL.Mod -text
 source/ARM.Network.Mod -text
 source/ARM.Reals.Mod -text
 source/ARM.Traps.Mod -text
