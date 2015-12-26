@@ -2204,6 +2204,7 @@ source/DynamicWebpage.Mod -text
 source/DynamicWebpagePlugin.Mod -text
 source/DynamicWebpagePlugin.Text -text svneol=unset#unset
 source/EFI.AMD64.Machine.Mod -text
+source/EFI.I386.Machine.Mod -text
 source/EFI.Mod -text
 source/EFI.Tool -text
 source/EFIA2Loader.Mod -text
