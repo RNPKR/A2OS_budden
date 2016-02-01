@@ -2130,6 +2130,7 @@ source/CryptoTestDSA.Mod -text
 source/CryptoTestHMAC.Mod -text
 source/CryptoTestHashes.Mod -text
 source/CryptoTestRSA.Mod -text
+source/CryptoTools.Mod -text
 source/CryptoTwofish.Mod -text
 source/CryptoUtils.Mod -text
 source/Cube.poly -text
