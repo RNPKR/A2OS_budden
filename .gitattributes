@@ -1937,6 +1937,7 @@ source/Attributes.Mod -text svneol=unset#unset
 source/Authorization.html -text
 source/Auto.dsk -text
 source/Autostart.Mod -text
+source/BB.StdCoder.Mod -text
 source/BIOS.ACPI.Mod -text
 source/BIOS.Environment.Mod -text
 source/BIT.Mod -text
