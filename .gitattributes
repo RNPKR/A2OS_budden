@@ -2416,7 +2416,6 @@ source/HostClipboard.Mod -text
 source/HotKeys.Mod -text
 source/HotKeys.XML -text
 source/HotKeysCommands.Mod -text
-source/Huffman.mod -text
 source/HyperDocs.Panel -text
 source/HyperDocs.Tool -text svneol=unset#unset
 source/HyperLinks.Panel -text
@@ -2667,6 +2666,7 @@ source/OSCService.Mod -text
 source/OT_TT_Install_E.txt -text
 source/OT_TT_Install_R.txt -text
 source/OType.Text -text svneol=unset#unset
+source/OZip.mod -text
 source/Oberon.ASCIITab.Mod -text svneol=unset#unset
 source/Oberon.Aos.Mod -text svneol=unset#unset
 source/Oberon.AsciiCoder.Mod -text svneol=unset#unset
