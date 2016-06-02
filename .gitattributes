@@ -3969,6 +3969,7 @@ source/Games.Tool -text svneol=unset#unset
 source/GarbageCollector.Mod -text
 source/Generic.I386.Machine.Mod -text
 source/Generic.Modules.Mod -text
+source/Generic.Reflection.Mod -text
 source/Generic.Win32.Kernel32.Mod -text
 source/GenericLinker.Mod -text
 source/GenericLoader.Mod -text
