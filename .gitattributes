@@ -74,7 +74,6 @@ WinAos/WinOberon/WatsonObjs.Lib -text
 WinAos/WinOberon/WinMenus.Lib -text
 WinAos/aos.ini -text svneol=unset#text/plain
 WinAos/aosg.ini -text
-WinAos/license.txt -text svneol=unset#text/plain
 WinAos/obg/A2Sequencers.GofW -text
 WinAos/obg/A2Sequencers.SymW -text
 WinAos/obg/ADVAPI32.GofW -text
@@ -3880,6 +3879,7 @@ WinAos/vy.ants/source/Oberon.vyXPValues.Mod -text
 WinAos/vy.ants/source/Oberon.vyXYPlane.Mod -text
 WinAos/vy.ants/source/Oberon.vydbg.RandomTest.Mod -text
 WinAos/vy.ants/source/Oberon.vyxPlots.Mod -text
+/license.txt -text svneol=unset#text/plain
 source/A2Sequencers.Mod -text
 source/ACPI.Timer.Mod -text
 source/AFM.Mod -text
