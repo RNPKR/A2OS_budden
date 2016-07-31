@@ -5919,7 +5919,7 @@ source/Win32.Oberon.Pictures.Mod -text svneol=unset#unset
 source/Win32.Oberon.PlugInDocs.Mod -text svneol=unset#unset
 source/Win32.Oberon.Printer.Mod -text svneol=unset#unset
 source/Win32.Oberon.PrinterInfo.Mod -text svneol=unset#unset
-source/Win32.Oberon.Registry.Mod -text
+source/Win32.Oberon.Registry.Mod -text svneol=unset#unset
 source/Win32.Oberon.RegistryTools.Mod -text svneol=unset#unset
 source/Win32.Oberon.Rembrandt.Mod -text svneol=unset#unset
 source/Win32.Oberon.System.Mod -text svneol=unset#unset
