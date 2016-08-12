@@ -4300,7 +4300,7 @@ source/FirewireSBP2.Mod -text
 source/Flock.Pict -text
 source/FontEditor.Panel -text
 source/FontRes.Tool -text svneol=unset#unset
-source/Fox.Tool -text svneol=unset#unset
+source/Fox.Tool -text
 source/FoxA2Interface.Mod -text svneol=unset#unset
 source/FoxAMD64Assembler.Mod -text
 source/FoxAMD64InstructionSet.Mod -text
