@@ -4388,6 +4388,7 @@ source/Generic.Reflection.Mod -text
 source/Generic.Unix.I386.Machine.Mod -text
 source/Generic.Unix.Objects.Mod -text
 source/Generic.Unix.Traps.Mod -text
+source/Generic.Unix.UnixFiles.Mod -text
 source/Generic.Unix.X11.Mod -text
 source/Generic.Win32.Kernel32.Mod -text
 source/GenericLinker.Mod -text
