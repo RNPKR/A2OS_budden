@@ -5581,6 +5581,7 @@ source/Unix.BootLinkerModules.Mod -text
 source/Unix.Clipboard.Mod -text
 source/Unix.Clock.Mod -text
 source/Unix.DNS.Mod -text
+source/Unix.Display.Mod -text
 source/Unix.DisplayRefresher.Mod -text
 source/Unix.Glue.Mod -text
 source/Unix.Heaps.Mod -text
