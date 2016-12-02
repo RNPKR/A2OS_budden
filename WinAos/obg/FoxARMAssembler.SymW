@@ -1,5 +1,5 @@
 MODULE FoxARMAssembler;
-	IMPORT InstructionSet := FoxARMInstructionSet, FoxAssembler, Scanner := FoxScanner, Diagnostics, Strings;
+	IMPORT InstructionSet := FoxARMInstructionSet, FoxAssembler, Scanner := FoxScanner, Diagnostics, Strings, Basic := FoxBasic;
 CONST 
 	Trace = FoxAssembler.Trace; 
 TYPE 
@@ -16,6 +16,5 @@ TYPE
 		PROCEDURE ^ GetImmediateValue*(VAR immediateValue: LONGINT): BOOLEAN; 
 		PROCEDURE ^ Instruction*(CONST mnemonic: ARRAY OF CHAR); 
 	END Assembler; 
-
 BEGIN
 END FoxARMAssembler.

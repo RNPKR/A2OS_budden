@@ -1,0 +1,52 @@
+module ActiveCellsRunner;
+	import ActiveCellsRuntime, Commands, Modules;
+const 
+	EnableTrace = false; 
+type 
+	Cell = object 
+	var 
+		isCellnet-: boolean; 
+	end Cell; 
+
+	Fifo = object {EXCLUSIVE} 
+	var 
+		data: array 64 of longint; 
+		inPos, outPos: longint; 
+		length: longint; 
+		inPort: Port; 
+		outPort: Port; 
+
+		procedure ^  & Init(outP: Port; inP: Port; length: longint); 
+		procedure ^ Put(value: longint); 
+		procedure ^ Get(var value: longint); 
+	end Fifo; 
+
+	Port = object {EXCLUSIVE} 
+	var 
+		fifo-: Fifo; 
+		delegatedTo-: Port; 
+		inout-: set; 
+
+		procedure ^  & InitPort(inout: set; width: longint); 
+		procedure ^ Delegate(toPort: Port); 
+		procedure ^ SetFifo(f: Fifo); 
+		procedure ^ Send(value: longint); 
+		procedure ^ Receive(var value: longint); 
+	end Port; 
+
+	Context* = object (ActiveCellsRuntime.Context)
+
+		procedure ^ Allocate*(scope: any; var c: any; t: Modules.TypeDesc; const name: array of char; isCellnet, isEngine: boolean); 
+		procedure ^ AddPort*(c: any; var p: any; const name: array of char; inout: set; width: longint); 
+		procedure ^ AddPortArray*(c: any; var ports: any; const name: array of char; inout: set; width: longint; const lens: array of longint); 
+		procedure ^ AddStaticPortArray*(c: any; var ports: array of any; const name: array of char; inout: set; width: longint); 
+		procedure ^ Connect*(outPort, inPort: any; depth: longint); 
+		procedure ^ Delegate*(netPort: any; cellPort: any); 
+		procedure ^ Start*(c: any; proc: procedure {DELEGATE}); 
+		procedure ^ Send*(p: any; value: longint); 
+		procedure ^ Receive*(p: any; var value: longint); 
+	end Context; 
+
+	procedure ^ Execute*(context: Commands.Context); 
+begin
+end ActiveCellsRunner.

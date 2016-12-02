@@ -15,7 +15,7 @@ CONST
 	ClearCode = TRUE; 
 	DefaultContext* = \"A2"\; 
 	NoLoader = 3400; 
-	TraceBoot = TRUE; 
+	TraceBoot = FALSE; 
 	ModuleInitTimeout = HUGEINT(0B2D05E00H); 
 TYPE 
 	Name* = ARRAY 32 OF CHAR; 
@@ -117,6 +117,7 @@ VAR
 	PROCEDURE ^ Initialize*(VAR module: Module); 
 	PROCEDURE ^ Initialize0*(module: Module); 
 	PROCEDURE ^ ModuleByName*(CONST name: ARRAY OF CHAR): Module; 
+	PROCEDURE ^ ByName(CONST name: ARRAY OF CHAR; VAR referenced: BOOLEAN): Module; 
 	PROCEDURE ^ GetFileName(CONST name, extension: ARRAY OF CHAR; VAR fileName: ARRAY OF CHAR); 
 	PROCEDURE ^ SortProcedureDescs(p: ProcedureDescs); 
 	PROCEDURE ^ SortExceptionTable(p: ExceptionTable); 
@@ -136,6 +137,7 @@ VAR
 	PROCEDURE ^ GetExceptionHandler*(pc: ADDRESS): ADDRESS; 
 	PROCEDURE ^ Initialized*(m: Module): BOOLEAN; 
 	PROCEDURE ^ Register-(module{UNTRACED} : Module); 
+	PROCEDURE ^ Unregister(m: Module); 
 	PROCEDURE ^ PublishRegisteredModules; 
 	PROCEDURE ^ Main-; 
 	PROCEDURE ^ Init; 

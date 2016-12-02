@@ -159,8 +159,10 @@ TYPE
 
 	Token* = LONGINT; 
 
+	Position* = Basic.Position; 
+
 	Symbol* = RECORD 
-		start*, end*, line-: LONGINT; 
+		position*: Position; 
 		token*: Token; 
 		identifier*: IdentifierType; 
 		identifierString*: IdentifierString; 
@@ -194,13 +196,13 @@ TYPE
 		reader-: Streams.Reader; 
 		diagnostics: Diagnostics.Diagnostics; 
 		ch-: CHAR; 
-		position-: LONGINT; 
-		line-: LONGINT; 
+		position-: Position; 
 		error-: BOOLEAN; 
 		firstIdentifier: BOOLEAN; 
 		case-: LONGINT; 
 		stringWriter: Streams.Writer; 
 		stringMaker: StringMaker; 
+		useLineNumbers*: BOOLEAN; 
 
 		PROCEDURE ^  & InitializeScanner*(CONST source: ARRAY OF CHAR; reader: Streams.Reader; position: LONGINT; diagnostics: Diagnostics.Diagnostics); 
 		PROCEDURE ^ ResetCase*; 
@@ -222,7 +224,8 @@ TYPE
 	END Scanner; 
 
 	Context* = RECORD 
-		position, readerPosition: LONGINT; 
+		position: Position; 
+		readerPosition: LONGINT; 
 		ch: CHAR; 
 	END; 
 

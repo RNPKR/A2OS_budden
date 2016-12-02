@@ -1,5 +1,5 @@
 MODULE FoxAMDBackend;
-	IMPORT Basic := FoxBasic, Scanner := FoxScanner, SyntaxTree := FoxSyntaxTree, Global := FoxGlobal, Backend := FoxBackend, Sections := FoxSections, IntermediateCode := FoxIntermediateCode, IntermediateBackend := FoxIntermediateBackend, BinaryCode := FoxBinaryCode, InstructionSet := FoxAMD64InstructionSet, Assembler := FoxAMD64Assembler, SemanticChecker := FoxSemanticChecker, Formats := FoxFormats, Diagnostics, Streams, Options, Strings, ObjectFileFormat := FoxBinaryObjectFile, Machine, D := Debugging, CodeGenerators := FoxCodeGenerators, ObjectFile;
+	IMPORT Basic := FoxBasic, Scanner := FoxScanner, SyntaxTree := FoxSyntaxTree, Global := FoxGlobal, Backend := FoxBackend, Sections := FoxSections, IntermediateCode := FoxIntermediateCode, IntermediateBackend := FoxIntermediateBackend, BinaryCode := FoxBinaryCode, InstructionSet := FoxAMD64InstructionSet, Assembler := FoxAMD64Assembler, SemanticChecker := FoxSemanticChecker, Formats := FoxFormats, Diagnostics, Streams, Options, Strings, ObjectFileFormat := FoxBinaryObjectFile, Compiler, Machine, D := Debugging, CodeGenerators := FoxCodeGenerators, ObjectFile;
 CONST 
 	none =  -1; 
 	RAX = InstructionSet.regRAX; 
@@ -175,7 +175,8 @@ TYPE
 		PROCEDURE ^ PrepareOp3(CONST instruction: IntermediateCode.Instruction; part: LONGINT; VAR left, right: Assembler.Operand; VAR ticket: Ticket); 
 		PROCEDURE ^ PrepareOp2(CONST instruction: IntermediateCode.Instruction; part: LONGINT; VAR left: Assembler.Operand; VAR ticket: Ticket); 
 		PROCEDURE ^ FinishOp(CONST vop: IntermediateCode.Operand; part: LONGINT; left: Assembler.Operand; ticket: Ticket); 
-		PROCEDURE ^ EmitArithmetic3(CONST instruction: IntermediateCode.Instruction; part: LONGINT; opcode: LONGINT); 
+		PROCEDURE ^ EmitArithmetic3Part(CONST instruction: IntermediateCode.Instruction; part: LONGINT; opcode: LONGINT); 
+		PROCEDURE ^ EmitArithmetic3(CONST instruction: IntermediateCode.Instruction; opcode: LONGINT); 
 		PROCEDURE ^ EmitArithmetic3XMM(CONST instruction: IntermediateCode.Instruction; op32, op64: LONGINT); 
 		PROCEDURE ^ EmitArithmetic2(CONST instruction: IntermediateCode.Instruction; part: LONGINT; opcode: LONGINT); 
 		PROCEDURE ^ EmitArithmetic2XMM(CONST instruction: IntermediateCode.Instruction; op32, op64: LONGINT); 

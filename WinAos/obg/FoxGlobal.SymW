@@ -30,6 +30,7 @@ CONST
 	StringSafe* = \"SAFE"\; 
 	StringRealtime* = \"REALTIME"\; 
 	StringDynamic* = \"DYNAMIC"\; 
+	StringFingerprint* = \"FingerPrint"\; 
 	StringInstructionWidth* = \"InstructionWidth"\; 
 	StringDataMemorySize* = \"DataMemorySize"\; 
 	StringCodeMemorySize* = \"CodeMemorySize"\; 
@@ -48,6 +49,8 @@ CONST
 	StringEngine* = \"Engine"\; 
 	StringTRM* = \"TRM"\; 
 	StringTRMS* = \"TRMS"\; 
+	StringBackend* = \"Backend"\; 
+	StringRuntime* = \"Runtime"\; 
 	WithTrap* = 1; 
 	CaseTrap* = 2; 
 	ReturnTrap* = 3; 
@@ -195,6 +198,8 @@ CONST
 	SymLynxSelidx* = (endFox + 9); 
 	end = (endFox + 10); 
 TYPE 
+	Position = SyntaxTree.Position; 
+
 	Alignment* = RECORD 
 		min, max: LONGINT; 
 	END; 
@@ -231,7 +236,7 @@ TYPE
 		PROCEDURE ^ IsLynx*(): BOOLEAN; 
 	END System; 
 VAR 
-	SelfParameterName-, ReturnParameterName-, SystemName-, systemName-, PointerReturnName-, ResultName-, A2Name-, OberonName-, ArrayBaseName-, RecordBodyName-, ModuleBodyName-, NameWinAPI-, NameC-, NameMovable-, NameUntraced-, NameDelegate-, NameInterrupt-, NamePcOffset-, NameNoPAF-, NameEntry-, NameExit-, NameFixed-, NameFictive-, NameAligned-, NameStackAligned-, NameExclusive-, NameActive-, NamePriority-, NameSafe-, NameRealtime-, NameDynamic-, NameDataMemorySize-, NameCodeMemorySize-, NameChannelWidth-, NameChannelDepth-, NameChannelModule-, NameVector-, NameFloatingPoint-, NameNoMul-, NameNonBlockingIO-, NameTRM-, NameTRMS-, NameEngine-, NameFinal-, NameAbstract-, NameFrequencyDivider-, NameRegister-, NameNoReturn-, NamePlain-, NameUnsafe-, NameDisposable-, NameUnchecked-, NameUncooperative-: SyntaxTree.Identifier; 
+	SelfParameterName-, ReturnParameterName-, SystemName-, systemName-, PointerReturnName-, ResultName-, A2Name-, OberonName-, ArrayBaseName-, RecordBodyName-, ModuleBodyName-, NameWinAPI-, NameC-, NameMovable-, NameUntraced-, NameDelegate-, NameInterrupt-, NamePcOffset-, NameNoPAF-, NameEntry-, NameExit-, NameFixed-, NameFictive-, NameAligned-, NameStackAligned-, NameExclusive-, NameActive-, NamePriority-, NameSafe-, NameRealtime-, NameDynamic-, NameFingerprint-, NameDataMemorySize-, NameCodeMemorySize-, NameChannelWidth-, NameChannelDepth-, NameChannelModule-, NameVector-, NameFloatingPoint-, NameNoMul-, NameNonBlockingIO-, NameTRM-, NameTRMS-, NameEngine-, NameFinal-, NameAbstract-, NameBackend-, NameRuntime-, NameFrequencyDivider-, NameRegister-, NameNoReturn-, NamePlain-, NameUnsafe-, NameDisposable-, NameUnchecked-, NameUncooperative-: SyntaxTree.Identifier; 
 	identifiers: ARRAY 2 OF ARRAY end OF SyntaxTree.Identifier; 
 	Boolean8-, Boolean32-: SyntaxTree.BooleanType; 
 	Integer8-, Integer16-, Integer32-, Integer64-: SyntaxTree.IntegerType; 
@@ -283,11 +288,11 @@ VAR
 	PROCEDURE ^ IsSignedInteger*(this: HUGEINT; sizeInBits: LONGINT): BOOLEAN; 
 	PROCEDURE ^ GetSignedIntegerType*(system: System; this: HUGEINT): SyntaxTree.IntegerType; 
 	PROCEDURE ^ GetIntegerType*(system: System; this: HUGEINT): SyntaxTree.IntegerType; 
-	PROCEDURE ^ NewIntegerValue*(system: System; position: LONGINT; hugeint: HUGEINT): SyntaxTree.Value; 
-	PROCEDURE ^ NewBooleanValue*(system: System; position: LONGINT; b: BOOLEAN): SyntaxTree.Value; 
-	PROCEDURE ^ NewSetValue*(system: System; position: LONGINT; s: SET): SyntaxTree.Value; 
-	PROCEDURE ^ NewCharacterValue*(system: System; position: LONGINT; c: CHAR): SyntaxTree.Value; 
-	PROCEDURE ^ NewNilValue*(system: System; position: LONGINT): SyntaxTree.Value; 
+	PROCEDURE ^ NewIntegerValue*(system: System; position: Position; hugeint: HUGEINT): SyntaxTree.Value; 
+	PROCEDURE ^ NewBooleanValue*(system: System; position: Position; b: BOOLEAN): SyntaxTree.Value; 
+	PROCEDURE ^ NewSetValue*(system: System; position: Position; s: SET): SyntaxTree.Value; 
+	PROCEDURE ^ NewCharacterValue*(system: System; position: Position; c: CHAR): SyntaxTree.Value; 
+	PROCEDURE ^ NewNilValue*(system: System; position: Position): SyntaxTree.Value; 
 	PROCEDURE ^ BasicTypeDistance*(system: System; from, to: SyntaxTree.BasicType): LONGINT; 
 	PROCEDURE ^ GetIdentifier*(symbol: LONGINT; case: LONGINT): SyntaxTree.Identifier; 
 	PROCEDURE ^ GetSymbol*(case: LONGINT; id: SyntaxTree.Identifier): LONGINT; 

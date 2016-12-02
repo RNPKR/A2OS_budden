@@ -1,5 +1,5 @@
 MODULE FoxTRMBackend;
-	IMPORT Basic := FoxBasic, SyntaxTree := FoxSyntaxTree, Global := FoxGlobal, Backend := FoxBackend, Sections := FoxSections, IntermediateCode := FoxIntermediateCode, IntermediateBackend := FoxIntermediateBackend, BinaryCode := FoxBinaryCode, SemanticChecker := FoxSemanticChecker, Formats := FoxFormats, Assembler := FoxTRMAssembler, InstructionSet := FoxTRMInstructionSet, SYSTEM, Diagnostics, Streams, Options, Strings, ObjectFile, Scanner := FoxScanner, ObjectFileFormat := FoxIntermediateObjectFile, CodeGenerators := FoxCodeGenerators, D := Debugging;
+	IMPORT Basic := FoxBasic, SyntaxTree := FoxSyntaxTree, Global := FoxGlobal, Backend := FoxBackend, Sections := FoxSections, IntermediateCode := FoxIntermediateCode, IntermediateBackend := FoxIntermediateBackend, BinaryCode := FoxBinaryCode, SemanticChecker := FoxSemanticChecker, Formats := FoxFormats, Assembler := FoxTRMAssembler, InstructionSet := FoxTRMInstructionSet, SYSTEM, Diagnostics, Streams, Options, Strings, ObjectFile, Scanner := FoxScanner, ObjectFileFormat := FoxIntermediateObjectFile, CodeGenerators := FoxCodeGenerators, D := Debugging, Compiler;
 CONST 
 	TraceFixups = FALSE; 
 	DefaultRuntimeModuleName = \"TRMRuntime"\; 
@@ -167,9 +167,10 @@ TYPE
 		PROCEDURE ^ EmitFSub(VAR instruction: IntermediateCode.Instruction); 
 		PROCEDURE ^ EmitMul(VAR instruction: IntermediateCode.Instruction); 
 		PROCEDURE ^ EmitFMul(VAR instruction: IntermediateCode.Instruction); 
-		PROCEDURE ^ EmitDiv(CONST instr: IntermediateCode.Instruction); 
-		PROCEDURE ^ EmitMod(CONST instr: IntermediateCode.Instruction); 
-		PROCEDURE ^ EmitAnd(VAR instruction: IntermediateCode.Instruction; part: LONGINT); 
+		PROCEDURE ^ EmitDiv(CONST instruction: IntermediateCode.Instruction); 
+		PROCEDURE ^ EmitMod(CONST instruction: IntermediateCode.Instruction); 
+		PROCEDURE ^ EmitAndPart(VAR instruction: IntermediateCode.Instruction; part: LONGINT); 
+		PROCEDURE ^ EmitAnd(VAR instruction: IntermediateCode.Instruction); 
 		PROCEDURE ^ EmitOr(VAR instruction: IntermediateCode.Instruction; part: LONGINT); 
 		PROCEDURE ^ EmitXor(VAR instruction: IntermediateCode.Instruction; part: LONGINT); 
 		PROCEDURE ^ GetTemporaryRegister(VAR op: Operand); 

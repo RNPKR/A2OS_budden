@@ -90,6 +90,10 @@ WinAos/obg/ASN1.GofW -text
 WinAos/obg/ASN1.SymW -text
 WinAos/obg/AVI.GofW -text
 WinAos/obg/AVI.SymW -text
+WinAos/obg/ActiveCellsRunner.GofW -text
+WinAos/obg/ActiveCellsRunner.SymW -text
+WinAos/obg/ActiveCellsRuntime.GofW -text
+WinAos/obg/ActiveCellsRuntime.SymW -text
 WinAos/obg/ActiveTimers.GofW -text
 WinAos/obg/ActiveTimers.SymW -text
 WinAos/obg/AlmSmtpReceiver.GofW -text
@@ -578,6 +582,8 @@ WinAos/obg/FoxTRMBackend.GofW -text
 WinAos/obg/FoxTRMBackend.SymW -text
 WinAos/obg/FoxTRMInstructionSet.GofW -text
 WinAos/obg/FoxTRMInstructionSet.SymW -text
+WinAos/obg/FoxTRMTools.GofW -text
+WinAos/obg/FoxTRMTools.SymW -text
 WinAos/obg/FoxTest.GofW -text
 WinAos/obg/FoxTest.SymW -text
 WinAos/obg/FoxTextualSymbolFile.GofW -text
@@ -1360,6 +1366,8 @@ WinAos/obg/PartitionsLib.GofW -text
 WinAos/obg/PartitionsLib.SymW -text
 WinAos/obg/Performance.GofW -text
 WinAos/obg/Performance.SymW -text
+WinAos/obg/PersistentObjects.GofW -text
+WinAos/obg/PersistentObjects.SymW -text
 WinAos/obg/PictImages.GofW -text
 WinAos/obg/PictImages.SymW -text
 WinAos/obg/PieTest.GofW -text
@@ -1502,6 +1510,8 @@ WinAos/obg/StartMenu.GofW -text
 WinAos/obg/StartMenu.SymW -text
 WinAos/obg/StaticLinker.GofW -text
 WinAos/obg/StaticLinker.SymW -text
+WinAos/obg/StdIO.GofW -text
+WinAos/obg/StdIO.SymW -text
 WinAos/obg/Streams.GofW -text
 WinAos/obg/Streams.SymW -text
 WinAos/obg/StringPool.GofW -text
@@ -3921,6 +3931,7 @@ source/ASCIITab.Tool -text svneol=unset#unset
 source/ASMAMD64.Mod -text
 source/ASN1.Mod -text
 source/AVI.Mod -text
+source/ActiveCells.Execution.Test -text
 source/ActiveCellsRunner.mod -text
 source/ActiveCellsRuntime.mod -text
 source/ActiveTimers.Mod -text
@@ -4300,7 +4311,7 @@ source/FirewireSBP2.Mod -text
 source/Flock.Pict -text
 source/FontEditor.Panel -text
 source/FontRes.Tool -text svneol=unset#unset
-source/Fox.Tool -text svneol=unset#unset
+source/Fox.Tool -text
 source/FoxA2Interface.Mod -text svneol=unset#unset
 source/FoxAMD64Assembler.Mod -text
 source/FoxAMD64InstructionSet.Mod -text
@@ -4380,8 +4391,14 @@ source/GadgetsChanges.Text -text svneol=unset#unset
 source/Games.Tool -text svneol=unset#unset
 source/GarbageCollector.Mod -text
 source/Generic.I386.Machine.Mod -text
+source/Generic.Linux.I386.Glue.Mod -text
+source/Generic.Linux.I386.Unix.Mod -text
 source/Generic.Modules.Mod -text
 source/Generic.Reflection.Mod -text
+source/Generic.Unix.I386.Machine.Mod -text
+source/Generic.Unix.Objects.Mod -text
+source/Generic.Unix.Traps.Mod -text
+source/Generic.Unix.X11.Mod -text
 source/Generic.Win32.Kernel32.Mod -text
 source/GenericLinker.Mod -text
 source/GenericLoader.Mod -text
@@ -5386,6 +5403,7 @@ source/StartConsole.Mod -text
 source/StartMenu.Mod -text
 source/StartMenu.rep -text
 source/StaticLinker.Mod -text
+source/StdIOShell.Mod -text
 source/StreamUtilities.Mod -text
 source/Streams.Mod -text
 source/StringPool.Mod -text
@@ -5572,6 +5590,7 @@ source/Unix.BootLinkerModules.Mod -text
 source/Unix.Clipboard.Mod -text
 source/Unix.Clock.Mod -text
 source/Unix.DNS.Mod -text
+source/Unix.Display.Mod -text
 source/Unix.DisplayRefresher.Mod -text
 source/Unix.Glue.Mod -text
 source/Unix.Heaps.Mod -text
@@ -5941,6 +5960,7 @@ source/Win32.Processors.Mod -text
 source/Win32.SQL.Mod -text
 source/Win32.SVNAdmin.Mod -text
 source/Win32.Shell32.Mod -text
+source/Win32.StdIo.Mod -text
 source/Win32.TCP.Mod -text
 source/Win32.Threads.Mod -text
 source/Win32.Timer.Mod -text
