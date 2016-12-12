@@ -5952,7 +5952,7 @@ source/Win32.Processors.Mod -text
 source/Win32.SQL.Mod -text
 source/Win32.SVNAdmin.Mod -text
 source/Win32.Shell32.Mod -text
-source/Win32.StdIo.Mod -text
+source/Win32.StdIO.Mod -text
 source/Win32.TCP.Mod -text
 source/Win32.Threads.Mod -text
 source/Win32.Timer.Mod -text
