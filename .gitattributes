@@ -4,12 +4,10 @@ AosVM/AosVM.vmdk -text
 AosVM/AosVMDisk2.vmdk -text
 AosVM/AosVMDisk3.vmdk -text
 AosVM/GenerateVMImages.Text -text
+UnixAos/boot/A2Loader.c -text
 UnixAos/boot/Makefile.darwin -text
-UnixAos/boot/Makefile.darwin.amd64 -text
 UnixAos/boot/Makefile.linux -text
-UnixAos/boot/Makefile.linux.amd64 -text
 UnixAos/boot/Makefile.solaris -text
-UnixAos/boot/Makefile.solaris.amd64 -text
 UnixAos/boot/Threads.darwin.c -text
 UnixAos/boot/Threads.h -text
 UnixAos/boot/Threads.linux.c -text
@@ -17,7 +15,6 @@ UnixAos/boot/Threads.solaris.c -text
 UnixAos/boot/aos.c -text
 UnixAos/boot/aos.darwin -text
 UnixAos/boot/aos.linux -text
-UnixAos/boot/aos.solaris -text
 UnixAos/buildtools/Darwin.AMD64.Tool -text
 UnixAos/buildtools/Darwin.I386.Tool -text
 UnixAos/buildtools/Linux.AMD64.Tool -text
