@@ -5588,6 +5588,7 @@ source/Unix.Display.Mod -text
 source/Unix.DisplayRefresher.Mod -text
 source/Unix.Glue.Mod -text
 source/Unix.Heaps.Mod -text
+source/Unix.HierarchicalProfiler0.Mod -text
 source/Unix.I386.Machine.Mod -text
 source/Unix.IP.Mod -text
 source/Unix.KbdMouse.Mod -text
