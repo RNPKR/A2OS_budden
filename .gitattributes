@@ -4090,6 +4090,7 @@ source/CommandTest.Mod -text
 source/Commands.Mod -text
 source/Compiler.Tool -text svneol=unset#unset
 source/CompilerInterface.Mod -text
+source/ComplexNumbers.Mod -text
 source/ComponentInfo.Mod -text
 source/ComponentStyle.XML -text
 source/ComponentViewer.Mod -text
