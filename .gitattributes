@@ -223,6 +223,8 @@ WinAos/obg/Compiler.GofW -text
 WinAos/obg/Compiler.SymW -text
 WinAos/obg/CompilerInterface.GofW -text
 WinAos/obg/CompilerInterface.SymW -text
+WinAos/obg/ComplexNumbers.GofW -text
+WinAos/obg/ComplexNumbers.SymW -text
 WinAos/obg/ComponentInfo.GofW -text
 WinAos/obg/ComponentInfo.SymW -text
 WinAos/obg/ComponentViewer.GofW -text
@@ -1759,6 +1761,8 @@ WinAos/obg/WMGraphics.GofW -text
 WinAos/obg/WMGraphics.SymW -text
 WinAos/obg/WMGraphicsGfx.GofW -text
 WinAos/obg/WMGraphicsGfx.SymW -text
+WinAos/obg/WMGraphicsSmooth.GofW -text
+WinAos/obg/WMGraphicsSmooth.SymW -text
 WinAos/obg/WMGrids.GofW -text
 WinAos/obg/WMGrids.SymW -text
 WinAos/obg/WMHebrewIME.GofW -text
