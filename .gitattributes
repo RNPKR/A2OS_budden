@@ -71,6 +71,7 @@ WinAos/WinOberon/WatsonObjs.Lib -text
 WinAos/WinOberon/WinMenus.Lib -text
 WinAos/aos.ini -text svneol=unset#text/plain
 WinAos/aosg.ini -text
+WinAos/oberon.exe -text
 WinAos/obg/A2Sequencers.GofW -text
 WinAos/obg/A2Sequencers.SymW -text
 WinAos/obg/ADVAPI32.GofW -text
