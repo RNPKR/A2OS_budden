@@ -3887,6 +3887,15 @@ WinAos/vy.ants/source/Oberon.vyxPlots.Mod -text
 source/A2Sequencers.Mod -text
 source/ACPI.Timer.Mod -text
 source/AFM.Mod -text
+source/AGfx.Mod -text
+source/AGfx.Tool -text
+source/AGfxBuffer.Mod -text
+source/AGfxFonts.Mod -text
+source/AGfxImages.Mod -text
+source/AGfxMatrix.Mod -text
+source/AGfxPaths.Mod -text
+source/AGfxRaster.Mod -text
+source/AGfxRegions.Mod -text
 source/AM79C970.Mod -text
 source/AMD64.ATADisks.Mod -text
 source/AMD64.BenchInterrupts.Mod -text
