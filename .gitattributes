@@ -4266,6 +4266,7 @@ source/EditKeys.Tool -text svneol=unset#unset
 source/EditTools.Tool -text svneol=unset#unset
 source/Editing.Tool -text svneol=unset#unset
 source/ElevatorStyle.XML -text
+source/ElfBinary.Mod -text
 source/EnsoniqSound.Mod -text
 source/Errors.Mod -text
 source/Errors.XML -text
@@ -5399,7 +5400,6 @@ source/Snow.Mod -text
 source/Sokoban.Data -text
 source/Solaris.AMD64.Unix.Mod -text
 source/Solaris.I386.Unix.Mod -text
-source/SolarisELF.Mod -text
 source/Song.ccg -text
 source/Sort.Tool -text svneol=unset#unset
 source/SortDemo.Mod -text
