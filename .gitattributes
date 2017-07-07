@@ -5415,6 +5415,7 @@ source/StaticLinker.Mod -text
 source/StdIOShell.Mod -text
 source/StreamUtilities.Mod -text
 source/Streams.Mod -text
+source/Streams64.Mod -text
 source/StringPool.Mod -text
 source/Strings.Mod -text
 source/Surface.Pict -text
