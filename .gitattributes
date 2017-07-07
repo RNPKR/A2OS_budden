@@ -4307,6 +4307,7 @@ source/FileHandlers.Mod -text
 source/FileTrapWriter.Mod -text
 source/Files.Mod -text
 source/Files.Test -text
+source/Files64.Mod -text
 source/Find.Panel -text
 source/Find.Tool -text svneol=unset#unset
 source/Finger.Tool -text svneol=unset#unset
