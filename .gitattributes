@@ -4102,6 +4102,7 @@ source/Colors.rep -text
 source/Columbus.Lib -text
 source/CommandTest.Mod -text
 source/Commands.Mod -text
+source/Commands64.Mod -text
 source/Compiler.Tool -text svneol=unset#unset
 source/CompilerInterface.Mod -text
 source/ComplexNumbers.Mod -text
@@ -5989,6 +5990,7 @@ source/Win32.WebNetworkTimeProtocol.Mod -text
 source/Win32.WinApplications.Mod -text
 source/Win32.WinDisks.Mod -text
 source/Win32.WinFS.Mod -text
+source/Win32.WinFiles64.Mod -text
 source/Win32.WinTrace.Mod -text
 source/WindowManager.Mod -text
 source/X29Plane.poly -text
