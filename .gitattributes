@@ -4102,7 +4102,6 @@ source/Colors.rep -text
 source/Columbus.Lib -text
 source/CommandTest.Mod -text
 source/Commands.Mod -text
-source/Commands64.Mod -text
 source/Compiler.Tool -text svneol=unset#unset
 source/CompilerInterface.Mod -text
 source/ComplexNumbers.Mod -text
