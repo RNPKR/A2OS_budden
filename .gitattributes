@@ -4296,6 +4296,7 @@ source/FATVolumes.Mod -text
 source/FNHistories.Mod -text
 source/FP1616.Mod -text
 source/FSTools.Mod -text
+source/FSTools64.Mod -text
 source/FTP.Mod -text
 source/FTP.Tool -text svneol=unset#unset
 source/FTPClient.Mod -text
