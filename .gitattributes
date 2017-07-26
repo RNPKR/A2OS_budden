@@ -5768,6 +5768,7 @@ source/WMGraphicsSmooth.Mod -text
 source/WMGrids.Mod -text
 source/WMHebrewIME.Mod -text
 source/WMIcons.tar -text
+source/WMImageGrid.Mod -text
 source/WMInputMethodTool.Mod -text
 source/WMInputMethods.Mod -text
 source/WMInspectionComponents.Mod -text
