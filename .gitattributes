@@ -4121,7 +4121,6 @@ source/Coop.Kernel.Mod -text
 source/Coop.MemCache.Mod -text
 source/Coop.Modules.Mod -text
 source/Coop.Objects.Mod -text
-source/Coop.Reflection.Mod -text
 source/Coop.Runtime.Mod -text
 source/Coop.Traps.Mod -text
 source/Coop.Win32.Display.Mod -text
