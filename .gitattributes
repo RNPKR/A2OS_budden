@@ -1505,6 +1505,8 @@ WinAos/obg/StaticLinker.GofW -text
 WinAos/obg/StaticLinker.SymW -text
 WinAos/obg/StdIO.GofW -text
 WinAos/obg/StdIO.SymW -text
+WinAos/obg/StdIOShell.GofW -text
+WinAos/obg/StdIOShell.SymW -text
 WinAos/obg/Streams.GofW -text
 WinAos/obg/Streams.SymW -text
 WinAos/obg/StringPool.GofW -text
