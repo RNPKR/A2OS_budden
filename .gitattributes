@@ -4661,6 +4661,7 @@ source/MenuPage90.XML -text
 source/MenuPages.Mod -text
 source/MinInitNetwork.Mod -text
 source/MineSweeperBD.Pict -text
+source/MinosLinker.Mod -text
 source/Miscellaneous.Tool -text svneol=unset#unset
 source/Models.Mod -text
 source/Models.rep -text
