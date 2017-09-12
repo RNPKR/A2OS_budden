@@ -4040,6 +4040,7 @@ source/Bricks.Pict -text
 source/Build.Tool -text
 source/Build.VMWare.Tool -text
 source/Builder.Tool -text svneol=unset#unset
+source/Builds.Tool -text
 source/CATServer.Mod -text
 source/CDRecord.Mod -text
 source/CDRecordLib.Mod -text
