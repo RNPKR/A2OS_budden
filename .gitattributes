@@ -5300,6 +5300,8 @@ source/Icons2.Lib -text
 source/Icons3.Lib -text
 source/Images.Text -text svneol=unset#unset
 source/Images.Tool -text svneol=unset#unset
+source/In.Mod -text
+source/InOutExample.Mod -text
 source/Inflate.Mod -text
 source/Info.Mod -text
 source/InitNetwork.Mod -text
@@ -5959,6 +5961,7 @@ source/OpenTypeFonts.Mod -text
 source/OpenTypeInt.Mod -text
 source/OpenTypeScan.Mod -text
 source/Options.Mod -text
+source/Out.Mod -text
 source/Outlines.Tool -text svneol=unset#unset
 source/PC.Mod -text
 source/PC.Tool -text svneol=unset#unset
