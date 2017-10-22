@@ -5193,6 +5193,7 @@ source/Generic.Unix.Objects.Mod -text
 source/Generic.Unix.Traps.Mod -text
 source/Generic.Unix.X11.Mod -text
 source/Generic.Win32.Kernel32.Mod -text
+source/Generic.Win64.Kernel32.Mod -text
 source/GenericLinker.Mod -text
 source/GenericLoader.Mod -text
 source/GenericSort.Mod -text
