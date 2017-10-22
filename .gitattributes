@@ -671,6 +671,8 @@ WinAos/obg/ISO9660Files.GofW -text
 WinAos/obg/ISO9660Files.SymW -text
 WinAos/obg/ISO9660Volumes.GofW -text
 WinAos/obg/ISO9660Volumes.SymW -text
+WinAos/obg/In.GofW -text
+WinAos/obg/In.SymW -text
 WinAos/obg/Inflate.GofW -text
 WinAos/obg/Inflate.SymW -text
 WinAos/obg/Info.GofW -text
@@ -2051,6 +2053,8 @@ WinAos/obg/OpenTypeScan.GofW -text
 WinAos/obg/OpenTypeScan.SymW -text
 WinAos/obg/Options.GofW -text
 WinAos/obg/Options.SymW -text
+WinAos/obg/Out.GofW -text
+WinAos/obg/Out.SymW -text
 WinAos/obg/PC.GofW -text
 WinAos/obg/PC.SymW -text
 WinAos/obg/PCA386.GofW -text
