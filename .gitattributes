@@ -5047,7 +5047,6 @@ source/EditKeys.Tool -text svneol=unset#unset
 source/EditTools.Tool -text svneol=unset#unset
 source/Editing.Tool -text svneol=unset#unset
 source/ElevatorStyle.XML -text
-source/ElfBinary.Mod -text
 source/EnsoniqSound.Mod -text
 source/Errors.Mod -text
 source/Errors.XML -text
@@ -6421,6 +6420,7 @@ source/Unix.X11.Mod -text
 source/Unix.X11Api.Mod -text
 source/Unix.XDisplay.Mod -text
 source/UnixAos.Tool -text svneol=unset#unset
+source/UnixBinary.Mod -text
 source/Unzip.Mod -text
 source/UpTime.Mod -text
 source/Usb.Mod -text
