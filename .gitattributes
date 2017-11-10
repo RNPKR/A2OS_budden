@@ -5177,6 +5177,7 @@ source/Gadgets.poly -text
 source/GadgetsChanges.Text -text svneol=unset#unset
 source/Games.Tool -text svneol=unset#unset
 source/GarbageCollector.Mod -text
+source/Generic.Darwin.I386.Unix.Mod -text
 source/Generic.I386.Machine.Mod -text
 source/Generic.Linux.I386.Glue.Mod -text
 source/Generic.Linux.I386.Unix.Mod -text
