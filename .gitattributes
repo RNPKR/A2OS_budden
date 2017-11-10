@@ -6377,7 +6377,6 @@ source/UnicodeBidirectionality.Mod -text
 source/UnicodeData.txt -text
 source/UnicodeProperties.Mod -text
 source/UnihanParser.Mod -text
-source/Unix.AMD64.Machine.Mod -text
 source/Unix.Beep.Mod -text
 source/Unix.BootConsole.Mod -text
 source/Unix.BootLinker.Mod -text
