@@ -6,7 +6,7 @@ CONST
 	Version = \"Shell v1.0"\; 
 	DefaultAliasFile = \"Shell.Alias"\; 
 	NestingLevelIndicator = \">"\; 
-	MaxLen = 512; 
+	MaxLen = 4096; 
 	CmdLen = 64; 
 	ParamLen = MaxLen; 
 	CR = 0DX; 
@@ -79,6 +79,7 @@ TYPE
 		prompt: ARRAY 32 OF CHAR; 
 		upcall: NotifyProcedure; 
 		commandHistory: CommandHistory; 
+		firstCR: CHAR; 
 
 		PROCEDURE ^  & Init*(in: Streams.Reader; out, err: Streams.Writer; echo: BOOLEAN; CONST prompt: ARRAY OF CHAR); 
 		PROCEDURE ^ Exit*; 

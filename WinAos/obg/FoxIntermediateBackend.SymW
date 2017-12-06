@@ -1,5 +1,5 @@
 MODULE FoxIntermediateBackend;
-	IMPORT Basic := FoxBasic, SyntaxTree := FoxSyntaxTree, SemanticChecker := FoxSemanticChecker, Backend := FoxBackend, Global := FoxGlobal, Scanner := FoxScanner, IntermediateCode := FoxIntermediateCode, Sections := FoxSections, BinaryCode := FoxBinaryCode, Printout := FoxPrintout, SYSTEM, Diagnostics, Strings, Options, Streams, Compiler, Formats := FoxFormats, SymbolFileFormat := FoxTextualSymbolFile, D := Debugging, FingerPrinter := FoxFingerPrinter, StringPool;
+	IMPORT Basic := FoxBasic, SyntaxTree := FoxSyntaxTree, SemanticChecker := FoxSemanticChecker, Backend := FoxBackend, Global := FoxGlobal, Scanner := FoxScanner, IntermediateCode := FoxIntermediateCode, Sections := FoxSections, BinaryCode := FoxBinaryCode, Printout := FoxPrintout, SYSTEM, Diagnostics, Strings, Options, Streams, Compiler, Formats := FoxFormats, SymbolFileFormat := FoxTextualSymbolFile, D := Debugging, FingerPrinter := FoxFingerPrinter, StringPool, CRC;
 CONST 
 	ModeUndefined = 0; 
 	ModeReference = 1; 
@@ -82,6 +82,9 @@ CONST
 	Size7Flag = 9; 
 	Size8Flag = 10; 
 	ReflectionSupport = TRUE; 
+	ProtectModulesPointers = FALSE; 
+	CreateProcedureDescInfo = TRUE; 
+	WarningDynamicLoading = FALSE; 
 TYPE 
 	Position = SyntaxTree.Position; 
 
@@ -202,14 +205,17 @@ TYPE
 	VAR 
 		inUse: VariableUse; 
 		registerIndex: LONGINT; 
+		nameIndex: LONGINT; 
 
 		PROCEDURE ^  & Init; 
+		PROCEDURE ^ GetUID(): SyntaxTree.Identifier; 
 		PROCEDURE ^ GetUsage(VAR use: VariableUse); 
 		PROCEDURE ^ SetUsage(CONST use: VariableUse); 
 		PROCEDURE ^ GetVariable(i: LONGINT): SyntaxTree.Variable; 
 		PROCEDURE ^ Occupy(pos: LONGINT); 
 		PROCEDURE ^ AddVariable(v: SyntaxTree.Variable); 
-		PROCEDURE ^ GetFreeVariable(type: SyntaxTree.Type; VAR pos: LONGINT): SyntaxTree.Variable; 
+		PROCEDURE ^ CompatibleType(t1, t2: SyntaxTree.Type): BOOLEAN; 
+		PROCEDURE ^ GetFreeVariable(type: SyntaxTree.Type; untraced: BOOLEAN; VAR pos: LONGINT): SyntaxTree.Variable; 
 	END Variables; 
 
 	SymbolMap = POINTER TO RECORD 
@@ -406,7 +412,7 @@ TYPE
 		PROCEDURE ^ RegisterDynamicOperator(operator: SyntaxTree.Operator); 
 		PROCEDURE ^ SystemTrace(x: SyntaxTree.ExpressionList; pos: Position); 
 		PROCEDURE ^ InitFields(type: SyntaxTree.Type; CONST adr: IntermediateCode.Operand; offset: LONGINT); 
-		PROCEDURE ^ InitVariable(VAR variable: SyntaxTree.Variable); 
+		PROCEDURE ^ InitVariable(VAR variable: SyntaxTree.Variable; temporary: BOOLEAN); 
 		PROCEDURE ^ MathArrayDim(type: SyntaxTree.MathArrayType; CONST base: IntermediateCode.Operand; VAR result: Operand); 
 		PROCEDURE ^ PutMathArrayField(base, value: IntermediateCode.Operand; fieldOffset: LONGINT); 
 		PROCEDURE ^ PutMathArrayFieldOffset(base, value: IntermediateCode.Operand; fieldOffset, offset: LONGINT); 
@@ -420,7 +426,7 @@ TYPE
 		PROCEDURE ^ GetMathArrayIncrementAt(type: SyntaxTree.MathArrayType; CONST operand: Operand; dim: LONGINT; check: BOOLEAN; VAR result: Operand); 
 		PROCEDURE ^ MathArrayLenOrIncr(type: SyntaxTree.MathArrayType; CONST operand: Operand; VAR dim: IntermediateCode.Operand; increment: BOOLEAN; check: BOOLEAN; VAR result: Operand); 
 		PROCEDURE ^ ArrayLen(type: SyntaxTree.ArrayType; VAR operand: Operand; VAR dim: IntermediateCode.Operand; VAR result: Operand); 
-		PROCEDURE ^ GetTemporaryVariable(type: SyntaxTree.Type; register: BOOLEAN): SyntaxTree.Variable; 
+		PROCEDURE ^ GetTemporaryVariable(type: SyntaxTree.Type; register: BOOLEAN; untraced: BOOLEAN): SyntaxTree.Variable; 
 		PROCEDURE ^ GetMathArrayDescriptorType(dimensions: LONGINT): SyntaxTree.Type; 
 		PROCEDURE ^ NewMathArrayDescriptor(op: Operand; dimensions: LONGINT); 
 		PROCEDURE ^ PushConstString(CONST s: ARRAY OF CHAR); 
@@ -439,6 +445,7 @@ TYPE
 		PROCEDURE ^ AddPortProperties(modifier: SyntaxTree.Modifier); 
 		PROCEDURE ^ PushPort(p: SyntaxTree.Expression); 
 		PROCEDURE ^ PushString(op: Operand; actualType: SyntaxTree.Type); 
+		PROCEDURE ^ OnHeap(x: SyntaxTree.Expression): BOOLEAN; 
 		PROCEDURE ^ VisitBuiltinCallDesignator*(x: SyntaxTree.BuiltinCallDesignator); 
 		PROCEDURE ^ VisitTypeGuardDesignator*(x: SyntaxTree.TypeGuardDesignator); 
 		PROCEDURE ^ Dereference(VAR operand: Operand; type: SyntaxTree.Type; isUnsafe: BOOLEAN); 
@@ -472,7 +479,7 @@ TYPE
 		PROCEDURE ^ VisitProcedureCallStatement*(x: SyntaxTree.ProcedureCallStatement); 
 		PROCEDURE ^ AssignMathArray(left, right: SyntaxTree.Expression); 
 		PROCEDURE ^ ModifyAssignments(CONST value: IntermediateCode.Operand); 
-		PROCEDURE ^ CopySize(left: SyntaxTree.Expression): IntermediateCode.Operand; 
+		PROCEDURE ^ CopySize(left: SyntaxTree.Expression; tag: IntermediateCode.Operand): IntermediateCode.Operand; 
 		PROCEDURE ^ Assign(left, right: SyntaxTree.Expression); 
 		PROCEDURE ^ VisitAssignment*(x: SyntaxTree.Assignment); 
 		PROCEDURE ^ EmitCooperativeSwitch; 
@@ -502,6 +509,8 @@ TYPE
 	END ImplementationVisitor; 
 
 	MetaDataGenerator = OBJECT 
+	CONST 
+		EmptyBlockOffset = 2; 
 	VAR 
 		implementationVisitor: ImplementationVisitor; 
 		declarationVisitor: DeclarationVisitor; 
@@ -520,6 +529,7 @@ TYPE
 		TypeTags: LONGINT; 
 		TypeRecordBaseOffset: LONGINT; 
 		patchInfoPC: LONGINT; 
+		patchCRC: LONGINT; 
 
 		PROCEDURE ^  & InitMetaDataGenerator(implementationVisitor: ImplementationVisitor; declarationVisitor: DeclarationVisitor; simple: BOOLEAN); 
 		PROCEDURE ^ SetModule(module: Sections.Module); 
@@ -528,8 +538,8 @@ TYPE
 		PROCEDURE ^ HeapBlock(CONST moduleName, typeName: ARRAY OF CHAR; section: IntermediateCode.Section; dataAdrOffset: LONGINT); 
 		PROCEDURE ^ ProtectedHeapBlock(CONST moduleName, typeName: ARRAY OF CHAR; section: IntermediateCode.Section; dataAdrOffset: LONGINT); 
 		PROCEDURE ^ Info(section: IntermediateCode.Section; CONST s: ARRAY OF CHAR); 
-		PROCEDURE ^ Address(section: IntermediateCode.Section; value: LONGINT); 
-		PROCEDURE ^ Size(section: IntermediateCode.Section; value: LONGINT); 
+		PROCEDURE ^ Address(section: IntermediateCode.Section; value: ADDRESS); 
+		PROCEDURE ^ Size(section: IntermediateCode.Section; value: SIZE); 
 		PROCEDURE ^ Set(section: IntermediateCode.Section; value: SET); 
 		PROCEDURE ^ Longint(section: IntermediateCode.Section; value: LONGINT); 
 		PROCEDURE ^ PatchAddress(section: IntermediateCode.Section; pc: LONGINT; value: LONGINT); 
@@ -560,14 +570,17 @@ TYPE
 		PROCEDURE ^ ImportsArray(source: IntermediateCode.Section); 
 		PROCEDURE ^ TypeInfoSection(source: IntermediateCode.Section); 
 		PROCEDURE ^ ProcedureDescriptor(section: IntermediateCode.Section; procedureSection: IntermediateCode.Section); 
+		PROCEDURE ^ MakeProcedureDescriptorTag(procedureSection: IntermediateCode.Section): IntermediateCode.Section; 
 		PROCEDURE ^ ProcedureDescriptorPointer(section: IntermediateCode.Section; procedureSection: IntermediateCode.Section); 
 		PROCEDURE ^ ProcedureDescriptorArray(section: IntermediateCode.Section; VAR numberProcs: LONGINT); 
 		PROCEDURE ^ BasePointer(section: IntermediateCode.Section); 
 		PROCEDURE ^ BaseObject(section: IntermediateCode.Section); 
+		PROCEDURE ^ BaseRecord(section: IntermediateCode.Section); 
 		PROCEDURE ^ ModuleDescriptor(section: IntermediateCode.Section); 
 		PROCEDURE ^ ModuleSection(): IntermediateCode.Section; 
 		PROCEDURE ^ NewModuleInfo; 
 		PROCEDURE ^ Module(bodyProc: IntermediateCode.Section); 
+		PROCEDURE ^ PatchCRC(crc: LONGINT); 
 		PROCEDURE ^ PointerArray(source: IntermediateCode.Section; scope: SyntaxTree.Scope; VAR numberPointers: LONGINT); 
 		PROCEDURE ^ SymbolSection(symbol: SyntaxTree.Symbol; CONST suffix: ARRAY OF CHAR; VAR pc: LONGINT): IntermediateCode.Section; 
 		PROCEDURE ^ CheckTypeDeclaration(x: SyntaxTree.Type); 
@@ -588,7 +601,8 @@ TYPE
 		preregisterStatic-: BOOLEAN; 
 		dump-: Basic.Writer; 
 		cellsAreObjects: BOOLEAN; 
-		preciseGC: BOOLEAN; 
+		preciseGC, trackLeave, writeBarriers: BOOLEAN; 
+		experiment: BOOLEAN; 
 
 		PROCEDURE ^  & InitIntermediateBackend*; 
 		PROCEDURE ^ GenerateIntermediate*(x: SyntaxTree.Module; supportedInstruction: SupportedInstructionProcedure; supportedImmediate: SupportedImmediateProcedure): Sections.Module; 
@@ -649,7 +663,10 @@ VAR
 	PROCEDURE ^ IsOpenArray(type: SyntaxTree.Type): BOOLEAN; 
 	PROCEDURE ^ IsSemiDynamicArray(type: SyntaxTree.Type): BOOLEAN; 
 	PROCEDURE ^ IsStaticArray(type: SyntaxTree.Type): BOOLEAN; 
+	PROCEDURE ^ IsStaticMathArray(type: SyntaxTree.Type): BOOLEAN; 
+	PROCEDURE ^ StaticMathArrayBaseType(type: SyntaxTree.Type): SyntaxTree.Type; 
 	PROCEDURE ^ StaticArrayNumElements(type: SyntaxTree.Type): LONGINT; 
+	PROCEDURE ^ StaticMathArrayNumElements(type: SyntaxTree.Type): LONGINT; 
 	PROCEDURE ^ StaticArrayBaseType(type: SyntaxTree.Type): SyntaxTree.Type; 
 	PROCEDURE ^ ArrayBaseType(type: SyntaxTree.Type): SyntaxTree.Type; 
 	PROCEDURE ^ IsDelegate(type: SyntaxTree.Type): BOOLEAN; 
@@ -663,7 +680,7 @@ VAR
 	PROCEDURE ^ IsNested(procedure: SyntaxTree.Procedure): BOOLEAN; 
 	PROCEDURE ^ InCellScope(scope: SyntaxTree.Scope): BOOLEAN; 
 	PROCEDURE ^ ProcedureParametersSize*(system: Global.System; procedure: SyntaxTree.Procedure): LONGINT; 
-	PROCEDURE ^ ToMemoryUnits*(system: Global.System; size: LONGINT): LONGINT; 
+	PROCEDURE ^ ToMemoryUnits*(system: Global.System; size: SIZE): LONGINT; 
 	PROCEDURE ^ Get*(): Backend.Backend; 
 	PROCEDURE ^ Nop(position: Basic.Position): IntermediateCode.Instruction; 
 	PROCEDURE ^ Mov(position: Basic.Position; dest, src: IntermediateCode.Operand): IntermediateCode.Instruction; 
