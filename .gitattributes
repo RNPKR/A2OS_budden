@@ -8207,6 +8207,7 @@ source/Oberon8i.Pr6.Fnt -text
 source/Oberon8i.Scn.Fnt -text
 source/OberonDisplay.Mod -text
 source/OberonFS.Mod -text
+source/OberonFonts.Mod -text
 source/OberonInput.Mod -text
 source/OberonReport.html -text
 source/ObjExplorer.Panel -text
