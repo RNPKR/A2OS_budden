@@ -8363,6 +8363,7 @@ source/References.Text -text svneol=unset#unset
 source/Reflection.Mod -text
 source/RegisterRFW.Mod -text
 source/RelativeFileSystem.Mod -text
+source/RelativeFiles64.Mod -text
 source/Release.Auto.dsk -text
 source/Release.Mod -text
 source/Release.NetSystem.Tool -text svneol=unset#unset
