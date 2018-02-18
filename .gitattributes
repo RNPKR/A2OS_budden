@@ -8972,6 +8972,7 @@ source/Win32.Environment.Mod -text
 source/Win32.External.Oberon.Clipboard.Mod -text svneol=unset#unset
 source/Win32.GDI32.Mod -text
 source/Win32.HierarchicalProfiler0.Mod -text
+source/Win32.HostFiles64.Mod -text
 source/Win32.IP.Mod -text
 source/Win32.Kernel.Mod -text
 source/Win32.Kernel32.Mod -text
@@ -9046,7 +9047,6 @@ source/Win32.WebNetworkTimeProtocol.Mod -text
 source/Win32.WinApplications.Mod -text
 source/Win32.WinDisks.Mod -text
 source/Win32.WinFS.Mod -text
-source/Win32.WinFiles64.Mod -text
 source/Win32.WinTrace.Mod -text
 source/Win64.Machine.Mod -text
 source/Win64.Objects.Mod -text
