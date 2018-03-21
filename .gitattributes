@@ -5866,6 +5866,8 @@ lin32/bin/OberonDisplay.GofU -text
 lin32/bin/OberonDisplay.SymU -text
 lin32/bin/OberonFS.GofU -text
 lin32/bin/OberonFS.SymU -text
+lin32/bin/OberonFonts.GofU -text
+lin32/bin/OberonFonts.SymU -text
 lin32/bin/OberonInput.GofU -text
 lin32/bin/OberonInput.SymU -text
 lin32/bin/ObjectFile.GofU -text
