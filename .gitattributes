@@ -6028,6 +6028,8 @@ lin32/bin/Random.GofU -text
 lin32/bin/Random.SymU -text
 lin32/bin/Raster.GofU -text
 lin32/bin/Raster.SymU -text
+lin32/bin/RasterPixelFormats.GofU -text
+lin32/bin/RasterPixelFormats.SymU -text
 lin32/bin/Reals.GofU -text
 lin32/bin/Reals.SymU -text
 lin32/bin/Reboot.GofU -text
