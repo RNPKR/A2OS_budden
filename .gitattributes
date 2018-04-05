@@ -9195,7 +9195,7 @@ tools/WinAosDebug/ressources/icon2.ico -text
 tools/WinAosDebug/ressources/icon3.ico -text
 tools/WinMerge/WinMergeOberon.dll -text
 tools/WinMerge/install.txt -text
-tools/builds/oberon -text
+tools/builds/a2/oberon -text
 win64/a2.bat -text
 win64/a2.txt -text
 win64/bin/A2Sequencers.GofWw -text
