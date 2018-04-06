@@ -7216,12 +7216,15 @@ source/Games.Tool -text svneol=unset#unset
 source/GarbageCollector.Mod -text
 source/Generic.Darwin.I386.Unix.Mod -text
 source/Generic.I386.Machine.Mod -text
+source/Generic.Linux.AMD64.Glue.Mod -text
+source/Generic.Linux.AMD64.Unix.Mod -text
 source/Generic.Linux.I386.Glue.Mod -text
 source/Generic.Linux.I386.Unix.Mod -text
 source/Generic.Modules.Mod -text
 source/Generic.Reflection.Mod -text
 source/Generic.Solaris.I386.Unix.Mod -text
 source/Generic.SolarisA2.Tool -text
+source/Generic.Unix.AMD64.Machine.Mod -text
 source/Generic.Unix.I386.Glue.Mod -text
 source/Generic.Unix.I386.Machine.Mod -text
 source/Generic.Unix.Objects.Mod -text
