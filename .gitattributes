@@ -11980,9 +11980,12 @@ source/NbrCplx.Mod -text
 source/NbrInt.Mod -text
 source/NbrInt16.Mod -text
 source/NbrInt32.Mod -text
+source/NbrInt64.Mod -text
 source/NbrInt8.Mod -text
 source/NbrRat.Mod -text
 source/NbrRe.Mod -text
+source/NbrRe32.Mod -text
+source/NbrRe64.Mod -text
 source/NbrStrings.Mod -text
 source/NetDocs.Lib -text
 source/NetSystem.Tool -text svneol=unset#unset
