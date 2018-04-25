@@ -13140,6 +13140,7 @@ source/Unix.DisplayRefresher.Mod -text
 source/Unix.Glue.Mod -text
 source/Unix.Heaps.Mod -text
 source/Unix.HierarchicalProfiler0.Mod -text
+source/Unix.HostLibs.Mod -text
 source/Unix.I386.Machine.Mod -text
 source/Unix.IP.Mod -text
 source/Unix.KbdMouse.Mod -text
@@ -13435,6 +13436,7 @@ source/WebTimeServer.Mod -text
 source/WebWormWatch.Mod -text
 source/White.Pal -text
 source/WhitespaceRemover.Mod -text
+source/Win.HostLibs.Mod -text
 source/Win32.ADVAPI32.Mod -text
 source/Win32.Aos.Link -text
 source/Win32.Beep.Mod -text
