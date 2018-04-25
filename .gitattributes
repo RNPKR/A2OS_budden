@@ -11785,9 +11785,6 @@ source/I386.Math.Mod -text
 source/I386.MathL.Mod -text
 source/I386.MemCache.Mod -text
 source/I386.MemInfo.Mod -text
-source/I386.NbrInt64.Mod -text
-source/I386.NbrRe32.Mod -text
-source/I386.NbrRe64.Mod -text
 source/I386.Network.Mod -text
 source/I386.Oberon.Bitmaps.Mod -text svneol=unset#unset
 source/I386.PCI.Mod -text
