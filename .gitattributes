@@ -11879,7 +11879,6 @@ source/LinEqSVD.Mod -text
 source/Linker.Mod -text
 source/Linker0.Mod -text
 source/Linker1.Mod -text
-source/Linux.AMD64.Unix.Mod -text
 source/Linux.I386.ElfHeader.Mod -text
 source/Linux.I386.Unix.Mod -text
 source/Lissajous.Panel -text
@@ -12936,7 +12935,6 @@ source/Smiley.Vinci -text
 source/Snapshot.Tool -text svneol=unset#unset
 source/Snow.Mod -text
 source/Sokoban.Data -text
-source/Solaris.AMD64.Unix.Mod -text
 source/Solaris.I386.Unix.Mod -text
 source/Song.ccg -text
 source/Sort.Tool -text svneol=unset#unset
