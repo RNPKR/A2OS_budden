@@ -11206,6 +11206,7 @@ source/AMD64.Traps.Mod -text
 source/AMD64.UsbKeyboard.Mod -text
 source/AMD64.WMRasterScale.Mod -text
 source/AMD64.WMTransitions.Mod -text
+source/AMD64.srE.Mod -text
 source/AMD64Decoder.Mod -text
 source/APIC.Processors.Mod -text
 source/ARM.ARMRuntime.Mod -text
