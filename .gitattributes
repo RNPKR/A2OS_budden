@@ -11494,7 +11494,7 @@ source/ArrayXdInt.Mod -text
 source/ArrayXdRat.Mod -text
 source/ArrayXdRe.Mod -text
 source/AsciiCoder.Tool -text svneol=unset#unset
-source/Attributes.Mod -text svneol=unset#unset
+source/Attributes.Mod -text
 source/Authorization.html -text
 source/Auto.dsk -text
 source/Autostart.Mod -text
@@ -11503,8 +11503,8 @@ source/BIOS.ACPI.Mod -text
 source/BIOS.Environment.Mod -text
 source/BIT.Mod -text
 source/BMPCodec.Mod -text
-source/BSplineCurves.Mod -text svneol=unset#unset
-source/BSplineCurvesTest.Mod -text svneol=unset#unset
+source/BSplineCurves.Mod -text
+source/BSplineCurvesTest.Mod -text
 source/BT848.Mod -text
 source/Backdrop.Pict -text
 source/BackdropList.XML -text
@@ -11844,7 +11844,7 @@ source/Flock.Pict -text
 source/FontEditor.Panel -text
 source/FontRes.Tool -text svneol=unset#unset
 source/Fox.Tool -text
-source/FoxA2Interface.Mod -text svneol=unset#unset
+source/FoxA2Interface.Mod -text
 source/FoxAMD64Assembler.Mod -text
 source/FoxAMD64InstructionSet.Mod -text
 source/FoxAMDBackend.Mod -text
@@ -12025,7 +12025,7 @@ source/I386.MathL.Mod -text
 source/I386.MemCache.Mod -text
 source/I386.MemInfo.Mod -text
 source/I386.Network.Mod -text
-source/I386.Oberon.Bitmaps.Mod -text svneol=unset#unset
+source/I386.Oberon.Bitmaps.Mod -text
 source/I386.PCI.Mod -text
 source/I386.Raster.Mod -text
 source/I386.Reals.Mod -text
@@ -12251,379 +12251,379 @@ source/OT_TT_Install_E.txt -text
 source/OT_TT_Install_R.txt -text
 source/OType.Text -text svneol=unset#unset
 source/OZip.mod -text
-source/Oberon.ASCIITab.Mod -text svneol=unset#unset
-source/Oberon.Aos.Mod -text svneol=unset#unset
-source/Oberon.AsciiCoder.Mod -text svneol=unset#unset
-source/Oberon.Asteroids.Mod -text svneol=unset#unset
-source/Oberon.Attributes.Mod -text svneol=unset#unset
-source/Oberon.AudioGadgets.Mod -text svneol=unset#unset
-source/Oberon.BMP.Mod -text svneol=unset#unset
-source/Oberon.BMPImages.Mod -text svneol=unset#unset
-source/Oberon.BTrees.Mod -text svneol=unset#unset
-source/Oberon.Backdrops.Mod -text svneol=unset#unset
-source/Oberon.Backup.Mod -text svneol=unset#unset
-source/Oberon.BartSimpson.Mod -text svneol=unset#unset
-source/Oberon.Base64.Mod -text svneol=unset#unset
-source/Oberon.BasicFigures.Mod -text svneol=unset#unset
-source/Oberon.BasicGadgets.Mod -text svneol=unset#unset
+source/Oberon.ASCIITab.Mod -text
+source/Oberon.Aos.Mod -text
+source/Oberon.AsciiCoder.Mod -text
+source/Oberon.Asteroids.Mod -text
+source/Oberon.Attributes.Mod -text
+source/Oberon.AudioGadgets.Mod -text
+source/Oberon.BMP.Mod -text
+source/Oberon.BMPImages.Mod -text
+source/Oberon.BTrees.Mod -text
+source/Oberon.Backdrops.Mod -text
+source/Oberon.Backup.Mod -text
+source/Oberon.BartSimpson.Mod -text
+source/Oberon.Base64.Mod -text
+source/Oberon.BasicFigures.Mod -text
+source/Oberon.BasicGadgets.Mod -text
 source/Oberon.BellmanMinimisation.Mod -text
-source/Oberon.BinHex.Mod -text svneol=unset#unset
-source/Oberon.BookCompiler.Mod -text svneol=unset#unset
-source/Oberon.BookDocs.Mod -text svneol=unset#unset
-source/Oberon.Books.Mod -text svneol=unset#unset
-source/Oberon.Books0.Mod -text svneol=unset#unset
-source/Oberon.BooksHelp.Mod -text svneol=unset#unset
-source/Oberon.Browser.Mod -text svneol=unset#unset
-source/Oberon.Builder.Mod -text svneol=unset#unset
-source/Oberon.CRA.Mod -text svneol=unset#unset
-source/Oberon.CRP.Mod -text svneol=unset#unset
-source/Oberon.CRS.Mod -text svneol=unset#unset
-source/Oberon.CRT.Mod -text svneol=unset#unset
-source/Oberon.CRX.Mod -text svneol=unset#unset
-source/Oberon.CUSM.Mod -text svneol=unset#unset
-source/Oberon.Calc.Mod -text svneol=unset#unset
-source/Oberon.Calculator.Mod -text svneol=unset#unset
-source/Oberon.CalculatorGadgets.Mod -text svneol=unset#unset
-source/Oberon.Cards.Mod -text svneol=unset#unset
-source/Oberon.Centronics.Mod -text svneol=unset#unset
-source/Oberon.CleanupFiles.Mod -text svneol=unset#unset
-source/Oberon.Clocks.Mod -text svneol=unset#unset
-source/Oberon.Coco.Mod -text svneol=unset#unset
-source/Oberon.ColorDriver.Mod -text svneol=unset#unset
-source/Oberon.ColorGadgets.Mod -text svneol=unset#unset
-source/Oberon.ColorModels.Mod -text svneol=unset#unset
-source/Oberon.ColorSystem.Mod -text svneol=unset#unset
-source/Oberon.ColorTools.Mod -text svneol=unset#unset
-source/Oberon.ColorWells.Mod -text svneol=unset#unset
-source/Oberon.Colors.Mod -text svneol=unset#unset
-source/Oberon.Columbus.Mod -text svneol=unset#unset
+source/Oberon.BinHex.Mod -text
+source/Oberon.BookCompiler.Mod -text
+source/Oberon.BookDocs.Mod -text
+source/Oberon.Books.Mod -text
+source/Oberon.Books0.Mod -text
+source/Oberon.BooksHelp.Mod -text
+source/Oberon.Browser.Mod -text
+source/Oberon.Builder.Mod -text
+source/Oberon.CRA.Mod -text
+source/Oberon.CRP.Mod -text
+source/Oberon.CRS.Mod -text
+source/Oberon.CRT.Mod -text
+source/Oberon.CRX.Mod -text
+source/Oberon.CUSM.Mod -text
+source/Oberon.Calc.Mod -text
+source/Oberon.Calculator.Mod -text
+source/Oberon.CalculatorGadgets.Mod -text
+source/Oberon.Cards.Mod -text
+source/Oberon.Centronics.Mod -text
+source/Oberon.CleanupFiles.Mod -text
+source/Oberon.Clocks.Mod -text
+source/Oberon.Coco.Mod -text
+source/Oberon.ColorDriver.Mod -text
+source/Oberon.ColorGadgets.Mod -text
+source/Oberon.ColorModels.Mod -text
+source/Oberon.ColorSystem.Mod -text
+source/Oberon.ColorTools.Mod -text
+source/Oberon.ColorWells.Mod -text
+source/Oberon.Colors.Mod -text
+source/Oberon.Columbus.Mod -text
 source/Oberon.Compilation.Test -text
-source/Oberon.Compiler.Mod -text svneol=unset#unset
-source/Oberon.Complex.Mod -text svneol=unset#unset
-source/Oberon.Compress.Mod -text svneol=unset#unset
-source/Oberon.CompressCrypt.Mod -text svneol=unset#unset
-source/Oberon.Configuration.Mod -text svneol=unset#unset
-source/Oberon.Conversions.Mod -text svneol=unset#unset
-source/Oberon.Copyright.Mod -text svneol=unset#unset
-source/Oberon.Cups.Mod -text svneol=unset#unset
-source/Oberon.DBF.Mod -text svneol=unset#unset
-source/Oberon.DBFDump.Mod -text svneol=unset#unset
-source/Oberon.DOS.Mod -text svneol=unset#unset
+source/Oberon.Compiler.Mod -text
+source/Oberon.Complex.Mod -text
+source/Oberon.Compress.Mod -text
+source/Oberon.CompressCrypt.Mod -text
+source/Oberon.Configuration.Mod -text
+source/Oberon.Conversions.Mod -text
+source/Oberon.Copyright.Mod -text
+source/Oberon.Cups.Mod -text
+source/Oberon.DBF.Mod -text
+source/Oberon.DBFDump.Mod -text
+source/Oberon.DOS.Mod -text
 source/Oberon.DVIDocs.Mod -text
 source/Oberon.DVIFiles.Mod -text
 source/Oberon.DVIViewers.Mod -text
-source/Oberon.Dates.Mod -text svneol=unset#unset
-source/Oberon.DayTime.Mod -text svneol=unset#unset
-source/Oberon.Decoder.Mod -text svneol=unset#unset
+source/Oberon.Dates.Mod -text
+source/Oberon.DayTime.Mod -text
+source/Oberon.Decoder.Mod -text
 source/Oberon.Desk -text
-source/Oberon.Desktops.Mod -text svneol=unset#unset
-source/Oberon.Diagrams.Mod -text svneol=unset#unset
-source/Oberon.Diff.Mod -text svneol=unset#unset
-source/Oberon.DiffGadgets.Mod -text svneol=unset#unset
-source/Oberon.Dim3Base.Mod -text svneol=unset#unset
-source/Oberon.Dim3Engine.Mod -text svneol=unset#unset
-source/Oberon.Dim3Frames.Mod -text svneol=unset#unset
-source/Oberon.Dim3Paint.Mod -text svneol=unset#unset
-source/Oberon.Dim3Read.Mod -text svneol=unset#unset
-source/Oberon.Directories.Mod -text svneol=unset#unset
-source/Oberon.Diskette.Mod -text svneol=unset#unset
-source/Oberon.Diskettes.Mod -text svneol=unset#unset
-source/Oberon.Disks.Mod -text svneol=unset#unset
-source/Oberon.Display.Mod -text svneol=unset#unset
-source/Oberon.Display3.Mod -text svneol=unset#unset
-source/Oberon.DocumentSkeleton.Mod -text svneol=unset#unset
-source/Oberon.Documents.Mod -text svneol=unset#unset
-source/Oberon.ET.Mod -text svneol=unset#unset
-source/Oberon.Edit.Mod -text svneol=unset#unset
-source/Oberon.EditKeys.Mod -text svneol=unset#unset
-source/Oberon.EditTools.Mod -text svneol=unset#unset
-source/Oberon.Effects.Mod -text svneol=unset#unset
-source/Oberon.ErrorGadgets.Mod -text svneol=unset#unset
-source/Oberon.ExampleOberon.Mod -text svneol=unset#unset
-source/Oberon.Examples.Mod -text svneol=unset#unset
-source/Oberon.Examples1.Mod -text svneol=unset#unset
+source/Oberon.Desktops.Mod -text
+source/Oberon.Diagrams.Mod -text
+source/Oberon.Diff.Mod -text
+source/Oberon.DiffGadgets.Mod -text
+source/Oberon.Dim3Base.Mod -text
+source/Oberon.Dim3Engine.Mod -text
+source/Oberon.Dim3Frames.Mod -text
+source/Oberon.Dim3Paint.Mod -text
+source/Oberon.Dim3Read.Mod -text
+source/Oberon.Directories.Mod -text
+source/Oberon.Diskette.Mod -text
+source/Oberon.Diskettes.Mod -text
+source/Oberon.Disks.Mod -text
+source/Oberon.Display.Mod -text
+source/Oberon.Display3.Mod -text
+source/Oberon.DocumentSkeleton.Mod -text
+source/Oberon.Documents.Mod -text
+source/Oberon.ET.Mod -text
+source/Oberon.Edit.Mod -text
+source/Oberon.EditKeys.Mod -text
+source/Oberon.EditTools.Mod -text
+source/Oberon.Effects.Mod -text
+source/Oberon.ErrorGadgets.Mod -text
+source/Oberon.ExampleOberon.Mod -text
+source/Oberon.Examples.Mod -text
+source/Oberon.Examples1.Mod -text
 source/Oberon.Execution.Test -text
-source/Oberon.FATDocs.Mod -text svneol=unset#unset
-source/Oberon.FATFiles.Mod -text svneol=unset#unset
-source/Oberon.FATTools.Mod -text svneol=unset#unset
-source/Oberon.FTP.Mod -text svneol=unset#unset
-source/Oberon.FTPDocs.Mod -text svneol=unset#unset
-source/Oberon.FileDir.Mod -text svneol=unset#unset
-source/Oberon.FileDisks.Mod -text svneol=unset#unset
-source/Oberon.Files.Mod -text svneol=unset#unset
-source/Oberon.Find.Mod -text svneol=unset#unset
-source/Oberon.Finder.Mod -text svneol=unset#unset
-source/Oberon.Finger.Mod -text svneol=unset#unset
-source/Oberon.FontEditor.Mod -text svneol=unset#unset
-source/Oberon.Fonts.Mod -text svneol=unset#unset
-source/Oberon.Freecell.Mod -text svneol=unset#unset
-source/Oberon.GIF.Mod -text svneol=unset#unset
-source/Oberon.GIFImages.Mod -text svneol=unset#unset
-source/Oberon.GZReaders.Mod -text svneol=unset#unset
-source/Oberon.GZWriters.Mod -text svneol=unset#unset
-source/Oberon.GZip.Mod -text svneol=unset#unset
+source/Oberon.FATDocs.Mod -text
+source/Oberon.FATFiles.Mod -text
+source/Oberon.FATTools.Mod -text
+source/Oberon.FTP.Mod -text
+source/Oberon.FTPDocs.Mod -text
+source/Oberon.FileDir.Mod -text
+source/Oberon.FileDisks.Mod -text
+source/Oberon.Files.Mod -text
+source/Oberon.Find.Mod -text
+source/Oberon.Finder.Mod -text
+source/Oberon.Finger.Mod -text
+source/Oberon.FontEditor.Mod -text
+source/Oberon.Fonts.Mod -text
+source/Oberon.Freecell.Mod -text
+source/Oberon.GIF.Mod -text
+source/Oberon.GIFImages.Mod -text
+source/Oberon.GZReaders.Mod -text
+source/Oberon.GZWriters.Mod -text
+source/Oberon.GZip.Mod -text
 source/Oberon.GZip.Tool -text
-source/Oberon.Gadgets.Mod -text svneol=unset#unset
-source/Oberon.GadgetsIn.Mod -text svneol=unset#unset
-source/Oberon.GadgetsOut.Mod -text svneol=unset#unset
-source/Oberon.Gages.Mod -text svneol=unset#unset
-source/Oberon.Gfx.Mod -text svneol=unset#unset
-source/Oberon.GfxBuffer.Mod -text svneol=unset#unset
-source/Oberon.GfxDemo.Mod -text svneol=unset#unset
-source/Oberon.GfxDisplay.Mod -text svneol=unset#unset
-source/Oberon.GfxFonts.Mod -text svneol=unset#unset
-source/Oberon.GfxFonts0.Mod -text svneol=unset#unset
-source/Oberon.GfxImages.Mod -text svneol=unset#unset
-source/Oberon.GfxMatrix.Mod -text svneol=unset#unset
-source/Oberon.GfxOType.Mod -text svneol=unset#unset
-source/Oberon.GfxPKFonts.Mod -text svneol=unset#unset
-source/Oberon.GfxPS.Mod -text svneol=unset#unset
-source/Oberon.GfxPaths.Mod -text svneol=unset#unset
-source/Oberon.GfxPrinter.Mod -text svneol=unset#unset
-source/Oberon.GfxRaster.Mod -text svneol=unset#unset
-source/Oberon.GfxRegions.Mod -text svneol=unset#unset
-source/Oberon.GfxTest.Mod -text svneol=unset#unset
-source/Oberon.Gopher.Mod -text svneol=unset#unset
-source/Oberon.Graphs.Mod -text svneol=unset#unset
-source/Oberon.HPCalc.Mod -text svneol=unset#unset
-source/Oberon.HPLaserPrinter.Mod -text svneol=unset#unset
-source/Oberon.HPPCL.Mod -text svneol=unset#unset
-source/Oberon.HTML.Mod -text svneol=unset#unset
-source/Oberon.HTMLDocs.Mod -text svneol=unset#unset
-source/Oberon.HTMLForms.Mod -text svneol=unset#unset
-source/Oberon.HTMLImages.Mod -text svneol=unset#unset
-source/Oberon.HTMLPlugIns.Mod -text svneol=unset#unset
-source/Oberon.HTMLTables.Mod -text svneol=unset#unset
-source/Oberon.HTTPDocs.Mod -text svneol=unset#unset
-source/Oberon.HTTPDocs0.Mod -text svneol=unset#unset
-source/Oberon.Hello.Mod -text svneol=unset#unset
-source/Oberon.HelloServer.Mod -text svneol=unset#unset
-source/Oberon.Hex.Mod -text svneol=unset#unset
-source/Oberon.Histogram.Mod -text svneol=unset#unset
-source/Oberon.HyperDocTools.Mod -text svneol=unset#unset
-source/Oberon.HyperDocs.Mod -text svneol=unset#unset
-source/Oberon.ICO.Mod -text svneol=unset#unset
-source/Oberon.IFF.Mod -text svneol=unset#unset
-source/Oberon.IFS.Mod -text svneol=unset#unset
-source/Oberon.Icons.Mod -text svneol=unset#unset
-source/Oberon.ImageDocs.Mod -text svneol=unset#unset
-source/Oberon.ImageGadgets.Mod -text svneol=unset#unset
-source/Oberon.Images.Mod -text svneol=unset#unset
-source/Oberon.In.Mod -text svneol=unset#unset
-source/Oberon.Input.Mod -text svneol=unset#unset
-source/Oberon.JPEG.Mod -text svneol=unset#unset
-source/Oberon.JPEGImages.Mod -text svneol=unset#unset
-source/Oberon.Kernel.Mod -text svneol=unset#unset
-source/Oberon.LPRPrinter.Mod -text svneol=unset#unset
-source/Oberon.LayLa.Mod -text svneol=unset#unset
-source/Oberon.LayLa2.Mod -text svneol=unset#unset
-source/Oberon.LayLa2S.Mod -text svneol=unset#unset
-source/Oberon.LayLaDemo.Mod -text svneol=unset#unset
-source/Oberon.LayLaS.Mod -text svneol=unset#unset
-source/Oberon.LayoutPanels.Mod -text svneol=unset#unset
-source/Oberon.LayoutPanels0.Mod -text svneol=unset#unset
-source/Oberon.Layouts.Mod -text svneol=unset#unset
-source/Oberon.LeoBasic.Mod -text svneol=unset#unset
-source/Oberon.LeoBasicEditors.Mod -text svneol=unset#unset
-source/Oberon.LeoCaptionEditors.Mod -text svneol=unset#unset
-source/Oberon.LeoCaptions.Mod -text svneol=unset#unset
-source/Oberon.LeoDocs.Mod -text svneol=unset#unset
-source/Oberon.LeoDraw.Mod -text svneol=unset#unset
-source/Oberon.LeoFrames.Mod -text svneol=unset#unset
-source/Oberon.LeoImageEditors.Mod -text svneol=unset#unset
-source/Oberon.LeoImages.Mod -text svneol=unset#unset
-source/Oberon.LeoLists.Mod -text svneol=unset#unset
-source/Oberon.LeoOutliners.Mod -text svneol=unset#unset
-source/Oberon.LeoPanels.Mod -text svneol=unset#unset
-source/Oberon.LeoPathEditors.Mod -text svneol=unset#unset
-source/Oberon.LeoPaths.Mod -text svneol=unset#unset
-source/Oberon.LeoPenEditors.Mod -text svneol=unset#unset
-source/Oberon.LeoPens.Mod -text svneol=unset#unset
-source/Oberon.LeoSplineEditors.Mod -text svneol=unset#unset
-source/Oberon.LeoSplines.Mod -text svneol=unset#unset
-source/Oberon.LeoTools.Mod -text svneol=unset#unset
-source/Oberon.Leonardo.Mod -text svneol=unset#unset
-source/Oberon.Links.Mod -text svneol=unset#unset
-source/Oberon.Lissajous.Mod -text svneol=unset#unset
-source/Oberon.ListDags.Mod -text svneol=unset#unset
-source/Oberon.ListGadgets.Mod -text svneol=unset#unset
-source/Oberon.ListModels.Mod -text svneol=unset#unset
-source/Oberon.ListRiders.Mod -text svneol=unset#unset
-source/Oberon.Lists.Mod -text svneol=unset#unset
-source/Oberon.MIME.Mod -text svneol=unset#unset
-source/Oberon.Magnifier.Mod -text svneol=unset#unset
-source/Oberon.Mail.Mod -text svneol=unset#unset
-source/Oberon.MakePoints.Mod -text svneol=unset#unset
-source/Oberon.Menu.Mod -text svneol=unset#unset
-source/Oberon.MenuViewers.Mod -text svneol=unset#unset
-source/Oberon.MineSweeper.Mod -text svneol=unset#unset
-source/Oberon.Miscellaneous.Mod -text svneol=unset#unset
+source/Oberon.Gadgets.Mod -text
+source/Oberon.GadgetsIn.Mod -text
+source/Oberon.GadgetsOut.Mod -text
+source/Oberon.Gages.Mod -text
+source/Oberon.Gfx.Mod -text
+source/Oberon.GfxBuffer.Mod -text
+source/Oberon.GfxDemo.Mod -text
+source/Oberon.GfxDisplay.Mod -text
+source/Oberon.GfxFonts.Mod -text
+source/Oberon.GfxFonts0.Mod -text
+source/Oberon.GfxImages.Mod -text
+source/Oberon.GfxMatrix.Mod -text
+source/Oberon.GfxOType.Mod -text
+source/Oberon.GfxPKFonts.Mod -text
+source/Oberon.GfxPS.Mod -text
+source/Oberon.GfxPaths.Mod -text
+source/Oberon.GfxPrinter.Mod -text
+source/Oberon.GfxRaster.Mod -text
+source/Oberon.GfxRegions.Mod -text
+source/Oberon.GfxTest.Mod -text
+source/Oberon.Gopher.Mod -text
+source/Oberon.Graphs.Mod -text
+source/Oberon.HPCalc.Mod -text
+source/Oberon.HPLaserPrinter.Mod -text
+source/Oberon.HPPCL.Mod -text
+source/Oberon.HTML.Mod -text
+source/Oberon.HTMLDocs.Mod -text
+source/Oberon.HTMLForms.Mod -text
+source/Oberon.HTMLImages.Mod -text
+source/Oberon.HTMLPlugIns.Mod -text
+source/Oberon.HTMLTables.Mod -text
+source/Oberon.HTTPDocs.Mod -text
+source/Oberon.HTTPDocs0.Mod -text
+source/Oberon.Hello.Mod -text
+source/Oberon.HelloServer.Mod -text
+source/Oberon.Hex.Mod -text
+source/Oberon.Histogram.Mod -text
+source/Oberon.HyperDocTools.Mod -text
+source/Oberon.HyperDocs.Mod -text
+source/Oberon.ICO.Mod -text
+source/Oberon.IFF.Mod -text
+source/Oberon.IFS.Mod -text
+source/Oberon.Icons.Mod -text
+source/Oberon.ImageDocs.Mod -text
+source/Oberon.ImageGadgets.Mod -text
+source/Oberon.Images.Mod -text
+source/Oberon.In.Mod -text
+source/Oberon.Input.Mod -text
+source/Oberon.JPEG.Mod -text
+source/Oberon.JPEGImages.Mod -text
+source/Oberon.Kernel.Mod -text
+source/Oberon.LPRPrinter.Mod -text
+source/Oberon.LayLa.Mod -text
+source/Oberon.LayLa2.Mod -text
+source/Oberon.LayLa2S.Mod -text
+source/Oberon.LayLaDemo.Mod -text
+source/Oberon.LayLaS.Mod -text
+source/Oberon.LayoutPanels.Mod -text
+source/Oberon.LayoutPanels0.Mod -text
+source/Oberon.Layouts.Mod -text
+source/Oberon.LeoBasic.Mod -text
+source/Oberon.LeoBasicEditors.Mod -text
+source/Oberon.LeoCaptionEditors.Mod -text
+source/Oberon.LeoCaptions.Mod -text
+source/Oberon.LeoDocs.Mod -text
+source/Oberon.LeoDraw.Mod -text
+source/Oberon.LeoFrames.Mod -text
+source/Oberon.LeoImageEditors.Mod -text
+source/Oberon.LeoImages.Mod -text
+source/Oberon.LeoLists.Mod -text
+source/Oberon.LeoOutliners.Mod -text
+source/Oberon.LeoPanels.Mod -text
+source/Oberon.LeoPathEditors.Mod -text
+source/Oberon.LeoPaths.Mod -text
+source/Oberon.LeoPenEditors.Mod -text
+source/Oberon.LeoPens.Mod -text
+source/Oberon.LeoSplineEditors.Mod -text
+source/Oberon.LeoSplines.Mod -text
+source/Oberon.LeoTools.Mod -text
+source/Oberon.Leonardo.Mod -text
+source/Oberon.Links.Mod -text
+source/Oberon.Lissajous.Mod -text
+source/Oberon.ListDags.Mod -text
+source/Oberon.ListGadgets.Mod -text
+source/Oberon.ListModels.Mod -text
+source/Oberon.ListRiders.Mod -text
+source/Oberon.Lists.Mod -text
+source/Oberon.MIME.Mod -text
+source/Oberon.Magnifier.Mod -text
+source/Oberon.Mail.Mod -text
+source/Oberon.MakePoints.Mod -text
+source/Oberon.Menu.Mod -text
+source/Oberon.MenuViewers.Mod -text
+source/Oberon.MineSweeper.Mod -text
+source/Oberon.Miscellaneous.Mod -text
 source/Oberon.Mod -text
-source/Oberon.Modules.Mod -text svneol=unset#unset
-source/Oberon.MultiMail.Mod -text svneol=unset#unset
-source/Oberon.NamePlates.Mod -text svneol=unset#unset
-source/Oberon.Navigators.Mod -text svneol=unset#unset
-source/Oberon.NetSystem.Mod -text svneol=unset#unset
-source/Oberon.NetTools.Mod -text svneol=unset#unset
-source/Oberon.News.Mod -text svneol=unset#unset
-source/Oberon.NoteBooks.Mod -text svneol=unset#unset
-source/Oberon.OFSTools.Mod -text svneol=unset#unset
-source/Oberon.OFormatter.Mod -text svneol=unset#unset
-source/Oberon.OFormatterIO.Mod -text svneol=unset#unset
-source/Oberon.OPA.Mod -text svneol=unset#unset
-source/Oberon.OPAData.Mod -text svneol=unset#unset
-source/Oberon.OPB.Mod -text svneol=unset#unset
-source/Oberon.OPC.Mod -text svneol=unset#unset
-source/Oberon.OPL.Mod -text svneol=unset#unset
-source/Oberon.OPM.Mod -text svneol=unset#unset
-source/Oberon.OPO.Mod -text svneol=unset#unset
-source/Oberon.OPP.Mod -text svneol=unset#unset
-source/Oberon.OPS.Mod -text svneol=unset#unset
-source/Oberon.OPT.Mod -text svneol=unset#unset
-source/Oberon.OPV.Mod -text svneol=unset#unset
-source/Oberon.OTFonts.Mod -text svneol=unset#unset
-source/Oberon.OTInt.Mod -text svneol=unset#unset
-source/Oberon.OTScan.Mod -text svneol=unset#unset
-source/Oberon.OType.Mod -text svneol=unset#unset
-source/Oberon.Oberon.Mod -text svneol=unset#unset
-source/Oberon.ObjExplorer.Mod -text svneol=unset#unset
-source/Oberon.Objects.Mod -text svneol=unset#unset
-source/Oberon.OpenDemo.Mod -text svneol=unset#unset
-source/Oberon.OpenDemo2.Mod -text svneol=unset#unset
-source/Oberon.Organizers.Mod -text svneol=unset#unset
-source/Oberon.Out.Mod -text svneol=unset#unset
-source/Oberon.Outlines.Mod -text svneol=unset#unset
-source/Oberon.PC.Mod -text svneol=unset#unset
-source/Oberon.PCARMDecoder.Mod -text svneol=unset#unset
-source/Oberon.PCITools.Mod -text svneol=unset#unset
-source/Oberon.PCX.Mod -text svneol=unset#unset
-source/Oberon.PCXImages.Mod -text svneol=unset#unset
-source/Oberon.PPM.Mod -text svneol=unset#unset
-source/Oberon.PS.Mod -text svneol=unset#unset
-source/Oberon.PSD.Mod -text svneol=unset#unset
-source/Oberon.PSDImages.Mod -text svneol=unset#unset
-source/Oberon.PSPrinter.Mod -text svneol=unset#unset
-source/Oberon.Packages.Mod -text svneol=unset#unset
-source/Oberon.PanelDocs.Mod -text svneol=unset#unset
-source/Oberon.Panels.Mod -text svneol=unset#unset
-source/Oberon.Partitions.Mod -text svneol=unset#unset
-source/Oberon.PasswordFields.Mod -text svneol=unset#unset
-source/Oberon.PhonePad.Mod -text svneol=unset#unset
-source/Oberon.PictConverters.Mod -text svneol=unset#unset
-source/Oberon.PictImages.Mod -text svneol=unset#unset
-source/Oberon.Pictures.Mod -text svneol=unset#unset
-source/Oberon.Plot.Mod -text svneol=unset#unset
-source/Oberon.Plotter.Mod -text svneol=unset#unset
-source/Oberon.PlugIns.Mod -text svneol=unset#unset
-source/Oberon.Popups.Mod -text svneol=unset#unset
-source/Oberon.Portraits.Mod -text svneol=unset#unset
-source/Oberon.Printer.Mod -text svneol=unset#unset
-source/Oberon.Printer3.Mod -text svneol=unset#unset
-source/Oberon.Profiler.Mod -text svneol=unset#unset
-source/Oberon.ProgressMeters.Mod -text svneol=unset#unset
-source/Oberon.QuotedPrintable.Mod -text svneol=unset#unset
-source/Oberon.RX.Mod -text svneol=unset#unset
-source/Oberon.RXA.Mod -text svneol=unset#unset
-source/Oberon.RandomNumbers.Mod -text svneol=unset#unset
-source/Oberon.RefGadgets.Mod -text svneol=unset#unset
-source/Oberon.Rembrandt.Mod -text svneol=unset#unset
-source/Oberon.Rembrandt0.Mod -text svneol=unset#unset
-source/Oberon.RembrandtDocs.Mod -text svneol=unset#unset
-source/Oberon.RembrandtTools.Mod -text svneol=unset#unset
-source/Oberon.Reminders.Mod -text svneol=unset#unset
+source/Oberon.Modules.Mod -text
+source/Oberon.MultiMail.Mod -text
+source/Oberon.NamePlates.Mod -text
+source/Oberon.Navigators.Mod -text
+source/Oberon.NetSystem.Mod -text
+source/Oberon.NetTools.Mod -text
+source/Oberon.News.Mod -text
+source/Oberon.NoteBooks.Mod -text
+source/Oberon.OFSTools.Mod -text
+source/Oberon.OFormatter.Mod -text
+source/Oberon.OFormatterIO.Mod -text
+source/Oberon.OPA.Mod -text
+source/Oberon.OPAData.Mod -text
+source/Oberon.OPB.Mod -text
+source/Oberon.OPC.Mod -text
+source/Oberon.OPL.Mod -text
+source/Oberon.OPM.Mod -text
+source/Oberon.OPO.Mod -text
+source/Oberon.OPP.Mod -text
+source/Oberon.OPS.Mod -text
+source/Oberon.OPT.Mod -text
+source/Oberon.OPV.Mod -text
+source/Oberon.OTFonts.Mod -text
+source/Oberon.OTInt.Mod -text
+source/Oberon.OTScan.Mod -text
+source/Oberon.OType.Mod -text
+source/Oberon.Oberon.Mod -text
+source/Oberon.ObjExplorer.Mod -text
+source/Oberon.Objects.Mod -text
+source/Oberon.OpenDemo.Mod -text
+source/Oberon.OpenDemo2.Mod -text
+source/Oberon.Organizers.Mod -text
+source/Oberon.Out.Mod -text
+source/Oberon.Outlines.Mod -text
+source/Oberon.PC.Mod -text
+source/Oberon.PCARMDecoder.Mod -text
+source/Oberon.PCITools.Mod -text
+source/Oberon.PCX.Mod -text
+source/Oberon.PCXImages.Mod -text
+source/Oberon.PPM.Mod -text
+source/Oberon.PS.Mod -text
+source/Oberon.PSD.Mod -text
+source/Oberon.PSDImages.Mod -text
+source/Oberon.PSPrinter.Mod -text
+source/Oberon.Packages.Mod -text
+source/Oberon.PanelDocs.Mod -text
+source/Oberon.Panels.Mod -text
+source/Oberon.Partitions.Mod -text
+source/Oberon.PasswordFields.Mod -text
+source/Oberon.PhonePad.Mod -text
+source/Oberon.PictConverters.Mod -text
+source/Oberon.PictImages.Mod -text
+source/Oberon.Pictures.Mod -text
+source/Oberon.Plot.Mod -text
+source/Oberon.Plotter.Mod -text
+source/Oberon.PlugIns.Mod -text
+source/Oberon.Popups.Mod -text
+source/Oberon.Portraits.Mod -text
+source/Oberon.Printer.Mod -text
+source/Oberon.Printer3.Mod -text
+source/Oberon.Profiler.Mod -text
+source/Oberon.ProgressMeters.Mod -text
+source/Oberon.QuotedPrintable.Mod -text
+source/Oberon.RX.Mod -text
+source/Oberon.RXA.Mod -text
+source/Oberon.RandomNumbers.Mod -text
+source/Oberon.RefGadgets.Mod -text
+source/Oberon.Rembrandt.Mod -text
+source/Oberon.Rembrandt0.Mod -text
+source/Oberon.RembrandtDocs.Mod -text
+source/Oberon.RembrandtTools.Mod -text
+source/Oberon.Reminders.Mod -text
 source/Oberon.Report.Text -text svneol=unset#unset
-source/Oberon.Rot13.Mod -text svneol=unset#unset
-source/Oberon.SaveArt.Mod -text svneol=unset#unset
-source/Oberon.SaveDecay.Mod -text svneol=unset#unset
-source/Oberon.SaveLife.Mod -text svneol=unset#unset
-source/Oberon.SaveParticles.Mod -text svneol=unset#unset
-source/Oberon.SavePoints.Mod -text svneol=unset#unset
-source/Oberon.SaveScreen.Mod -text svneol=unset#unset
-source/Oberon.SaveSisyphus.Mod -text svneol=unset#unset
-source/Oberon.SaveSwarm.Mod -text svneol=unset#unset
-source/Oberon.SaveTiles.Mod -text svneol=unset#unset
-source/Oberon.Scheme.Mod -text svneol=unset#unset
-source/Oberon.SchemeOps.Mod -text svneol=unset#unset
-source/Oberon.Scramble.Mod -text svneol=unset#unset
-source/Oberon.Script.Mod -text svneol=unset#unset
-source/Oberon.ScriptFrames.Mod -text svneol=unset#unset
-source/Oberon.ScriptGadgets.Mod -text svneol=unset#unset
-source/Oberon.ScrollViews.Mod -text svneol=unset#unset
-source/Oberon.Scrollbars.Mod -text svneol=unset#unset
-source/Oberon.SetGadgets.Mod -text svneol=unset#unset
-source/Oberon.Sets.Mod -text svneol=unset#unset
-source/Oberon.Shanghai.Mod -text svneol=unset#unset
-source/Oberon.Simulator.Mod -text svneol=unset#unset
-source/Oberon.Sisiphus.Mod -text svneol=unset#unset
-source/Oberon.Skeleton.Mod -text svneol=unset#unset
-source/Oberon.Snapshot.Mod -text svneol=unset#unset
-source/Oberon.Sokoban.Mod -text svneol=unset#unset
-source/Oberon.Solitaire.Mod -text svneol=unset#unset
-source/Oberon.Sort.Mod -text svneol=unset#unset
-source/Oberon.Spider.Mod -text svneol=unset#unset
-source/Oberon.Streams.Mod -text svneol=unset#unset
-source/Oberon.Strings.Mod -text svneol=unset#unset
-source/Oberon.StyleGadgets.Mod -text svneol=unset#unset
-source/Oberon.Styles.Mod -text svneol=unset#unset
-source/Oberon.Suitcases.Mod -text svneol=unset#unset
-source/Oberon.Swarm.Mod -text svneol=unset#unset
-source/Oberon.SysLog.Mod -text svneol=unset#unset
-source/Oberon.System.Mod -text svneol=unset#unset
-source/Oberon.TCPExample.Mod -text svneol=unset#unset
-source/Oberon.TFTPTool.Mod -text svneol=unset#unset
-source/Oberon.TGA.Mod -text svneol=unset#unset
-source/Oberon.TGZ.Mod -text svneol=unset#unset
-source/Oberon.Tar.Mod -text svneol=unset#unset
-source/Oberon.TaskExample.Mod -text svneol=unset#unset
-source/Oberon.TeXTools.Mod -text svneol=unset#unset
-source/Oberon.Telnet.Mod -text svneol=unset#unset
-source/Oberon.TelnetGadgets.Mod -text svneol=unset#unset
-source/Oberon.TerminalFrames.Mod -text svneol=unset#unset
-source/Oberon.TerminalGadgets.Mod -text svneol=unset#unset
-source/Oberon.Terminals.Mod -text svneol=unset#unset
-source/Oberon.TestNet.Mod -text svneol=unset#unset
-source/Oberon.Tetris.Mod -text svneol=unset#unset
+source/Oberon.Rot13.Mod -text
+source/Oberon.SaveArt.Mod -text
+source/Oberon.SaveDecay.Mod -text
+source/Oberon.SaveLife.Mod -text
+source/Oberon.SaveParticles.Mod -text
+source/Oberon.SavePoints.Mod -text
+source/Oberon.SaveScreen.Mod -text
+source/Oberon.SaveSisyphus.Mod -text
+source/Oberon.SaveSwarm.Mod -text
+source/Oberon.SaveTiles.Mod -text
+source/Oberon.Scheme.Mod -text
+source/Oberon.SchemeOps.Mod -text
+source/Oberon.Scramble.Mod -text
+source/Oberon.Script.Mod -text
+source/Oberon.ScriptFrames.Mod -text
+source/Oberon.ScriptGadgets.Mod -text
+source/Oberon.ScrollViews.Mod -text
+source/Oberon.Scrollbars.Mod -text
+source/Oberon.SetGadgets.Mod -text
+source/Oberon.Sets.Mod -text
+source/Oberon.Shanghai.Mod -text
+source/Oberon.Simulator.Mod -text
+source/Oberon.Sisiphus.Mod -text
+source/Oberon.Skeleton.Mod -text
+source/Oberon.Snapshot.Mod -text
+source/Oberon.Sokoban.Mod -text
+source/Oberon.Solitaire.Mod -text
+source/Oberon.Sort.Mod -text
+source/Oberon.Spider.Mod -text
+source/Oberon.Streams.Mod -text
+source/Oberon.Strings.Mod -text
+source/Oberon.StyleGadgets.Mod -text
+source/Oberon.Styles.Mod -text
+source/Oberon.Suitcases.Mod -text
+source/Oberon.Swarm.Mod -text
+source/Oberon.SysLog.Mod -text
+source/Oberon.System.Mod -text
+source/Oberon.TCPExample.Mod -text
+source/Oberon.TFTPTool.Mod -text
+source/Oberon.TGA.Mod -text
+source/Oberon.TGZ.Mod -text
+source/Oberon.Tar.Mod -text
+source/Oberon.TaskExample.Mod -text
+source/Oberon.TeXTools.Mod -text
+source/Oberon.Telnet.Mod -text
+source/Oberon.TelnetGadgets.Mod -text
+source/Oberon.TerminalFrames.Mod -text
+source/Oberon.TerminalGadgets.Mod -text
+source/Oberon.Terminals.Mod -text
+source/Oberon.TestNet.Mod -text
+source/Oberon.Tetris.Mod -text
 source/Oberon.Text -text svneol=unset#unset
-source/Oberon.TextDocs.Mod -text svneol=unset#unset
-source/Oberon.TextFields.Mod -text svneol=unset#unset
-source/Oberon.TextFrames.Mod -text svneol=unset#unset
-source/Oberon.TextGadgets.Mod -text svneol=unset#unset
-source/Oberon.TextGadgets0.Mod -text svneol=unset#unset
-source/Oberon.TextMail.Mod -text svneol=unset#unset
-source/Oberon.TextPopups.Mod -text svneol=unset#unset
-source/Oberon.TextStreams.Mod -text svneol=unset#unset
-source/Oberon.Texts.Mod -text svneol=unset#unset
-source/Oberon.TimeStamps.Mod -text svneol=unset#unset
-source/Oberon.Types.Mod -text svneol=unset#unset
-source/Oberon.UDPExample.Mod -text svneol=unset#unset
-source/Oberon.UUDecoder.Mod -text svneol=unset#unset
-source/Oberon.V24.Mod -text svneol=unset#unset
-source/Oberon.V24Gadgets.Mod -text svneol=unset#unset
-source/Oberon.V24Log.Mod -text svneol=unset#unset
-source/Oberon.ViewSkeleton.Mod -text svneol=unset#unset
-source/Oberon.Viewers.Mod -text svneol=unset#unset
-source/Oberon.Views.Mod -text svneol=unset#unset
-source/Oberon.Vinci.Mod -text svneol=unset#unset
-source/Oberon.VinciDocs.Mod -text svneol=unset#unset
-source/Oberon.VinciEditors.Mod -text svneol=unset#unset
-source/Oberon.VinciGadgets.Mod -text svneol=unset#unset
-source/Oberon.VinciPens.Mod -text svneol=unset#unset
-source/Oberon.VinciShapes.Mod -text svneol=unset#unset
-source/Oberon.WTS.Mod -text svneol=unset#unset
-source/Oberon.WTSDraw.Mod -text svneol=unset#unset
-source/Oberon.WTSFold.Mod -text svneol=unset#unset
-source/Oberon.WTSPict.Mod -text svneol=unset#unset
-source/Oberon.WTSStamp.Mod -text svneol=unset#unset
-source/Oberon.Watson.Mod -text svneol=unset#unset
-source/Oberon.Watson0.Mod -text svneol=unset#unset
-source/Oberon.XBM.Mod -text svneol=unset#unset
-source/Oberon.XPM.Mod -text svneol=unset#unset
-source/Oberon.XYplane.Mod -text svneol=unset#unset
-source/Oberon.Zip.Mod -text svneol=unset#unset
-source/Oberon.ZipDocs.Mod -text svneol=unset#unset
-source/Oberon.ZipTool.Mod -text svneol=unset#unset
-source/Oberon.ZlibReaders.Mod -text svneol=unset#unset
-source/Oberon.ZlibWriters.Mod -text svneol=unset#unset
+source/Oberon.TextDocs.Mod -text
+source/Oberon.TextFields.Mod -text
+source/Oberon.TextFrames.Mod -text
+source/Oberon.TextGadgets.Mod -text
+source/Oberon.TextGadgets0.Mod -text
+source/Oberon.TextMail.Mod -text
+source/Oberon.TextPopups.Mod -text
+source/Oberon.TextStreams.Mod -text
+source/Oberon.Texts.Mod -text
+source/Oberon.TimeStamps.Mod -text
+source/Oberon.Types.Mod -text
+source/Oberon.UDPExample.Mod -text
+source/Oberon.UUDecoder.Mod -text
+source/Oberon.V24.Mod -text
+source/Oberon.V24Gadgets.Mod -text
+source/Oberon.V24Log.Mod -text
+source/Oberon.ViewSkeleton.Mod -text
+source/Oberon.Viewers.Mod -text
+source/Oberon.Views.Mod -text
+source/Oberon.Vinci.Mod -text
+source/Oberon.VinciDocs.Mod -text
+source/Oberon.VinciEditors.Mod -text
+source/Oberon.VinciGadgets.Mod -text
+source/Oberon.VinciPens.Mod -text
+source/Oberon.VinciShapes.Mod -text
+source/Oberon.WTS.Mod -text
+source/Oberon.WTSDraw.Mod -text
+source/Oberon.WTSFold.Mod -text
+source/Oberon.WTSPict.Mod -text
+source/Oberon.WTSStamp.Mod -text
+source/Oberon.Watson.Mod -text
+source/Oberon.Watson0.Mod -text
+source/Oberon.XBM.Mod -text
+source/Oberon.XPM.Mod -text
+source/Oberon.XYplane.Mod -text
+source/Oberon.Zip.Mod -text
+source/Oberon.ZipDocs.Mod -text
+source/Oberon.ZipTool.Mod -text
+source/Oberon.ZlibReaders.Mod -text
+source/Oberon.ZlibWriters.Mod -text
 source/Oberon.ants.Mod -text
 source/Oberon.ants.fofAutomatic.Mod -text
 source/Oberon.ants1dArrayObjects.Mod -text
@@ -13382,15 +13382,15 @@ source/Unix.I386.Machine.Mod -text
 source/Unix.IP.Mod -text
 source/Unix.KbdMouse.Mod -text
 source/Unix.Kernel.Mod -text
-source/Unix.Oberon.Clipboard.Mod -text svneol=unset#unset
-source/Unix.Oberon.NetSystem.Mod -text svneol=unset#unset
-source/Unix.Oberon.Printer.Mod -text svneol=unset#unset
-source/Unix.Oberon.Scrollbars.Mod -text svneol=unset#unset
-source/Unix.Oberon.TextDocs.Mod -text svneol=unset#unset
-source/Unix.Oberon.TextGadgets.Mod -text svneol=unset#unset
-source/Unix.Oberon.TextGadgets0.Mod -text svneol=unset#unset
-source/Unix.Oberon.TextSBControl.Mod -text svneol=unset#unset
-source/Unix.Oberon.UnixPrinter.Mod -text svneol=unset#unset
+source/Unix.Oberon.Clipboard.Mod -text
+source/Unix.Oberon.NetSystem.Mod -text
+source/Unix.Oberon.Printer.Mod -text
+source/Unix.Oberon.Scrollbars.Mod -text
+source/Unix.Oberon.TextDocs.Mod -text
+source/Unix.Oberon.TextGadgets.Mod -text
+source/Unix.Oberon.TextGadgets0.Mod -text
+source/Unix.Oberon.TextSBControl.Mod -text
+source/Unix.Oberon.UnixPrinter.Mod -text
 source/Unix.Objects.Mod -text
 source/Unix.OpenAL.Mod -text
 source/Unix.ProcessInfo0.Mod -text
@@ -13643,7 +13643,7 @@ source/WMUtilities.Mod -text
 source/WMV24Component.Mod -text
 source/WMVNCView.Mod -text
 source/WMVT100.Mod -text
-source/WMVisualComponentSkeleton.Mod -text svneol=unset#unset
+source/WMVisualComponentSkeleton.Mod -text
 source/WMWindowManager.Mod -text
 source/WMXMLTree.Mod -text
 source/WPM.Mod -text
@@ -13686,7 +13686,7 @@ source/Win32.CommandLine.Mod -text
 source/Win32.DNS.Mod -text
 source/Win32.Display.Mod -text
 source/Win32.Environment.Mod -text
-source/Win32.External.Oberon.Clipboard.Mod -text svneol=unset#unset
+source/Win32.External.Oberon.Clipboard.Mod -text
 source/Win32.GDI32.Mod -text
 source/Win32.HierarchicalProfiler0.Mod -text
 source/Win32.HostFiles64.Mod -text
@@ -13696,48 +13696,48 @@ source/Win32.Kernel32.Mod -text
 source/Win32.Machine.Mod -text
 source/Win32.Network.Mod -text
 source/Win32.ODBC.Mod -text
-source/Win32.Oberon.Bitmaps.Mod -text svneol=unset#unset
-source/Win32.Oberon.Clipboard.Mod -text svneol=unset#unset
-source/Win32.Oberon.ColorGadgets.Mod -text svneol=unset#unset
-source/Win32.Oberon.Colors.Mod -text svneol=unset#unset
-source/Win32.Oberon.Configuration.Mod -text svneol=unset#unset
-source/Win32.Oberon.Desktops.Mod -text svneol=unset#unset
-source/Win32.Oberon.Directories.Mod -text svneol=unset#unset
-source/Win32.Oberon.Display.Mod -text svneol=unset#unset
-source/Win32.Oberon.Display3.Mod -text svneol=unset#unset
-source/Win32.Oberon.Displays.Mod -text svneol=unset#unset
-source/Win32.Oberon.Effects.Mod -text svneol=unset#unset
-source/Win32.Oberon.FileDir.Mod -text svneol=unset#unset
-source/Win32.Oberon.Files.Mod -text svneol=unset#unset
-source/Win32.Oberon.Finder.Mod -text svneol=unset#unset
-source/Win32.Oberon.FontRes.Mod -text svneol=unset#unset
-source/Win32.Oberon.Fonts.Mod -text svneol=unset#unset
-source/Win32.Oberon.Gadgets.Mod -text svneol=unset#unset
-source/Win32.Oberon.ImageGadgets.Mod -text svneol=unset#unset
-source/Win32.Oberon.Input.Mod -text svneol=unset#unset
-source/Win32.Oberon.Kernel.Mod -text svneol=unset#unset
-source/Win32.Oberon.Miscellaneous.Mod -text svneol=unset#unset
+source/Win32.Oberon.Bitmaps.Mod -text
+source/Win32.Oberon.Clipboard.Mod -text
+source/Win32.Oberon.ColorGadgets.Mod -text
+source/Win32.Oberon.Colors.Mod -text
+source/Win32.Oberon.Configuration.Mod -text
+source/Win32.Oberon.Desktops.Mod -text
+source/Win32.Oberon.Directories.Mod -text
+source/Win32.Oberon.Display.Mod -text
+source/Win32.Oberon.Display3.Mod -text
+source/Win32.Oberon.Displays.Mod -text
+source/Win32.Oberon.Effects.Mod -text
+source/Win32.Oberon.FileDir.Mod -text
+source/Win32.Oberon.Files.Mod -text
+source/Win32.Oberon.Finder.Mod -text
+source/Win32.Oberon.FontRes.Mod -text
+source/Win32.Oberon.Fonts.Mod -text
+source/Win32.Oberon.Gadgets.Mod -text
+source/Win32.Oberon.ImageGadgets.Mod -text
+source/Win32.Oberon.Input.Mod -text
+source/Win32.Oberon.Kernel.Mod -text
+source/Win32.Oberon.Miscellaneous.Mod -text
 source/Win32.Oberon.Mod -text
-source/Win32.Oberon.NetSystem.Mod -text svneol=unset#unset
-source/Win32.Oberon.Oberon.Mod -text svneol=unset#unset
-source/Win32.Oberon.PSPrinter.Mod -text svneol=unset#unset
-source/Win32.Oberon.Pictures.Mod -text svneol=unset#unset
-source/Win32.Oberon.PlugInDocs.Mod -text svneol=unset#unset
-source/Win32.Oberon.Printer.Mod -text svneol=unset#unset
-source/Win32.Oberon.PrinterInfo.Mod -text svneol=unset#unset
-source/Win32.Oberon.Registry.Mod -text svneol=unset#unset
-source/Win32.Oberon.RegistryTools.Mod -text svneol=unset#unset
-source/Win32.Oberon.Rembrandt.Mod -text svneol=unset#unset
-source/Win32.Oberon.System.Mod -text svneol=unset#unset
-source/Win32.Oberon.Viewers.Mod -text svneol=unset#unset
-source/Win32.Oberon.WinFonts.Mod -text svneol=unset#unset
-source/Win32.Oberon.WinImages.Mod -text svneol=unset#unset
-source/Win32.Oberon.WinMenus.Mod -text svneol=unset#unset
-source/Win32.Oberon.WinPrinter.Mod -text svneol=unset#unset
-source/Win32.Oberon.Windows.Mod -text svneol=unset#unset
-source/Win32.Oberon.antsPortability.Mod -text svneol=unset#unset
-source/Win32.Oberon.antsTracking.Mod -text svneol=unset#unset
-source/Win32.Oberon.vyPortability.Mod -text svneol=unset#unset
+source/Win32.Oberon.NetSystem.Mod -text
+source/Win32.Oberon.Oberon.Mod -text
+source/Win32.Oberon.PSPrinter.Mod -text
+source/Win32.Oberon.Pictures.Mod -text
+source/Win32.Oberon.PlugInDocs.Mod -text
+source/Win32.Oberon.Printer.Mod -text
+source/Win32.Oberon.PrinterInfo.Mod -text
+source/Win32.Oberon.Registry.Mod -text
+source/Win32.Oberon.RegistryTools.Mod -text
+source/Win32.Oberon.Rembrandt.Mod -text
+source/Win32.Oberon.System.Mod -text
+source/Win32.Oberon.Viewers.Mod -text
+source/Win32.Oberon.WinFonts.Mod -text
+source/Win32.Oberon.WinImages.Mod -text
+source/Win32.Oberon.WinMenus.Mod -text
+source/Win32.Oberon.WinPrinter.Mod -text
+source/Win32.Oberon.Windows.Mod -text
+source/Win32.Oberon.antsPortability.Mod -text
+source/Win32.Oberon.antsTracking.Mod -text
+source/Win32.Oberon.vyPortability.Mod -text
 source/Win32.OberonConfiguration.Mod -text
 source/Win32.OberonDisplay.Mod -text
 source/Win32.Objects.Mod -text
