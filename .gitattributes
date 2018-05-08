@@ -11478,6 +11478,7 @@ source/AMD64.ATADisks.Mod -text
 source/AMD64.BenchInterrupts.Mod -text
 source/AMD64.CPUID.Mod -text
 source/AMD64.EFIMachine.Mod -text
+source/AMD64.FoxArrayBaseOptimized.Mod -text
 source/AMD64.IP.Mod -text
 source/AMD64.IPv4.Mod -text
 source/AMD64.Keyboard.Mod -text
