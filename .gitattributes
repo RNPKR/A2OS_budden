@@ -2872,6 +2872,8 @@ Linux64G/bin/FoxActiveCells.GofUu -text
 Linux64G/bin/FoxActiveCells.SymUu -text
 Linux64G/bin/FoxArrayBase.GofUu -text
 Linux64G/bin/FoxArrayBase.SymUu -text
+Linux64G/bin/FoxArrayBaseOptimized.GofUu -text
+Linux64G/bin/FoxArrayBaseOptimized.SymUu -text
 Linux64G/bin/FoxAssembler.GofUu -text
 Linux64G/bin/FoxAssembler.SymUu -text
 Linux64G/bin/FoxBackend.GofUu -text
