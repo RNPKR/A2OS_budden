@@ -5096,6 +5096,8 @@ Win64G/bin/FoxActiveCells.GofWw -text
 Win64G/bin/FoxActiveCells.SymWw -text
 Win64G/bin/FoxArrayBase.GofWw -text
 Win64G/bin/FoxArrayBase.SymWw -text
+Win64G/bin/FoxArrayBaseOptimized.GofWw -text
+Win64G/bin/FoxArrayBaseOptimized.SymWw -text
 Win64G/bin/FoxAssembler.GofWw -text
 Win64G/bin/FoxAssembler.SymWw -text
 Win64G/bin/FoxBackend.GofWw -text
@@ -6192,6 +6194,8 @@ Win64G/bin/OberonDisplay.GofWw -text
 Win64G/bin/OberonDisplay.SymWw -text
 Win64G/bin/OberonFS.GofWw -text
 Win64G/bin/OberonFS.SymWw -text
+Win64G/bin/OberonFonts.GofWw -text
+Win64G/bin/OberonFonts.SymWw -text
 Win64G/bin/OberonInput.GofWw -text
 Win64G/bin/OberonInput.SymWw -text
 Win64G/bin/ObjectFile.GofWw -text
@@ -9049,6 +9053,8 @@ WinAos/obg/OberonDisplay.GofW -text
 WinAos/obg/OberonDisplay.SymW -text
 WinAos/obg/OberonFS.GofW -text
 WinAos/obg/OberonFS.SymW -text
+WinAos/obg/OberonFonts.GofW -text
+WinAos/obg/OberonFonts.SymW -text
 WinAos/obg/OberonInput.GofW -text
 WinAos/obg/OberonInput.SymW -text
 WinAos/obg/ObjectFile.GofW -text
