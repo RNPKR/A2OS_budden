@@ -240,6 +240,7 @@ AosVM/AosVM.vmdk -text
 AosVM/AosVMDisk2.vmdk -text
 AosVM/AosVMDisk3.vmdk -text
 AosVM/GenerateVMImages.Text -text
+Linux32G/a2.sh -text
 Linux32G/a2.txt -text
 Linux32G/bin/A2Sequencers.GofU -text
 Linux32G/bin/A2Sequencers.SymU -text
@@ -2512,6 +2513,7 @@ Linux32G/bin/srVoxel5.SymU -text
 Linux32G/bin/srvoxels.GofU -text
 Linux32G/bin/srvoxels.SymU -text
 Linux32G/oberon -text
+Linux64G/a2.sh -text
 Linux64G/a2.txt -text
 Linux64G/bin/A2Sequencers.GofUu -text
 Linux64G/bin/A2Sequencers.SymUu -text
