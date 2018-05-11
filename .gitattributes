@@ -13687,6 +13687,7 @@ source/WMTCPTracker.Mod -text
 source/WMTabComponents.Mod -text
 source/WMTaskScheduler.Mod -text
 source/WMTaskScheduler.tar -text
+source/WMTerminator.Mod -text
 source/WMTetris.Mod -text
 source/WMTextStyleTool.Mod -text
 source/WMTextTool.Mod -text
