@@ -13451,6 +13451,7 @@ source/Unix.Oberon.TextSBControl.Mod -text
 source/Unix.Oberon.UnixPrinter.Mod -text
 source/Unix.Objects.Mod -text
 source/Unix.OpenAL.Mod -text
+source/Unix.PrecisionTimer.Mod -text
 source/Unix.ProcessInfo0.Mod -text
 source/Unix.Sockets.Mod -text
 source/Unix.StdIO.Mod -text
@@ -13733,6 +13734,7 @@ source/WebWormWatch.Mod -text
 source/White.Pal -text
 source/WhitespaceRemover.Mod -text
 source/Win.HostLibs.Mod -text
+source/Win.PrecisionTimer.Mod -text
 source/Win32.ADVAPI32.Mod -text
 source/Win32.Aos.Link -text
 source/Win32.Beep.Mod -text
