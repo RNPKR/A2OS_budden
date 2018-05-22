@@ -11480,6 +11480,7 @@ source/AGfxRegions.Mod -text
 source/AM79C970.Mod -text
 source/AMD64.ATADisks.Mod -text
 source/AMD64.BenchInterrupts.Mod -text
+source/AMD64.CPU.Mod -text
 source/AMD64.CPUID.Mod -text
 source/AMD64.EFIMachine.Mod -text
 source/AMD64.FoxArrayBaseOptimized.Mod -text
