@@ -13733,7 +13733,6 @@ source/Win32.HierarchicalProfiler0.Mod -text
 source/Win32.HostFiles64.Mod -text
 source/Win32.IP.Mod -text
 source/Win32.Kernel.Mod -text
-source/Win32.Kernel32.Mod -text
 source/Win32.Machine.Mod -text
 source/Win32.Network.Mod -text
 source/Win32.ODBC.Mod -text
