@@ -13020,7 +13020,6 @@ source/PCTest.Mod -text
 source/PCV.Mod -text
 source/PDF.Mod -text
 source/PDFExample.Mod -text
-source/PELinker.Tool -text svneol=unset#unset
 source/PET.Mod -text
 source/PETIcons.tar -text
 source/PETModuleTree.Mod -text
@@ -13710,7 +13709,6 @@ source/WhitespaceRemover.Mod -text
 source/Win.HostLibs.Mod -text
 source/Win.PrecisionTimer.Mod -text
 source/Win32.ADVAPI32.Mod -text
-source/Win32.Aos.Link -text
 source/Win32.Beep.Mod -text
 source/Win32.Build.Tool -text svneol=unset#unset
 source/Win32.BuildMini.Tool -text svneol=unset#unset
@@ -13743,7 +13741,6 @@ source/Win32.Oberon.PrinterInfo.Mod -text
 source/Win32.Oberon.Registry.Mod -text
 source/Win32.OberonConfiguration.Mod -text
 source/Win32.Objects.Mod -text
-source/Win32.PELinker.Mod -text
 source/Win32.Performance.Mod -text
 source/Win32.Processors.Mod -text
 source/Win32.SQL.Mod -text
