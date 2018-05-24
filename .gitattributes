@@ -13208,7 +13208,7 @@ source/Snow.Mod -text
 source/Sokoban.Data -text
 source/Solaris.AMD64.Unix.Mod -text
 source/Solaris.I386.Unix.Mod -text
-source/SolarisA2.Tool -text
+source/SolarisA2.Tool -text svneol=unset#application/octet-stream
 source/Song.ccg -text
 source/Sort.Tool -text svneol=unset#unset
 source/SortDemo.Mod -text
