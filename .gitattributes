@@ -13231,7 +13231,6 @@ source/Smiley.Vinci -text
 source/Snapshot.Tool -text svneol=unset#unset
 source/Snow.Mod -text
 source/Sokoban.Data -text
-source/Solaris.I386.Unix.Mod -text
 source/Song.ccg -text
 source/Sort.Tool -text svneol=unset#unset
 source/SortDemo.Mod -text
