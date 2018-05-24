@@ -12249,7 +12249,6 @@ source/Models.rep -text
 source/ModuleParser.Mod -text
 source/ModuleTrees.Mod -text
 source/ModuleTreesIcons.tar -text
-source/Modules.Mod -text
 source/Molecules.Pict -text
 source/MousePS2.Mod -text
 source/MouseSerial.Mod -text
@@ -13130,7 +13129,6 @@ source/RasterPixelFormats.Mod -text
 source/Reboot.Mod -text
 source/Rect2.Shape -text
 source/References.Text -text svneol=unset#unset
-source/Reflection.Mod -text
 source/RegisterRFW.Mod -text
 source/RelativeFileSystem.Mod -text
 source/RelativeFiles64.Mod -text
