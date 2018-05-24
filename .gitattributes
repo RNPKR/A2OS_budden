@@ -12156,7 +12156,6 @@ source/Linux.I386.Glue.Mod -text
 source/Linux.I386.Unix.Mod -text
 source/Lissajous.Panel -text
 source/LoadGadgets.Text -text svneol=unset#unset
-source/Loader.Mod -text
 source/Localization.Mod -text
 source/Locks.Mod -text
 source/Looks.Mod -text
