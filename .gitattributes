@@ -11775,6 +11775,8 @@ source/DTPUtilities.Mod -text
 source/DTPView.Mod -text
 source/DVI.Lib -text
 source/Dark.Pal -text
+source/Darwin.AMD64.Unix.Mod -text
+source/Darwin.I386.Unix.Mod -text
 source/Data.Mod -text
 source/DataErrors.Mod -text
 source/DataIO.Mod -text
@@ -11977,27 +11979,6 @@ source/Gadgets.poly -text
 source/GadgetsChanges.Text -text svneol=unset#unset
 source/Games.Tool -text svneol=unset#unset
 source/GarbageCollector.Mod -text
-source/Generic.Darwin.AMD64.Unix.Mod -text
-source/Generic.Darwin.I386.Unix.Mod -text
-source/Generic.I386.Machine.Mod -text
-source/Generic.Linux.AMD64.Glue.Mod -text
-source/Generic.Linux.AMD64.Unix.Mod -text
-source/Generic.Linux.I386.Glue.Mod -text
-source/Generic.Linux.I386.Unix.Mod -text
-source/Generic.Modules.Mod -text
-source/Generic.Reflection.Mod -text
-source/Generic.Solaris.AMD64.Unix.Mod -text
-source/Generic.Solaris.I386.Unix.Mod -text
-source/Generic.SolarisA2.Tool -text
-source/Generic.Unix.AMD64.Glue.Mod -text
-source/Generic.Unix.AMD64.Machine.Mod -text
-source/Generic.Unix.I386.Glue.Mod -text
-source/Generic.Unix.I386.Machine.Mod -text
-source/Generic.Unix.Objects.Mod -text
-source/Generic.Unix.Traps.Mod -text
-source/Generic.Unix.X11.Mod -text
-source/Generic.Win32.Kernel32.Mod -text
-source/Generic.Win64.Kernel32.Mod -text
 source/GenericLinker.Mod -text
 source/GenericLoader.Mod -text
 source/GenericSort.Mod -text
@@ -12171,6 +12152,10 @@ source/LinEqSVD.Mod -text
 source/Linker.Mod -text
 source/Linker0.Mod -text
 source/Linker1.Mod -text
+source/Linux.AMD64.Glue.Mod -text
+source/Linux.AMD64.Unix.Mod -text
+source/Linux.I386.Glue.Mod -text
+source/Linux.I386.Unix.Mod -text
 source/Lissajous.Panel -text
 source/LoadGadgets.Text -text svneol=unset#unset
 source/Loader.Mod -text
@@ -12249,6 +12234,7 @@ source/Models.rep -text
 source/ModuleParser.Mod -text
 source/ModuleTrees.Mod -text
 source/ModuleTreesIcons.tar -text
+source/Modules.Mod -text
 source/Molecules.Pict -text
 source/MousePS2.Mod -text
 source/MouseSerial.Mod -text
@@ -13129,6 +13115,7 @@ source/RasterPixelFormats.Mod -text
 source/Reboot.Mod -text
 source/Rect2.Shape -text
 source/References.Text -text svneol=unset#unset
+source/Reflection.Mod -text
 source/RegisterRFW.Mod -text
 source/RelativeFileSystem.Mod -text
 source/RelativeFiles64.Mod -text
@@ -13223,6 +13210,9 @@ source/Smiley.Vinci -text
 source/Snapshot.Tool -text svneol=unset#unset
 source/Snow.Mod -text
 source/Sokoban.Data -text
+source/Solaris.AMD64.Unix.Mod -text
+source/Solaris.I386.Unix.Mod -text
+source/SolarisA2.Tool -text
 source/Song.ccg -text
 source/Sort.Tool -text svneol=unset#unset
 source/SortDemo.Mod -text
@@ -13413,6 +13403,8 @@ source/UnicodeBidirectionality.Mod -text
 source/UnicodeData.txt -text
 source/UnicodeProperties.Mod -text
 source/UnihanParser.Mod -text
+source/Unix.AMD64.Glue.Mod -text
+source/Unix.AMD64.Machine.Mod -text
 source/Unix.Beep.Mod -text
 source/Unix.BootConsole.Mod -text
 source/Unix.Clipboard.Mod -text
@@ -13422,6 +13414,8 @@ source/Unix.Display.Mod -text
 source/Unix.DisplayRefresher.Mod -text
 source/Unix.HierarchicalProfiler0.Mod -text
 source/Unix.HostLibs.Mod -text
+source/Unix.I386.Glue.Mod -text
+source/Unix.I386.Machine.Mod -text
 source/Unix.IP.Mod -text
 source/Unix.KbdMouse.Mod -text
 source/Unix.Kernel.Mod -text
@@ -13429,17 +13423,20 @@ source/Unix.Oberon.Clipboard.Mod -text
 source/Unix.Oberon.NetSystem.Mod -text
 source/Unix.Oberon.Printer.Mod -text
 source/Unix.Oberon.UnixPrinter.Mod -text
+source/Unix.Objects.Mod -text
 source/Unix.OpenAL.Mod -text
 source/Unix.PrecisionTimer.Mod -text
 source/Unix.ProcessInfo0.Mod -text
 source/Unix.Sockets.Mod -text
 source/Unix.StdIO.Mod -text
 source/Unix.TCP.Mod -text
+source/Unix.Traps.Mod -text
 source/Unix.UDP.Mod -text
 source/Unix.UnixFiles.Mod -text
 source/Unix.V24.Mod -text
 source/Unix.WMPerfMonPluginCpu.Mod -text
 source/Unix.WMPerfMonPluginMemory.Mod -text
+source/Unix.X11.Mod -text
 source/Unix.X11Api.Mod -text
 source/Unix.XDisplay.Mod -text
 source/UnixBinary.Mod -text
@@ -13728,6 +13725,7 @@ source/Win32.HierarchicalProfiler0.Mod -text
 source/Win32.HostFiles64.Mod -text
 source/Win32.IP.Mod -text
 source/Win32.Kernel.Mod -text
+source/Win32.Kernel32.Mod -text
 source/Win32.Machine.Mod -text
 source/Win32.Network.Mod -text
 source/Win32.ODBC.Mod -text
@@ -13768,6 +13766,7 @@ source/Win32.WinApplications.Mod -text
 source/Win32.WinDisks.Mod -text
 source/Win32.WinFS.Mod -text
 source/Win32.WinTrace.Mod -text
+source/Win64.Kernel32.Mod -text
 source/Win64.Machine.Mod -text
 source/Win64.Objects.Mod -text
 source/Win64.Traps.Mod -text
