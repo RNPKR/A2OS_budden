@@ -11914,7 +11914,6 @@ source/FoxAssembler.Mod -text
 source/FoxBackend.Mod -text
 source/FoxBasic.Mod -text
 source/FoxBinaryCode.Mod -text
-source/FoxBinaryObjectFile.Mod -text
 source/FoxBinarySymbolFile.Mod -text
 source/FoxCSharpFrontend.Mod -text
 source/FoxCSharpParser.Mod -text
