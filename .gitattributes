@@ -11775,7 +11775,6 @@ source/DTPUtilities.Mod -text
 source/DTPView.Mod -text
 source/DVI.Lib -text
 source/Dark.Pal -text
-source/Darwin.I386.Unix.Mod -text
 source/Data.Mod -text
 source/DataErrors.Mod -text
 source/DataIO.Mod -text
