@@ -1,5 +1,5 @@
-Files.AddSearchPath ../Linux64G/work ~
-Files.AddSearchPath ../Linux64G/bin~ (* ../Linux64G is a trick to get absolute path names *)
+Files.AddSearchPath ../Linux64/work ~
+Files.AddSearchPath ../Linux64/bin~ (* ../Linux64 is a trick to get absolute path names *)
 Files.AddSearchPath ../source ~
 Files.SetWorkPath work ~
 Configuration.Init~
