@@ -12149,6 +12149,7 @@ source/LinEqCholesky.Mod -text
 source/LinEqLU.Mod -text
 source/LinEqRe.Mod -text
 source/LinEqSVD.Mod -text
+source/Linker.Mod -text
 source/Linux.AMD64.Glue.Mod -text
 source/Linux.AMD64.Unix.Mod -text
 source/Linux.I386.Glue.Mod -text
@@ -13220,7 +13221,6 @@ source/Stars.Vinci -text
 source/StartConsole.Mod -text
 source/StartMenu.Mod -text
 source/StartMenu.rep -text
-source/StaticLinker.Mod -text
 source/StdIOShell.Mod -text
 source/StreamUtilities.Mod -text
 source/Streams.Mod -text
