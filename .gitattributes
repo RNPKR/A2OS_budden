@@ -4698,15 +4698,7 @@ Linux64/bin/srvoxels.GofUu -text
 Linux64/bin/srvoxels.SymUu -text
 Linux64/oberon -text
 UnixAos/boot/Makefile -text
-UnixAos/boot/Makefile.darwin -text
-UnixAos/boot/Makefile.linux -text
-UnixAos/boot/Makefile.solaris -text
 UnixAos/boot/OberonLoader.c -text
-UnixAos/boot/Threads.darwin.c -text
-UnixAos/boot/Threads.h -text
-UnixAos/boot/Threads.linux.c -text
-UnixAos/boot/Threads.solaris.c -text
-UnixAos/boot/aos.c -text
 UnixAos/buildtools/Darwin.AMD64.Tool -text
 UnixAos/buildtools/Darwin.I386.Tool -text
 UnixAos/buildtools/Linux.AMD64.Tool -text
