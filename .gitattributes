@@ -54,6 +54,7 @@ ARM/ARM.A2/Zybo.TestVideoOut.bin -text
 ARM/ARM.A2/Zynq.ARM.Platform.Mod -text
 ARM/ARM.A2/Zynq.DisplayLinear.Mod -text
 ARM/ARM.A2/Zynq.Gpio.Mod -text
+ARM/ARM.A2/Zynq.PrecisionTimer.Mod -text
 ARM/ARM.A2/Zynq.PrivateWatchdog.Mod -text
 ARM/ARM.A2/Zynq.PsConfig.Mod -text
 ARM/ARM.A2/Zynq.PsSerials.Mod -text
