@@ -11680,6 +11680,7 @@ source/Colors.rep -text
 source/Columbus.Lib -text
 source/CommandTest.Mod -text
 source/Commands.Mod -text
+source/Compiler.Mod -text
 source/Compiler.Tool -text svneol=unset#unset
 source/CompilerInterface.Mod -text
 source/ComplexNumbers.Mod -text
@@ -11913,7 +11914,6 @@ source/FoxCSharpFrontend.Mod -text
 source/FoxCSharpParser.Mod -text
 source/FoxCSharpScanner.Mod -text
 source/FoxCodeGenerators.Mod -text
-source/FoxCompiler.Mod -text
 source/FoxDisassembler.Mod -text
 source/FoxDocumentationBackend.Mod -text
 source/FoxDocumentationHtml.Mod -text
@@ -11953,7 +11953,6 @@ source/FoxTRMBackend.Mod -text
 source/FoxTRMInstructionSet.Mod -text
 source/FoxTRMTools.Mod -text
 source/FoxTest.Mod -text
-source/FoxTextCompiler.Mod -text
 source/FoxTextualSymbolFile.Mod -text
 source/FoxTranspilerBackend.Mod -text
 source/Fractal.Pict -text
@@ -13360,6 +13359,7 @@ source/TestVideo.Mod -text
 source/TestXMLPlugins.Mod -text
 source/Tetra.poly -text
 source/Tetris.Panel -text
+source/TextCompiler.Mod -text
 source/TextConverter.Mod -text
 source/TextDocs.Lib -text
 source/TextDocs.Panel -text
