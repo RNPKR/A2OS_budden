@@ -11702,7 +11702,7 @@ source/Coop.Objects.Mod -text
 source/Coop.Runtime.Mod -text
 source/Coop.Traps.Mod -text
 source/Coop.Win32.Display.Mod -text
-source/Coop.Win32.Kernel32.Mod -text
+source/Coop.Win32.I386.Kernel32.Mod -text
 source/CoordSys.Shape -text
 source/Copyright.Text -text svneol=unset#unset
 source/Counters.Mod -text
@@ -13697,6 +13697,10 @@ source/WhitespaceRemover.Mod -text
 source/Win.HostLibs.Mod -text
 source/Win.PrecisionTimer.Mod -text
 source/Win32.ADVAPI32.Mod -text
+source/Win32.AMD64.Kernel32.Mod -text
+source/Win32.AMD64.Machine.Mod -text
+source/Win32.AMD64.Objects.Mod -text
+source/Win32.AMD64.Traps.Mod -text
 source/Win32.Beep.Mod -text
 source/Win32.Build.Tool -text svneol=unset#unset
 source/Win32.BuildMini.Tool -text svneol=unset#unset
@@ -13709,10 +13713,12 @@ source/Win32.Environment.Mod -text
 source/Win32.GDI32.Mod -text
 source/Win32.HierarchicalProfiler0.Mod -text
 source/Win32.HostFiles64.Mod -text
+source/Win32.I386.Kernel32.Mod -text
+source/Win32.I386.Machine.Mod -text
+source/Win32.I386.Objects.Mod -text
+source/Win32.I386.Traps.Mod -text
 source/Win32.IP.Mod -text
 source/Win32.Kernel.Mod -text
-source/Win32.Kernel32.Mod -text
-source/Win32.Machine.Mod -text
 source/Win32.Network.Mod -text
 source/Win32.ODBC.Mod -text
 source/Win32.Oberon.Clipboard.Mod -text
@@ -13728,7 +13734,6 @@ source/Win32.Oberon.Printer.Mod -text
 source/Win32.Oberon.PrinterInfo.Mod -text
 source/Win32.Oberon.Registry.Mod -text
 source/Win32.OberonConfiguration.Mod -text
-source/Win32.Objects.Mod -text
 source/Win32.Performance.Mod -text
 source/Win32.Processors.Mod -text
 source/Win32.SQL.Mod -text
@@ -13737,7 +13742,6 @@ source/Win32.Shell32.Mod -text
 source/Win32.StdIO.Mod -text
 source/Win32.TCP.Mod -text
 source/Win32.Timer.Mod -text
-source/Win32.Traps.Mod -text
 source/Win32.UDP.Mod -text
 source/Win32.User32.Mod -text
 source/Win32.V24.Mod -text
@@ -13751,10 +13755,6 @@ source/Win32.WinApplications.Mod -text
 source/Win32.WinDisks.Mod -text
 source/Win32.WinFS.Mod -text
 source/Win32.WinTrace.Mod -text
-source/Win64.Kernel32.Mod -text
-source/Win64.Machine.Mod -text
-source/Win64.Objects.Mod -text
-source/Win64.Traps.Mod -text
 source/WindowManager.Mod -text
 source/X29Plane.poly -text
 source/X509.Mod -text
