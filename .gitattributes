@@ -11486,6 +11486,7 @@ source/AMD64.MathL.Mod -text
 source/AMD64.MemCache.Mod -text
 source/AMD64.MemInfo.Mod -text
 source/AMD64.Network.Mod -text
+source/AMD64.Oberon.Bitmaps.Mod -text
 source/AMD64.PCI.Mod -text
 source/AMD64.Raster.Mod -text
 source/AMD64.Reals.Mod -text
@@ -13391,6 +13392,7 @@ source/UnicodeData.txt -text
 source/UnicodeProperties.Mod -text
 source/UnihanParser.Mod -text
 source/Unix.AMD64.Glue.Mod -text
+source/Unix.AMD64.IP.Mod -text
 source/Unix.AMD64.Machine.Mod -text
 source/Unix.Beep.Mod -text
 source/Unix.BootConsole.Mod -text
@@ -13402,8 +13404,8 @@ source/Unix.DisplayRefresher.Mod -text
 source/Unix.HierarchicalProfiler0.Mod -text
 source/Unix.HostLibs.Mod -text
 source/Unix.I386.Glue.Mod -text
+source/Unix.I386.IP.Mod -text
 source/Unix.I386.Machine.Mod -text
-source/Unix.IP.Mod -text
 source/Unix.KbdMouse.Mod -text
 source/Unix.Kernel.Mod -text
 source/Unix.Oberon.Clipboard.Mod -text
@@ -13697,8 +13699,10 @@ source/WhitespaceRemover.Mod -text
 source/Win.HostLibs.Mod -text
 source/Win.PrecisionTimer.Mod -text
 source/Win32.ADVAPI32.Mod -text
+source/Win32.AMD64.IP.Mod -text
 source/Win32.AMD64.Kernel32.Mod -text
 source/Win32.AMD64.Machine.Mod -text
+source/Win32.AMD64.Network.Mod -text
 source/Win32.AMD64.Objects.Mod -text
 source/Win32.AMD64.Traps.Mod -text
 source/Win32.Beep.Mod -text
@@ -13713,13 +13717,13 @@ source/Win32.Environment.Mod -text
 source/Win32.GDI32.Mod -text
 source/Win32.HierarchicalProfiler0.Mod -text
 source/Win32.HostFiles64.Mod -text
+source/Win32.I386.IP.Mod -text
 source/Win32.I386.Kernel32.Mod -text
 source/Win32.I386.Machine.Mod -text
+source/Win32.I386.Network.Mod -text
 source/Win32.I386.Objects.Mod -text
 source/Win32.I386.Traps.Mod -text
-source/Win32.IP.Mod -text
 source/Win32.Kernel.Mod -text
-source/Win32.Network.Mod -text
 source/Win32.ODBC.Mod -text
 source/Win32.Oberon.Clipboard.Mod -text
 source/Win32.Oberon.Directories.Mod -text
