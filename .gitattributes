@@ -14280,7 +14280,6 @@ source/AMD64.FoxArrayBaseOptimized.Mod -text
 source/AMD64.IP.Mod -text
 source/AMD64.IPv4.Mod -text
 source/AMD64.Keyboard.Mod -text
-source/AMD64.Machine.Mod -text
 source/AMD64.Math.Mod -text
 source/AMD64.MathL.Mod -text
 source/AMD64.MemCache.Mod -text
@@ -14353,7 +14352,11 @@ source/Auto.dsk -text
 source/Autostart.Mod -text
 source/BB.StdCoder.Mod -text
 source/BIOS.ACPI.Mod -text
+source/BIOS.AMD64.Machine.Mod -text
 source/BIOS.Environment.Mod -text
+source/BIOS.I386.BenchInterrupts.Mod -text
+source/BIOS.I386.Machine.Mod -text
+source/BIOS.I386.MemCache.Mod -text
 source/BIT.Mod -text
 source/BMPCodec.Mod -text
 source/BSplineCurves.Mod -text
@@ -14836,7 +14839,6 @@ source/I386.Adaptec7Script.Mod -text
 source/I386.Array1dBytes.Mod -text
 source/I386.ArrayBaseOptimized.Mod -text
 source/I386.ArrayXdBytes.Mod -text
-source/I386.BenchInterrupts.Mod -text
 source/I386.CPU.Mod -text
 source/I386.CPUID.Mod -text
 source/I386.DivXDecoder.Mod -text
@@ -14848,10 +14850,8 @@ source/I386.IP.Mod -text
 source/I386.IPv4.Mod -text
 source/I386.Keyboard.Mod -text
 source/I386.MPEGUtilities.Mod -text
-source/I386.Machine.Mod -text
 source/I386.Math.Mod -text
 source/I386.MathL.Mod -text
-source/I386.MemCache.Mod -text
 source/I386.Network.Mod -text
 source/I386.Oberon.Bitmaps.Mod -text
 source/I386.PCI.Mod -text
