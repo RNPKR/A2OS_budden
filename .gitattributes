@@ -16088,6 +16088,7 @@ source/Syntax8m.Pr3.Fnt -text
 source/Syntax8m.Scn.Fnt -text
 source/SyntaxHighlighter.Mod -text
 source/SyntaxHighlighter.XML -text
+source/System.Mod -text
 source/System.Text -text svneol=unset#unset
 source/System.Tool -text svneol=unset#unset
 source/System.rep -text
@@ -16099,7 +16100,6 @@ source/System3F4.Graphic -text
 source/System3F5.Graphic -text
 source/System3F6.Graphic -text
 source/System3F7.Graphic -text
-source/SystemTools.Mod -text
 source/SystemVersion.Mod -text
 source/TCP.Mod -text
 source/TCPPortLog.Mod -text
