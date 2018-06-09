@@ -14271,6 +14271,7 @@ source/AGfxPaths.Mod -text
 source/AGfxRaster.Mod -text
 source/AGfxRegions.Mod -text
 source/AMD64.BenchInterrupts.Mod -text
+source/AMD64.Builtins.Mod -text
 source/AMD64.CPU.Mod -text
 source/AMD64.CPUID.Mod -text
 source/AMD64.EFIMachine.Mod -text
@@ -14285,7 +14286,6 @@ source/AMD64.Network.Mod -text
 source/AMD64.Oberon.Bitmaps.Mod -text
 source/AMD64.Raster.Mod -text
 source/AMD64.Reals.Mod -text
-source/AMD64.Runtime.Mod -text
 source/AMD64.Traps.Mod -text
 source/AMD64.UsbKeyboard.Mod -text
 source/AMD64.WMRasterScale.Mod -text
@@ -14293,6 +14293,7 @@ source/AMD64.WMTransitions.Mod -text
 source/AMD64.srE.Mod -text
 source/AMD64Decoder.Mod -text
 source/APIC.Processors.Mod -text
+source/ARM.Builtins.Mod -text
 source/ARM.FPE64.Mod -text
 source/ARM.IP.Mod -text
 source/ARM.IPv4.Mod -text
@@ -14300,7 +14301,6 @@ source/ARM.Math.Mod -text
 source/ARM.MathL.Mod -text
 source/ARM.Network.Mod -text
 source/ARM.Reals.Mod -text
-source/ARM.Runtime.Mod -text
 source/ARM.Traps.Mod -text
 source/ARMDecoder.Mod -text
 source/ASCIITab.Tool -text svneol=unset#unset
@@ -14519,7 +14519,6 @@ source/Coop.Kernel.Mod -text
 source/Coop.MemCache.Mod -text
 source/Coop.Modules.Mod -text
 source/Coop.Objects.Mod -text
-source/Coop.Runtime.Mod -text
 source/Coop.Traps.Mod -text
 source/Coop.Windows.Display.Mod -text
 source/Coop.Windows.I386.Kernel32.Mod -text
@@ -14850,6 +14849,7 @@ source/I386.Adaptec7Script.Mod -text
 source/I386.Array1dBytes.Mod -text
 source/I386.ArrayBaseOptimized.Mod -text
 source/I386.ArrayXdBytes.Mod -text
+source/I386.Builtins.Mod -text
 source/I386.CPU.Mod -text
 source/I386.CPUID.Mod -text
 source/I386.DivXDecoder.Mod -text
@@ -14866,7 +14866,6 @@ source/I386.Network.Mod -text
 source/I386.Oberon.Bitmaps.Mod -text
 source/I386.Raster.Mod -text
 source/I386.Reals.Mod -text
-source/I386.Runtime.Mod -text
 source/I386.UsbKeyboard.Mod -text
 source/I386.VMWareTools.Mod -text
 source/I386.WMRasterScale.Mod -text
@@ -15933,6 +15932,7 @@ source/RfsClientProxy.Mod -text
 source/RfsConnection.Mod -text
 source/RfsFS.Mod -text
 source/Room.poly -text
+source/Runtime.Mod -text
 source/SCSI.Mod -text
 source/SMTPClient.Mod -text
 source/SSFS.Mod -text
