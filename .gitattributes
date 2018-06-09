@@ -14270,8 +14270,6 @@ source/AGfxMatrix.Mod -text
 source/AGfxPaths.Mod -text
 source/AGfxRaster.Mod -text
 source/AGfxRegions.Mod -text
-source/AM79C970.Mod -text
-source/AMD64.ATADisks.Mod -text
 source/AMD64.BenchInterrupts.Mod -text
 source/AMD64.CPU.Mod -text
 source/AMD64.CPUID.Mod -text
@@ -14279,7 +14277,6 @@ source/AMD64.EFIMachine.Mod -text
 source/AMD64.FoxArrayBaseOptimized.Mod -text
 source/AMD64.IP.Mod -text
 source/AMD64.IPv4.Mod -text
-source/AMD64.Keyboard.Mod -text
 source/AMD64.Math.Mod -text
 source/AMD64.MathL.Mod -text
 source/AMD64.MemCache.Mod -text
@@ -14315,7 +14312,6 @@ source/ActiveCellsRunner.mod -text
 source/ActiveCellsRuntime.mod -text
 source/ActiveTimers.Mod -text
 source/Activities.Mod -text
-source/Adaptec7.Mod -text
 source/AlmSmtpReceiver.Atg -text
 source/AlmSmtpReceiver.Guide.Text -text svneol=unset#unset
 source/AlmSmtpReceiver.Mod -text
@@ -14351,14 +14347,34 @@ source/Auto.dsk -text
 source/Autostart.Mod -text
 source/BB.StdCoder.Mod -text
 source/BIOS.ACPI.Mod -text
+source/BIOS.AM79C970.Mod -text
+source/BIOS.AMD64.ATADisks.Mod -text
+source/BIOS.AMD64.Keyboard.Mod -text
 source/BIOS.AMD64.Machine.Mod -text
 source/BIOS.AMD64.PCI.Mod -text
+source/BIOS.Adaptec7.Mod -text
+source/BIOS.Beep.Mod -text
+source/BIOS.BootShell.Mod -text
+source/BIOS.Diskettes.Mod -text
+source/BIOS.DisplayLinear.Mod -text
+source/BIOS.EnsoniqSound.Mod -text
 source/BIOS.Environment.Mod -text
+source/BIOS.Ethernet3Com90x.Mod -text
+source/BIOS.I386.ATADisks.Mod -text
 source/BIOS.I386.BenchInterrupts.Mod -text
+source/BIOS.I386.Keyboard.Mod -text
 source/BIOS.I386.Machine.Mod -text
 source/BIOS.I386.MemCache.Mod -text
 source/BIOS.I386.PCI.Mod -text
+source/BIOS.MousePS2.Mod -text
+source/BIOS.Oberon.Centronics.Mod -text
+source/BIOS.Oberon.Diskettes.Mod -text
+source/BIOS.Oberon.Snapshot.Mod -text
 source/BIOS.PCI.Mod -text
+source/BIOS.SymbiosASPI.Mod -text
+source/BIOS.UsbUhci.Mod -text
+source/BIOS.V24.Mod -text
+source/BIOS.i810Sound.Mod -text
 source/BIT.Mod -text
 source/BMPCodec.Mod -text
 source/BSplineCurves.Mod -text
@@ -14373,7 +14389,6 @@ source/Bart.Pict -text
 source/Base64.Mod -text
 source/BaseTypes.Mod -text
 source/Bbl.Asm -text
-source/Beep.Mod -text
 source/BeepTest.Mod -text
 source/BenchClockDrift.Mod -text
 source/BenchLocks.Mod -text
@@ -14413,7 +14428,6 @@ source/BootManager.Text -text svneol=unset#unset
 source/BootManager.Tool -text svneol=unset#unset
 source/BootManagerMBR.Bin -text
 source/BootManagerTail.Bin -text
-source/BootShell.Mod -text
 source/Bows.Pict -text
 source/Bricks.Pict -text
 source/Build.Tool -text
@@ -14608,10 +14622,8 @@ source/DiskBenchmark.Mod -text
 source/DiskFS.Mod -text
 source/DiskTests.Mod -text
 source/DiskVolumes.Mod -text
-source/Diskettes.Mod -text
 source/Disks.Mod -text
 source/DisplayGTF.Mod -text
-source/DisplayLinear.Mod -text
 source/DisplayNull.Mod -text
 source/Displays.Mod -text
 source/Distance.Shape -text
@@ -14649,10 +14661,8 @@ source/EditKeys.Tool -text svneol=unset#unset
 source/EditTools.Tool -text svneol=unset#unset
 source/Editing.Tool -text svneol=unset#unset
 source/ElevatorStyle.XML -text
-source/EnsoniqSound.Mod -text
 source/Errors.Mod -text
 source/Errors.XML -text
-source/Ethernet3Com90x.Mod -text
 source/Evening.jp2 -text
 source/Events.Mod -text
 source/EventsFileLog.Mod -text
@@ -14835,7 +14845,6 @@ source/HyperDocs.Panel -text
 source/HyperDocs.Tool -text svneol=unset#unset
 source/HyperLinks.Panel -text
 source/I386.APIC.Mod -text
-source/I386.ATADisks.Mod -text
 source/I386.Adaptec7Script.Mod -text
 source/I386.Array1dBytes.Mod -text
 source/I386.ArrayBaseOptimized.Mod -text
@@ -14849,7 +14858,6 @@ source/I386.FoxArrayBaseOptimized.Mod -text
 source/I386.IDCT.Mod -text
 source/I386.IP.Mod -text
 source/I386.IPv4.Mod -text
-source/I386.Keyboard.Mod -text
 source/I386.MPEGUtilities.Mod -text
 source/I386.Math.Mod -text
 source/I386.MathL.Mod -text
@@ -15026,7 +15034,6 @@ source/ModuleTrees.Mod -text
 source/ModuleTreesIcons.tar -text
 source/Modules.Mod -text
 source/Molecules.Pict -text
-source/MousePS2.Mod -text
 source/MouseSerial.Mod -text
 source/MtxCplx.Mod -text
 source/MtxInt.Mod -text
@@ -15113,7 +15120,6 @@ source/Oberon.Calc.Mod -text
 source/Oberon.Calculator.Mod -text
 source/Oberon.CalculatorGadgets.Mod -text
 source/Oberon.Cards.Mod -text
-source/Oberon.Centronics.Mod -text
 source/Oberon.CleanupFiles.Mod -text
 source/Oberon.Clocks.Mod -text
 source/Oberon.Coco.Mod -text
@@ -15155,7 +15161,6 @@ source/Oberon.Dim3Paint.Mod -text
 source/Oberon.Dim3Read.Mod -text
 source/Oberon.Directories.Mod -text
 source/Oberon.Diskette.Mod -text
-source/Oberon.Diskettes.Mod -text
 source/Oberon.Disks.Mod -text
 source/Oberon.Display.Mod -text
 source/Oberon.Display3.Mod -text
@@ -15384,7 +15389,6 @@ source/Oberon.Shanghai.Mod -text
 source/Oberon.Simulator.Mod -text
 source/Oberon.Sisiphus.Mod -text
 source/Oberon.Skeleton.Mod -text
-source/Oberon.Snapshot.Mod -text
 source/Oberon.Sokoban.Mod -text
 source/Oberon.Solitaire.Mod -text
 source/Oberon.Sort.Mod -text
@@ -16022,7 +16026,6 @@ source/Surface.Pict -text
 source/Swarm.Book -text
 source/Swarm.Lib -text
 source/Swarm.Panel -text
-source/SymbiosASPI.Mod -text
 source/SymbiosDisks.Mod -text
 source/Symbols.Lib -text
 source/SynergyClient.Mod -text
@@ -16265,11 +16268,9 @@ source/UsbStorageCbi.Mod -text
 source/UsbStorageScm.Mod -text
 source/UsbTools.Mod -text
 source/UsbTouchscreen.Mod -text
-source/UsbUhci.Mod -text
 source/UsbUtilities.Mod -text
 source/Usbdi.Mod -text
 source/UserGuide.Text -text svneol=unset#unset
-source/V24.Mod -text
 source/V24.Panel -text
 source/V24Tracer.Mod -text
 source/VNC.Mod -text
@@ -16613,7 +16614,6 @@ source/flags.avi -text
 source/gb2312.txt -text
 source/glass.skin -text
 source/highlight.js -text
-source/i810Sound.Mod -text
 source/icons.tar -text
 source/jiret.ttf -text
 source/mars.png -text
