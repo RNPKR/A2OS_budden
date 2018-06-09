@@ -277,6 +277,10 @@ Linux32/bin/Array2dRat.GofU -text
 Linux32/bin/Array2dRat.SymU -text
 Linux32/bin/Array2dRe.GofU -text
 Linux32/bin/Array2dRe.SymU -text
+Linux32/bin/ArrayBase.GofU -text
+Linux32/bin/ArrayBase.SymU -text
+Linux32/bin/ArrayBaseOptimized.GofU -text
+Linux32/bin/ArrayBaseOptimized.SymU -text
 Linux32/bin/ArrayXdBytes.GofU -text
 Linux32/bin/ArrayXdBytes.SymU -text
 Linux32/bin/ArrayXdCplx.GofU -text
@@ -325,6 +329,8 @@ Linux32/bin/BootManager.GofU -text
 Linux32/bin/BootManager.SymU -text
 Linux32/bin/BootShell.GofU -text
 Linux32/bin/BootShell.SymU -text
+Linux32/bin/Builtins.GofU -text
+Linux32/bin/Builtins.SymU -text
 Linux32/bin/CATServer.GofU -text
 Linux32/bin/CATServer.SymU -text
 Linux32/bin/CLUTs.GofU -text
@@ -869,6 +875,8 @@ Linux32/bin/Linker0.GofU -text
 Linux32/bin/Linker0.SymU -text
 Linux32/bin/Linker1.GofU -text
 Linux32/bin/Linker1.SymU -text
+Linux32/bin/Loader.GofU -text
+Linux32/bin/Loader.SymU -text
 Linux32/bin/Localization.GofU -text
 Linux32/bin/Localization.SymU -text
 Linux32/bin/Locks.GofU -text
@@ -1949,6 +1957,8 @@ Linux32/bin/SynergyClient.GofU -text
 Linux32/bin/SynergyClient.SymU -text
 Linux32/bin/SyntaxHighlighter.GofU -text
 Linux32/bin/SyntaxHighlighter.SymU -text
+Linux32/bin/System.GofU -text
+Linux32/bin/System.SymU -text
 Linux32/bin/SystemTools.GofU -text
 Linux32/bin/SystemTools.SymU -text
 Linux32/bin/SystemVersion.GofU -text
@@ -2065,6 +2075,8 @@ Linux32/bin/V24.GofU -text
 Linux32/bin/V24.SymU -text
 Linux32/bin/V24Tracer.GofU -text
 Linux32/bin/V24Tracer.SymU -text
+Linux32/bin/VMWareTools.GofU -text
+Linux32/bin/VMWareTools.SymU -text
 Linux32/bin/VNC.GofU -text
 Linux32/bin/VNC.SymU -text
 Linux32/bin/VNCServer.GofU -text
@@ -2339,6 +2351,8 @@ Linux32/bin/WMTabComponents.GofU -text
 Linux32/bin/WMTabComponents.SymU -text
 Linux32/bin/WMTaskScheduler.GofU -text
 Linux32/bin/WMTaskScheduler.SymU -text
+Linux32/bin/WMTerminator.GofU -text
+Linux32/bin/WMTerminator.SymU -text
 Linux32/bin/WMTetris.GofU -text
 Linux32/bin/WMTetris.SymU -text
 Linux32/bin/WMTextStyleTool.GofU -text
@@ -2566,10 +2580,14 @@ Linux64/bin/BootManager.GofUu -text
 Linux64/bin/BootManager.SymUu -text
 Linux64/bin/BootShell.GofUu -text
 Linux64/bin/BootShell.SymUu -text
+Linux64/bin/Builtins.GofUu -text
+Linux64/bin/Builtins.SymUu -text
 Linux64/bin/CATServer.GofUu -text
 Linux64/bin/CATServer.SymUu -text
 Linux64/bin/CLUTs.GofUu -text
 Linux64/bin/CLUTs.SymUu -text
+Linux64/bin/CPUID.GofUu -text
+Linux64/bin/CPUID.SymUu -text
 Linux64/bin/CRC.GofUu -text
 Linux64/bin/CRC.SymUu -text
 Linux64/bin/CSS2.GofUu -text
@@ -2616,7 +2634,6 @@ Linux64/bin/ColorModels.GofUu -text
 Linux64/bin/ColorModels.SymUu -text
 Linux64/bin/Commands.GofUu -text
 Linux64/bin/Commands.SymUu -text
-Linux64/bin/CompileCommand.Tool -text
 Linux64/bin/Compiler.GofUu -text
 Linux64/bin/Compiler.SymUu -text
 Linux64/bin/CompilerInterface.GofUu -text
@@ -3077,6 +3094,8 @@ Linux64/bin/Linker0.GofUu -text
 Linux64/bin/Linker0.SymUu -text
 Linux64/bin/Linker1.GofUu -text
 Linux64/bin/Linker1.SymUu -text
+Linux64/bin/Loader.GofUu -text
+Linux64/bin/Loader.SymUu -text
 Linux64/bin/Localization.GofUu -text
 Linux64/bin/Localization.SymUu -text
 Linux64/bin/Locks.GofUu -text
@@ -4143,6 +4162,8 @@ Linux64/bin/SynergyClient.GofUu -text
 Linux64/bin/SynergyClient.SymUu -text
 Linux64/bin/SyntaxHighlighter.GofUu -text
 Linux64/bin/SyntaxHighlighter.SymUu -text
+Linux64/bin/System.GofUu -text
+Linux64/bin/System.SymUu -text
 Linux64/bin/SystemTools.GofUu -text
 Linux64/bin/SystemTools.SymUu -text
 Linux64/bin/SystemVersion.GofUu -text
@@ -4525,6 +4546,8 @@ Linux64/bin/WMTabComponents.GofUu -text
 Linux64/bin/WMTabComponents.SymUu -text
 Linux64/bin/WMTaskScheduler.GofUu -text
 Linux64/bin/WMTaskScheduler.SymUu -text
+Linux64/bin/WMTerminator.GofUu -text
+Linux64/bin/WMTerminator.SymUu -text
 Linux64/bin/WMTetris.GofUu -text
 Linux64/bin/WMTetris.SymUu -text
 Linux64/bin/WMTextStyleTool.GofUu -text
@@ -4801,6 +4824,8 @@ Win32/bin/BootManager.GofW -text
 Win32/bin/BootManager.SymW -text
 Win32/bin/BootShell.GofW -text
 Win32/bin/BootShell.SymW -text
+Win32/bin/Builtins.GofW -text
+Win32/bin/Builtins.SymW -text
 Win32/bin/CATServer.GofW -text
 Win32/bin/CATServer.SymW -text
 Win32/bin/CLUTs.GofW -text
@@ -4855,7 +4880,6 @@ Win32/bin/CommandLine.GofW -text
 Win32/bin/CommandLine.SymW -text
 Win32/bin/Commands.GofW -text
 Win32/bin/Commands.SymW -text
-Win32/bin/CompileCommand.Tool -text
 Win32/bin/Compiler.GofW -text
 Win32/bin/Compiler.SymW -text
 Win32/bin/CompilerInterface.GofW -text
@@ -6920,6 +6944,8 @@ Win32/bin/SynergyClient.GofW -text
 Win32/bin/SynergyClient.SymW -text
 Win32/bin/SyntaxHighlighter.GofW -text
 Win32/bin/SyntaxHighlighter.SymW -text
+Win32/bin/System.GofW -text
+Win32/bin/System.SymW -text
 Win32/bin/SystemTools.GofW -text
 Win32/bin/SystemTools.SymW -text
 Win32/bin/SystemVersion.GofW -text
@@ -7575,6 +7601,8 @@ Win64/bin/BootManager.GofWw -text
 Win64/bin/BootManager.SymWw -text
 Win64/bin/BootShell.GofWw -text
 Win64/bin/BootShell.SymWw -text
+Win64/bin/Builtins.GofWw -text
+Win64/bin/Builtins.SymWw -text
 Win64/bin/CATServer.GofWw -text
 Win64/bin/CATServer.SymWw -text
 Win64/bin/CLUTs.GofWw -text
@@ -8109,6 +8137,8 @@ Win64/bin/Linker0.GofWw -text
 Win64/bin/Linker0.SymWw -text
 Win64/bin/Linker1.GofWw -text
 Win64/bin/Linker1.SymWw -text
+Win64/bin/Loader.GofWw -text
+Win64/bin/Loader.SymWw -text
 Win64/bin/Localization.GofWw -text
 Win64/bin/Localization.SymWw -text
 Win64/bin/Locks.GofWw -text
@@ -9265,6 +9295,8 @@ Win64/bin/SynergyClient.GofWw -text
 Win64/bin/SynergyClient.SymWw -text
 Win64/bin/SyntaxHighlighter.GofWw -text
 Win64/bin/SyntaxHighlighter.SymWw -text
+Win64/bin/System.GofWw -text
+Win64/bin/System.SymWw -text
 Win64/bin/SystemTools.GofWw -text
 Win64/bin/SystemTools.SymWw -text
 Win64/bin/SystemVersion.GofWw -text
@@ -9667,6 +9699,8 @@ Win64/bin/WMTabComponents.GofWw -text
 Win64/bin/WMTabComponents.SymWw -text
 Win64/bin/WMTaskScheduler.GofWw -text
 Win64/bin/WMTaskScheduler.SymWw -text
+Win64/bin/WMTerminator.GofWw -text
+Win64/bin/WMTerminator.SymWw -text
 Win64/bin/WMTetris.GofWw -text
 Win64/bin/WMTetris.SymWw -text
 Win64/bin/WMTextStyleTool.GofWw -text
@@ -9992,6 +10026,8 @@ WinAos/obg/BootManager.GofW -text
 WinAos/obg/BootManager.SymW -text
 WinAos/obg/BootShell.GofW -text
 WinAos/obg/BootShell.SymW -text
+WinAos/obg/Builtins.GofW -text
+WinAos/obg/Builtins.SymW -text
 WinAos/obg/CATServer.GofW -text
 WinAos/obg/CATServer.SymW -text
 WinAos/obg/CLUTs.GofW -text
@@ -12124,6 +12160,8 @@ WinAos/obg/SynergyClient.GofW -text
 WinAos/obg/SynergyClient.SymW -text
 WinAos/obg/SyntaxHighlighter.GofW -text
 WinAos/obg/SyntaxHighlighter.SymW -text
+WinAos/obg/System.GofW -text
+WinAos/obg/System.SymW -text
 WinAos/obg/SystemTools.GofW -text
 WinAos/obg/SystemTools.SymW -text
 WinAos/obg/SystemVersion.GofW -text
@@ -12528,6 +12566,8 @@ WinAos/obg/WMTabComponents.GofW -text
 WinAos/obg/WMTabComponents.SymW -text
 WinAos/obg/WMTaskScheduler.GofW -text
 WinAos/obg/WMTaskScheduler.SymW -text
+WinAos/obg/WMTerminator.GofW -text
+WinAos/obg/WMTerminator.SymW -text
 WinAos/obg/WMTetris.GofW -text
 WinAos/obg/WMTetris.SymW -text
 WinAos/obg/WMTextStyleTool.GofW -text
