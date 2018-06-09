@@ -14286,7 +14286,6 @@ source/AMD64.MemCache.Mod -text
 source/AMD64.MemInfo.Mod -text
 source/AMD64.Network.Mod -text
 source/AMD64.Oberon.Bitmaps.Mod -text
-source/AMD64.PCI.Mod -text
 source/AMD64.Raster.Mod -text
 source/AMD64.Reals.Mod -text
 source/AMD64.Runtime.Mod -text
@@ -14353,10 +14352,13 @@ source/Autostart.Mod -text
 source/BB.StdCoder.Mod -text
 source/BIOS.ACPI.Mod -text
 source/BIOS.AMD64.Machine.Mod -text
+source/BIOS.AMD64.PCI.Mod -text
 source/BIOS.Environment.Mod -text
 source/BIOS.I386.BenchInterrupts.Mod -text
 source/BIOS.I386.Machine.Mod -text
 source/BIOS.I386.MemCache.Mod -text
+source/BIOS.I386.PCI.Mod -text
+source/BIOS.PCI.Mod -text
 source/BIT.Mod -text
 source/BMPCodec.Mod -text
 source/BSplineCurves.Mod -text
@@ -14389,7 +14391,6 @@ source/BimboScanner.Mod -text
 source/Bimso.Mod -text
 source/Bin2Hex.Mod -text
 source/BinToCode.Mod -text
-source/BiosFreePCI.Mod -text
 source/BitSets.Mod -text
 source/Black.Pal -text
 source/BluePlastic.skin -text
@@ -14854,7 +14855,6 @@ source/I386.Math.Mod -text
 source/I386.MathL.Mod -text
 source/I386.Network.Mod -text
 source/I386.Oberon.Bitmaps.Mod -text
-source/I386.PCI.Mod -text
 source/I386.Raster.Mod -text
 source/I386.Reals.Mod -text
 source/I386.UsbKeyboard.Mod -text
