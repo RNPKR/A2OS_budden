@@ -14355,6 +14355,7 @@ source/BIOS.AMD64.PCI.Mod -text
 source/BIOS.Adaptec7.Mod -text
 source/BIOS.Beep.Mod -text
 source/BIOS.BootShell.Mod -text
+source/BIOS.Clock.Mod -text
 source/BIOS.Diskettes.Mod -text
 source/BIOS.DisplayLinear.Mod -text
 source/BIOS.EnsoniqSound.Mod -text
@@ -14483,7 +14484,6 @@ source/Checksum.Mod -text
 source/City.poly -text
 source/Clip.Vinci -text
 source/Clipboard.Tool -text svneol=unset#unset
-source/Clock.Mod -text
 source/Clouds.Pict -text
 source/Clouds.jp2 -text
 source/Clown.Pict -text
