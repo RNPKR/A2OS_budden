@@ -14866,6 +14866,7 @@ source/I386.Network.Mod -text
 source/I386.Oberon.Bitmaps.Mod -text
 source/I386.Raster.Mod -text
 source/I386.Reals.Mod -text
+source/I386.Runtime.Mod -text
 source/I386.UsbKeyboard.Mod -text
 source/I386.VMWareTools.Mod -text
 source/I386.WMRasterScale.Mod -text
@@ -15932,7 +15933,6 @@ source/RfsClientProxy.Mod -text
 source/RfsConnection.Mod -text
 source/RfsFS.Mod -text
 source/Room.poly -text
-source/Runtime.Mod -text
 source/SCSI.Mod -text
 source/SMTPClient.Mod -text
 source/SSFS.Mod -text
