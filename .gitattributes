@@ -14122,7 +14122,6 @@ source/AGfxMatrix.Mod -text
 source/AGfxPaths.Mod -text
 source/AGfxRaster.Mod -text
 source/AGfxRegions.Mod -text
-source/AMD64.BenchInterrupts.Mod -text
 source/AMD64.Builtins.Mod -text
 source/AMD64.CPU.Mod -text
 source/AMD64.CPUID.Mod -text
@@ -14133,7 +14132,6 @@ source/AMD64.IPv4.Mod -text
 source/AMD64.Math.Mod -text
 source/AMD64.MathL.Mod -text
 source/AMD64.MemCache.Mod -text
-source/AMD64.MemInfo.Mod -text
 source/AMD64.Network.Mod -text
 source/AMD64.Oberon.Bitmaps.Mod -text
 source/AMD64.Raster.Mod -text
@@ -14200,8 +14198,10 @@ source/BB.StdCoder.Mod -text
 source/BIOS.ACPI.Mod -text
 source/BIOS.AM79C970.Mod -text
 source/BIOS.AMD64.ATADisks.Mod -text
+source/BIOS.AMD64.BenchInterrupts.Mod -text
 source/BIOS.AMD64.Keyboard.Mod -text
 source/BIOS.AMD64.Machine.Mod -text
+source/BIOS.AMD64.MemInfo.Mod -text
 source/BIOS.AMD64.PCI.Mod -text
 source/BIOS.AMD64.Traps.Mod -text
 source/BIOS.Adaptec7.Mod -text
@@ -14224,10 +14224,12 @@ source/BIOS.MousePS2.Mod -text
 source/BIOS.Oberon.Centronics.Mod -text
 source/BIOS.Oberon.Diskettes.Mod -text
 source/BIOS.Oberon.Snapshot.Mod -text
+source/BIOS.Objects.Mod -text
 source/BIOS.PCI.Mod -text
 source/BIOS.SymbiosASPI.Mod -text
 source/BIOS.UsbUhci.Mod -text
 source/BIOS.V24.Mod -text
+source/BIOS.WMPerfMonPluginInterrupts.Mod -text
 source/BIOS.WebNetworkTimeProtocol.Mod -text
 source/BIOS.i810Sound.Mod -text
 source/BIT.Mod -text
@@ -15615,7 +15617,6 @@ source/OberonInput.Mod -text
 source/OberonReport.html -text
 source/ObjExplorer.Panel -text
 source/ObjectFile.Mod -text
-source/Objects.Mod -text
 source/OdAuth.Mod -text
 source/OdAuthBase.Mod -text
 source/OdClient.Mod -text
@@ -16258,7 +16259,6 @@ source/WMPerfMonPluginExample.Mod -text
 source/WMPerfMonPluginFTPServer.Mod -text
 source/WMPerfMonPluginHTTPServer.Mod -text
 source/WMPerfMonPluginHeap.Mod -text
-source/WMPerfMonPluginInterrupts.Mod -text
 source/WMPerfMonPluginMemory.Mod -text
 source/WMPerfMonPluginMessages.Mod -text
 source/WMPerfMonPluginModVars.Mod -text
