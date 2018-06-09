@@ -14138,7 +14138,6 @@ source/AMD64.Network.Mod -text
 source/AMD64.Oberon.Bitmaps.Mod -text
 source/AMD64.Raster.Mod -text
 source/AMD64.Reals.Mod -text
-source/AMD64.Traps.Mod -text
 source/AMD64.UsbKeyboard.Mod -text
 source/AMD64.WMRasterScale.Mod -text
 source/AMD64.WMTransitions.Mod -text
@@ -14204,6 +14203,7 @@ source/BIOS.AMD64.ATADisks.Mod -text
 source/BIOS.AMD64.Keyboard.Mod -text
 source/BIOS.AMD64.Machine.Mod -text
 source/BIOS.AMD64.PCI.Mod -text
+source/BIOS.AMD64.Traps.Mod -text
 source/BIOS.Adaptec7.Mod -text
 source/BIOS.Beep.Mod -text
 source/BIOS.BootShell.Mod -text
@@ -14219,6 +14219,7 @@ source/BIOS.I386.Keyboard.Mod -text
 source/BIOS.I386.Machine.Mod -text
 source/BIOS.I386.MemCache.Mod -text
 source/BIOS.I386.PCI.Mod -text
+source/BIOS.I386.Traps.Mod -text
 source/BIOS.MousePS2.Mod -text
 source/BIOS.Oberon.Centronics.Mod -text
 source/BIOS.Oberon.Diskettes.Mod -text
@@ -16031,7 +16032,6 @@ source/Tools.Tool -text svneol=unset#unset
 source/Trace.Mod -text
 source/TraceRoute.Mod -text
 source/TrapWriters.Mod -text
-source/Traps.Mod -text
 source/Tree.poly -text
 source/Tree1.Pict -text
 source/Trees.Pict -text
