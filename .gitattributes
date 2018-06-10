@@ -14131,7 +14131,6 @@ source/AMD64.IP.Mod -text
 source/AMD64.IPv4.Mod -text
 source/AMD64.Math.Mod -text
 source/AMD64.MathL.Mod -text
-source/AMD64.MemCache.Mod -text
 source/AMD64.Network.Mod -text
 source/AMD64.Oberon.Bitmaps.Mod -text
 source/AMD64.Raster.Mod -text
@@ -14202,6 +14201,7 @@ source/BIOS.AMD64.Adaptec7Script.Mod -text
 source/BIOS.AMD64.BenchInterrupts.Mod -text
 source/BIOS.AMD64.Keyboard.Mod -text
 source/BIOS.AMD64.Machine.Mod -text
+source/BIOS.AMD64.MemCache.Mod -text
 source/BIOS.AMD64.MemInfo.Mod -text
 source/BIOS.AMD64.PCI.Mod -text
 source/BIOS.AMD64.Traps.Mod -text
