@@ -4842,7 +4842,6 @@ Win32/bin/CommandLine.GofW -text
 Win32/bin/CommandLine.SymW -text
 Win32/bin/Commands.GofW -text
 Win32/bin/Commands.SymW -text
-Win32/bin/CompileCommand.Tool -text
 Win32/bin/Compiler.GofW -text
 Win32/bin/Compiler.SymW -text
 Win32/bin/CompilerInterface.GofW -text
