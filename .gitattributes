@@ -16074,6 +16074,7 @@ source/Unix.Objects.Mod -text
 source/Unix.OpenAL.Mod -text
 source/Unix.PrecisionTimer.Mod -text
 source/Unix.ProcessInfo0.Mod -text
+source/Unix.Processors.Mod -text
 source/Unix.Sockets.Mod -text
 source/Unix.StdIO.Mod -text
 source/Unix.TCP.Mod -text
