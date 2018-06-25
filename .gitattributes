@@ -16077,6 +16077,7 @@ source/Unix.ProcessInfo0.Mod -text
 source/Unix.Sockets.Mod -text
 source/Unix.StdIO.Mod -text
 source/Unix.TCP.Mod -text
+source/Unix.Timer.Mod -text
 source/Unix.Traps.Mod -text
 source/Unix.UDP.Mod -text
 source/Unix.UnixFiles.Mod -text
