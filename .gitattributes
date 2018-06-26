@@ -14124,7 +14124,6 @@ source/AGfxRaster.Mod -text
 source/AGfxRegions.Mod -text
 source/AMD64.Builtins.Mod -text
 source/AMD64.CPU.Mod -text
-source/AMD64.CPUID.Mod -text
 source/AMD64.EFIMachine.Mod -text
 source/AMD64.FoxArrayBaseOptimized.Mod -text
 source/AMD64.IP.Mod -text
@@ -14298,6 +14297,7 @@ source/CDRecord.Mod -text
 source/CDRecordLib.Mod -text
 source/CDRecordUtils.Mod -text
 source/CLUTs.Mod -text
+source/CPUID.Mod -text
 source/CR.ATG -text
 source/CRC.Mod -text
 source/CSS2.Mod -text
@@ -14707,7 +14707,6 @@ source/I386.ArrayBaseOptimized.Mod -text
 source/I386.ArrayXdBytes.Mod -text
 source/I386.Builtins.Mod -text
 source/I386.CPU.Mod -text
-source/I386.CPUID.Mod -text
 source/I386.DivXDecoder.Mod -text
 source/I386.DivXHelper.Mod -text
 source/I386.EFIMachine.Mod -text
