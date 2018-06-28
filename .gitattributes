@@ -16046,7 +16046,6 @@ source/UnicodeBidirectionality.Mod -text
 source/UnicodeData.txt -text
 source/UnicodeProperties.Mod -text
 source/UnihanParser.Mod -text
-source/Unix.AMD64.Glue.Mod -text
 source/Unix.AMD64.Machine.Mod -text
 source/Unix.Beep.Mod -text
 source/Unix.BootConsole.Mod -text
@@ -16055,9 +16054,9 @@ source/Unix.Clock.Mod -text
 source/Unix.DNS.Mod -text
 source/Unix.Display.Mod -text
 source/Unix.DisplayRefresher.Mod -text
+source/Unix.Glue.Mod -text
 source/Unix.HierarchicalProfiler0.Mod -text
 source/Unix.HostLibs.Mod -text
-source/Unix.I386.Glue.Mod -text
 source/Unix.I386.Machine.Mod -text
 source/Unix.IP.Mod -text
 source/Unix.KbdMouse.Mod -text
