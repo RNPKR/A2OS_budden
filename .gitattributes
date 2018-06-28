@@ -14192,7 +14192,6 @@ source/BB.StdCoder.Mod -text
 source/BIOS.ACPI.Mod -text
 source/BIOS.AM79C970.Mod -text
 source/BIOS.AMD64.Machine.Mod -text
-source/BIOS.AMD64.PCI.Mod -text
 source/BIOS.AMD64.Traps.Mod -text
 source/BIOS.ATADisks.Mod -text
 source/BIOS.Adaptec7.Mod -text
@@ -14207,7 +14206,6 @@ source/BIOS.EnsoniqSound.Mod -text
 source/BIOS.Environment.Mod -text
 source/BIOS.Ethernet3Com90x.Mod -text
 source/BIOS.I386.Machine.Mod -text
-source/BIOS.I386.PCI.Mod -text
 source/BIOS.I386.Traps.Mod -text
 source/BIOS.Keyboard.Mod -text
 source/BIOS.MemCache.Mod -text
