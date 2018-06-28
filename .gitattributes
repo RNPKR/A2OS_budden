@@ -14192,7 +14192,6 @@ source/BB.StdCoder.Mod -text
 source/BIOS.ACPI.Mod -text
 source/BIOS.AM79C970.Mod -text
 source/BIOS.AMD64.Machine.Mod -text
-source/BIOS.AMD64.MemInfo.Mod -text
 source/BIOS.AMD64.PCI.Mod -text
 source/BIOS.AMD64.Traps.Mod -text
 source/BIOS.ATADisks.Mod -text
@@ -14212,6 +14211,7 @@ source/BIOS.I386.PCI.Mod -text
 source/BIOS.I386.Traps.Mod -text
 source/BIOS.Keyboard.Mod -text
 source/BIOS.MemCache.Mod -text
+source/BIOS.MemInfo.Mod -text
 source/BIOS.MousePS2.Mod -text
 source/BIOS.Oberon.Centronics.Mod -text
 source/BIOS.Oberon.Diskettes.Mod -text
@@ -14706,7 +14706,6 @@ source/I386.IDCT.Mod -text
 source/I386.MPEGUtilities.Mod -text
 source/I386.Math.Mod -text
 source/I386.MathL.Mod -text
-source/I386.MemInfo.Mod -text
 source/I386.Network.Mod -text
 source/I386.Oberon.Bitmaps.Mod -text
 source/I386.Raster.Mod -text
