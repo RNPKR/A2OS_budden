@@ -14195,7 +14195,6 @@ source/BIOS.AMD64.ATADisks.Mod -text
 source/BIOS.AMD64.Adaptec7Script.Mod -text
 source/BIOS.AMD64.BenchInterrupts.Mod -text
 source/BIOS.AMD64.Machine.Mod -text
-source/BIOS.AMD64.MemCache.Mod -text
 source/BIOS.AMD64.MemInfo.Mod -text
 source/BIOS.AMD64.PCI.Mod -text
 source/BIOS.AMD64.Traps.Mod -text
@@ -14212,10 +14211,10 @@ source/BIOS.I386.ATADisks.Mod -text
 source/BIOS.I386.Adaptec7Script.Mod -text
 source/BIOS.I386.BenchInterrupts.Mod -text
 source/BIOS.I386.Machine.Mod -text
-source/BIOS.I386.MemCache.Mod -text
 source/BIOS.I386.PCI.Mod -text
 source/BIOS.I386.Traps.Mod -text
 source/BIOS.Keyboard.Mod -text
+source/BIOS.MemCache.Mod -text
 source/BIOS.MousePS2.Mod -text
 source/BIOS.Oberon.Centronics.Mod -text
 source/BIOS.Oberon.Diskettes.Mod -text
