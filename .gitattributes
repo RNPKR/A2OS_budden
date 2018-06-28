@@ -14706,7 +14706,7 @@ source/I386.IDCT.Mod -text
 source/I386.MPEGUtilities.Mod -text
 source/I386.Math.Mod -text
 source/I386.MathL.Mod -text
-source/I386.MemCache.Mod -text
+source/I386.MemInfo.Mod -text
 source/I386.Network.Mod -text
 source/I386.Oberon.Bitmaps.Mod -text
 source/I386.Raster.Mod -text
