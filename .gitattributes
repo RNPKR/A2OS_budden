@@ -14709,7 +14709,6 @@ source/I386.Oberon.Bitmaps.Mod -text
 source/I386.Raster.Mod -text
 source/I386.Reals.Mod -text
 source/I386.UsbKeyboard.Mod -text
-source/I386.VMWareTools.Mod -text
 source/I386.WMRasterScale.Mod -text
 source/I386.WMTransitions.Mod -text
 source/I386.srE.Mod -text
@@ -16115,6 +16114,7 @@ source/Usbdi.Mod -text
 source/UserGuide.Text -text svneol=unset#unset
 source/V24.Panel -text
 source/V24Tracer.Mod -text
+source/VMWareTools.Mod -text
 source/VNC.Mod -text
 source/VNCServer.Mod -text
 source/VNCTetrisServer.Mod -text
