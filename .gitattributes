@@ -14193,13 +14193,13 @@ source/BIOS.ACPI.Mod -text
 source/BIOS.AM79C970.Mod -text
 source/BIOS.AMD64.ATADisks.Mod -text
 source/BIOS.AMD64.Adaptec7Script.Mod -text
-source/BIOS.AMD64.BenchInterrupts.Mod -text
 source/BIOS.AMD64.Machine.Mod -text
 source/BIOS.AMD64.MemInfo.Mod -text
 source/BIOS.AMD64.PCI.Mod -text
 source/BIOS.AMD64.Traps.Mod -text
 source/BIOS.Adaptec7.Mod -text
 source/BIOS.Beep.Mod -text
+source/BIOS.BenchInterrupts.Mod -text
 source/BIOS.BootShell.Mod -text
 source/BIOS.Clock.Mod -text
 source/BIOS.Diskettes.Mod -text
@@ -14209,7 +14209,6 @@ source/BIOS.Environment.Mod -text
 source/BIOS.Ethernet3Com90x.Mod -text
 source/BIOS.I386.ATADisks.Mod -text
 source/BIOS.I386.Adaptec7Script.Mod -text
-source/BIOS.I386.BenchInterrupts.Mod -text
 source/BIOS.I386.Machine.Mod -text
 source/BIOS.I386.PCI.Mod -text
 source/BIOS.I386.Traps.Mod -text
