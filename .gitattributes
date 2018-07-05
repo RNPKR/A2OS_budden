@@ -14128,7 +14128,6 @@ source/AMD64.EFIMachine.Mod -text
 source/AMD64.FoxArrayBaseOptimized.Mod -text
 source/AMD64.Math.Mod -text
 source/AMD64.MathL.Mod -text
-source/AMD64.Network.Mod -text
 source/AMD64.Oberon.Bitmaps.Mod -text
 source/AMD64.Raster.Mod -text
 source/AMD64.Reals.Mod -text
@@ -14703,7 +14702,6 @@ source/I386.IDCT.Mod -text
 source/I386.MPEGUtilities.Mod -text
 source/I386.Math.Mod -text
 source/I386.MathL.Mod -text
-source/I386.Network.Mod -text
 source/I386.Oberon.Bitmaps.Mod -text
 source/I386.Raster.Mod -text
 source/I386.Reals.Mod -text
@@ -14901,6 +14899,7 @@ source/NbrRe64.Mod -text
 source/NbrStrings.Mod -text
 source/NetDocs.Lib -text
 source/NetSystem.Tool -text svneol=unset#unset
+source/Network.Mod -text
 source/Network.Tool -text svneol=unset#unset
 source/NetworkMii.Mod -text
 source/NewHTTPClient.Mod -text
