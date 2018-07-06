@@ -14790,9 +14790,8 @@ source/LinEqLU.Mod -text
 source/LinEqRe.Mod -text
 source/LinEqSVD.Mod -text
 source/Linker.Mod -text
-source/Linux.AMD64.Unix.Mod -text
 source/Linux.Glue.Mod -text
-source/Linux.I386.Unix.Mod -text
+source/Linux.Unix.Mod -text
 source/Lissajous.Panel -text
 source/LoadGadgets.Text -text svneol=unset#unset
 source/Loader.Mod -text
