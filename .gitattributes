@@ -16336,7 +16336,6 @@ source/Win.HostLibs.Mod -text
 source/Win.PrecisionTimer.Mod -text
 source/WindowManager.Mod -text
 source/Windows.ADVAPI32.Mod -text
-source/Windows.AMD64.Machine.Mod -text
 source/Windows.Beep.Mod -text
 source/Windows.Build.Tool -text svneol=unset#unset
 source/Windows.BuildMini.Tool -text svneol=unset#unset
@@ -16349,10 +16348,10 @@ source/Windows.Environment.Mod -text
 source/Windows.GDI32.Mod -text
 source/Windows.HierarchicalProfiler0.Mod -text
 source/Windows.HostFiles64.Mod -text
-source/Windows.I386.Machine.Mod -text
 source/Windows.IP.Mod -text
 source/Windows.Kernel.Mod -text
 source/Windows.Kernel32.Mod -text
+source/Windows.Machine.Mod -text
 source/Windows.Network.Mod -text
 source/Windows.ODBC.Mod -text
 source/Windows.Oberon.Clipboard.Mod -text
