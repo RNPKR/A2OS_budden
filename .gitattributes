@@ -15,6 +15,7 @@ ARM/ARM.A2/DMA330.Mod -text
 ARM/ARM.A2/DMA330ProgramWriter.Mod -text
 ARM/ARM.A2/DMA330Test.Mod -text
 ARM/ARM.A2/DMAProgramWriterTest.Mod -text
+ARM/ARM.A2/DiskCaches.Mod -text
 ARM/ARM.A2/Dynamic.BootConfig.Mod -text
 ARM/ARM.A2/ErrorCodes.Mod -text
 ARM/ARM.A2/HeapTest.Mod -text
