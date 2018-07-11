@@ -14218,7 +14218,7 @@ source/BIOS.Objects.Mod -text
 source/BIOS.PCI.Mod -text
 source/BIOS.SymbiosASPI.Mod -text
 source/BIOS.UsbEhciPCI.Mod -text
-source/BIOS.UsbOhci.Mo -text
+source/BIOS.UsbOhci.Mod -text
 source/BIOS.UsbUhci.Mod -text
 source/BIOS.V24.Mod -text
 source/BIOS.WMPerfMonPluginInterrupts.Mod -text
