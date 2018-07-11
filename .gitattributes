@@ -14236,6 +14236,7 @@ source/Bart.Pict -text
 source/Base64.Mod -text
 source/BaseTypes.Mod -text
 source/Bbl.Asm -text
+source/Beep.Mod -text
 source/BeepTest.Mod -text
 source/BenchClockDrift.Mod -text
 source/BenchLocks.Mod -text
