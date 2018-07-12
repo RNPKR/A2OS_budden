@@ -14490,6 +14490,7 @@ source/DiffLib.Mod -text
 source/Dim3.Panel -text
 source/Dim3Guide.Text -text svneol=unset#unset
 source/DiskBenchmark.Mod -text
+source/DiskCaches.Mod -text
 source/DiskFS.Mod -text
 source/DiskTests.Mod -text
 source/DiskVolumes.Mod -text
