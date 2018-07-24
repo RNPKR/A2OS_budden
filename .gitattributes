@@ -14108,6 +14108,7 @@ source/AMD64.WMTransitions.Mod -text
 source/AMD64.srE.Mod -text
 source/AMD64Decoder.Mod -text
 source/APIC.Processors.Mod -text
+source/ARM.BootConfig.Mod -text
 source/ARM.Builtins.Mod -text
 source/ARM.FPE64.Mod -text
 source/ARM.Initializer.Mod -text
@@ -14264,7 +14265,6 @@ source/BluetoothUSB.Mod -text
 source/Book.Tool -text svneol=unset#unset
 source/BooksDev.Panel -text
 source/BooksUser.Panel -text
-source/BootConfig.Mod -text
 source/BootConsole.Mod -text
 source/BootManager.Asm -text
 source/BootManager.Bin -text
