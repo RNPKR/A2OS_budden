@@ -14102,6 +14102,7 @@ source/AMD64.MathL.Mod -text
 source/AMD64.Oberon.Bitmaps.Mod -text
 source/AMD64.Raster.Mod -text
 source/AMD64.Reals.Mod -text
+source/AMD64.Shortreal.Mod -text
 source/AMD64.UsbKeyboard.Mod -text
 source/AMD64.WMRasterScale.Mod -text
 source/AMD64.WMTransitions.Mod -text
