@@ -15966,6 +15966,7 @@ source/TFWebForum.Mod -text
 source/TFXRef.Mod -text
 source/TLS.Mod -text
 source/TRM.Builtins.Mod -text
+source/TRM.Channels.Mod -text
 source/TV.Mod -text
 source/TV.Tool -text svneol=unset#unset
 source/TVChannels.Mod -text
