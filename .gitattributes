@@ -16336,8 +16336,6 @@ source/WebTimeServer.Mod -text
 source/WebWormWatch.Mod -text
 source/White.Pal -text
 source/WhitespaceRemover.Mod -text
-source/Win.HostLibs.Mod -text
-source/Win.PrecisionTimer.Mod -text
 source/WindowManager.Mod -text
 source/Windows.ADVAPI32.Mod -text
 source/Windows.Beep.Mod -text
@@ -16352,6 +16350,7 @@ source/Windows.Environment.Mod -text
 source/Windows.GDI32.Mod -text
 source/Windows.HierarchicalProfiler0.Mod -text
 source/Windows.HostFiles64.Mod -text
+source/Windows.HostLibs.Mod -text
 source/Windows.IP.Mod -text
 source/Windows.Kernel.Mod -text
 source/Windows.Kernel32.Mod -text
@@ -16373,6 +16372,7 @@ source/Windows.Oberon.Registry.Mod -text
 source/Windows.OberonConfiguration.Mod -text
 source/Windows.Objects.Mod -text
 source/Windows.Performance.Mod -text
+source/Windows.PrecisionTimer.Mod -text
 source/Windows.Processors.Mod -text
 source/Windows.SQL.Mod -text
 source/Windows.SVNAdmin.Mod -text
