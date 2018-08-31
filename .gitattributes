@@ -16428,8 +16428,8 @@ source/ZlibDeflate.Mod -text
 source/ZlibInflate.Mod -text
 source/ZlibReaders.Mod -text
 source/ZlibWriters.Mod -text
+source/Zynq.ARM.Channels.Mod -text
 source/Zynq.ARM.Platform.Mod -text
-source/Zynq.AcAxisIo.Mod -text
 source/Zynq.CPU.Mod -text
 source/Zynq.DisplayLinear.Mod -text
 source/Zynq.Environment.Mod -text
