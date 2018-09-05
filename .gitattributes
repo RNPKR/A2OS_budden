@@ -16443,6 +16443,7 @@ source/Zynq.PsTraceDevice.Mod -text
 source/Zynq.PsUart.Mod -text
 source/Zynq.PsUartInterrupts.Mod -text
 source/Zynq.PsUartMin.Mod -text
+source/Zynq.PsXAdc.Mod -text
 source/Zynq.SdControllers.Mod -text
 source/Zynq.SdEnvironment.Mod -text
 source/Zynq.SystemWatchdog.Mod -text
