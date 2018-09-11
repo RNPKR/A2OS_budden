@@ -15831,6 +15831,7 @@ source/Shell.Alias -text
 source/Shell.Mod -text
 source/ShellCommands.Mod -text
 source/ShellSerial.Mod -text
+source/Shortreal.Execution.Test -text
 source/Simulator.Panel -text
 source/Single.ccg -text
 source/Sisyphus.Data -text
