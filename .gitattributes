@@ -15744,6 +15744,7 @@ source/Radicals.txt -text
 source/Rainbow.jp2 -text
 source/Random.Mod -text
 source/RasterPixelFormats.Mod -text
+source/RealConversions.Mod -text
 source/Reboot.Mod -text
 source/Rect2.Shape -text
 source/References.Text -text svneol=unset#unset
