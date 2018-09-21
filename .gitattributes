@@ -14717,6 +14717,8 @@ source/IMAPClient.Mod -text
 source/IMAPGUI.Mod -text
 source/IMAPIcons.tar -text
 source/IMAPUtilities.Mod -text
+source/IO64.Files.Mod -text
+source/IO64.Streams.Mod -text
 source/IP.Mod -text
 source/IPv4.Mod -text
 source/IPv6.Mod -text
@@ -16353,6 +16355,7 @@ source/Windows.GDI32.Mod -text
 source/Windows.HierarchicalProfiler0.Mod -text
 source/Windows.HostFiles64.Mod -text
 source/Windows.HostLibs.Mod -text
+source/Windows.IO64.HostFiles.Mod -text
 source/Windows.IP.Mod -text
 source/Windows.Kernel.Mod -text
 source/Windows.Kernel32.Mod -text
