@@ -486,6 +486,8 @@ Linux32/bin/DiffLib.GofU -text
 Linux32/bin/DiffLib.SymU -text
 Linux32/bin/DiskBenchmark.GofU -text
 Linux32/bin/DiskBenchmark.SymU -text
+Linux32/bin/DiskCaches.GofU -text
+Linux32/bin/DiskCaches.SymU -text
 Linux32/bin/DiskFS.GofU -text
 Linux32/bin/DiskFS.SymU -text
 Linux32/bin/DiskTests.GofU -text
@@ -1808,6 +1810,8 @@ Linux32/bin/Raster.GofU -text
 Linux32/bin/Raster.SymU -text
 Linux32/bin/RasterPixelFormats.GofU -text
 Linux32/bin/RasterPixelFormats.SymU -text
+Linux32/bin/RealConversions.GofU -text
+Linux32/bin/RealConversions.SymU -text
 Linux32/bin/Reals.GofU -text
 Linux32/bin/Reals.SymU -text
 Linux32/bin/Reboot.GofU -text
@@ -2028,8 +2032,6 @@ Linux32/bin/V24.GofU -text
 Linux32/bin/V24.SymU -text
 Linux32/bin/V24Tracer.GofU -text
 Linux32/bin/V24Tracer.SymU -text
-Linux32/bin/VMWareTools.GofU -text
-Linux32/bin/VMWareTools.SymU -text
 Linux32/bin/VNC.GofU -text
 Linux32/bin/VNC.SymU -text
 Linux32/bin/VNCServer.GofU -text
@@ -2711,6 +2713,8 @@ Linux64/bin/DiffLib.GofUu -text
 Linux64/bin/DiffLib.SymUu -text
 Linux64/bin/DiskBenchmark.GofUu -text
 Linux64/bin/DiskBenchmark.SymUu -text
+Linux64/bin/DiskCaches.GofUu -text
+Linux64/bin/DiskCaches.SymUu -text
 Linux64/bin/DiskFS.GofUu -text
 Linux64/bin/DiskFS.SymUu -text
 Linux64/bin/DiskTests.GofUu -text
@@ -3995,6 +3999,8 @@ Linux64/bin/Raster.GofUu -text
 Linux64/bin/Raster.SymUu -text
 Linux64/bin/RasterPixelFormats.GofUu -text
 Linux64/bin/RasterPixelFormats.SymUu -text
+Linux64/bin/RealConversions.GofUu -text
+Linux64/bin/RealConversions.SymUu -text
 Linux64/bin/Reals.GofUu -text
 Linux64/bin/Reals.SymUu -text
 Linux64/bin/Reboot.GofUu -text
@@ -4069,6 +4075,8 @@ Linux64/bin/ShellCommands.GofUu -text
 Linux64/bin/ShellCommands.SymUu -text
 Linux64/bin/ShellSerial.GofUu -text
 Linux64/bin/ShellSerial.SymUu -text
+Linux64/bin/Shortreal.GofUu -text
+Linux64/bin/Shortreal.SymUu -text
 Linux64/bin/SkinEditor.GofUu -text
 Linux64/bin/SkinEditor.SymUu -text
 Linux64/bin/SkinEngine.GofUu -text
@@ -4949,6 +4957,8 @@ Win32/bin/DiffLib.GofW -text
 Win32/bin/DiffLib.SymW -text
 Win32/bin/DiskBenchmark.GofW -text
 Win32/bin/DiskBenchmark.SymW -text
+Win32/bin/DiskCaches.GofW -text
+Win32/bin/DiskCaches.SymW -text
 Win32/bin/DiskFS.GofW -text
 Win32/bin/DiskFS.SymW -text
 Win32/bin/DiskTests.GofW -text
@@ -6757,6 +6767,8 @@ Win32/bin/Raster.GofW -text
 Win32/bin/Raster.SymW -text
 Win32/bin/RasterPixelFormats.GofW -text
 Win32/bin/RasterPixelFormats.SymW -text
+Win32/bin/RealConversions.GofW -text
+Win32/bin/RealConversions.SymW -text
 Win32/bin/Reals.GofW -text
 Win32/bin/Reals.SymW -text
 Win32/bin/Reboot.GofW -text
@@ -6985,8 +6997,6 @@ Win32/bin/V24.GofW -text
 Win32/bin/V24.SymW -text
 Win32/bin/V24Tracer.GofW -text
 Win32/bin/V24Tracer.SymW -text
-Win32/bin/VMWareTools.GofW -text
-Win32/bin/VMWareTools.SymW -text
 Win32/bin/VNC.GofW -text
 Win32/bin/VNC.SymW -text
 Win32/bin/VNCServer.GofW -text
@@ -7700,6 +7710,8 @@ Win64/bin/DiffLib.GofWw -text
 Win64/bin/DiffLib.SymWw -text
 Win64/bin/DiskBenchmark.GofWw -text
 Win64/bin/DiskBenchmark.SymWw -text
+Win64/bin/DiskCaches.GofWw -text
+Win64/bin/DiskCaches.SymWw -text
 Win64/bin/DiskFS.GofWw -text
 Win64/bin/DiskFS.SymWw -text
 Win64/bin/DiskTests.GofWw -text
@@ -8998,6 +9010,8 @@ Win64/bin/Raster.GofWw -text
 Win64/bin/Raster.SymWw -text
 Win64/bin/RasterPixelFormats.GofWw -text
 Win64/bin/RasterPixelFormats.SymWw -text
+Win64/bin/RealConversions.GofWw -text
+Win64/bin/RealConversions.SymWw -text
 Win64/bin/Reals.GofWw -text
 Win64/bin/Reals.SymWw -text
 Win64/bin/Reboot.GofWw -text
@@ -9084,6 +9098,8 @@ Win64/bin/ShellCommands.GofWw -text
 Win64/bin/ShellCommands.SymWw -text
 Win64/bin/ShellSerial.GofWw -text
 Win64/bin/ShellSerial.SymWw -text
+Win64/bin/Shortreal.GofWw -text
+Win64/bin/Shortreal.SymWw -text
 Win64/bin/SkinEditor.GofWw -text
 Win64/bin/SkinEditor.SymWw -text
 Win64/bin/SkinEngine.GofWw -text
@@ -10023,6 +10039,8 @@ WinAos/obg/DiffLib.GofW -text
 WinAos/obg/DiffLib.SymW -text
 WinAos/obg/DiskBenchmark.GofW -text
 WinAos/obg/DiskBenchmark.SymW -text
+WinAos/obg/DiskCaches.GofW -text
+WinAos/obg/DiskCaches.SymW -text
 WinAos/obg/DiskFS.GofW -text
 WinAos/obg/DiskFS.SymW -text
 WinAos/obg/DiskTests.GofW -text
@@ -11831,6 +11849,8 @@ WinAos/obg/Raster.GofW -text
 WinAos/obg/Raster.SymW -text
 WinAos/obg/RasterPixelFormats.GofW -text
 WinAos/obg/RasterPixelFormats.SymW -text
+WinAos/obg/RealConversions.GofW -text
+WinAos/obg/RealConversions.SymW -text
 WinAos/obg/Reals.GofW -text
 WinAos/obg/Reals.SymW -text
 WinAos/obg/Reboot.GofW -text
@@ -12059,8 +12079,6 @@ WinAos/obg/V24.GofW -text
 WinAos/obg/V24.SymW -text
 WinAos/obg/V24Tracer.GofW -text
 WinAos/obg/V24Tracer.SymW -text
-WinAos/obg/VMWareTools.GofW -text
-WinAos/obg/VMWareTools.SymW -text
 WinAos/obg/VNC.GofW -text
 WinAos/obg/VNC.SymW -text
 WinAos/obg/VNCServer.GofW -text
