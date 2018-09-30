@@ -14102,15 +14102,6 @@ WinAos/vy.ants/vyGraphics.tiny.Panel -text
 source/A2Sequencers.Mod -text
 source/ACPI.Timer.Mod -text
 source/AFM.Mod -text
-source/AGfx.Mod -text
-source/AGfx.Tool -text
-source/AGfxBuffer.Mod -text
-source/AGfxFonts.Mod -text
-source/AGfxImages.Mod -text
-source/AGfxMatrix.Mod -text
-source/AGfxPaths.Mod -text
-source/AGfxRaster.Mod -text
-source/AGfxRegions.Mod -text
 source/AMD64.Builtins.Mod -text
 source/AMD64.EFIMachine.Mod -text
 source/AMD64.FoxArrayBaseOptimized.Mod -text
