@@ -14590,7 +14590,7 @@ source/FoxDocumentationParser.Mod -text
 source/FoxDocumentationPrinter.Mod -text
 source/FoxDocumentationScanner.Mod -text
 source/FoxDocumentationTree.Mod -text
-source/FoxFingerPrinter.Mod -text
+source/FoxFingerprinter.Mod -text
 source/FoxFormats.Mod -text
 source/FoxFrontend.Mod -text
 source/FoxGenericObjectFile.Mod -text
