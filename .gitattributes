@@ -654,8 +654,8 @@ Linux32/bin/FoxDocumentationScanner.GofU -text
 Linux32/bin/FoxDocumentationScanner.SymU -text
 Linux32/bin/FoxDocumentationTree.GofU -text
 Linux32/bin/FoxDocumentationTree.SymU -text
-Linux32/bin/FoxFingerPrinter.GofU -text
-Linux32/bin/FoxFingerPrinter.SymU -text
+Linux32/bin/FoxFingerprinter.GofU -text
+Linux32/bin/FoxFingerprinter.SymU -text
 Linux32/bin/FoxFormats.GofU -text
 Linux32/bin/FoxFormats.SymU -text
 Linux32/bin/FoxFrontend.GofU -text
@@ -2875,8 +2875,8 @@ Linux64/bin/FoxDocumentationScanner.GofUu -text
 Linux64/bin/FoxDocumentationScanner.SymUu -text
 Linux64/bin/FoxDocumentationTree.GofUu -text
 Linux64/bin/FoxDocumentationTree.SymUu -text
-Linux64/bin/FoxFingerPrinter.GofUu -text
-Linux64/bin/FoxFingerPrinter.SymUu -text
+Linux64/bin/FoxFingerprinter.GofUu -text
+Linux64/bin/FoxFingerprinter.SymUu -text
 Linux64/bin/FoxFormats.GofUu -text
 Linux64/bin/FoxFormats.SymUu -text
 Linux64/bin/FoxFrontend.GofUu -text
@@ -5123,8 +5123,8 @@ Win32/bin/FoxDocumentationScanner.GofW -text
 Win32/bin/FoxDocumentationScanner.SymW -text
 Win32/bin/FoxDocumentationTree.GofW -text
 Win32/bin/FoxDocumentationTree.SymW -text
-Win32/bin/FoxFingerPrinter.GofW -text
-Win32/bin/FoxFingerPrinter.SymW -text
+Win32/bin/FoxFingerprinter.GofW -text
+Win32/bin/FoxFingerprinter.SymW -text
 Win32/bin/FoxFormats.GofW -text
 Win32/bin/FoxFormats.SymW -text
 Win32/bin/FoxFrontend.GofW -text
@@ -7870,8 +7870,8 @@ Win64/bin/FoxDocumentationScanner.GofWw -text
 Win64/bin/FoxDocumentationScanner.SymWw -text
 Win64/bin/FoxDocumentationTree.GofWw -text
 Win64/bin/FoxDocumentationTree.SymWw -text
-Win64/bin/FoxFingerPrinter.GofWw -text
-Win64/bin/FoxFingerPrinter.SymWw -text
+Win64/bin/FoxFingerprinter.GofWw -text
+Win64/bin/FoxFingerprinter.SymWw -text
 Win64/bin/FoxFormats.GofWw -text
 Win64/bin/FoxFormats.SymWw -text
 Win64/bin/FoxFrontend.GofWw -text
@@ -10205,8 +10205,8 @@ WinAos/obg/FoxDocumentationScanner.GofW -text
 WinAos/obg/FoxDocumentationScanner.SymW -text
 WinAos/obg/FoxDocumentationTree.GofW -text
 WinAos/obg/FoxDocumentationTree.SymW -text
-WinAos/obg/FoxFingerPrinter.GofW -text
-WinAos/obg/FoxFingerPrinter.SymW -text
+WinAos/obg/FoxFingerprinter.GofW -text
+WinAos/obg/FoxFingerprinter.SymW -text
 WinAos/obg/FoxFormats.GofW -text
 WinAos/obg/FoxFormats.SymW -text
 WinAos/obg/FoxFrontend.GofW -text
