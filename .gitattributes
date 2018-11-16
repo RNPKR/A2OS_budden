@@ -190,8 +190,8 @@ ARM/zbl/Zybo.FsblInit.Mos -text
 ARM/zbl/Zybo.Replacements.txt -text
 ARM/zbl/Zybo.TclInit.Mos -text
 ARM/zbl/Zynq.Board.Mos -text
-ARM/zbl/Zynq.PsTraceDevice.Mos -text
 ARM/zbl/Zynq.PsUartInterrupts.Mos -text
+ARM/zbl/Zynq.TraceDevice.Mos -text
 ARM/zbl/ZynqFpgaProgrammer.Mos -text
 ARM/zbl/scripts/auto.txt -text
 ARM/zbl/scripts/uart.txt -text
