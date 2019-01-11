@@ -16515,7 +16515,7 @@ source/srRastermovie.Mod -text
 source/srRayEngine.Mod -text
 source/srReadMe.Text -text
 source/srRender.Mod -text
-source/srRenderTools.Text -text svneol=unset#unset
+source/srRenderTools.Text -text
 source/srRotaVox.Mod -text
 source/srTexVox.Mod -text
 source/srThermoCell.Mod -text
