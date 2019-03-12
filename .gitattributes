@@ -14245,7 +14245,6 @@ source/AMD64.Reals.Mod -text
 source/AMD64.Shortreal.Mod -text
 source/AMD64.UsbKeyboard.Mod -text
 source/AMD64.WMRasterScale.Mod -text
-source/AMD64.WMTransitions.Mod -text
 source/AMD64Decoder.Mod -text
 source/APIC.Processors.Mod -text
 source/ARM.BootConfig.Mod -text
@@ -14848,7 +14847,6 @@ source/I386.Oberon.Bitmaps.Mod -text
 source/I386.Reals.Mod -text
 source/I386.UsbKeyboard.Mod -text
 source/I386.WMRasterScale.Mod -text
-source/I386.WMTransitions.Mod -text
 source/I386Decoder.Mod -text
 source/ICMP.Mod -text
 source/IFS.Tool -text svneol=unset#unset
@@ -16443,6 +16441,7 @@ source/WMTetris.Mod -text
 source/WMTextStyleTool.Mod -text
 source/WMTextTool.Mod -text
 source/WMTextView.Mod -text
+source/WMTransitions.Mod -text
 source/WMTrapWriter.Mod -text
 source/WMTrees.Mod -text
 source/WMUkrainianIME.Mod -text
