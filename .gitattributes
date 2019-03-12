@@ -14246,7 +14246,6 @@ source/AMD64.Shortreal.Mod -text
 source/AMD64.UsbKeyboard.Mod -text
 source/AMD64.WMRasterScale.Mod -text
 source/AMD64.WMTransitions.Mod -text
-source/AMD64.srE.Mod -text
 source/AMD64Decoder.Mod -text
 source/APIC.Processors.Mod -text
 source/ARM.BootConfig.Mod -text
@@ -14850,7 +14849,6 @@ source/I386.Reals.Mod -text
 source/I386.UsbKeyboard.Mod -text
 source/I386.WMRasterScale.Mod -text
 source/I386.WMTransitions.Mod -text
-source/I386.srE.Mod -text
 source/I386Decoder.Mod -text
 source/ICMP.Mod -text
 source/IFS.Tool -text svneol=unset#unset
@@ -16637,6 +16635,7 @@ source/reptile.skin -text
 source/rotator.dxp -text
 source/sr3DTexture.Mod -text
 source/srBase.Mod -text
+source/srE.Mod -text
 source/srGL.Mod -text
 source/srHex.Mod -text
 source/srImage.Mod -text
