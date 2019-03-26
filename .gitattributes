@@ -14265,7 +14265,6 @@ source/ARM.UsbHcdi.Mod -text
 source/ARM.UsbHid.Mod -text
 source/ARM.UsbHidDriver.Mod -text
 source/ARM.UsbHubDriver.Mod -text
-source/ARM.UsbInfo.Mod -text
 source/ARM.UsbKeyboard.Mod -text
 source/ARM.UsbMouse.Mod -text
 source/ARM.UsbStorageBase.Mod -text
