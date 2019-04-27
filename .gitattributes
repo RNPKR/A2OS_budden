@@ -16328,7 +16328,7 @@ source/WMCalendar.Mod -text
 source/WMCharCodes.Mod -text
 source/WMCharMap.Mod -text
 source/WMClock.Mod -text
-source/WMClockImages.tar -text
+source/WMClock.rep -text
 source/WMColorComponents.Mod -text
 source/WMComponents.Mod -text
 source/WMDefaultFont.Mod -text
