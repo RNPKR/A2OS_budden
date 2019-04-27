@@ -14846,6 +14846,19 @@ source/I386.Reals.Mod -text
 source/I386.UsbKeyboard.Mod -text
 source/I386.WMRasterScale.Mod -text
 source/I386Decoder.Mod -text
+source/IBMPlexLicense.txt -text
+source/IBMPlexMono-Bold.ttf -text
+source/IBMPlexMono-BoldItalic.ttf -text
+source/IBMPlexMono-Italic.ttf -text
+source/IBMPlexMono-Regular.ttf -text
+source/IBMPlexSans-Bold.ttf -text
+source/IBMPlexSans-BoldItalic.ttf -text
+source/IBMPlexSans-Italic.ttf -text
+source/IBMPlexSans-Regular.ttf -text
+source/IBMPlexSerif-Bold.ttf -text
+source/IBMPlexSerif-BoldItalic.ttf -text
+source/IBMPlexSerif-Italic.ttf -text
+source/IBMPlexSerif-Regular.ttf -text
 source/ICMP.Mod -text
 source/IFS.Tool -text svneol=unset#unset
 source/IMAP.Mod -text
