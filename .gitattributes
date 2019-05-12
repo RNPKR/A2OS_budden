@@ -3906,6 +3906,8 @@ Linux64/bin/OdClient.GofUu -text
 Linux64/bin/OdClient.SymUu -text
 Linux64/bin/OdCond.GofUu -text
 Linux64/bin/OdCond.SymUu -text
+Linux64/bin/OdSvn.GofUu -text
+Linux64/bin/OdSvn.SymUu -text
 Linux64/bin/OdUtil.GofUu -text
 Linux64/bin/OdUtil.SymUu -text
 Linux64/bin/OdVCSBase.GofUu -text
@@ -4112,12 +4114,18 @@ Linux64/bin/SVGRenderer.GofUu -text
 Linux64/bin/SVGRenderer.SymUu -text
 Linux64/bin/SVGUtilities.GofUu -text
 Linux64/bin/SVGUtilities.SymUu -text
+Linux64/bin/SVN.GofUu -text
+Linux64/bin/SVN.SymUu -text
+Linux64/bin/SVNAdmin.GofUu -text
+Linux64/bin/SVNAdmin.SymUu -text
 Linux64/bin/SVNArgument.GofUu -text
 Linux64/bin/SVNArgument.SymUu -text
 Linux64/bin/SVNOutput.GofUu -text
 Linux64/bin/SVNOutput.SymUu -text
 Linux64/bin/SVNUtil.GofUu -text
 Linux64/bin/SVNUtil.SymUu -text
+Linux64/bin/SVNWebDAV.GofUu -text
+Linux64/bin/SVNWebDAV.SymUu -text
 Linux64/bin/SambaClient.GofUu -text
 Linux64/bin/SambaClient.SymUu -text
 Linux64/bin/SambaServer.GofUu -text
