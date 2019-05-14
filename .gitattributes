@@ -1687,6 +1687,8 @@ Linux32/bin/OdClient.GofU -text
 Linux32/bin/OdClient.SymU -text
 Linux32/bin/OdCond.GofU -text
 Linux32/bin/OdCond.SymU -text
+Linux32/bin/OdSvn.GofU -text
+Linux32/bin/OdSvn.SymU -text
 Linux32/bin/OdUtil.GofU -text
 Linux32/bin/OdUtil.SymU -text
 Linux32/bin/OdVCSBase.GofU -text
@@ -1893,12 +1895,18 @@ Linux32/bin/SVGRenderer.GofU -text
 Linux32/bin/SVGRenderer.SymU -text
 Linux32/bin/SVGUtilities.GofU -text
 Linux32/bin/SVGUtilities.SymU -text
+Linux32/bin/SVN.GofU -text
+Linux32/bin/SVN.SymU -text
+Linux32/bin/SVNAdmin.GofU -text
+Linux32/bin/SVNAdmin.SymU -text
 Linux32/bin/SVNArgument.GofU -text
 Linux32/bin/SVNArgument.SymU -text
 Linux32/bin/SVNOutput.GofU -text
 Linux32/bin/SVNOutput.SymU -text
 Linux32/bin/SVNUtil.GofU -text
 Linux32/bin/SVNUtil.SymU -text
+Linux32/bin/SVNWebDAV.GofU -text
+Linux32/bin/SVNWebDAV.SymU -text
 Linux32/bin/SambaClient.GofU -text
 Linux32/bin/SambaClient.SymU -text
 Linux32/bin/SambaServer.GofU -text
