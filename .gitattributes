@@ -16515,7 +16515,7 @@ source/WindowManager.Mod -text
 source/Windows.ADVAPI32.Mod -text
 source/Windows.Beep.Mod -text
 source/Windows.Build.Tool -text svneol=unset#unset
-source/Windows.BuildMini.Tool -text svneol=unset#unset
+source/Windows.BuildMini.Tool -text
 source/Windows.Clipboard.Mod -text
 source/Windows.Clock.Mod -text
 source/Windows.CommandLine.Mod -text
