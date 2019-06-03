@@ -14870,8 +14870,6 @@ source/IMAPClient.Mod -text
 source/IMAPGUI.Mod -text
 source/IMAPIcons.tar -text
 source/IMAPUtilities.Mod -text
-source/IO64.Files.Mod -text
-source/IO64.Streams.Mod -text
 source/IP.Mod -text
 source/IPBandwidth.Mod -text
 source/IPv4.Mod -text
