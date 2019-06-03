@@ -16502,7 +16502,6 @@ source/Windows.Environment.Mod -text
 source/Windows.GDI32.Mod -text
 source/Windows.HierarchicalProfiler0.Mod -text
 source/Windows.HostFiles.Mod -text
-source/Windows.HostFiles64.Mod -text
 source/Windows.HostLibs.Mod -text
 source/Windows.IP.Mod -text
 source/Windows.Kernel.Mod -text
