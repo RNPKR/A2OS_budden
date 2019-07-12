@@ -14687,7 +14687,6 @@ source/FATVolumes.Mod -text
 source/FNHistories.Mod -text
 source/FP1616.Mod -text
 source/FSTools.Mod -text
-source/FSTools64.Mod -text
 source/FTP.Mod -text
 source/FTP.Tool -text svneol=unset#unset
 source/FTPClient.Mod -text
@@ -14699,8 +14698,6 @@ source/FileHandlers.Mod -text
 source/FileTrapWriter.Mod -text
 source/Files.Mod -text
 source/Files.Test -text
-source/Files64.Mod -text
-source/Files64.Tool -text
 source/Find.Panel -text
 source/Find.Tool -text svneol=unset#unset
 source/Finger.Tool -text svneol=unset#unset
@@ -14886,8 +14883,6 @@ source/IMAPClient.Mod -text
 source/IMAPGUI.Mod -text
 source/IMAPIcons.tar -text
 source/IMAPUtilities.Mod -text
-source/IO64.Files.Mod -text
-source/IO64.Streams.Mod -text
 source/IP.Mod -text
 source/IPBandwidth.Mod -text
 source/IPv4.Mod -text
@@ -15923,7 +15918,6 @@ source/References.Text -text svneol=unset#unset
 source/Reflection.Mod -text
 source/RegisterRFW.Mod -text
 source/RelativeFileSystem.Mod -text
-source/RelativeFiles64.Mod -text
 source/Release.Auto.dsk -text
 source/Release.Mod -text
 source/Release.NetSystem.Tool -text svneol=unset#unset
@@ -16034,7 +16028,6 @@ source/StartMenu.rep -text
 source/StdIOShell.Mod -text
 source/StreamUtilities.Mod -text
 source/Streams.Mod -text
-source/Streams64.Mod -text
 source/StringPool.Mod -text
 source/Strings.Mod -text
 source/Surface.Pict -text
@@ -16523,9 +16516,8 @@ source/Windows.Display.Mod -text
 source/Windows.Environment.Mod -text
 source/Windows.GDI32.Mod -text
 source/Windows.HierarchicalProfiler0.Mod -text
-source/Windows.HostFiles64.Mod -text
+source/Windows.HostFiles.Mod -text
 source/Windows.HostLibs.Mod -text
-source/Windows.IO64.HostFiles.Mod -text
 source/Windows.IP.Mod -text
 source/Windows.Kernel.Mod -text
 source/Windows.Kernel32.Mod -text
