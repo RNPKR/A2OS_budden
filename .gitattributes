@@ -361,6 +361,7 @@ Linux32/bin/ColorModels.GofU -text
 Linux32/bin/ColorModels.SymU -text
 Linux32/bin/Commands.GofU -text
 Linux32/bin/Commands.SymU -text
+Linux32/bin/CompileCommand.Tool -text
 Linux32/bin/Compiler.GofU -text
 Linux32/bin/Compiler.SymU -text
 Linux32/bin/CompilerInterface.GofU -text
@@ -2658,6 +2659,7 @@ Linux64/bin/ColorModels.GofUu -text
 Linux64/bin/ColorModels.SymUu -text
 Linux64/bin/Commands.GofUu -text
 Linux64/bin/Commands.SymUu -text
+Linux64/bin/CompileCommand.Tool -text
 Linux64/bin/Compiler.GofUu -text
 Linux64/bin/Compiler.SymUu -text
 Linux64/bin/CompilerInterface.GofUu -text
@@ -4950,6 +4952,7 @@ Win32/bin/CommandLine.GofW -text
 Win32/bin/CommandLine.SymW -text
 Win32/bin/Commands.GofW -text
 Win32/bin/Commands.SymW -text
+Win32/bin/CompileCommand.Tool -text
 Win32/bin/Compiler.GofW -text
 Win32/bin/Compiler.SymW -text
 Win32/bin/CompilerInterface.GofW -text
@@ -7749,6 +7752,7 @@ Win64/bin/CommandLine.GofWw -text
 Win64/bin/CommandLine.SymWw -text
 Win64/bin/Commands.GofWw -text
 Win64/bin/Commands.SymWw -text
+Win64/bin/CompileCommand.Tool -text
 Win64/bin/Compiler.GofWw -text
 Win64/bin/Compiler.SymWw -text
 Win64/bin/CompilerInterface.GofWw -text
@@ -10108,6 +10112,7 @@ WinAos/obg/CommandLine.GofW -text
 WinAos/obg/CommandLine.SymW -text
 WinAos/obg/Commands.GofW -text
 WinAos/obg/Commands.SymW -text
+WinAos/obg/CompileCommand.Tool -text
 WinAos/obg/Compiler.GofW -text
 WinAos/obg/Compiler.SymW -text
 WinAos/obg/CompilerInterface.GofW -text
@@ -14777,7 +14782,6 @@ source/FATVolumes.Mod -text
 source/FNHistories.Mod -text
 source/FP1616.Mod -text
 source/FSTools.Mod -text
-source/FSTools64.Mod -text
 source/FTP.Mod -text
 source/FTP.Tool -text svneol=unset#unset
 source/FTPClient.Mod -text
@@ -14789,8 +14793,6 @@ source/FileHandlers.Mod -text
 source/FileTrapWriter.Mod -text
 source/Files.Mod -text
 source/Files.Test -text
-source/Files64.Mod -text
-source/Files64.Tool -text
 source/Find.Panel -text
 source/Find.Tool -text svneol=unset#unset
 source/Finger.Tool -text svneol=unset#unset
@@ -14976,8 +14978,6 @@ source/IMAPClient.Mod -text
 source/IMAPGUI.Mod -text
 source/IMAPIcons.tar -text
 source/IMAPUtilities.Mod -text
-source/IO64.Files.Mod -text
-source/IO64.Streams.Mod -text
 source/IP.Mod -text
 source/IPBandwidth.Mod -text
 source/IPv4.Mod -text
@@ -16013,7 +16013,6 @@ source/References.Text -text svneol=unset#unset
 source/Reflection.Mod -text
 source/RegisterRFW.Mod -text
 source/RelativeFileSystem.Mod -text
-source/RelativeFiles64.Mod -text
 source/Release.Auto.dsk -text
 source/Release.Mod -text
 source/Release.NetSystem.Tool -text svneol=unset#unset
@@ -16124,7 +16123,6 @@ source/StartMenu.rep -text
 source/StdIOShell.Mod -text
 source/StreamUtilities.Mod -text
 source/Streams.Mod -text
-source/Streams64.Mod -text
 source/StringPool.Mod -text
 source/Strings.Mod -text
 source/Surface.Pict -text
@@ -16613,9 +16611,8 @@ source/Windows.Display.Mod -text
 source/Windows.Environment.Mod -text
 source/Windows.GDI32.Mod -text
 source/Windows.HierarchicalProfiler0.Mod -text
-source/Windows.HostFiles64.Mod -text
+source/Windows.HostFiles.Mod -text
 source/Windows.HostLibs.Mod -text
-source/Windows.IO64.HostFiles.Mod -text
 source/Windows.IP.Mod -text
 source/Windows.Kernel.Mod -text
 source/Windows.Kernel32.Mod -text
