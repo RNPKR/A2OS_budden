@@ -361,7 +361,6 @@ Linux32/bin/ColorModels.GofU -text
 Linux32/bin/ColorModels.SymU -text
 Linux32/bin/Commands.GofU -text
 Linux32/bin/Commands.SymU -text
-Linux32/bin/CompileCommand.Tool -text
 Linux32/bin/Compiler.GofU -text
 Linux32/bin/Compiler.SymU -text
 Linux32/bin/CompilerInterface.GofU -text
@@ -2659,7 +2658,6 @@ Linux64/bin/ColorModels.GofUu -text
 Linux64/bin/ColorModels.SymUu -text
 Linux64/bin/Commands.GofUu -text
 Linux64/bin/Commands.SymUu -text
-Linux64/bin/CompileCommand.Tool -text
 Linux64/bin/Compiler.GofUu -text
 Linux64/bin/Compiler.SymUu -text
 Linux64/bin/CompilerInterface.GofUu -text
@@ -4952,7 +4950,6 @@ Win32/bin/CommandLine.GofW -text
 Win32/bin/CommandLine.SymW -text
 Win32/bin/Commands.GofW -text
 Win32/bin/Commands.SymW -text
-Win32/bin/CompileCommand.Tool -text
 Win32/bin/Compiler.GofW -text
 Win32/bin/Compiler.SymW -text
 Win32/bin/CompilerInterface.GofW -text
@@ -7752,7 +7749,6 @@ Win64/bin/CommandLine.GofWw -text
 Win64/bin/CommandLine.SymWw -text
 Win64/bin/Commands.GofWw -text
 Win64/bin/Commands.SymWw -text
-Win64/bin/CompileCommand.Tool -text
 Win64/bin/Compiler.GofWw -text
 Win64/bin/Compiler.SymWw -text
 Win64/bin/CompilerInterface.GofWw -text
@@ -10112,7 +10108,6 @@ WinAos/obg/CommandLine.GofW -text
 WinAos/obg/CommandLine.SymW -text
 WinAos/obg/Commands.GofW -text
 WinAos/obg/Commands.SymW -text
-WinAos/obg/CompileCommand.Tool -text
 WinAos/obg/Compiler.GofW -text
 WinAos/obg/Compiler.SymW -text
 WinAos/obg/CompilerInterface.GofW -text
