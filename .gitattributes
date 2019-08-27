@@ -14344,8 +14344,6 @@ source/AFM.Mod -text
 source/AMD64.Builtins.Mod -text
 source/AMD64.EFIMachine.Mod -text
 source/AMD64.FoxArrayBaseOptimized.Mod -text
-source/AMD64.Math.Mod -text
-source/AMD64.MathL.Mod -text
 source/AMD64.Oberon.Bitmaps.Mod -text
 source/AMD64.Reals.Mod -text
 source/AMD64.Shortreal.Mod -text
@@ -14942,8 +14940,6 @@ source/I386.EFIMachine.Mod -text
 source/I386.FoxArrayBaseOptimized.Mod -text
 source/I386.IDCT.Mod -text
 source/I386.MPEGUtilities.Mod -text
-source/I386.Math.Mod -text
-source/I386.MathL.Mod -text
 source/I386.Oberon.Bitmaps.Mod -text
 source/I386.Reals.Mod -text
 source/I386.UsbKeyboard.Mod -text
@@ -15071,6 +15067,7 @@ source/MailStorage.Mod -text
 source/MainMenu.Mod -text
 source/MakeIsoImages.Mod -text
 source/Marble.Pict -text
+source/Math.Mod -text
 source/Math.Tool -text svneol=unset#unset
 source/Math10.Pr3.Fnt -text
 source/Math10.Pr6.Fnt -text
@@ -15098,6 +15095,7 @@ source/MathCplxSeries.Mod -text
 source/MathErf.Mod -text
 source/MathGamma.Mod -text
 source/MathInt.Mod -text
+source/MathL.Mod -text
 source/MathMitLef.Mod -text
 source/MathRandomSeed.dat -text
 source/MathRat.Mod -text
