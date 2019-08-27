@@ -16662,10 +16662,6 @@ source/XMLParser.Mod -text
 source/XMLScanner.Mod -text
 source/XMLStyle.Mod -text
 source/XMLTransformer.Mod -text
-source/XMM.AMD64.Math.Mod -text
-source/XMM.AMD64.MathL.Mod -text
-source/XMM.I386.Math.Mod -text
-source/XMM.I386.MathL.Mod -text
 source/XMas.poly -text
 source/XModem.Mod -text
 source/XYModem.Mod -text
