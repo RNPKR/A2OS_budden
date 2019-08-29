@@ -14357,8 +14357,6 @@ source/ARM.FPE64.Mod -text
 source/ARM.Initializer.Mod -text
 source/ARM.Kernel.Mod -text
 source/ARM.Machine.Mod -text
-source/ARM.Math.Mod -text
-source/ARM.MathL.Mod -text
 source/ARM.Objects.Mod -text
 source/ARM.Reals.Mod -text
 source/ARM.Traps.Mod -text
