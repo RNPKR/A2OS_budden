@@ -255,10 +255,6 @@ Linux32/bin/Array2dRat.GofU -text
 Linux32/bin/Array2dRat.SymU -text
 Linux32/bin/Array2dRe.GofU -text
 Linux32/bin/Array2dRe.SymU -text
-Linux32/bin/ArrayBase.GofU -text
-Linux32/bin/ArrayBase.SymU -text
-Linux32/bin/ArrayBaseOptimized.GofU -text
-Linux32/bin/ArrayBaseOptimized.SymU -text
 Linux32/bin/ArrayXdBytes.GofU -text
 Linux32/bin/ArrayXdBytes.SymU -text
 Linux32/bin/ArrayXdCplx.GofU -text
@@ -2227,6 +2223,8 @@ Linux32/bin/WMGrids.GofU -text
 Linux32/bin/WMGrids.SymU -text
 Linux32/bin/WMHebrewIME.GofU -text
 Linux32/bin/WMHebrewIME.SymU -text
+Linux32/bin/WMImageGrid.GofU -text
+Linux32/bin/WMImageGrid.SymU -text
 Linux32/bin/WMInputMethodTool.GofU -text
 Linux32/bin/WMInputMethodTool.SymU -text
 Linux32/bin/WMInputMethods.GofU -text
@@ -2355,6 +2353,8 @@ Linux32/bin/WMShapes.GofU -text
 Linux32/bin/WMShapes.SymU -text
 Linux32/bin/WMShell.GofU -text
 Linux32/bin/WMShell.SymU -text
+Linux32/bin/WMSimpleGraphs.GofU -text
+Linux32/bin/WMSimpleGraphs.SymU -text
 Linux32/bin/WMSkinLoader.GofU -text
 Linux32/bin/WMSkinLoader.SymU -text
 Linux32/bin/WMSlideshow.GofU -text
@@ -4472,6 +4472,8 @@ Linux64/bin/WMGrids.GofUu -text
 Linux64/bin/WMGrids.SymUu -text
 Linux64/bin/WMHebrewIME.GofUu -text
 Linux64/bin/WMHebrewIME.SymUu -text
+Linux64/bin/WMImageGrid.GofUu -text
+Linux64/bin/WMImageGrid.SymUu -text
 Linux64/bin/WMInputMethodTool.GofUu -text
 Linux64/bin/WMInputMethodTool.SymUu -text
 Linux64/bin/WMInputMethods.GofUu -text
@@ -4600,6 +4602,8 @@ Linux64/bin/WMShapes.GofUu -text
 Linux64/bin/WMShapes.SymUu -text
 Linux64/bin/WMShell.GofUu -text
 Linux64/bin/WMShell.SymUu -text
+Linux64/bin/WMSimpleGraphs.GofUu -text
+Linux64/bin/WMSimpleGraphs.SymUu -text
 Linux64/bin/WMSkinLoader.GofUu -text
 Linux64/bin/WMSkinLoader.SymUu -text
 Linux64/bin/WMSlideshow.GofUu -text
@@ -4842,10 +4846,6 @@ Win32/bin/Array2dRat.GofW -text
 Win32/bin/Array2dRat.SymW -text
 Win32/bin/Array2dRe.GofW -text
 Win32/bin/Array2dRe.SymW -text
-Win32/bin/ArrayBase.GofW -text
-Win32/bin/ArrayBase.SymW -text
-Win32/bin/ArrayBaseOptimized.GofW -text
-Win32/bin/ArrayBaseOptimized.SymW -text
 Win32/bin/ArrayXdBytes.GofW -text
 Win32/bin/ArrayXdBytes.SymW -text
 Win32/bin/ArrayXdCplx.GofW -text
@@ -7298,6 +7298,8 @@ Win32/bin/WMGrids.GofW -text
 Win32/bin/WMGrids.SymW -text
 Win32/bin/WMHebrewIME.GofW -text
 Win32/bin/WMHebrewIME.SymW -text
+Win32/bin/WMImageGrid.GofW -text
+Win32/bin/WMImageGrid.SymW -text
 Win32/bin/WMInputMethodTool.GofW -text
 Win32/bin/WMInputMethodTool.SymW -text
 Win32/bin/WMInputMethods.GofW -text
@@ -7432,6 +7434,8 @@ Win32/bin/WMShapes.GofW -text
 Win32/bin/WMShapes.SymW -text
 Win32/bin/WMShell.GofW -text
 Win32/bin/WMShell.SymW -text
+Win32/bin/WMSimpleGraphs.GofW -text
+Win32/bin/WMSimpleGraphs.SymW -text
 Win32/bin/WMSkinLoader.GofW -text
 Win32/bin/WMSkinLoader.SymW -text
 Win32/bin/WMSlideshow.GofW -text
@@ -9573,6 +9577,8 @@ Win64/bin/WMGrids.GofWw -text
 Win64/bin/WMGrids.SymWw -text
 Win64/bin/WMHebrewIME.GofWw -text
 Win64/bin/WMHebrewIME.SymWw -text
+Win64/bin/WMImageGrid.GofWw -text
+Win64/bin/WMImageGrid.SymWw -text
 Win64/bin/WMInputMethodTool.GofWw -text
 Win64/bin/WMInputMethodTool.SymWw -text
 Win64/bin/WMInputMethods.GofWw -text
@@ -9707,6 +9713,8 @@ Win64/bin/WMShapes.GofWw -text
 Win64/bin/WMShapes.SymWw -text
 Win64/bin/WMShell.GofWw -text
 Win64/bin/WMShell.SymWw -text
+Win64/bin/WMSimpleGraphs.GofWw -text
+Win64/bin/WMSimpleGraphs.SymWw -text
 Win64/bin/WMSkinLoader.GofWw -text
 Win64/bin/WMSkinLoader.SymWw -text
 Win64/bin/WMSlideshow.GofWw -text
@@ -10000,10 +10008,6 @@ WinAos/obg/Array2dRat.GofW -text
 WinAos/obg/Array2dRat.SymW -text
 WinAos/obg/Array2dRe.GofW -text
 WinAos/obg/Array2dRe.SymW -text
-WinAos/obg/ArrayBase.GofW -text
-WinAos/obg/ArrayBase.SymW -text
-WinAos/obg/ArrayBaseOptimized.GofW -text
-WinAos/obg/ArrayBaseOptimized.SymW -text
 WinAos/obg/ArrayXdBytes.GofW -text
 WinAos/obg/ArrayXdBytes.SymW -text
 WinAos/obg/ArrayXdCplx.GofW -text
@@ -12456,6 +12460,8 @@ WinAos/obg/WMGrids.GofW -text
 WinAos/obg/WMGrids.SymW -text
 WinAos/obg/WMHebrewIME.GofW -text
 WinAos/obg/WMHebrewIME.SymW -text
+WinAos/obg/WMImageGrid.GofW -text
+WinAos/obg/WMImageGrid.SymW -text
 WinAos/obg/WMInputMethodTool.GofW -text
 WinAos/obg/WMInputMethodTool.SymW -text
 WinAos/obg/WMInputMethods.GofW -text
@@ -12590,6 +12596,8 @@ WinAos/obg/WMShapes.GofW -text
 WinAos/obg/WMShapes.SymW -text
 WinAos/obg/WMShell.GofW -text
 WinAos/obg/WMShell.SymW -text
+WinAos/obg/WMSimpleGraphs.GofW -text
+WinAos/obg/WMSimpleGraphs.SymW -text
 WinAos/obg/WMSkinLoader.GofW -text
 WinAos/obg/WMSkinLoader.SymW -text
 WinAos/obg/WMSlideshow.GofW -text
