@@ -67,10 +67,10 @@ ARM/Enet/Minos.EnetStreams.Mod -text
 ARM/Enet/Zynq.EnetEmacPs7.Mod -text
 ARM/Enet/Zynq.TestEnetMT.Mod -text
 ARM/Enet/Zynq.TestEnetST.Mod -text
-ARM/Minos/Bit.Mos -text
+ARM/Minos/Bit.Mos -text svneol=unset#application/octet-stream
 ARM/Minos/CortexA9.PrivateTimer.Mos -text
 ARM/Minos/Device.Mos -text
-ARM/Minos/Disks.Mos -text
+ARM/Minos/Disks.Mos -text svneol=unset#application/octet-stream
 ARM/Minos/HAL/zynq/Generic.Board.Mos -text
 ARM/Minos/HAL/zynq/Generic.TclInit.Mos -text
 ARM/Minos/HAL/zynq/Zynq.Caches.Mos -text
@@ -84,36 +84,36 @@ ARM/Minos/HAL/zynq/Zynq.SdControllers.Mod -text
 ARM/Minos/HAL/zynq/Zynq.SdEnvironment.Mos -text
 ARM/Minos/HAL/zynq/Zynq.Uart.Loader.Mos -text
 ARM/Minos/HAL/zynq/Zynq.Uart.Mos -text
-ARM/Minos/HAL/zynq/Zynq.Uart.Task.Mos -text
+ARM/Minos/HAL/zynq/Zynq.Uart.Task.Mos -text svneol=unset#application/octet-stream
 ARM/Minos/HAL/zynq/Zynq.UartMin.Mos -text
 ARM/Minos/Heaps.Mos -text
 ARM/Minos/Kernel.Mos -text
 ARM/Minos/KernelUtils.Mos -text
 ARM/Minos/Log.Mos -text
 ARM/Minos/MemoryMapping.Mos -text
-ARM/Minos/Minos.Mos -text
+ARM/Minos/Minos.Mos -text svneol=unset#application/octet-stream
 ARM/Minos/Minos.Tool -text
 ARM/Minos/Modules.Mos -text
 ARM/Minos/OFS.Mos -text
-ARM/Minos/OFSCacheVolumes.Mos -text
-ARM/Minos/OFSDiskVolumes.Mos -text
+ARM/Minos/OFSCacheVolumes.Mos -text svneol=unset#application/octet-stream
+ARM/Minos/OFSDiskVolumes.Mos -text svneol=unset#application/octet-stream
 ARM/Minos/OFSRamVolumes.Mos -text
 ARM/Minos/OFSStreams.Mos -text
-ARM/Minos/ProcessMonitor.Mos -text
+ARM/Minos/ProcessMonitor.Mos -text svneol=unset#application/octet-stream
 ARM/Minos/Sd.Mod -text
 ARM/Minos/SdDisks.Mos -text
 ARM/Minos/SerialLog.Mos -text
-ARM/Minos/StartUp.Mos -text
+ARM/Minos/StartUp.Mos -text svneol=unset#application/octet-stream
 ARM/Minos/StreamReaders.Mos -text
 ARM/Minos/StreamWriters.Mos -text
 ARM/Minos/Strings.Mos -text
 ARM/Minos/SysUtils.Mos -text
-ARM/Minos/Tools.Mos -text
+ARM/Minos/Tools.Mos -text svneol=unset#application/octet-stream
 ARM/Minos/Trace.Mos -text
-ARM/Minos/UartConstants.Mos -text
+ARM/Minos/UartConstants.Mos -text svneol=unset#application/octet-stream
 ARM/Minos/UncachedHeaps.Mos -text
 ARM/Minos/Utils.Mos -text
-ARM/Minos/XML.Mos -text
+ARM/Minos/XML.Mos -text svneol=unset#application/octet-stream
 ARM/Minos/Zynq.ARM.Platform.Mod -text
 ARM/Minos/Zynq.Uart.Mos -text
 ARM/Minos/tests/FPE64Test.val -text
@@ -166,7 +166,7 @@ ARM/zbl/BootloaderOEBInternals.Text -text
 ARM/zbl/BootloaderRelease.Tool -text
 ARM/zbl/Bootstrap.Mos -text
 ARM/zbl/Checksum.Mos -text
-ARM/zbl/Disks.Mos -text
+ARM/zbl/Disks.Mos -text svneol=unset#application/octet-stream
 ARM/zbl/KRM.FsblInit.Mos -text
 ARM/zbl/KRM.Replacements.txt -text
 ARM/zbl/KRM.TclInit.Mos -text
@@ -176,7 +176,7 @@ ARM/zbl/MD5Checksum.Mos -text
 ARM/zbl/MemoryMapping.Mos -text
 ARM/zbl/Modules.Mos -text
 ARM/zbl/OFS.Mos -text
-ARM/zbl/OFSDiskVolumes.Mos -text
+ARM/zbl/OFSDiskVolumes.Mos -text svneol=unset#application/octet-stream
 ARM/zbl/Programmer.Mos -text
 ARM/zbl/TE0720.TclInit.Mos -text
 ARM/zbl/TE0726.Replacements.txt -text
