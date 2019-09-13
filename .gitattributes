@@ -46,6 +46,7 @@ ARM/ARM.A2/te0726.config.txt -text
 ARM/ARM.A2/ulpi-viewport.c -text
 ARM/ARM.A2/zedboard.config.txt -text
 ARM/ARM.A2/zybo.config.txt -text
+ARM/CoraZ7_07S.Tool -text
 ARM/Enet/A2.Enet.Mod -text
 ARM/Enet/ARM.A2.EnetEnvironment.Mod -text
 ARM/Enet/ARM.EnetUtils.Mod -text
@@ -166,6 +167,8 @@ ARM/zbl/BootloaderOEBInternals.Text -text
 ARM/zbl/BootloaderRelease.Tool -text
 ARM/zbl/Bootstrap.Mos -text
 ARM/zbl/Checksum.Mos -text
+ARM/zbl/CoraZ7_07S.Replacements.txt -text
+ARM/zbl/CoraZ7_07S.TclInit.Mos -text
 ARM/zbl/Disks.Mos -text svneol=unset#application/octet-stream
 ARM/zbl/KRM.FsblInit.Mos -text
 ARM/zbl/KRM.Replacements.txt -text
