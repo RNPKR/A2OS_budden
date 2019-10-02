@@ -16815,3 +16815,5 @@ tools/WinAosDebug/ressources/icon3.ico -text
 tools/WinMerge/WinMergeOberon.dll -text
 tools/WinMerge/install.txt -text
 tools/builds/a2/original -text
+tools/builds/cron.hourly/libraries -text
+tools/builds/cron.hourly/libraries.patch -text
