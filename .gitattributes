@@ -2218,6 +2218,8 @@ Linux32/bin/WMGraphicUtilities.GofU -text
 Linux32/bin/WMGraphicUtilities.SymU -text
 Linux32/bin/WMGraphics.GofU -text
 Linux32/bin/WMGraphics.SymU -text
+Linux32/bin/WMGraphicsDemo.GofU -text
+Linux32/bin/WMGraphicsDemo.SymU -text
 Linux32/bin/WMGraphicsGfx.GofU -text
 Linux32/bin/WMGraphicsGfx.SymU -text
 Linux32/bin/WMGraphicsSmooth.GofU -text
@@ -2244,6 +2246,8 @@ Linux32/bin/WMKernelLog.GofU -text
 Linux32/bin/WMKernelLog.SymU -text
 Linux32/bin/WMKeyCode.GofU -text
 Linux32/bin/WMKeyCode.SymU -text
+Linux32/bin/WMLanguageSwitcher.GofU -text
+Linux32/bin/WMLanguageSwitcher.SymU -text
 Linux32/bin/WMMacros.GofU -text
 Linux32/bin/WMMacros.SymU -text
 Linux32/bin/WMMenus.GofU -text
@@ -4467,6 +4471,8 @@ Linux64/bin/WMGraphicUtilities.GofUu -text
 Linux64/bin/WMGraphicUtilities.SymUu -text
 Linux64/bin/WMGraphics.GofUu -text
 Linux64/bin/WMGraphics.SymUu -text
+Linux64/bin/WMGraphicsDemo.GofUu -text
+Linux64/bin/WMGraphicsDemo.SymUu -text
 Linux64/bin/WMGraphicsGfx.GofUu -text
 Linux64/bin/WMGraphicsGfx.SymUu -text
 Linux64/bin/WMGraphicsSmooth.GofUu -text
@@ -4493,6 +4499,8 @@ Linux64/bin/WMKernelLog.GofUu -text
 Linux64/bin/WMKernelLog.SymUu -text
 Linux64/bin/WMKeyCode.GofUu -text
 Linux64/bin/WMKeyCode.SymUu -text
+Linux64/bin/WMLanguageSwitcher.GofUu -text
+Linux64/bin/WMLanguageSwitcher.SymUu -text
 Linux64/bin/WMMacros.GofUu -text
 Linux64/bin/WMMacros.SymUu -text
 Linux64/bin/WMMenus.GofUu -text
@@ -7293,6 +7301,8 @@ Win32/bin/WMGraphicUtilities.GofW -text
 Win32/bin/WMGraphicUtilities.SymW -text
 Win32/bin/WMGraphics.GofW -text
 Win32/bin/WMGraphics.SymW -text
+Win32/bin/WMGraphicsDemo.GofW -text
+Win32/bin/WMGraphicsDemo.SymW -text
 Win32/bin/WMGraphicsGfx.GofW -text
 Win32/bin/WMGraphicsGfx.SymW -text
 Win32/bin/WMGraphicsSmooth.GofW -text
@@ -7319,6 +7329,8 @@ Win32/bin/WMKernelLog.GofW -text
 Win32/bin/WMKernelLog.SymW -text
 Win32/bin/WMKeyCode.GofW -text
 Win32/bin/WMKeyCode.SymW -text
+Win32/bin/WMLanguageSwitcher.GofW -text
+Win32/bin/WMLanguageSwitcher.SymW -text
 Win32/bin/WMMacros.GofW -text
 Win32/bin/WMMacros.SymW -text
 Win32/bin/WMMenus.GofW -text
@@ -9572,6 +9584,8 @@ Win64/bin/WMGraphicUtilities.GofWw -text
 Win64/bin/WMGraphicUtilities.SymWw -text
 Win64/bin/WMGraphics.GofWw -text
 Win64/bin/WMGraphics.SymWw -text
+Win64/bin/WMGraphicsDemo.GofWw -text
+Win64/bin/WMGraphicsDemo.SymWw -text
 Win64/bin/WMGraphicsGfx.GofWw -text
 Win64/bin/WMGraphicsGfx.SymWw -text
 Win64/bin/WMGraphicsSmooth.GofWw -text
@@ -9598,6 +9612,8 @@ Win64/bin/WMKernelLog.GofWw -text
 Win64/bin/WMKernelLog.SymWw -text
 Win64/bin/WMKeyCode.GofWw -text
 Win64/bin/WMKeyCode.SymWw -text
+Win64/bin/WMLanguageSwitcher.GofWw -text
+Win64/bin/WMLanguageSwitcher.SymWw -text
 Win64/bin/WMMacros.GofWw -text
 Win64/bin/WMMacros.SymWw -text
 Win64/bin/WMMenus.GofWw -text
@@ -12455,6 +12471,8 @@ WinAos/obg/WMGraphicUtilities.GofW -text
 WinAos/obg/WMGraphicUtilities.SymW -text
 WinAos/obg/WMGraphics.GofW -text
 WinAos/obg/WMGraphics.SymW -text
+WinAos/obg/WMGraphicsDemo.GofW -text
+WinAos/obg/WMGraphicsDemo.SymW -text
 WinAos/obg/WMGraphicsGfx.GofW -text
 WinAos/obg/WMGraphicsGfx.SymW -text
 WinAos/obg/WMGraphicsSmooth.GofW -text
@@ -12481,6 +12499,8 @@ WinAos/obg/WMKernelLog.GofW -text
 WinAos/obg/WMKernelLog.SymW -text
 WinAos/obg/WMKeyCode.GofW -text
 WinAos/obg/WMKeyCode.SymW -text
+WinAos/obg/WMLanguageSwitcher.GofW -text
+WinAos/obg/WMLanguageSwitcher.SymW -text
 WinAos/obg/WMMacros.GofW -text
 WinAos/obg/WMMacros.SymW -text
 WinAos/obg/WMMenus.GofW -text
