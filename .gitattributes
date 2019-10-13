@@ -14883,6 +14883,7 @@ source/FoxTRMBackend.Mod -text
 source/FoxTRMInstructionSet.Mod -text
 source/FoxTRMTools.Mod -text
 source/FoxTest.Mod -text
+source/FoxTestBackend.Mod -text
 source/FoxTextualSymbolFile.Mod -text
 source/FoxTranspilerBackend.Mod -text
 source/Fractal.Pict -text
