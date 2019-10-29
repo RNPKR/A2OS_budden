@@ -726,6 +726,8 @@ Linux32/bin/FoxTRMInstructionSet.GofU -text
 Linux32/bin/FoxTRMInstructionSet.SymU -text
 Linux32/bin/FoxTest.GofU -text
 Linux32/bin/FoxTest.SymU -text
+Linux32/bin/FoxTestBackend.GofU -text
+Linux32/bin/FoxTestBackend.SymU -text
 Linux32/bin/FoxTextualSymbolFile.GofU -text
 Linux32/bin/FoxTextualSymbolFile.SymU -text
 Linux32/bin/FoxTranspilerBackend.GofU -text
@@ -3017,6 +3019,8 @@ Linux64/bin/FoxTRMInstructionSet.GofUu -text
 Linux64/bin/FoxTRMInstructionSet.SymUu -text
 Linux64/bin/FoxTest.GofUu -text
 Linux64/bin/FoxTest.SymUu -text
+Linux64/bin/FoxTestBackend.GofUu -text
+Linux64/bin/FoxTestBackend.SymUu -text
 Linux64/bin/FoxTextualSymbolFile.GofUu -text
 Linux64/bin/FoxTextualSymbolFile.SymUu -text
 Linux64/bin/FoxTranspilerBackend.GofUu -text
@@ -5325,6 +5329,8 @@ Win32/bin/FoxTRMInstructionSet.GofW -text
 Win32/bin/FoxTRMInstructionSet.SymW -text
 Win32/bin/FoxTest.GofW -text
 Win32/bin/FoxTest.SymW -text
+Win32/bin/FoxTestBackend.GofW -text
+Win32/bin/FoxTestBackend.SymW -text
 Win32/bin/FoxTextualSymbolFile.GofW -text
 Win32/bin/FoxTextualSymbolFile.SymW -text
 Win32/bin/FoxTranspilerBackend.GofW -text
@@ -8118,6 +8124,8 @@ Win64/bin/FoxTRMInstructionSet.GofWw -text
 Win64/bin/FoxTRMInstructionSet.SymWw -text
 Win64/bin/FoxTest.GofWw -text
 Win64/bin/FoxTest.SymWw -text
+Win64/bin/FoxTestBackend.GofWw -text
+Win64/bin/FoxTestBackend.SymWw -text
 Win64/bin/FoxTextualSymbolFile.GofWw -text
 Win64/bin/FoxTextualSymbolFile.SymWw -text
 Win64/bin/FoxTranspilerBackend.GofWw -text
@@ -10495,6 +10503,8 @@ WinAos/obg/FoxTRMInstructionSet.GofW -text
 WinAos/obg/FoxTRMInstructionSet.SymW -text
 WinAos/obg/FoxTest.GofW -text
 WinAos/obg/FoxTest.SymW -text
+WinAos/obg/FoxTestBackend.GofW -text
+WinAos/obg/FoxTestBackend.SymW -text
 WinAos/obg/FoxTextualSymbolFile.GofW -text
 WinAos/obg/FoxTextualSymbolFile.SymW -text
 WinAos/obg/FoxTranspilerBackend.GofW -text
