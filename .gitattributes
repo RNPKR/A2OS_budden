@@ -14493,6 +14493,7 @@ source/BIOS.Oberon.Diskettes.Mod -text
 source/BIOS.Oberon.Snapshot.Mod -text
 source/BIOS.Objects.Mod -text
 source/BIOS.PCI.Mod -text
+source/BIOS.StdIO.Mod -text
 source/BIOS.SymbiosASPI.Mod -text
 source/BIOS.UsbEhciPCI.Mod -text
 source/BIOS.UsbOhci.Mod -text
