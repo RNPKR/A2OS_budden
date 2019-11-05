@@ -14455,7 +14455,6 @@ source/Array2dCplx.Mod -text
 source/Array2dInt.Mod -text
 source/Array2dRat.Mod -text
 source/Array2dRe.Mod -text
-source/ArrayBase.Mod -text
 source/ArrayXdCplx.Mod -text
 source/ArrayXdInt.Mod -text
 source/ArrayXdRat.Mod -text
@@ -14975,7 +14974,6 @@ source/HyperDocs.Tool -text svneol=unset#unset
 source/HyperLinks.Panel -text
 source/I386.APIC.Mod -text
 source/I386.Array1dBytes.Mod -text
-source/I386.ArrayBaseOptimized.Mod -text
 source/I386.ArrayXdBytes.Mod -text
 source/I386.Builtins.Mod -text
 source/I386.DivXDecoder.Mod -text
