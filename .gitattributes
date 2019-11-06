@@ -14980,7 +14980,6 @@ source/I386.DivXDecoder.Mod -text
 source/I386.DivXHelper.Mod -text
 source/I386.EFIMachine.Mod -text
 source/I386.FoxArrayBaseOptimized.Mod -text
-source/I386.IDCT.Mod -text
 source/I386.MPEGUtilities.Mod -text
 source/I386.Oberon.Bitmaps.Mod -text
 source/I386.Reals.Mod -text
@@ -15005,6 +15004,7 @@ source/IBMPlexSerif_bd.ttf -text
 source/IBMPlexSerif_bi.ttf -text
 source/IBMPlexSerif_i.ttf -text
 source/ICMP.Mod -text
+source/IDCT.Mod -text
 source/IFS.Tool -text svneol=unset#unset
 source/IMAP.Mod -text
 source/IMAPClient.Mod -text
