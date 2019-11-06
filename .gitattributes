@@ -14978,8 +14978,6 @@ source/I386.APIC.Mod -text
 source/I386.Array1dBytes.Mod -text
 source/I386.ArrayXdBytes.Mod -text
 source/I386.Builtins.Mod -text
-source/I386.DivXDecoder.Mod -text
-source/I386.DivXHelper.Mod -text
 source/I386.EFIMachine.Mod -text
 source/I386.FoxArrayBaseOptimized.Mod -text
 source/I386.Oberon.Bitmaps.Mod -text
