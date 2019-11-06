@@ -14980,7 +14980,6 @@ source/I386.DivXDecoder.Mod -text
 source/I386.DivXHelper.Mod -text
 source/I386.EFIMachine.Mod -text
 source/I386.FoxArrayBaseOptimized.Mod -text
-source/I386.MPEGUtilities.Mod -text
 source/I386.Oberon.Bitmaps.Mod -text
 source/I386.Reals.Mod -text
 source/I386.UsbKeyboard.Mod -text
@@ -15100,6 +15099,7 @@ source/MP3Decoder.Mod -text
 source/MP3Huffman.Bin -text
 source/MP3Player.Mod -text
 source/MPEGTables.Mod -text
+source/MPEGUtilities.Mod -text
 source/MPEGVideoDecoder.Mod -text
 source/Macros.XML -text
 source/Mail.Mod -text
