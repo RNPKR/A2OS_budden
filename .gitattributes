@@ -14755,6 +14755,8 @@ source/DisplayGTF.Mod -text
 source/DisplayNull.Mod -text
 source/Displays.Mod -text
 source/Distance.Shape -text
+source/DivXDecoder.Mod -text
+source/DivXHelper.Mod -text
 source/DivXTypes.Mod -text
 source/Documentation.Tool -text svneol=unset#unset
 source/Documents.Panel -text
