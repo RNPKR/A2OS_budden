@@ -16015,6 +16015,7 @@ source/PrettyPrint.Mod -text
 source/PrettyPrintHighlighter.XML -text
 source/PrevalenceSystem.Mod -text
 source/Printers.Tool -text svneol=unset#unset
+source/ProcedureInterfaces.Mod -text
 source/ProcessInfo.Mod -text
 source/ProcessInfo0.Mod -text
 source/Profiler.Mod -text
