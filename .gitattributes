@@ -14431,7 +14431,6 @@ source/ActiveCellsRunner.mod -text
 source/ActiveCellsRuntime.mod -text
 source/ActiveTimers.Mod -text
 source/Activities.Mod -text
-source/AdaptiveHuffman.Mod -text
 source/AlmSmtpReceiver.Atg -text
 source/AlmSmtpReceiver.Guide.Text -text svneol=unset#unset
 source/AlmSmtpReceiver.Mod -text
@@ -14555,7 +14554,6 @@ source/BootManager.Text -text svneol=unset#unset
 source/BootManager.Tool -text svneol=unset#unset
 source/BootManagerMBR.Bin -text
 source/BootManagerTail.Bin -text
-source/BorrowsWheeler.Mod -text
 source/Bows.Pict -text
 source/Bricks.Pict -text
 source/Build.Tool -text
@@ -14970,7 +14968,6 @@ source/HostClipboard.Mod -text
 source/HotKeys.Mod -text
 source/HotKeys.XML -text
 source/HotKeysCommands.Mod -text
-source/Huffman.Mod -text
 source/HyperDocs.Panel -text
 source/HyperDocs.Tool -text svneol=unset#unset
 source/HyperLinks.Panel -text
@@ -15222,8 +15219,6 @@ source/OSCService.Mod -text
 source/OT_TT_Install_E.txt -text
 source/OT_TT_Install_R.txt -text
 source/OType.Text -text svneol=unset#unset
-source/OZip.Mod -text
-source/OZip2.Mod -text
 source/Oberon.ASCIITab.Mod -text
 source/Oberon.Aos.Mod -text
 source/Oberon.AsciiCoder.Mod -text
