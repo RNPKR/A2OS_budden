@@ -14686,6 +14686,7 @@ source/CryptoRSA.Mod -text
 source/CryptoSHA1.Mod -text
 source/CryptoSHA256.Mod -text
 source/CryptoSHA3.Mod -text
+source/CryptoStreams.Mod -text
 source/CryptoTestBigNumbers.Mod -text
 source/CryptoTestCiphers.Mod -text
 source/CryptoTestDH.Mod -text
