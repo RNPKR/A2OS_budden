@@ -15935,6 +15935,7 @@ source/Oberon.OpenDemo.Mod -text
 source/Oberon.OpenDemo2.Mod -text
 source/Oberon.Organizers.Mod -text
 source/Oberon.Out.Mod -text
+source/Oberon.OutStub.Mod -text
 source/Oberon.Outlines.Mod -text
 source/Oberon.PC.Mod -text
 source/Oberon.PCARMDecoder.Mod -text
