@@ -216,6 +216,7 @@ AosVM/AosVM.vmdk -text
 AosVM/AosVMDisk2.vmdk -text
 AosVM/AosVMDisk3.vmdk -text
 AosVM/GenerateVMImages.Text -text
+LanguageReport/OberonLanguageReport[!!-~](Russian[!!-~]translation).md -text svneol=unset#application/octet-stream
 LanguageReport/OberonLanguageReport.pdf -text
 LanguageReport/OberonLanguageReport.tex -text
 Linux32/bin/A2Sequencers.GofU -text
