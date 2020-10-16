@@ -14489,7 +14489,6 @@ ocp/Matrix/PlanarTransform.Mod -text
 ocp/Matrix/PlanarWavelets.Mod -text
 ocp/Matrix/SchistosomaPDE.Mod -text
 ocp/Matrix/StatisticsBase.Mod -text
-ocp/Matrix/StatisticsBase.Mod.Bak -text
 ocp/Matrix/StatisticsCombinatorics.Mod -text
 ocp/Matrix/StatisticsFunctions.Mod -text
 ocp/Matrix/StatisticsHistograms.Mod -text
