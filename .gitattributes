@@ -16630,6 +16630,7 @@ source/StartConsole.Mod -text
 source/StartMenu.Mod -text
 source/StartMenu.rep -text
 source/StdIOShell.Mod -text
+source/Stopwatch.Mod -text
 source/StreamUtilities.Mod -text
 source/Streams.Mod -text
 source/StringPool.Mod -text
