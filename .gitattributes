@@ -16770,6 +16770,7 @@ source/TestLocks.Mod -text
 source/TestMenu.Mod -text
 source/TestOrganizer.Panel -text
 source/TestServer.Mod -text
+source/TestStopwatch.Mod -text
 source/TestStrings.Mod -text
 source/TestSuite.Mod -text
 source/TestTLS.Mod -text
