@@ -14852,6 +14852,7 @@ ocp/sr/tracer/srVoxel.Mod -text
 ocp/sr/tracer/srVoxel2.Mod -text
 ocp/sr/tracer/srVoxel3.Mod -text
 ocp/sr/tracer/srVoxel4.Mod -text
+source/A2.ico -text
 source/A2Sequencers.Mod -text
 source/ACPI.Timer.Mod -text
 source/AFM.Mod -text
@@ -17116,7 +17117,9 @@ source/Windows.ADVAPI32.Mod -text
 source/Windows.Beep.Mod -text
 source/Windows.Build.Tool -text svneol=unset#unset
 source/Windows.BuildMini32.Tool -text
+source/Windows.BuildMini32.iss -text
 source/Windows.BuildMini64.Tool -text
+source/Windows.BuildMini64.iss -text
 source/Windows.Clipboard.Mod -text
 source/Windows.Clock.Mod -text
 source/Windows.CommandLine.Mod -text
