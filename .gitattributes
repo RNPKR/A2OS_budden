@@ -16551,9 +16551,12 @@ source/SSH.Configuration.Text -text svneol=unset#unset
 source/SSH.Mod -text
 source/SSH.Tool -text svneol=unset#unset
 source/SSHAuthorize.Mod -text
+source/SSHChannels.Mod -text
 source/SSHClient.Mod -text
 source/SSHGlobals.Mod -text
 source/SSHKeys.Mod -text
+source/SSHPackets.Mod -text
+source/SSHTerminal.Mod -text
 source/SSHTransport.Mod -text
 source/SVG.Mod -text
 source/SVGColors.Mod -text
