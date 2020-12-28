@@ -16547,7 +16547,7 @@ source/Runtime.Mod -text
 source/SCSI.Mod -text
 source/SMTPClient.Mod -text
 source/SSFS.Mod -text
-source/SSH.Configuration.Text -text svneol=unset#unset
+source/SSH.Configuration.Text -text
 source/SSH.Mod -text
 source/SSH.Tool -text svneol=unset#unset
 source/SSHAuthorize.Mod -text
