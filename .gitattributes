@@ -4811,6 +4811,17 @@ Linux64/bin/srVoxel5.SymUu -text
 Linux64/bin/srvoxels.GofUu -text
 Linux64/bin/srvoxels.SymUu -text
 Linux64/oberon -text
+UnixAos/DarwinA2[!!-~]Installer/A2[!!-~]64.app/Contents/Info.plist -text
+UnixAos/DarwinA2[!!-~]Installer/A2[!!-~]64.app/Contents/MacOS/Application[!!-~]Stub -text
+UnixAos/DarwinA2[!!-~]Installer/A2[!!-~]64.app/Contents/Resources/AutomatorApplet.icns -text
+UnixAos/DarwinA2[!!-~]Installer/A2[!!-~]64.app/Contents/document.wflow -text
+UnixAos/DarwinA2[!!-~]Installer/A2[!!-~]64.app/Icon -text
+UnixAos/DarwinA2[!!-~]Installer/A2[!!-~]64.pkgproj -text
+UnixAos/DarwinA2[!!-~]Installer/A2[!!-~]64/Put[!!-~]unpacked[!!-~]content[!!-~]here.txt -text
+UnixAos/DarwinA2[!!-~]Installer/Output/Version.txt -text
+UnixAos/DarwinA2[!!-~]Installer/ReadMeFirst!.txt -text
+UnixAos/DarwinA2[!!-~]Installer/a2_64_post-install.sh -text
+UnixAos/DarwinA2[!!-~]Installer/license.txt -text
 UnixAos/boot/Makefile -text
 UnixAos/boot/OberonLoader.c -text
 UnixAos/buildtools/Darwin.AMD64.Tool -text
