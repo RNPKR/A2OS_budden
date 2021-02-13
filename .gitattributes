@@ -4849,8 +4849,6 @@ Win32/bin/AVI.GofW -text
 Win32/bin/AVI.SymW -text
 Win32/bin/ActiveTimers.GofW -text
 Win32/bin/ActiveTimers.SymW -text
-Win32/bin/AdaptiveHuffman.GofW -text
-Win32/bin/AdaptiveHuffman.SymW -text
 Win32/bin/AlmSmtpReceiver.GofW -text
 Win32/bin/AlmSmtpReceiver.SymW -text
 Win32/bin/AnimationCodec.GofW -text
@@ -4893,6 +4891,8 @@ Win32/bin/BIT.GofW -text
 Win32/bin/BIT.SymW -text
 Win32/bin/BMPCodec.GofW -text
 Win32/bin/BMPCodec.SymW -text
+Win32/bin/BWHCompressor.GofW -text
+Win32/bin/BWHCompressor.SymW -text
 Win32/bin/Base64.GofW -text
 Win32/bin/Base64.SymW -text
 Win32/bin/Beep.GofW -text
@@ -4917,12 +4917,12 @@ Win32/bin/BinToCode.GofW -text
 Win32/bin/BinToCode.SymW -text
 Win32/bin/BitSets.GofW -text
 Win32/bin/BitSets.SymW -text
+Win32/bin/BitStreams.GofW -text
+Win32/bin/BitStreams.SymW -text
 Win32/bin/BootConsole.GofW -text
 Win32/bin/BootConsole.SymW -text
 Win32/bin/BootManager.GofW -text
 Win32/bin/BootManager.SymW -text
-Win32/bin/BorrowsWheeler.GofW -text
-Win32/bin/BorrowsWheeler.SymW -text
 Win32/bin/Builtins.GofW -text
 Win32/bin/Builtins.SymW -text
 Win32/bin/CATServer.GofW -text
@@ -4979,6 +4979,7 @@ Win32/bin/CommandLine.GofW -text
 Win32/bin/CommandLine.SymW -text
 Win32/bin/Commands.GofW -text
 Win32/bin/Commands.SymW -text
+Win32/bin/CompileCommand.Tool -text
 Win32/bin/Compiler.GofW -text
 Win32/bin/Compiler.SymW -text
 Win32/bin/CompilerInterface.GofW -text
@@ -5039,6 +5040,8 @@ Win32/bin/CryptoSHA256.GofW -text
 Win32/bin/CryptoSHA256.SymW -text
 Win32/bin/CryptoSHA3.GofW -text
 Win32/bin/CryptoSHA3.SymW -text
+Win32/bin/CryptoStreams.GofW -text
+Win32/bin/CryptoStreams.SymW -text
 Win32/bin/CryptoTestBigNumbers.GofW -text
 Win32/bin/CryptoTestBigNumbers.SymW -text
 Win32/bin/CryptoTestCiphers.GofW -text
@@ -5355,6 +5358,7 @@ Win32/bin/GIFCodec.GofW -text
 Win32/bin/GIFCodec.SymW -text
 Win32/bin/GZip.GofW -text
 Win32/bin/GZip.SymW -text
+Win32/bin/GenericCollections.SymW -text
 Win32/bin/GenericLinker.GofW -text
 Win32/bin/GenericLinker.SymW -text
 Win32/bin/GenericSort.GofW -text
@@ -5415,8 +5419,6 @@ Win32/bin/HotKeys.GofW -text
 Win32/bin/HotKeys.SymW -text
 Win32/bin/HotKeysCommands.GofW -text
 Win32/bin/HotKeysCommands.SymW -text
-Win32/bin/Huffman.GofW -text
-Win32/bin/Huffman.SymW -text
 Win32/bin/I386Decoder.GofW -text
 Win32/bin/I386Decoder.SymW -text
 Win32/bin/IDCT.GofW -text
@@ -5553,6 +5555,8 @@ Win32/bin/ModuleTrees.GofW -text
 Win32/bin/ModuleTrees.SymW -text
 Win32/bin/Modules.GofW -text
 Win32/bin/Modules.SymW -text
+Win32/bin/MoveToFront.GofW -text
+Win32/bin/MoveToFront.SymW -text
 Win32/bin/MtxCplx.GofW -text
 Win32/bin/MtxCplx.SymW -text
 Win32/bin/MtxInt.GofW -text
@@ -5589,6 +5593,8 @@ Win32/bin/Network.GofW -text
 Win32/bin/Network.SymW -text
 Win32/bin/NewHTTPClient.GofW -text
 Win32/bin/NewHTTPClient.SymW -text
+Win32/bin/NextPrime.GofW -text
+Win32/bin/NextPrime.SymW -text
 Win32/bin/Notepad.GofW -text
 Win32/bin/Notepad.SymW -text
 Win32/bin/ODBC.GofW -text
@@ -5597,10 +5603,8 @@ Win32/bin/OGGUtilities.GofW -text
 Win32/bin/OGGUtilities.SymW -text
 Win32/bin/OGGVorbisPlayer.GofW -text
 Win32/bin/OGGVorbisPlayer.SymW -text
-Win32/bin/OZip.GofW -text
-Win32/bin/OZip.SymW -text
-Win32/bin/OZip2.GofW -text
-Win32/bin/OZip2.SymW -text
+Win32/bin/OZip3.GofW -text
+Win32/bin/OZip3.SymW -text
 Win32/bin/Oberon-ASCIITab.GofW -text
 Win32/bin/Oberon-ASCIITab.SymW -text
 Win32/bin/Oberon-Aos.GofW -text
@@ -6049,6 +6053,8 @@ Win32/bin/Oberon-Organizers.GofW -text
 Win32/bin/Oberon-Organizers.SymW -text
 Win32/bin/Oberon-Out.GofW -text
 Win32/bin/Oberon-Out.SymW -text
+Win32/bin/Oberon-OutStub.GofW -text
+Win32/bin/Oberon-OutStub.SymW -text
 Win32/bin/Oberon-Outlines.GofW -text
 Win32/bin/Oberon-Outlines.SymW -text
 Win32/bin/Oberon-PC.GofW -text
@@ -6985,12 +6991,16 @@ Win32/bin/SSH.GofW -text
 Win32/bin/SSH.SymW -text
 Win32/bin/SSHAuthorize.GofW -text
 Win32/bin/SSHAuthorize.SymW -text
-Win32/bin/SSHClient.GofW -text
-Win32/bin/SSHClient.SymW -text
+Win32/bin/SSHChannels.GofW -text
+Win32/bin/SSHChannels.SymW -text
 Win32/bin/SSHGlobals.GofW -text
 Win32/bin/SSHGlobals.SymW -text
 Win32/bin/SSHKeys.GofW -text
 Win32/bin/SSHKeys.SymW -text
+Win32/bin/SSHPackets.GofW -text
+Win32/bin/SSHPackets.SymW -text
+Win32/bin/SSHTerminal.GofW -text
+Win32/bin/SSHTerminal.SymW -text
 Win32/bin/SSHTransport.GofW -text
 Win32/bin/SSHTransport.SymW -text
 Win32/bin/SVG.GofW -text
@@ -7041,6 +7051,8 @@ Win32/bin/ShellCommands.GofW -text
 Win32/bin/ShellCommands.SymW -text
 Win32/bin/ShellSerial.GofW -text
 Win32/bin/ShellSerial.SymW -text
+Win32/bin/ShowGrid.GofW -text
+Win32/bin/ShowGrid.SymW -text
 Win32/bin/SkinEditor.GofW -text
 Win32/bin/SkinEditor.SymW -text
 Win32/bin/SkinEngine.GofW -text
@@ -7059,6 +7071,8 @@ Win32/bin/StdIO.GofW -text
 Win32/bin/StdIO.SymW -text
 Win32/bin/StdIOShell.GofW -text
 Win32/bin/StdIOShell.SymW -text
+Win32/bin/Stopwatch.GofW -text
+Win32/bin/Stopwatch.SymW -text
 Win32/bin/StreamUtilities.GofW -text
 Win32/bin/StreamUtilities.SymW -text
 Win32/bin/Streams.GofW -text
