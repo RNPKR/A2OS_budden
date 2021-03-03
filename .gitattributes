@@ -156,7 +156,6 @@ ARM/USB/qemu.bat -text
 ARM/Zedboard.Tool -text
 ARM/Zedboard.bootconfig.txt -text
 ARM/Zybo.Tool -text
-ARM/Zybo.bootconfig.txt -text
 ARM/zbl/A2ConfigProgrammer.Mos -text
 ARM/zbl/Boot.Mos -text
 ARM/zbl/Bootloader.Mos -text
@@ -190,7 +189,6 @@ ARM/zbl/XModemLoader.Mos -text
 ARM/zbl/Zedboard.Replacements.txt -text
 ARM/zbl/Zedboard.TclInit.Mos -text
 ARM/zbl/Zybo.FsblInit.Mos -text
-ARM/zbl/Zybo.Replacements.txt -text
 ARM/zbl/Zybo.TclInit.Mos -text
 ARM/zbl/Zynq.Board.Mos -text
 ARM/zbl/Zynq.PsUartInterrupts.Mos -text
