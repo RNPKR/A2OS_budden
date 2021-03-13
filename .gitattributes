@@ -14591,6 +14591,7 @@ ocp/Matrix/StatisticsLinearRegression.Mod -text
 ocp/Matrix/StatisticsRandom.Mod -text
 ocp/Matrix/StatisticsRobustRegression.Mod -text
 ocp/Matrix/TensorFovea.Mod -text
+ocp/Matrix/TensorFoveaOpticalFlow.Mod -text
 ocp/Matrix/TensorMath.Mod -text
 ocp/Matrix/TestComplexMathL.Mod -text
 ocp/Matrix/TestDataImage.Mod -text
