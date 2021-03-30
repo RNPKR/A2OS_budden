@@ -14615,7 +14615,6 @@ ocp/Matrix/VolumePDE.Mod -text
 ocp/Matrix/VolumePDE_ConstrainedLaplace.MtA -text
 ocp/Matrix/VolumeTransform.Mod -text
 ocp/Matrix/WMArrayPanel.Mod -text
-ocp/Matrix/WMArrayPanel.Mod.Bak -text
 ocp/Matrix/WMMatrix.Mod -text
 ocp/Matrix/WMMatrixComponents.rep -text
 ocp/Matrix/WMMatrixGraph.Mod -text
