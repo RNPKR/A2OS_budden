@@ -16612,6 +16612,7 @@ source/Rainbow.jp2 -text
 source/Random.Mod -text
 source/Raster.Mod -text
 source/RasterPixelFormats.Mod -text
+source/RealConversions.Execution.Test -text
 source/RealConversions.Mod -text
 source/Reboot.Mod -text
 source/Rect2.Shape -text
