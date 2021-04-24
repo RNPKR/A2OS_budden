@@ -15248,6 +15248,7 @@ source/CryptoFortuna.Execution.Test -text
 source/CryptoFortuna.Mod -text
 source/CryptoFortunaRng.Mod -text
 source/CryptoHMAC.Mod -text
+source/CryptoHashes.Execution.Test -text
 source/CryptoHashes.Mod -text
 source/CryptoIDEA.Mod -text
 source/CryptoKeccakF1600.Mod -text
