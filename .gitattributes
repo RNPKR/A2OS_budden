@@ -14814,6 +14814,13 @@ ocp/V4L2/Unix.V4L2.Mod -text
 ocp/V4L2/Unix.VideoExample.Mod -text
 ocp/V4L2/Unix.libv4l2.Mod -text
 ocp/V4L2/V4L2.Tool -text
+ocp/VolumeRaytracer/Colors.Mod -text
+ocp/VolumeRaytracer/HomogenousVectors.Mod -text
+ocp/VolumeRaytracer/Inline.SSE3.Colors.Mod -text
+ocp/VolumeRaytracer/Inline.SSE3.HomogenousVectors.Mod -text
+ocp/VolumeRaytracer/RaytracerExample.bmp -text
+ocp/VolumeRaytracer/Rubik.Mod -text
+ocp/VolumeRaytracer/VolumeRaytracer.Mod -text
 ocp/Work/Bindings/BASS/BASS.Text -text
 ocp/Work/Bindings/BASS/Darwin.BASS.Mod -text
 ocp/Work/Bindings/BASS/Unix.BASS.Mod -text
