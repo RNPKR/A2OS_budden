@@ -14614,7 +14614,6 @@ ocp/Matrix/VolumeNabla.Mod -text
 ocp/Matrix/VolumeNavierStokes.Mod -text
 ocp/Matrix/VolumePDE.Mod -text
 ocp/Matrix/VolumePDE_ConstrainedLaplace.MtA -text
-ocp/Matrix/VolumeRaytracer.Mod -text
 ocp/Matrix/VolumeTransform.Mod -text
 ocp/Matrix/WMArrayPanel.Mod -text
 ocp/Matrix/WMMatrix.Mod -text
