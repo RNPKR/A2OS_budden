@@ -5059,6 +5059,10 @@ Win32/bin/CryptoDSA.GofW -text
 Win32/bin/CryptoDSA.SymW -text
 Win32/bin/CryptoDiffieHellman.GofW -text
 Win32/bin/CryptoDiffieHellman.SymW -text
+Win32/bin/CryptoFortuna.GofW -text
+Win32/bin/CryptoFortuna.SymW -text
+Win32/bin/CryptoFortunaRng.GofW -text
+Win32/bin/CryptoFortunaRng.SymW -text
 Win32/bin/CryptoHMAC.GofW -text
 Win32/bin/CryptoHMAC.SymW -text
 Win32/bin/CryptoHashes.GofW -text
@@ -5500,6 +5504,8 @@ Win32/bin/JPEG2000DecoderUtil.GofW -text
 Win32/bin/JPEG2000DecoderUtil.SymW -text
 Win32/bin/JPEGDecoder.GofW -text
 Win32/bin/JPEGDecoder.SymW -text
+Win32/bin/JPEGEncoder.GofW -text
+Win32/bin/JPEGEncoder.SymW -text
 Win32/bin/JavaLocks.GofW -text
 Win32/bin/JavaLocks.SymW -text
 Win32/bin/Joysticks.GofW -text
@@ -7614,6 +7620,8 @@ Win32/bin/WebHTTPTools.GofW -text
 Win32/bin/WebHTTPTools.SymW -text
 Win32/bin/WebSSMPPlugin.GofW -text
 Win32/bin/WebSSMPPlugin.SymW -text
+Win32/bin/WebSockets.GofW -text
+Win32/bin/WebSockets.SymW -text
 Win32/bin/WebStd.GofW -text
 Win32/bin/WebStd.SymW -text
 Win32/bin/WhitespaceRemover.GofW -text
