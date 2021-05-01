@@ -15616,10 +15616,12 @@ source/InterpreterShell.Mod -text
 source/Interrupts.Mod -text
 source/IntroToGadgets.Text -text svneol=unset#unset
 source/IsoImages.Mod -text
+source/JPEG.Execution.Test -text
 source/JPEG2000Decoder.Mod -text
 source/JPEG2000DecoderCS.Mod -text
 source/JPEG2000DecoderUtil.Mod -text
 source/JPEGDecoder.Mod -text
+source/JPEGEncoder.Mod -text
 source/JavaLocks.Mod -text
 source/Joysticks.Mod -text
 source/JoysticksTest.Mod -text
