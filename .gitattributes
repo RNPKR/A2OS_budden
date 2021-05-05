@@ -14585,6 +14585,7 @@ ocp/Matrix/MatrixUtilities.Mod -text
 ocp/Matrix/MatrixWarp.Mod -text
 ocp/Matrix/ModuleTesting.Mod -text
 ocp/Matrix/ModuleTestingSym.Mod -text
+ocp/Matrix/PGeo.Mod -text
 ocp/Matrix/PMath.Mod -text
 ocp/Matrix/PMathSSE.Mod -text
 ocp/Matrix/PlanarBase.Mod -text
