@@ -2723,6 +2723,8 @@ Linux64/bin/CryptoDSA.GofUu -text
 Linux64/bin/CryptoDSA.SymUu -text
 Linux64/bin/CryptoDiffieHellman.GofUu -text
 Linux64/bin/CryptoDiffieHellman.SymUu -text
+Linux64/bin/CryptoFortuna.GofUu -text
+Linux64/bin/CryptoFortunaRng.GofUu -text
 Linux64/bin/CryptoHMAC.GofUu -text
 Linux64/bin/CryptoHMAC.SymUu -text
 Linux64/bin/CryptoHashes.GofUu -text
@@ -3148,6 +3150,7 @@ Linux64/bin/JPEG2000DecoderUtil.GofUu -text
 Linux64/bin/JPEG2000DecoderUtil.SymUu -text
 Linux64/bin/JPEGDecoder.GofUu -text
 Linux64/bin/JPEGDecoder.SymUu -text
+Linux64/bin/JPEGEncoder.GofUu -text
 Linux64/bin/JavaLocks.GofUu -text
 Linux64/bin/JavaLocks.SymUu -text
 Linux64/bin/Joysticks.GofUu -text
@@ -4746,6 +4749,7 @@ Linux64/bin/WebHTTPTools.GofUu -text
 Linux64/bin/WebHTTPTools.SymUu -text
 Linux64/bin/WebSSMPPlugin.GofUu -text
 Linux64/bin/WebSSMPPlugin.SymUu -text
+Linux64/bin/WebSockets.GofUu -text
 Linux64/bin/WebStd.GofUu -text
 Linux64/bin/WebStd.SymUu -text
 Linux64/bin/WhitespaceRemover.GofUu -text
