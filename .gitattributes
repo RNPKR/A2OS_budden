@@ -15680,6 +15680,19 @@ source/Leonardo.Fig -text
 source/Leonardo.Lib -text
 source/Leonardo.Panel -text
 source/Leonardo.Text -text svneol=unset#unset
+source/LiberationFontsLicense.txt -text
+source/LiberationMono.ttf -text
+source/LiberationMono_bd.ttf -text
+source/LiberationMono_bi.ttf -text
+source/LiberationMono_i.ttf -text
+source/LiberationSans.ttf -text
+source/LiberationSans_bd.ttf -text
+source/LiberationSans_bi.ttf -text
+source/LiberationSans_i.ttf -text
+source/LiberationSerif.ttf -text
+source/LiberationSerif_bd.ttf -text
+source/LiberationSerif_bi.ttf -text
+source/LiberationSerif_i.ttf -text
 source/Libraries.Panel -text
 source/License.Text -text svneol=unset#unset
 source/Light.Pal -text
