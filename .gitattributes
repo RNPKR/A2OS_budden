@@ -14593,6 +14593,7 @@ ocp/Matrix/PMath.Mod -text
 ocp/Matrix/PMathSSE.Mod -text
 ocp/Matrix/PlanarBase.Mod -text
 ocp/Matrix/PlanarBlobDetectors.Mod -text
+ocp/Matrix/PlanarCurves.Mod -text
 ocp/Matrix/PlanarEdgeDetectors.Mod -text
 ocp/Matrix/PlanarFFT.Mod -text
 ocp/Matrix/PlanarMath.Mod -text
