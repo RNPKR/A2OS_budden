@@ -14518,7 +14518,7 @@ ocp/FreeImage/license-gplv3.txt -text
 ocp/Generics/G.Mod -text
 ocp/Generics/GenericsUse.Mod -text
 ocp/Matrix/AVIEncoder.Mod -text
-ocp/Matrix/ArrayRotations.Mod -text
+ocp/Matrix/ArrayRotations.Mod -text svneol=unset#application/octet-stream
 ocp/Matrix/ComplexMathL.Mod -text
 ocp/Matrix/ErrorBase.Mod -text
 ocp/Matrix/ExtraSort.Mod -text
